@@ -1,0 +1,1753 @@
+Mythras:  Skills
+
+— — 
+|( I R i KI T S (LR SO QR <N B o B LB | 2 < B < e 
+
+Skills
+— — 
+
+= i X o5 o3 oKk moWo > 
+Yy m il S (LR SO QR <N B o B LB | 2 < B < e 
+
+f characteristics and attributes define what a character is like, 
+
+I CRrIiTtIicCaALlSs aAnNDd FuUMmBbLlEeSs 
+] skills define what he can do. As explored in the previous chap- 
+
+Criticals and Fumbles represent spectacular successes and cata- 
+ters, all characters have a diverse set of skills drawn from their 
+
+strophic failures; those cases where a character has either excelled in 
+vocation and cultural backgrounds. This chapter explains how skills 
+
+his attempt or failed miserably and utterly. 
+work, and provides greater definition for each skill used in MYTHRAS. 
+
+Skills are divided into two categories: Standard and Professional. & A Critical success is equal to one-tenth of the skill’s value (and 
+Every character has the same set of Standard Skills. Professional this includes skills that receive a modifier — so modified skills 
+Skills differ between individual characters and reflect expertise may have a greater or lesser chance of a Ciritical outcome). 
+developed within a career and, to a certain extent, their culture. Round fractions up when calculating a Critical success’s 
+Despite these distinctions, Standard and Professional Skills work in range. For example, if a skill is modified to twice its normal 
+the same way. value — from 40% to 80% say, then its critical range would be 
+
+This chapter looks, first of all, at the basics of how skills work. a roll of 08 or less. 
+Then the skills, Standard and Professional, are described. The chap- « A Fumble is roll of 99 or 00. Skills with a value of more than 
+ter then concludes with some additional rules for how to handle skills 100% fumble only on a roll of 00. 
+in different ways, and under different circumstances. 
+
+The precise nature of a Critical or Fumble result is left to the 
+Games Master to determine. The consequences could be wondrous 
+
+How Sk or dire, depending on the circumstances. However, some examples 
+iiLlLls WOoRrKk of Ciritical and Fumble outcomes for each skill MYTHRAS uses are 
+
+A skill has a base value based on two characteristics; or one char- given in the skill descriptions later in this chapter. 
+acteristic multiplied by two. There is no upper limit to a skill’s value; 
+it can exceed 100 and, in the course of play, characters can expect to AUuTtOoMmAaTtIiCc SUuCcCcEeSsSsEeSs 
+see their skills reach such heights. 
+
+There will be some occasions where a roll against a particular 
+Whenever a character is called upon to resolve some form of test, 
+
+skill just isn’t necessary — either because the task at hand is easily 
+challenge or professional ability 1d100 is rolled and compared with 
+
+accomplished, or because, with enough time and concentration, 
+the skill’s value: 
+
+success is guaranteed. Riding a horse at a gentle canter across an 
+
+& Equal to, or less than, the skill indicates a success open meadow is an example of an Automatic Success where simply 
+
+& Greater than the skill’s value indicates a failure being skilled in the activity means that straightforward actions do 
+not require any skill roll to resolve them. A crafter carving a piece 
+
+There are certain special cases concerning success and failure of wood into a chair leg is another example where a skill roll is not 
+that should be noted. necessary; it takes time to accomplish, but the craftsman knows how 
+
+& Any roll of 01-05 is always a success to do the work and, if he is not rushing, success is assured. A thief, 
+
+& Any roll of 96-00 is always a failure, irrespective of how high undisturbed, with a set of lockpicks, can successfully pick the simple 
+
+the skill’s value lock of a treasure chest given enough time to do so. 
+
+37
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+WHhEeNn tToO ROoLlLl? SimMPpLlUiIfFiIeEdD DiirfrfFiiccuulLtTy GRrAaDdEeSs 
+Part of the fun and drama of MYTHRAS comes in making a roll Whilst difficulty grades are designed to scale with character 
+
+against a skill to see if success or failure is the outcome. It can be skill, some Games Masters may find applying penalties results in 
+tempting to call for skill rolls for each and every challenge but, as the slowing down of their game. As an alternative the following 
+outlined above, there are some cases where rolls are not needed. A option is provided: 
+list of likely scenarios where skill rolls are redundant is as follows: 
+
+SimPpLlIiFfIieEdD Diirfrficurlty GRrAaDdEe TAaBbLlEe 
+& The activity or task is very routine to the character 
+
+Difficulty Grade Skill Modifier 
+& The character has enough time and all the tools necessary 
+
+Very Easy +40% 
+& The circumstances and environment do not impose any stress 
+
+Easy +20% 
+& There are no significant consequences to failure 
+
+Standard None 
+
+Skill rolls should be used when they have a dramatic purpose. For Hard -20% 
+example, although riding a horse at a gentle canter requires no skill 
+
+Formidable -40% 
+roll, fleeing at a gallop from pursuing bandits does. Carving a chair 
+
+Herculean -80% 
+leg may be a routine task for a carpenter, but carving an exquisite 
+chair leg, with blunt tools, and in only a few hours, for a demanding 8 P 
+sultan who executes those who do not please him, would need a skill 
+roll. It is usually obvious when a dramatic purpose arises and a skill 
+roll is necessary, but if in doubt, consider the consequences of fail- StTaAnNdDaArRdD SKkIiLlLlSs 
+ure: are they crucial to the plot? Does the chance of failure heighten Standard skills are common to everyone. They represent innate 
+
+tension, and make for an exciting possibility? Will a failure — or even abilities and skills that most people employ on a regular basis from 
+
+superb success — add fun to the game? If the answer is Yes to any of any walk of life. 
+
+these, then have the character make a skill roll. 
+
+ATtHhLlEeTtIiCcSs (SSTTRR+DEX)) 
+MOoDdIFifYyIinNGg SKkIiLlLlSs Athletics covers a range of physical activities, including climb- 
+
+There are some occasions where a skill roll is required but the ing, jumping, and running. If an adventurer is wearing armour, the 
+
+chances of success need to be adjusted to reflect particular condi- distances he can climb, run or jump are affected by the Armour 
+
+tions. Fleeing bandits, for instance, might require an Athletics roll. Penalty. The Movement section on page 69 describes these effects. 
+
+But what if the character is fleeing through darkness or through 
+treacherous undergrowth? In such a case the Games Master can insist CLlIimMBbIinNgG 
+on modifying the skill of the character to reflect the circumstances. With the right surface (hand and footholds), the right equipment 
+
+MyYTHRAS uses a series of grades to determine how a skill is mod- (ladders, ropes, pitons), and enough time, characters can climb any 
+
+ified. These are as follows: surface without the need for a roll. Under normal circumstances, 
+use the following guidelines: 
+
+Diirfrficurlty GRrAaDdEe TAaBbLlEe 
+& Climbing a rough or rugged surface (branching trees, scaf- 
+
+Difficulty Grade Skill Modifier 
+folds, piles of rubble, and so on): Half the Armour Penalty 
+
+Automatic No need to roll (rounded up) is subtracted from the character’s base Move- 
+Very Easy Double the skill value ment. If the result is zero or less, they are too encumbered by 
+Easy Add half again to the skill value armour to climb. 
+
+Standard No adjustment. & Climbing a steep surface (pitched roofs, steep hills, and so 
+
+Hard Reduce the skill value by one third on): The Armour Penalty is subtracted directly from the base 
+
+Tormidable Reduce the skill value by half Movement. If the result is zero or less, they are too burdened 
+by armour to climb. 
+
+Herculean Reduce the skill value to one tenth 
+& Climbing a sheer surface (walls, cliff faces, and so on): Double 
+
+Hopeless No attempt can be made 
+the Armour Penalty is subtracted from the base Movement. 
+As with previous situations, if the result is zero or less, the 
+
+Where a character is already suffering a penalty from other cir- 
+character cannot climb. 
+
+cumstances the hardest difficulty grade takes precedence. 
+& Tests should be made for treacherous surfaces (such as sheer 
+
+MyTHRAS does not provide a definitive list of situations and chal- 
+cliffs or wet surfaces), and if a character is distracted, or even 
+
+lenges which can incur skill modifications. What sort of modifica- 
+attacked, during his ascent or descent. 
+
+tion is required for any particular skill or context is ultimately up 
+to the Games Master to decide; according to the capabilities of the A critical success permuts the climber to scale the surface extremely quickly or 
+characters, his perception of the difficulty of the situation, and the avoid any hidden danger involved with the attempt. 
+dramatic tension at that particular moment. A failure merely indicates that the climb was aborted. 
+
+A fumbled Climbing roll results in a_fall; furthermore the character cannot 
+attempt an Acrobatics roll (if he has that skill) to reduce falling damage. 
+
+38
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+JuumMPpIinNgG distractions and optimal conditions, a Boating roll is unnecessary, 
+
+A successful Athletics roll allows one to jump up to twice one’s although lesser skilled characters may take longer to get where they 
+
+own height horizontally or up to half one’s own height vertically need to as they manage the boat’s handling. 
+
+(if the character has at least a five metres run-up available). If the A critical Boating success increases the vessel’s Movement rate by one tenth. 
+
+jumper is jumping from a standing position then these distances A failed Boating roll implies the boat’s movement rate is halved or it failed 
+
+are halved. Any jump of over half a character’s maximum distance to reach uts intended destination; for instance navigating to an isolated rock posi- 
+
+results in him falling prone on landing. tioned above a waterfall. 
+A fumbled Boating roll indicates losing an oay; taking on water or some other 
+
+& If wearing armour reduce the jump distance in metres by serious tnconvenzence. If the weather is bad or the water violent, then a_fumble 
+half the Armour Penalty to a minimum of one normal step. causes the boat to capsize. 
+
+& Tor every full 20% a character has in Athletics, he can add an 
+extra metre to a horizontal jump, or 20cm to a vertical one, if BraAwWNn (SSTTR+SSIIZ)) 
+he has space to perform a run up. 
+
+Brawn is the efficient application of technique when applying 
+On a cnitical success the character adds a further metre to hus total distance, raw physical force. The skill covers acts of applied might, including 
+
+and remains upright on landing. lifting, breaking, and contests of strength. 
+A fumbled roll indicates the character has landed awkwardly. He must imme- 
+
+duately make an Endurance roll. If the Endurance roll s a success 1 pownt of LIifFtTiInNgG 
+damage 15 sustained to one leg. If the Endurance test fails, then 1d4 poiwnts of A character can lift and carry up to their STR in SIZ up off the 
+
+damage 1s inflicted instead. ground, or drag double this amount, without needing a Brawn roll. 
+As a mass equivalent, 1 point of SIZ equals, roughly, 5 kilograms. 
+
+RUuNnNnIinNGg Tor every full 10% he possesses in the skill the character may add an 
+A higher Athletics skill allows a character to run at a higher speed extra point of SIZ or 5kg to his total. 
+
+over short or long distances. For SIZ or mass above this the character needs to succeed in a 
+Brawn roll. The maximum weight a character can briefly lift is equal 
+
+& For every full 25% a character has in Athletics, he can add 
+to twice their STR, plus whatever bonus they gain from their skill. 
+
+an extra metre to his base Movement when sprinting, or half 
+Failing the Brawn roll may result in injury; the character must make a suc- 
+
+that when running over longer distances. In certain situations 
+cessful Endurance roll or suffer 1d3 points of damage to a random location 
+
+where space may be limited, such as Charging within a melee, 
+below the head. 
+
+the character can decide not to apply this bonus, and remain 
+Fumbling the Brawn roll automatically results in injury. 
+
+at his base racial or species movement. 
+Note that the size and shape of an object might make it impossi- 
+
+On a critical success the character adds a_further metre to hus Movement rate. 
+ble to lift, even if it is within the character’s weight capacity. 
+
+A failure causes the runner to increase a level of fatigue. 
+A fumbled roll indicates the character has pulled a muscle or torn a ligament, BRrEeAaKkIinNgG 
+
+and must cease running He must immediately make an Fndurance roll. If the A character can use Brawn to break objects with their bare 
+Endurance roll 15 a success 1 point of damage s sustained to one leg If the hands — such as shoulder barging a wooden door. Take the char- 
+Endurance testfauls, then 1d4 points of damage 1s inflicted instead. acter’s maximum lifting capacity in SIZ and apply that value to the 
+
+Damage Modifier table on page 9 to determine how much damage 
+ThHRrOoWwIinNGg 
+
+can be inflicted with each Brawn attempt, remembering that failed 
+Athletics can also be used for hurling large, unwieldy objects 
+
+rolls may result in injury. 
+over distance or tossing smaller items with accuracy. Throwing is 
+restricted for sports or improvised missile weapons - everything from COoNnTtEeSsTtSs oOFf StTrReEnNgGtThH 
+small stones to bar stools. Weapons which are thrown using a spe- Brawn rolls can also be used in opposed tests for breaking free 
+cific technique to ensure it strikes point or blade first (rather than from the grip of others, arm wrestling, and tugs of war. Such events 
+just achieving distance), such as javelins, axes or knives, use their are handled as a simple opposed roll. However, there comes a point 
+Combat Style instead. where technique cannot overcome superior size and strength. In a 
+
+contest, if a character’s Damage Modifier is smaller than his oppo- 
+& A thrown object has a maximum range of one metre for every 
+
+nents, his Brawn roll suffers a penalty; a difference of one step raises 
+point the character’s STR exceeds the object’s SIZ. 
+
+the difficulty to Hard, whilst two steps increases it to Formidable, 
+and so on. Naturally the penalty is suffered by his opponent if the 
+
+BoAaTtIinNgG (SSTTRR++CCOON)) character is the stronger. 
+The Boating skill covers the operation of small floating craft on 
+
+rivers, lakes, and close inshore. Appropriate vessels are generally CooNncEceeAalL (DDEXX+PPOOW)) 
+boats, canoes or rafts which travel short distances, and are unsuited 
+
+Conceal is the counterpoint to Stealth, being the concealment 
+to the rigours of the open sea. Most are propelled using oars, pad- 
+
+of large objects rather than the character themselves. For instance 
+dles, punts or simple sails; or can even be towed by animals. Ships 
+
+conceal could be used to hide a chariot behind some rocks, or sweep 
+with large crews or designed for long, overseas journeys are covered 
+
+away the wheel ruts of the chariot so its path cannot be tracked. 
+under the Seamanship professional skill. 
+
+The skill is versatile in application, anything from hiding a scroll in a 
+The skill measures a character’s competence in propelling a boat 
+
+library to disguising the presence of a trap or secret passage. 
+in the right direction and dealing with adverse conditions. With no 
+
+39
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+A critical success using Conceal indicates that the object has been hidden so Deecceerirt (IINNTT++CCHA)) 
+cunningly that rolls attempting to discover it are one difficully grade harder. 
+
+Deceit covers all instances where a character attempts to mask 
+A failed Conceal roll means that the object will automatically be_found if 
+
+the truth and offer a deceit of some kind; barefaced lying, mislead- 
+actively searchedf or. 
+
+ing a guard or even bluffing (or cheating) during a card game. The 
+A fumbled Conceal roll indicates that the attempt backfres spectacularly with 
+
+skill also covers instances where hiding true emotions or motives is 
+the objectf alling, rolling, blowing out of its hiding place so blatantly (or otherwise 
+
+necessary (feigning pleasure when one is bitterly disappointed per- 
+revealed in an appropriate manner) that it draws the attention of everyone nearby. 
+
+haps, or attempting to seem welcoming and open when the opposite 
+is true). Deceit forms a counterpart to the Insight skill, and can be 
+
+CuussttooMmms (IINNT x2) used to oppose Insight rolls when others are attempting to discern 
+Customs represents the character’s knowledge of his own com- either truth or motive. 
+
+munity; its social codes, rites, rituals, taboos, and so on. The skill On a critical success the character has pulled off the deceit convincingly to the 
+is used when it is essential to accurately interpret or perform any point where the truth will not be questioned in thefuture by those who are subject 
+socially important custom or to behave in a particular way. lo the deception — unless something happens lo expose the truth. 
+A critical success with Customs indicates that the character has acted in an A farled Deceit roll indicates that the character lacked conviction or believabil- 
+
+exemplary fashion or percewed a very subtle social nuance that will be of imme- iy, promptingf urther investigation. 
+diate or later value. A fumbled Deceit roll represents a miserablef ailure to deceive — one so trans- 
+A failed Customs roll results in wry humour or minor irritation. A _fumbled parent that others may have difficully believing the character at a_future time. 
+
+Customs 10!l indicates that the character has badly failed to observe his commu- 
+nity’s customs, and may have even given offence — whether intentional or not. Drriive (DDEXX+PPOOW)) 
+
+The ramifications of a_fumbled roll depend very much on the nature of the 
+Drive covers the control of wheeled or drawn vehicles, whether 
+
+culture or communty, and may thus have very different outcomes, ranging from 
+by one or more beasts of burden or more esoteric means: such as 
+
+harsh rebuke, through ostracism, exile or even violent punishment. 
+carts, carriages, chariots or sleds. Drive rolls are needed when a 
+character wants to do something out of the ordinary with a vehicle 
+
+DAaNnCcEe (DDEX+CHA)) — traverse treacherous terrain, jump obstacles, and so on. A roll is 
+Just about every culture uses dance in some way — either as rec- also necessary if the vehicle being driven is drawn by different beasts 
+
+reation or as part of important rituals. It might be a court dance, a than the driver is used to (horses instead of oxen, for example) or 
+war dance, or a simple set of movements accompanying a prayer there are more or fewer beasts teamed together to pull the vehicle (a 
+or ceremonial chant. The Dance skill measures a character’s ability four-horse wagon when the character is used to a two-horse team). 
+to move rhythmically and accurately (to a reasonable degree) when In cases where either the beasts or their number are radically unfa- 
+called upon to do so. miliar, a tiger drawn chariot for example, then the roll should be 
+A critical success resulls in a dance that is expresswe, fluid, and perhaps made more difficult. 
+
+deeply affecting for those who witness it. The dance s as persuasive as any Where two or more vehicles are contesting with each other, per- 
+Influence 10ll, and can be used as such in situations resting on communication haps to overtake or force another off the road, the drivers should 
+and personal credibility. Alternatively any subsequent Influence lest is giwven a determine the result with an opposed Drive test. 
+bonus equal to the critical score of the Dance skill. Of cowrse, a critical Dance 
+roll may very well result in tumultuous applause, and tokens of admiration and 
+appreciation. 
+
+A failed Dance roll signi- 
+Jies a lacklustre performance. 
+
+A fumbled Dance s 
+clumsy to both the dancer 
+and those who watch it. The 
+dancer trips or stumbles. Pas- 
+son s lost, the execution s 
+weak, and the dance fails to 
+convey what it s meant to. 
+Any skills resting on commu- 
+nicaton and personal credi- 
+bility will suffer a penally at 
+the discretion of the Games 
+Master. 
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+A critical Drive roll either increases the vehucle’s Movement rate by one tenth ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+or permats the driver lo perform some_feat of skilful orflamboyant driving. Anathaym, investigating a ruined temple, comes across a sarcophagus in 
+
+A failed Driwe roll halves the vehicle’s Movement. the catacombs. She tries to open i, and triggers the centuries-old dart trap set 
+A fumbled Drive roll indicates either that the vehicle has broken down in by the sarcophagus’s designer. The trap-setter’s skill at the time was 65%; 
+
+some manner (wheel comes off or the harness breaks for example), or if the Anathaym’s Evade is 57 %o which she must pit against the trap in an opposed 
+velicle is engaged in a high speed or dangerous manoewvre, it becomes unstable roll. 
+and overturns. An overturning vehicle requires all occupants to make a successful Amathaym scores 45, and the Games Master rolls 31. Both are successful 
+Acrobatics or Evade 1oll to leap clear of the wreckage, or sustain an amount of but Anathaym wins the contest with the higher roll. The trap is sprung as 
+Jalling damage commensurate with its speed (see page 78). Anathaym lfls the sarcophagus lid, shooting a hail of darts towards herf ace; 
+
+but Anathaym throws herself desperately to one side and, fortunately for her, 
+
+EnNDdUuRrAaNnCcEe (CCOON x2) the darts strike the wall behind. 
+
+Endurance is a character’s capacity to endure physical stress, Brushing herself down as she stands, Anathaym reflects on the dangers of 
+
+pain, and fatigue. It measures the body’s ability to deal with poten- ancient tombs, unaware of the guardian mummy lurching towards her from 
+
+tially damaging or debilitating conditions, and is a general gauge of belind... 
+
+resilience, stamina, and metabolism. Endurance, like its counterpart 
+A failed roll usually means the character suffers whatever musfortune they 
+
+Willpower, is used in any number of ways, but most specifically to 
+were attempting to avoud. 
+
+resist the possible effects of injuries, including harmful poisons and 
+1If the Evade roll is fumbled, then the character has lefl himself wide open to 
+
+disease. 
+the hazard, for instance sustaining maximum damage from a trap or ending up 
+
+In most cases Endurance is used in Opposed 'Tests but there are 
+prone, and vulnerable to a_follow up event. 
+
+some circumstances where it is used as a standard skill roll. 
+The effects of Criticals and Fumbles during combat us a special case (see the 
+
+A critical Endurance roll usually indicates that the character has managed to 
+rules for Evading in the Combat chapter; page 105). 
+
+shrugoff” the worst possible assault on his body. In the case of injury he s ofien 
+able to act when ordinarily he might be incapacitated. 
+
+A failed Endurance roll resulls in the character succumbing to whatever stress FirstT AiidD (DDEX+INT)) 
+or tnjury it has been put under. A Fumbled roll means that the character is over- First Aid measures a character’s ability to treat minor injuries 
+whelmed by the circumstances and becomes incapacitated. In the case of disease and stabilise severe ones. First Aid may be applied only once per spe- 
+or powson he automatically fails any further resistance rolls against it. cific injury. Thus a character thatis slashed twice in the leg may have 
+
+each wound treated separately. If suffering some form of bodily 
+
+Evadpe (DDEX x2) harm which simultaneously affected several body areas at once, such 
+as being burned by Dragon Breath, then a First Aid attempt is per- 
+
+Evade is used to escape from observed, impending danger, and 
+mitted for each individual location. 
+
+can be used against ranged weapons (by diving for cover, for exam- 
+A character can self-administer First Aid, although depending 
+
+ple), avoiding traps, changing the engagement distance in combat, 
+on the circumstances (such as the location of the wound, its degree 
+
+and generally getting out of the way of a potential physical hazard. 
+of severity and so forth) the roll may be subject to a greater degree 
+
+It can also be used as a resistance roll for certain types of magic. 
+of difficulty. 
+
+Usually Evade will be opposed by another roll, but it may also be 
+Applying First Aid takes 1d3 minutes. Neither party can do 
+
+a standard roll in its own right. Trying to negate damage by leap- 
+anything else during the treatment. When tending life threatening 
+
+ing clear of a crashing vehicle, as mentioned in the Drive skill, is 
+trauma, the patient is temporarily stabilised until the result of the 
+
+an example of a standard Evade roll. The typical circumstances for 
+opposed rolls are as follows: 
+
+FIirRsstT AIidD ACcTtIioONnSs 
+AVvOoIiDdIinNgG MISisSsIiLlEeSs Injury Successful Treatment 
+
+Evade is opposed by the Combat Style of the attacker. Asphyxiated The victim begins breathing again. 
+
+Bleeding The blood flow is staunched. 
+THhWwAaRrTtIinNgG Aa TRrAaPp 
+
+The impaling item is removed without causing 
+Evade is opposed either by the trap’s Potency or its original Impaled . 
+
+further damage to the victim. 
+designer’s skill rating at the time the trap was made or set. 
+
+As long as the unconsciousness is not the result of 
+
+EVvaADdIinNgG aA HAaRrMmFfUuLl SPpEeLlLl Unconsciousness poisons or narcotics then the injured party is restored 
+
+Opposed by the spell caster’s score in the casting skill. to awareness. 
+
+Minor Wound Treatment restores 1d3 hit points to the injury. 
+
+MAaNnOoEeUuVvEeRrIinNGg iInN COoMmBbAaTt Sterttesms WWissmord] Treatment restores the location to partial 
+erious Woun . 
+
+Opposed by the attacker’s Evade skill. functionality. 
+
+A successful First Aid roll on a location suffering 
+
+Again, like Endurance, Evade is most often used in Opposed from a Major Wound does not return any Hit Points, 
+
+Tests. When used as a standard test, a critical Evade roll ensures . i nor restore functionality; but it does stabilize the 
+Major Wound i i i 
+
+that the evader retains some form of advantage or composure after- area, and prevent immediate death resulting from 
+
+wards, such as avoiding all damage or slipping completely clear of the damage. More skilled healing is required to treat 
+
+further danger. Major Wounds. 
+
+41
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+application is known. An injury that has had a previous form of First LocaLle (IINNT x2) 
+Aid applied cannot benefit from First Aid again, whether successful 
+
+Locale measures a character’s understanding of local flora, 
+or not, until it has fully healed. 
+
+fauna, terrain, and weather in the area where he has spent the major- 
+First Aid relies on having appropriate equipment — bandages, at 
+
+ity of his life, usually within his community. The character knows the 
+the very least — available for the treatment. These can be improvised 
+
+common plants, trees and animals, their properties and behaviour: 
+(a torn cloak to make a bandage or sling, for example) if necessary. 
+
+where the best fish can be found; the movements of game creatures; 
+A eritical First Aid improves the result of the treatment. On a Minor Injury 
+
+where to find shelter; the likely weather for the season, and the most 
+at recovers 1d6 Hit Points, on a Serious Injury it recovers 1d3 Hit Ponts, and 
+
+common regional dangers. In neighbouring, yet unfamiliar locations 
+on a Major Injury it restores partial functionality (if possible), and permats it 
+
+Locale should be made one or more grades harder. 
+to heal naturally. 
+
+A critical success guarantees the character finds what he s looking for in 
+A fumbled Furst Aid attempt causes more harm than good: the injured location 
+
+abundance or knows precisely what something 1s. Subsequent skill rolls related 
+suffers a_further 1 point of damage, potentially increasing the severity of the 
+injury. lo the subject of that Locale roll (Survival, for instance, or Track) become one 
+
+grade easuer: 
+A farlure implies too little evidence to unambiguously dentify or predict, or 
+
+InNfFlLuUeEnNCcEe (CCHHA x2) that whatever is being searchedf or cannot be_found. 
+Influence measures a character’s ability to persuade others. It is A fumble means the information needed is not just unobtainable but utterly 
+
+used in a wide variety of situations; from changing someone’s mind, misunderstood. Subsequent skill rolls dependent on that use of Locale become one 
+through to bribing an official or guard. grade harder: 
+
+Influence rolls are typically opposed by the Perception, Will- 
+power or another Influence skill, depending on the circumstances, NAaTtIiVvEe ToONnGgUuEe (IINNTT++CCHA)) 
+and are modified by how much a character is trying to influence 
+
+Native Tongue is the ability to speak one’s own language, the 
+behaviour. Attempting to persuade a close friend to loan you their 
+
+one learned whilst growing up in one’s home culture. It measures 
+horse may be relatively easy. Getting a usually incorruptible bureau- 
+
+articulation, eloquence, and the depth of the speaker’s vocabulary. 
+crat to accept a bribe is more difficult. 
+
+Unlike other skills, Native Tongue is not rolled against directly. 
+A critical success indicates that the character has been incredibly persuasive, 
+
+Instead it is treated as a static representation of overall fluency, limit- 
+s0 much so that not only s the character successful in what he is trying to attain 
+
+ing the level of conversational interaction. This is described in more 
+but his next Influence test with the same person, no matler when it lakes place, 
+
+detail under the Language skill on page 47, but starting characters 
+is one grade easier than the circumstances would normally dictate (A Standard 
+
+usually begin play fully fluent in their mother tongue. 
+r0ll becomes an Easy roll, for example, or a Hard roll becomes a Standard one). 
+
+The skill can be used in two ways. Firstly it can help to under- 
+A failure merely means that the persuasion was refused, with no subsequent 
+
+stand dialects of neighbouring peoples which share a common lin- 
+ussues. 
+
+guistic basis or origin. In such cases the skill is treated at least one 
+On a_fumble not only does the Influence roll faul; it also insults or offends 
+
+grade harder, potentially affecting the character’s fluency. Secondly, 
+the person being influenced. The specific reaction depends on the individual and 
+
+it can be used as a cap on verbal skills which require a good grasp of 
+the situation. 1t also means that_further Influence attempts with this individual 
+
+language. See Capping Skills on page 50. 
+become one difficully grade harder. 
+
+InNsSiIgGhHTt (IINNTT++PPOOW)) PEeRrCcEePpTtiIoOnN (IINNTT++PPOOW)) 
+Perception is used for both passive observation and focussed 
+
+Insight is the ability to read or intuitively define another’s verbal 
+detection; whether hunting for something specific, a general scan 
+
+and non-verbal behaviour (such as body language or the manner of 
+of an area or simple awareness of their surroundings. Specific con- 
+
+speech) to establish their motives and state of mind. Insight is used 
+ditions — darkness, for example — may affect the difficulty grade 
+
+to determine if someone is telling a lie (and it can be opposed by the 
+of the skill roll depending on the primary senses being utilised. 
+
+other person’s Deceit skill), or to predict how someone feels about 
+Strong scents might make an olfactory Perception roll Easy rather 
+
+a particular situation. Insight can equally be applied to particular 
+than Standard, whereas trying to eavesdrop on a conversation in a 
+
+situations as well as other people: is that tavern a haven for trouble? 
+crowded and noisy tavern would make the roll Hard. 
+
+Could the bandits be planning an ambush in the nearby hills? 
+A critical Perception roll reveals things that otherwise would not have been 
+
+On a critical success the Insightful character gains an in-depth understanding 
+detected in addition to that which the roll was being usedf or. 
+
+of the other person’s current motives, thoughts and feelings. Using either Decert 
+Failure indicates nothang in particular was discerned. 
+
+or Influence against that person in a subsequent 1ol is one grade easier than 
+Fumbling a Perception roll means that even the most blatantly obvious things 
+
+circumstances would dictate (Easy rather than Standard; Standard rather than 
+are overlooked or masconstrued, potentially increasing the difficulty of subsequent 
+
+Hard, for example). 
+skall checks. For instance, a_fumbled Perception roll when trying lo spot a trap 
+
+A failure simply means the character cannot discern anything specific at that 
+maght make an Evade roll Hard or even Formidable rather than Standard. 
+
+time. On a_fumble, the character completely misjudges the person’s motives and 
+actions. The Games Master should offer the character a series of private, deliber- 
+ately misleading hints regarding the person’s motivations and likely actions. It also 
+makes consequent Deceit and Influence rolls one difficulty grade harder: 
+
+42
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+RiidDe (DDEXX+PPOOW)) 
+Ride covers the ability to control and remain mounted on those 
+
+creatures that are trained to be ridden. The skill can be applied to 
+a diverse range of beasts, everything from mules to elephants; even 
+flying or swimming creatures such as giant eagles or dolphins. 
+
+Riding an unfamiliar species is always one difficulty grade 
+harder; whilst riding a species of a different medium (a horseman 
+riding a dragon, for example) is two grades harder. Wild, untamed 
+creatures cannot be ridden in a constructive manner until they have 
+been broken and trained to be riding beasts. 
+
+A critical Ride result allows the rider to perform a feat of flamboyant riding 
+(such as a jump or wingover) or temporarily increase his mount’s Movement by 
+one tenth. 
+
+A failure causes the mount to drop a level off atigue. 
+A fumbled r0ll means that an accident occurs; either lo the rider (who might 
+
+Jall off) or the mount whom suffers some_ form of injury, going lame or breaking 
+one of uls limbsfor example. 
+
+SIinNgG (PPOOWW+CHAA)) 
+Carrying a tune is covered by Sing, anything from monotonous 
+
+chants through to complex arias. Singing is an inherent part of 
+most cultures, a prime source of entertainment, and perhaps used 
+in its rituals. Important songs might be used for courting, inspiring 
+soldiers before battle, or simply recounting a historical deed. The 
+skill reflects the user’s ability to maintain rhythm, keep in key and 
+remember the correct words. 
+
+A critical Sing success can have one of several effects. If singing to earn 
+money, increase by half again the amount earned due to the audience’s apprecia- 
+tion of the performance. If being used to impress someone, a follow-up Influence time. Higher Swim percentages indicate being able to negotiate 
+or similar skill become one difficulty grade easier to make. deeper and stronger waters, with less risk of drowning. Making a 
+
+A failed Sing roll signifies a bland performance. Iff umbled, then the song was Swim roll therefore depends entirely on the conditions. Rough seas, 
+off-key, out of tune, and poorly recewed. Halve the earnings and any attempts to strong currents, white water and rip-tides all reduce the grade of 
+influence or deceive afterwards become one grade harder. the skill no matter what the character’s affinity for water might be. 
+
+Under normal conditions a character’s maximum swimming speed 
+
+STteaALltThH (DDEX+INT)) per round is equal to their base Movement rate, plus an extra metre 
+
+Hiding out of plain sight, or moving with minimal sound are for every full 20% they possess in Swim. 
+
+covered by the Stealth skill. Cover and conditions, such as darkness A critical Swim roll allows the character to add a further metre to hus Move- 
+
+or loud background noise, improve the grade of the skill according ment rate. 
+
+to specifics of the environment. Similarly adverse conditions, such Failing a Swim 10ll has no immediate consequences, save that the character 
+
+as a lack of cover or a quiet night will decrease the skill’s grade. Cir- gains a level of Fatigue. 
+
+cumstances also affect the difficulty of the attempt. For instance, a If a Swim roll is_fumbled then controlled movement ceases as the swimmer 
+
+warrior wearing heavy armour can easily conceal themselves behind begins suffering cramps or is overwhelmed by turbulent conditions; future Swim 
+
+a wall providing they stand still or move very slowly, whereas moving 10lls become one grade more difficult. From that moment on, all the swimmer 
+
+quickly might cause their armour to jingle. can do s try to keep their head above water until help arrives or they become 
+
+A critical roll means that any subsequent attempts lo use skills to locate the exhausted, at which point they’ll likely start to drown. See the rules for Asphyx- 
+
+character; follow lam, observe him, and so_forth are one grade harder. tation on page 71. 
+
+A failure indicates that they are blatantly obvious, providing someone is both- 
+ering to locate them. UNnAaRrMmEeDd (SSTTRR+DEX)) 
+
+On a_fumble the Stealth attempt has backfired and signals the character’s Unarmed is a universal Combat Style common to all characters, 
+presence rather than disguises it, or causes them to suffer some accident or mas- measuring the ability to defend oneself without the aid of weapons. 
+Jortune; such as hiding on a window ledge then being knocked off when someone The Unarmed skill covers the brawling and wrestling techniques 
+opens the shutter to investigate the strange noise. known by that culture. However there are, of course, specific styles 
+
+that enhance the ability to fight without weapons, offering advan- 
+
+Swim (SSTTRR++CCOON)) tages to those who learn them as a separate Combat Style. 
+
+Without development the ability to swim is limited to being able As Unarmed is a Combat Style its critical and fumble effects are 
+
+to thrash around, and keep one’s head above the water for a short covered by the rules for combat, as detailed in the Combat chapter. 
+
+43
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+WiiLlLlpPoOwWEeRr (PPOOWW x2) perform convincingly: on stage, for example, or attempting to pass 
+oneself off as another person. 
+
+Willpower is a measure of a character’s ability to concentrate, 
+A critical success us thoroughly convincing. In a performance context it guar- 
+
+channel his force of will in a particular direction, or harden his psy- 
+antees a standing ovation or similar. In a social context then the actor is the 
+
+che to possible mental shock. Itis also a measure of personal resolve. 
+character ke portrays. It also means that any subsequent skill roll, such as Deceit, 
+
+The skill is used in all manner of situations where mental resilience 
+Influence or similay, s one difficulty grade easier (Easy rather than Standard, 
+
+is required, and this includes resisting magic. Although not a mea- 
+Jor example). 
+
+sure of sanity it can be used to endure traumatic events that would 
+Failed rolls signify a lacklustre performance. 
+
+shake even the sanest, stable mind. Willpower is the mental counter- 
+Fumbling an Acting roll means the performance convinces no-one, and is so 
+
+part to Endurance. 
+bad that even the most unperceptive will see through the act, or perhaps worse, 
+
+Again, like Endurance and Evade, Willpower is most often used 
+laugh andj eer. 
+
+in Opposed Tests. When used as a standard test, a critical Willpower 
+roll indicates that the character has hardened his mind and spirit to 
+the extent that no further attempts to influence him, or shake his AccrroosbaaTtiics (SSTTRR+DEX)) 
+resolve, will work. In the case of resisting magic, a critical success Acrobatics covers acts of balance, gymnastics, juggling and tum- 
+
+means that no further mentally afflicting spells cast by the opponent bling. The skill can be used in its own right as a way to impress 
+
+have any effect on the character for the remainder of that encounter. an audience, but also to help mitigate damage from falls. With a 
+
+The effects of failing a Willpower roll depend on the situation successful roll a character can move at full speed and sure-footedly 
+
+and circumstances — usually temporary capitulation to whatever is across an unstable or narrow surface. If trying to mitigate damage 
+
+being done to him. A fumbled Willpower roll means that the charac- from an unexpected fall, a successful Acrobatics reduces the distance 
+
+ter is utterly overwhelmed. His will is broken, and he has no means as explained on page 78, Falling. 
+
+of resisting whatever it is that assails him mentally or spiritually. In Acrobatics can be substituted for Evade if the situation warrants 
+
+the case of resisting shock or spells a fumbled Willpower roll means it. The benefit of this is that if the roll is a success, the character 
+
+that the psychological effect of the spell becomes permanent until automatically avoids ending up prone. 
+
+healed. A critical success doubles the movement rate when balancing or negotiating 
+an unstable surface. 
+
+Failing an Acrobatics roll results in an unimpressed audience, or the prema- 
+OppPtTiIoOnNaALl RUuLlEe –— LimIiTtSs tToO ture aborting of whatever trick or tumble was attempted. 
+
+EnNDdUuRrAaNnCcEe AanNDd WIiLlLlpPoOwWEeRr A fumbled Acrobatics roll means that balance and agility has been completely 
+There are limuts to mental, and physical endurance; barrers beyond lost, causing the character to eitherfall off whatever he was balancing upon, drop 
+
+which the mind, and body cannot be pushed, and surrender becomes inevi- a juggled object in a spectacularly bad way, or injure themselves performing an 
+table. Games Masters may wish to rule in therr campaign that Endurance acrobatic tumble — suffering 1d4 points of damage to a random location. 
+cannot exceed CON x5, and Willpower cannot exceed POW x5. The 
+starting values for each skill are both calculated as normal, but have a ARrTt (PPOOWW+CHAA)) 
+defined limat. 
+
+There are many specific art forms. Painting to Poetry; Literature 
+
+N 4 to Sculpture. A character chooses an Art specialisation when taking 
+this skill. Subsequent Art forms are advanced in separately. A roll is 
+made whenever a character must impress or convince through his 
+
+P artistic medium. 
+RrOoFfEeSsSsiIoOnNAaLl SKkIiLlLlSs A critical success inducates that artist creates something of stunming quality, 
+Professional Skills differ between characters and represent more elegance or beauty — worth half the standard value again of like products. Any 
+
+specialised forms of training and experience. Some Professional subsequent skill rolls made to influence whomever commissioned the work, or those 
+skills are gathered through cultural background and a character’s that simply admare it, become temporarily one grade easier. 
+career, as the name suggests. Although they differ between charac- Failing the roll creates something insipid, which neither impresses or sells _for 
+ters they work in the same way as Standard Skills. more than the materials used to create ut. 
+
+Certain magical skills are also classed as Professional Skills: Invo- A fumbled Art roll renders an artistic disaster. The effects of such a terrible 
+cation and Shaping are the two skills associated with Sorcery for sttuation need to be determined by the Games Master but, at the very least, rep- 
+example. These are only briefly described here. For more details see resent a complete waste of lime, materials, and talent that, if viewed publicly, 
+
+the relevant magical chapter. could influence reputation. 
+
+AccTtIinNgG (CCHHA x2) BIinNdDIinNgG (PPOOWW+CHAA)) 
+Acting governs the art of being able to impersonate and convey Binding is a magical skill used by animists to exert their will over 
+
+a completely different character, whether in a staged performance spirits and creatures of the otherworld. It is used to bind spirits into 
+or in a social situation. The actor portrays a personality and man- fetishes, and control their actions once bound. Additionally, it can be 
+nerisms different to his own in a convincing manner. Coupled with used to summon and coerce a known spirit to perform a deed for a 
+the Disguise and Deceit skills, this is a powerful way of becoming mutually acceptable service, forging a contract between them. 
+someone else entirely. An Acting roll is needed when it is essential to 
+
+44
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+Moreover the skill is used when engaging in Spirit Combat, and Failing a Courtesy roll means the user has not impressed the 
+also measures the authority an animist has within a spirit cult. For company with his attitude or manners; making any subsequent skill 
+further details see page 131 of the Animism chapter. rolls a grade harder. 
+
+Binding is not limited to animists. The skill can be learned by A fumbled Courtesy roll creates severe embarrassment and 
+other magical practitioners, and used in the binding of supernatural humiliation and, at worst, gives insult that, depending on the cir- 
+entities such as elementals and demons. cumstances, could have a dire outcome. No further social inter- 
+
+course 1s possible after a fumble. 
+
+BUuRrEeAaUuCcRrAaCcYy (IINNT x2) 
+Understanding administrative procedures, records, and unspo- CrrRaAfFtT (DDEX+INT)) 
+
+ken conventions are covered by the Bureaucracy skill. It is used Each Craft is a specialised form, and there are as many crafts 
+to interact with officials or discover pertinent civic information. as there are professions for them. Like Art, Craft is used to create 
+Depending on the sophistication of their culture, bureaucrats need the subject item. How long it takes depends entirely on the nature 
+not necessarily be literate. However their Bureaucracy skill cannot of the product: weaving a rug takes longer than throwing a pot, for 
+exceed the score of the Language or Literacy skill in which they instance, but time is not necessarily the most important factor: it is 
+work. Whenever red-tape or administrative landscapes need to be the skill of the crafter, the quality of the resources, and attention to 
+navigated, a Bureaucracy roll is necessary. detail. 
+
+Critically succeeding in Bureaucracy lends a deep insight into the procedures A critical success creates an tem of superior quality, in terms of durability, 
+andf ormalities of whatever 1t is the character 1s attempting to accomplish, achzev- utility or beauty. 
+ing it in half the usual time. It also means any subsequent skills relying on the A failed Craft roll indicates a sub-standard result undermining its robustness, 
+Bureaucracy roll are one grade easter (Influence, for example, or Decent). Junction or aesthetics. 
+
+A farlure resulls in becoming stonewalled or relevant documents misplaced, A fumbled roll creates an item that isfunctionally useless and valueless. Alter- 
+the user’s inability lo follow customary procedure resulting in subsequent skills natwely an accident occurs during the crafling process, causing damage to prop- 
+relevant to the situation becoming one grade harder. erty, stock or the crafter themselves; a pottery kiln collapsing or a smath striking hes 
+
+1f the roll is_fumbled then access is_forbidden or the character alenates a key hand with a hammerf or example. 
+personage — so that their enquiry or request will never be satisfied. 
+
+CuurlTttuure (IINNT x2) 
+CoMmMmEeRrCcEe (IINNTT++CCHA)) Culture is the more specific form of the Standard Skill of Cus- 
+
+Commerce is used to evaluate the worth of goods and commod- toms, relating instead to societies foreign to the character’s own. 
+ities, and to trade them for the best possible price. It is also used Each Culture skill must be given a particular nation or society to 
+to understand the intricacies of business transactions in addition to which it applies. Mechanically it works in the same way as the Cus- 
+securing a profit. A further use is in finding the best way to dispose toms skill. 
+of stolen and illicit goods — again for the best possible price. Com- 
+merce is obviously used when trading, and it can be opposed by DeevoTtionN (PPOOWW+CHAA)) 
+either an opponent’s Commerce skill or Willpower, reflecting the 
+
+Devotion is a magical skill which reflects the commitment of 
+opposing side’s attempts to further the deal in their favour. It is also 
+
+priests, and their ilk to the service of a deity or pantheon of gods. It 
+used to judge the market value of goods, gaining an idea of price 
+
+not only measures the depth of devotion to a deity, but also governs 
+and where it will be best traded. 
+
+the magnitude of any theistic miracles called upon by the theist, and 
+In transactions where rolls are not opposed, a critical success allows the char- 
+
+the recovery of these blessings at an appropriate holy place. 
+acter to secure the commoduty or service at half its usual price, or sell itfor double. 
+
+Additionally the skill can indicate the standing of a theist within a 
+Failing the roll indicates that the commodity or service is secured at twice the 
+
+religious cult. For further details see page 178 of the Theism chapter. 
+price, or sold_for only half the value. 
+
+In some settings Devotion is not limited to professional priests. 
+A fumble means the character has insulted the purchaser or seller to such 
+
+It may be adopted by those who simply wish to show respect to the 
+a degree that the transaction s lost. Alternatively it may indicate that they are 
+
+gods even if they do not actively practice Theism, or indeed if the 
+cheated instead, ending up paying for something worthless or unwittingly selling 
+
+gods exist at all! 
+sometling of potentially great value at a_fraction of its cost. 
+
+Also see the section on Haggling, page 56. 
+Diiscguuiise (IINNTT++CCHA)) 
+
+CouurrTteessy (IINNTT++CCHA)) Effecting a convincing disguise, using appropriate materials (cos- 
+tumes, cosmetics, wigs or hairpieces), is covered by the Disguise skill. 
+
+This skill covers understanding how to act appropriately in a 
+Creating the disguise requires time and attention to detail, as well as 
+
+social or formal situation: modes of address, rituals, and conven- 
+access to the right materials to make it convincing. If some, or all, 
+
+tions of behaviour, and so forth. It includes everything from who to 
+of these elements are not present then the Disguise roll’s difficulty 
+
+bow to, and when, to how low; from when to use a particular title, to 
+grade is made one or more steps harder. 
+
+when it is appropriate to act informally. 
+Disguise can be augmented with Acting to enhance the overall 
+
+Ciritically succeeding in a Courtesy roll makes any subsequent 
+effect of a deception (vice versa when performing), and so the two 
+
+skill roll relevant to that situation one difficulty grade easier. 
+skills are complementary. 
+
+45
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+A critical Disguise roll results in a completely convincing masquerade so GAaMmBbLlIinNGg (IINNTT++PPOOW)) 
+potent that even their own mother or a lifelong enemy probably wouldn’t recognise 
+
+The Gambling skill measures a character’s competence in games 
+them. 
+
+of chance, and especially where money is staked on the outcome. It 
+Failing a disguise 1oll resulls in such a meagre attempt it permits passive 
+
+is used to assess the odds of success or failure or spot when some- 
+onlookers the chance to see through it. 
+
+one is cheating. The skill can be used in an opposed or unopposed 
+A fumbled Disguise roll either produces a disguise so crass that it instantly 
+
+manner, depending on the situation. Spending the night in a face- 
+penetrated; or one whichf ails at a spectacularly inopportune moment. No amount 
+
+less gambling den might only require a straight test, whereas a high 
+of great acting can salvage the illusion when a_false nose peels away or a poorly 
+
+stakes dice game involving notable personages may instead require 
+Satted costume rips off. 
+
+several rounds of opposed rolls. 
+A enitical Gambling success usually permats the character to win a game 
+
+ENnGgIiNnEeEeRrIinNgG (IINNT x2) outright or clean out one of the participants. 
+The design and building of large-scale structures, from houses Failure simply results in the character losing that hand or stake. 
+
+to bridges, gates to siege engines, is in the remit of the Engineering On a_fumble, the character has completely misread the odds or has tragic bad 
+skill. Rolls are necessary when planning large scale projects to ensure luck. He loses everything gambled and us thrown out of the game. 
+correct construction, but are also made when an engineer wants to Cheating allows a character to roll twice and take the best 
+assess a structure’s integrity for whatever reason (state of repair or result. However each time this is attempted the cheater must roll 
+weak spots, for example). an opposed test of their Sleight skill against the Perception or Gam- 
+
+A critical success lughlights any unnoticeable major flaws or problems with bling skill of everyone else playing. lailing to beat all the observers 
+the item under study. It also makes subsequent rolls dependent on the structure one means that the cheater has been detected, with suitable results. 
+grade easier. Alternately it may allow a lougher, more resilient construction to be 
+bult (a tenth more Hit Points or Armour Points). 
+
+Failing an Engineering roll resulls in a construction which s sub-standard Healuincg (IINNTT++PPOOW)) 
+Healing is the in-depth knowledge of medical procedures, 
+
+(a tenthfewer Hit Points or Armour Points) or an inability to determine any 
+based on cultural practices. In a primitive or barbarian cul- 
+
+structural information. 
+ture, for instance, healing will be based on the 
+
+A fumble actively introduces a majorflaw into a proj- 
+ect or disastrously assesses the condition of an item, knowledge of herbs, and natural cures. In a 
+
+civilised culture, drugs and more advanced 
+providing incorrect and musleading information. Sub- 
+
+treatments will be more common. In all 
+sequent rolls dependent on the Engineering check are ‘e 
+
+cultures Healing includes the ability to set 
+made one grade harder. 
+
+bones, suture wounds, and so forth. Obvi- 
+ously applying healing requires appropriate 
+
+ExXhHOoRrTt resources, and most practicing healers will 
+
+(IINNTT++CCHA)) o have such things to hand (needles, gut or 
+thread for sutures, herbs for poultices, and so 
+
+Exhort is the magical skill used 
+forth). There are three main areas of Healing: 
+
+to call upon and channel the power 
+of the gods. It includes knowledge i TRrEeAaTtIinNgG SEerRIioOuUSs WOoUuNnDdSs 
+of the history, myths, rituals, practices, \ A successful Healing roll restores 1d3 Hit 
+prayers, and powers of the god or pantheon, Points to a Seriously Injured locaton. On a criti- 
+and is essential to Theistic magic, being used to cal success this is raised to 1d3+1. If fumbled, damage is 
+manifest divine miracles. For further details see page increased by 1 Hit Point. 
+178-179 of the Theism chapter. 
+
+TRrEeAaTtIinNgG DIiSsEeAaSsEeSs 
+FoLlk MAaGgIic AanNDd PoOiIssoOnNs 
+
+If Healing is performed 
+
+(PPOOWW+CHAA)) prior to the onset time, it coun- 
+
+Minor, petty magics teracts the disease or toxin 
+are cast using this skill. It entirely, providing it over- 
+represents  the character’s comes the Potency of the 
+
+knowledge  of charms, malady in an opposed roll. 
+cantrips or blessings, and If performed on a character 
+how competent the user is who has already succumbed 
+when casting them. For further to the disease or toxin, a suc- 
+details see page 122 of the Folk cessful Healing roll permits the 
+
+Magic chapter. vicim a new chance to resist, 
+making it one grade easier. A critical 
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+success increases it by two grades. A fumble however, makes the Litreerraacy (IINNT x2) 
+resistance roll one grade harder. 
+
+Speaking a language fluently does not mean one can read and 
+
+SuURrGgEeRrYy write it. Literacy is a specific skill, and different cultures and societies 
+
+Surgery is the only way, other than magical healing, that a char- display different levels and approaches towards it. In some, literacy 
+
+acter can recover from a Major Wound. A successful First Aid roll is reserved for the nobility, bureaucratic or religious classes. In others 
+
+is needed to stabilise a Major Wound (see the First Aid skill on page it is unknown with oral traditions prevailing instead. 
+
+41), and then a Healing roll can be made to set a shattered bone, Naturally Literacy is specialised according to its associated lan- 
+
+stitch together the flesh of a stump or excise foreign objects lodged guage, including Native Tongue. Before once can be literate in a 
+
+in tissue, so that the location can begin the road to recovery. Language one must be able to speak it. Literacy cannot exceed the 
+
+As long as the Healing roll is a success, the injured location character’s related Language skill. The skill works similarly to Lan- 
+
+begins to heal as normal for a location suffering a Major Wound (see guage in terms of how much of a document can be comprehended. 
+
+Healing on page 80). On a critical success the location regains 1 Hit Literacy does not necessarily imply writing, as there are an 
+
+Point immediately; whereas on a fumbled Healing roll the patient infinite number of ways to record information. Some cultures might 
+
+must succeed in a Endurance roll or die from the procedure. Surgery carve symbols into trees or lengths of bone, whereas others record 
+
+cannot re-attach a severed limb. history in complex patterns of knots in a tapestry. Neither are all 
+forms of literacy based on phonetic alphabets; hieroglyphs and ideo- 
+
+InNvoOCcAaTtIioOnN (IINNT x2) grams also being commonplace. 
+
+Invocation is a magical skill essential to Sorcery. Itis the sorcerer’s 
+ability to successfully cast spells learned from a particular grimoire LockkrpiickinNgG (DDEX x2) 
+or mentor. It is a combination of understanding the formulae of the Lockpicking is the ability to open a mechanical locking system 
+
+spell, the correct mental state, accompanying gestures and incanta- without the aid of a key or other device made specifically for the 
+
+tions, and so on. Increasing competence in this skill also improves lock. It includes the techniques of levering open bolted or barred 
+
+the final intensity of the spells cast with it. doors and windows without causing damage. The difficulty of the 
+
+Each Invocation skill must be tied to a specific source of sorcer- lock usually depends on the ability of the locksmith who created it, 
+
+ous knowledge, whether that be a particular spellbook, school of requiring an opposed test of Lockpicking versus Mechanisms skill 
+
+wizardry or even a demonic patron. For further details see page 161 of the crafter. 
+
+of the Sorcery chapter. Where no skill value is provided for the lock a Games Master 
+may adjust the difficulty grade of the Lockpicking skill instead, 
+
+LaAnNGgUuAaGgEe (IINNTT++CCHA)) according to the lock’s complexity. A thief attempting to pick an 
+expensive and expertly crafted mechanical doorlock of a kind he 
+
+This skill covers the speaking and comprehension of languages 
+has never seen before, might have to make his Lockpick roll one or 
+
+other than the character’s own. Akin to Native Tongue (see page 
+two grades harder, for example. And some locks — invisible, recessed 
+
+42), the Language skill is not rolled against directly, but is treated 
+bolts and deadlocks — might be impossible to pick. 
+
+as a static representation of overall fluency. Its value is used by the On a critical success the Lockpicker not only opens the lock silently and effi- 
+Games Master to limit the level of spoken interaction when the play- ciently, but subsequent attempt to pick the same kind of lock becomes, for a short 
+ers converse with personalities in the game. Use the Linguistic Flu- while, one grade easter. 
+ency table as a guideline. A failure simply means the lock could not be picked. 
+
+On a_fumble the lock becomes jammed: lockpicks break in the mechanism, or 
+LinNngGuistTic FlLuUeEnNCcYy 
+
+the mechanism s damaged internally. Whatever the cause, the jammed lock wall 
+Language % Conversational Fluency 
+
+ultimately attract attention. 
+01-25% Knows only a few simple words, cannot phrase sentences 
+
+26-50% Can understand and communicate in fragmentary, simple 
+- 0 Lore (IINNT x2) 
+
+sentences, such as “Where temple?” or “How much food? 
+Lore covers a specific body of knowledge which must be chosen 
+
+51-75% Fluent enough for general conversation 
+when the skill is first learned. Astrology, Astronomy, Geography, His- 
+
+Able to express yourself with eloquence 
+76% + tory, Monsters, Mythology, Politics, Strategy and Tactics: these are 
+
+all typical examples of Lore skills. Skill in a Lore means the charac- 
+ter understands its fundamentals, how it can be applied to immedi- 
+
+Each Language skill is specific to a particular national or regional 
+ate challenges and problems, and can use the Lore to recall useful 
+
+language which must be chosen at the time of learning. It can help to 
+information. 
+
+understand similar dialects which share a common linguistic basis or 
+A eritical Lore success grants a high degree of insight into what is being 
+
+origin. Depending on the divergence, the skill roll should be treated 
+studied. It also means that a subsequent skill roll relevant to that Lore becomes one 
+
+at least one grade harder, possibly reducing the character’s fluency. 
+grade easier. For example, a commanding officer who critically succeeds in a Lore 
+
+Language is also used as a cap on verbal skills which require a 
+(Politics) roll knows that not only 1s the approaching troupe part of a diplomatic 
+
+good grasp of language. See Capping Skills on page 50. 
+envoy, but they are mercenaries unhappy with their situation. If he later tries to 
+influence the mercenaries to change sides his roll would become one step easter. 
+
+Failing a Lore roll results in no useful information being gained. 
+
+47
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+A fumbled Lore roll indicates a complete misunderstanding of the subject. A critical success indicates the musician creates music of stunning quality, 
+Facts are wrong, and subsequent skill rolls dependent on the Lore skill’s accuracy elegance or beauty. Any subsequent skill rolls, such as Influence, become one grade 
+become one grade more difficult. easter. 
+
+Failing a Musicianship roll renders in a lacklustre performance. A _fumbled 
+
+MEechHAaNnIisSmMSs (DDEX+INT)) Muswianship roll resulls in a musical disaster. Perhaps the instrument breaks 
+or the prece of music performed is taken as a gross insull. The effects of such a 
+
+Mechanisms represents the knowledge and skill to assemble and 
+lerrible situation need to be determined by the Games Master but, at the very least, 
+
+disassemble mechanical devices, such as traps. The skill of Mecha- 
+represent embarrassment that could influence reputation. 
+
+nisms generally involves the creation of delicate contraptions with 
+small working parts, as opposed to Engineering, which deals with 
+massive constructions. It is a distinct discipline from Lockpicking MyyssTtiicismm (PPOOWW+CON)) 
+and cannot be interchanged with that skill. Mysticism is a magical skill essential to Mystics. It measures their 
+
+The time taken to deal with a mechanism depends entirely on facility to perform superhuman acts through the channelling of 
+its scale and complexity. Repairing a large cartwheel might take inner resources, and either harnessing or suppressing certain pas- 
+half an hour; whilst building a poison-needle trapped lock might sions or concepts. As competence in this skill improves, so does the 
+take an entire week. When deciding on how long a Mechanism skill mystic gradually approach perfection in those skills which are the 
+attempt should take, Games Masters need to consider the size, intri- focus of his training. 
+cacy, tools needed, and any specific conditions. As a rule of thumb, Each Mysticism skill must be tied to a specific foundation of 
+Mechanisms rolls take a minimum of 1d3x10 minutes but this is for mystical knowledge. This can be a religious sect, a book of esoteric 
+simplest and most straightforward of mechanical challenges. The teachings or perhaps a mountain-top residing hermit. The skill is 
+timeframe may very well extend to months. more fully described in the Mysticism chapter on page 155. 
+
+On a critical success the character achieves success i half the usual time, 
+and withf lawless results. Any future rolls attempting lo disable or circumvent the NAaVvIiGgAaTtIioOnN (IINNTT++PPOOW)) 
+Mechanisms are one grade harder. 
+
+Whether using prominent landmarks, the stars or the varying 
+A falure resulls in a device which is temperamental and prone to breaking 
+
+taste of seawater, the ability to accurately direct travel is covered by 
+down; attempts to bypass or render it inoperative are one grade easier. 
+
+the Navigation skill. Each Navigation skill covers a specific region 
+On afumble the mechanism is utterly broken, and has to be thrown away and 
+
+or environment, such as Open Seas or Underground for example. 
+started againfrom scratch. 
+
+It should be made during unusual journeys or when in completely 
+unfamiliar territory. 
+
+MEeDdIitTaAtTiIoOnN (IINNTT++CCOON)) A critical success in Navigation allows the user to locate a shorteut, such as 
+Meditation is the ability to reach a state of deep relaxation and a fast current or hidden pass. 
+
+concentration, through emptying the consciousness of all distrac- Failing the roll results in delays due to uncertainty or temporarily losing the 
+tions: external and internal. Technically a magical skill, it is a fun- path. 
+damental part of Mysticism controlling the depth of focus needed A fumbled Navigation ends up with the user becoming utterly lost, unable to 
+when augmenting skills to superhuman levels. As competence in even backtrack. 
+Meditation improves, the more potent a mystic’s abilities become. 
+
+Being a useful skill, Meditation need not be limited to just mys- ORrAaTtOoRrYy (PPOOWW+CHAA)) 
+tics. Since it helps to shut out distractions and relaxes the body, it 
+
+Oratory is the art of delivering a speech to large group of people 
+allows the user to achieve rest even in the most uncomfortable of 
+
+with the aim of conveying or swaying a point of view. It is a skill 
+locations. A successful roll permits a character to recover Fatigue or 
+
+frequently used by politicians to drive home a policy, but is also used 
+Hit Points in situations normally forbidden by the rules. 
+
+by commanders to inspire troops, and impose discipline on the bat- 
+tlefield. Wherever mass persuasion is needed, Oratory, rather than 
+
+MuusisicciiaNnssHhIiPp (DDEX+CHA)) Influence, is used. 
+Musicianship covers the playing of musical instruments; from a On a critical Oratory roll the orator sways the group completely to his argu- 
+
+simple reed pipe to a complex stringed instrument such as a harp. ment, even winning over the most ardent of detractors. Subsequent rolls related to 
+Each iteration of Musicianship is applied to a group of similar the Oratory are one difficulty grade easer. 
+instruments. A musician who can play a reed pipe can also play a A failed Oratory roll goes nowhere; people are as dispassionate or hostile as 
+flute, panpipes or a recorder because the fundamentals are the same. before. 
+He could not, however, play a harp or lute. On a_fumble, the orator has alienated his audience, perhaps made himself 
+
+The chief groups of instruments are: look foolish, and may even have managed to compel the audience to believe the 
+opposite of what he wanted to convey. Subsequent rolls dependent on the Oratory 
+
+& Bow Strings (violin, cello, fiddle, and so on) 
+become one grade harder. 
+
+« Keyboards (piano, organ, clavinet, and so on) 
+& Percussion (drums, tom-toms, and so on) 
+& Plucked Strings (harp, lyre) SeEaAmMAaNnSsHhIiPp (IINNTT++CCOON)) 
+& Strummed Strings (lute, guitar, banjo etc) This skill is used in exactly the same way as Boating (see page 39) 
+
+& Wind (pipe, flute, trumpet, and so on) but is instead applied to large waterborne vessels powered by sail or 
+banks of oars. It also covers the maintenance and upkeep of a ship: 
+
+48
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+assessing when repairs are needed, where it is safe to anchor, the Failing a Streetwise attempt merely results in wasting the time spent looking. 
+dangers of violent weather, and so forth. A fumbled Streetwise means the character not only fauls to find what is being 
+
+sought, but also comes under unwanted, potentially dangerous attention: from 
+
+SedpucTtionN (IINNTT++CCHA)) local thugs or muggers to the resident militia, depending on curcumstances. 
+
+Seduction is the romantic or sexual persuasion of another per- 
+son, a skill very different to Influence. It uses explicit signals — verbal SurviivaLl (CCOON+POW)) 
+and non-verbal — to elicit a sexually positive response. It also takes This skill covers surviving in a rural or wilderness environment 
+a significant amount of time: successful Seduction may take hours, where the benefits of civilisation are absent: foraging, building a fire, 
+days or weeks to achieve depending on the morals of the target, finding shelter or a safe place to sleep. When properly equipped rolls 
+who always has the opportunity to resist a Seduction attempt with are usually unnecessary since the character may be carrying a tent, 
+Willpower. food supplies, and so on. Only when separated from their equip- 
+
+A critical Seduction rollyields a potent result, entrancing the victim or causing ment or when environmental conditions turn bad does it become 
+them to_fall passionately in love (or lust). Subsequent skill rolls taking advantage essential to utilise this skill. A roll is usually made once per day in 
+of this relationshup become one grade easier. such conditions. 
+
+A failed Seduction leads to the seducer being rebuffed to some degree. A critical success indicates that the character locates a good source of food or 
+A fumble ends up causing emotional hurt or insulting the target. This com- shelter, and does not need to make a_further Survwal rollfor a number of days 
+
+Dletely ruins any further chances of seduction for the time being; it also makes equal to the critical range of his skill (one-tenth). 
+subsequent skill rolls one grade harder. A disastrous Seduction attempt can lead to Farlure results in the character gaining an automatic level off atigue that does 
+intensely grave consequences. not lift until conditions change or the next Survival roll is made. A_fumbled Sur- 
+
+vwal roll ends up with a disastrous accident of some kind; encountering a_fierce 
+
+ShHAaPpIinNgG (IINNTT++PPOOW)) creature, suffering exposure or consuming poisonous. food_for example. 
+
+Shaping is a magical skill that is the counterpart to Invocation. 
+Successfully invoked spells can be manipulated or shaped by the sor- TeachH (IINNTT++CCHA)) 
+cerer to meet specific requirements; extending their range, adding Teach allows the user to pass on their knowledge and techniques 
+multiple targets, increasing duration, and so on. The Sorcery chap- in an easy to understand and constructive manner. Without this skill 
+ter on page 161-162 defines how Shaping works in detail. even the most capable of masters will suffer problems instructing 
+
+others. Similarly to certain other skills, Teach is not rolled against 
+
+SLleEiIgGhHTt (DDEX+CHA)) directly, but acts as a limit to what actually can be taught to more 
+advanced students. For further details see Training on page 73. 
+
+Sleight covers attempts to palm or conceal small objects (leger- 
+demain and prestidigitation), and includes attempts to pick pockets, 
+cut purses or cause a visual distraction. Naturally it is an essential GEeNnEeRrAaLl VvSs.. SPpEeCcIiFfIicC TEeaAcChHIinNgG 
+thieves’ skill. Depending on the amount of complexity Games Masters wish to intro- 
+
+Characters can attempt to manipulate any item as long as it is due, teachers may specialise in a particular area or range of subjects. 
+
+no larger than their hand. Sleight can be attempted with living crea- For example, Kara’s philosophy teacher specialises in Teach (Meerish 
+tures provided that the user has somewhere or something to conceal Philosophy). This covers the teachings of the great Meerish philosophers, 
+
+them with, a hat or baggy sleeve for example, but the skill becomes lastorians, and cult prests. 
+
+one grade harder to perform. Some objects, due to their size and 1If treated in this way Teach can_function almost as a Combat Style, 
+
+mass cannot be manipulated with Sleight at all but require Con- encompassing several different skills or areas of study. A thieves’ cult might 
+
+ceal instead. Observers can pit their Perception skill against Sleight employ teachers who wnstruct in the related arts of Disguise, Stealth, and 
+
+attempts to become aware of the deception. Sleight, under the Teach (The Hidden Path) skill. 
+
+On a critical Sleight success the character has manipulated the object so suc- Culls frequently employ teachers who train therr members in specific 
+
+cessfully that any subsequent attempts to locate it are one grade harder: cult skills (see page 199 of the Cults and Brotherhoods chapter). 
+N f 
+
+Failure means that the object ts not concealed, and will be automatically 
+detected 1f any effort 1s made to locate ut. 
+
+If fumbled, not only is the item unconcealed, but it is dropped or otherwise 
+Jully exposed at a most inopportune moment. 
+
+TrRaAcCkK (IINNTT++CCOON)) 
+STtRreeTtwIiSsEe (PPOOWW+CHAA)) The Track skill is used for tracking any form of game or quarry. 
+
+Streetwise represents knowledge of places and social contacts It uses both obvious and ambiguous signs of passing to remain on 
+within a settlement. It covers everything from identifying potentially the quarry’s trail, including footprints, bruised leaves, scattered pol- 
+dangerous neighbourhoods, to finding local services — legal or ille- len, displaced rocks, and so on; small, tell-tale signs that are invisible 
+gal. How long a Streetwise attempt takes depends on what is sought. to the non-skilled. Track rolls need to be made periodically, espe- 
+Finding a good inn will take less time than locating a fence for stolen cially if conditions change abruptly (a rain shower, for example, 
+goods or a fake trading permit. will disturb certain signs). How often depends on how cunning the 
+
+A critical Streetwise success locates the precise person or place necessary to quarry has been. Conceal rolls can be used to oppose a Track roll. 
+gain what he is seeking for, without unnecessary bribes or intermediary steps, 
+which can result in theformation of a new contact. 
+
+49
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+With a critical success the tracker remains on the trail of someone or some- unaugmented; so Anathaym would still only score a Critical 
+thing not attempting to hide their spooy; wrrespectwe of conditions, and does not success on a roll of 4% or less. 
+need to make any subsequent Track rolls to locate the quarry. & Characters can augment other character’s skills to assist them. 
+
+Failing causes the tracker to lose the trail, forcing them to backtrack in order All the above rules apply, so a character being aided cannot 
+to pick it up again. augment himself in addition. Likewise a character can only 
+
+Fumbling a Track roll loses the trail utterly, forcing the user to abandon the contribute one of his skills to assist another. So, for example, 
+pursuat or hunt. Alternately the tracker may wander blithely into a prepared trap Anathaym, trying to scale a high wall, could have her Athlet- 
+laid by the stalked victim. ics skill augmented by a companion’s Brawn (representing a 
+
+hitch-up). 
+
+TRrAaNnCcEe (PPOOWW+CON)) 
+Trance is a magical skill used by practitioners of Animism to CAaPpPpIinNgG SKkIiLlLlSs 
+
+attain the correct psychological state that permits the perception of, 
+To ‘cap’ a skill with another means that for a particular roll, the 
+
+and transition into, the Spirit World. Further detail on how Trance 
+primary skill is restricted to the value of a secondary skill, providing 
+
+works 1§ given in the Animism chapter beginning on page 130. 
+the latter is lower. This is normally done in situations where a char- 
+acter’s full knowledge or ability is limited by unusual circumstances. 
+
+Capping is a useful alternative to applying a difficulty modifier, 
+
+DIiFfFfeErReEnNTt SIitTuUaAtTiIoOnNSs especially in circumstances where the character is limited by their 
+
+Although the basic rules for using skills in MYTHRAS are very own capability. 
+
+straightforward, there are a multitude of different circumstances 
+that arise during play that require skills to be handled in a slightly ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+different way. The following sections look at these circumstances and Anathaym has a Lore (Strategy, and Tactics) skill of 48% which she 
+
+situations, and show how to handle them. normally rolls without penally when organising battle plans with her native 
+Meerish compatriots. Travelling across the plains of Korath however she us 
+
+REeAaTtTtEemMPpTtIinNgG SKkIiLlLlSs Jorced to use the local language with her hired nomadic bodyguards, in which 
+she if ar lessfluent, knowing only afew basic words — Language (Korathian) 
+
+In some situations a character will fail a skill attempt but be left 
+23%. Spotting an approaching enemy patrol of Zingriffi raiders, Anathaym 
+
+in a situation where he could potentially try again. Example cases 
+attempls lo organise her nomads to lay an ambush. In this circumstance the 
+
+might be picking a lock or attempting to climb a sheer wall. Instead 
+Games Master rules that her halting command of the local language will 
+
+of simply denying any further attempts, kindly Games Masters may 
+prevent Anathaym from being able to clearly explain her plan; capping her 
+
+permit a follow-up, last-ditch attempt. However, the character will 
+Lore (Strategy, and ‘Tactics) skill to the value of her Language (Korathian). 
+
+suffer some trepidation or lack of confidence which increases the 
+difficulty of the skill roll by one grade. 
+
+If this second effort also ends in failure, the character is assumed 
+to have given it his ‘best shot’, and cannot make any further attempts 
+for the foreseeable future. COoNnTtEeSsTtEedD ROoLlLlSs 
+
+Contested Rolls are used whenever a skill is actively resisted by 
+AUuGgMmEeNnTtIinNGg SKkIiLlLlSs an opponent. This can be anything from a character influencing a 
+
+It is possible for one skill to aid another. This is called Augmenting. reticent guard to a sorcerer casting a spell against a monster. There 
+Anathaym, for example, may find herself being chased by nomad are two types of contest: Opposed Rolls and Dfferential Rolls. 
+raiders through countryside she knows well, and they do not. She 
+could, in this case, augment her Drive with her Locale skill, knowl- OppproOsedD RoolLlLls 
+edge of the local terrain giving her an advantage. MyTHRAS frequently pits one skill against another — Stealth ver- 
+
+The Games Master will decide if augmentation is appropri- sus Perception when a thief attempts to cut a nobleman’s purse, 
+
+ate and possible. Any skill being used to augment another must be say; or Deceit versus Insight when the same thief tries to deny the 
+
+appropriate to the circumstances. In Anathaym’s example Locale attempt when he is caught —are good examples of times where skills 
+
+is appropriate because she knows the area. If she was in unfamiliar are matched against each other. These are known as Opposed Rolls, 
+
+territory it would not be permissible. and are used where a challenge will result in either win or lose, pass 
+or fail. 
+
+& Characters can only augment the primary skill with a single An Opposed Roll is determined thus: both participants roll their 
+other skill. respective skills. The winner is the one who gains the better level of 
+
+& An augmenting skill increases the value of the primary skill success. If the participants score the same level of success (a stan- 
+by twice its Critical range (ie, 20% of the skill). So, in Ana- dard success each, or a critical each), then the winner is the one who 
+thaym’s case, using Locale 33% she would increase her Ride has the highest dice roll still within the success range of the skill. 
+by 7%, giving her a Ride of 45%. However, the chances for For example, Lodz, a thief of Meeros, attempts to cut the purse of Senator 
+Ciritical and Fumble are the same as if the primary skill was Odas. Tlus calls for a Sleight roll by Lodz which, the Games Master says, will 
+
+be opposed by Odas’ Perception. The dice are rolled: Lodz scores 45 on his 
+Sleght skill of 70%, and Odas scores 63 on hus Perception of 66%. Both have 
+
+50
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+succeeded in their rolls but, because Odas has rolled higher than Lodz, and is still DIiFfFfEeRrEeNnTtIiaALl ROoLlLlSs 
+within hus skill range, he isjudged the winner. Lodz has successfully cut the purse, Differential rolls are similar to Opposed rolls except that instead 
+but Odas has quite clearly seen him do 1. of a simple win or lose result, the difference in levels of success are 
+
+In a bid to save his skin, Lodz attempts to ke his way out of trouble. “The calculated. Primarily used for the resolution of combat (see page 
+cord snapped, sir”” Lodz protests. I merely caughtyour purse as it dropped, and 94), Differential Rolls can also be used in other situations where the 
+was about lo return it to_you.” This calls for a Decet rollfor Lodz, opposed by Games Master wishes to increase the detailed results of a contest. 
+Odas’ Insight roll. Lodz has Deceit 78%, and rolls 07 — a critical success. Odas A Differential Roll is determined in the following manner: Both 
+has Insight 64%, and rolls 62. Here, Lodz quite clearly has the better level of participants roll against their respective skills and suffer the results of 
+success: a critical against Odas’ standard success. Lodz manages to sweet-talk their roll as if tested in isolation. There is no outright ‘winner’ per se, 
+has way out of a sticky situation, and he walks away thankful, but ruing his bad but whoever gained the higher level of success gains an advantage 
+luck at so nearly being caught. equal to the difference in the success levels between them (assuming 
+
+one participant gains at least a standard success or better). If both 
+If both participants fail in an Opposed Roll then either: participants score the same level of success (a standard success each, 
+
+or a critical each), then there is no additional effect. 
+& Describe the situation, leaving both sides hanging in dramatic 
+
+tension, then re-roll the contest to establish a winner DiirfrfFerReenNtTiIaAlL ROoLlLl REeSsUuLlTtSs 
+& The Games Master should produce some explanation or cir- 
+
+cumstances that suit the nature of the failure Result of  Antagonist Antagonist Antagonist Antagonist 
+Rolls Critical Success Failure Fumble 
+
+In the Lodz and Odas example, both of them failing in the initial 
+rolls would mean that Lodz failed to cut the purse, and Odas failed Protagonist B 2 o ‘ 
+
+Cre[flgolnlx No Benefit Wins 1 level of ~ Wins 2 levels of  Wins 3 levels of 
+to notice him trying: it is easy to re-roll the contest. In the case of e Success Success Success 
+
+Lodz trying to lie his way out of trouble, if both fail in their rolls 
+Protagonist Antagonist Wi i " 
+
+then the Games Master informs the players that both of them are . i No Benefit Wins 1 level of  Wins 2 levels of 
+Success 1 level of Success 
+
+suddenly distracted by the sounds of a skirmish across the market- Success Success 
+
+place as a brawl breaks-out between rival merchants. Lodz can make R Antagonist Antagonist 
+Protagonist . . 
+
+a swift exit, and Odas has his attention absorbed by the merchants’ il Wins 2 levels of ~ Wins 1 level of No Benefit No Benefit 
+
+squabble. e Success Success 
+
+Opposed rolls are frequently used in certain battle situations to P I 1 t . : 
+F"’ a}f; - Wins 3 levels of ~ Wins 2 levels — No Bengfit No Bengfit 
+
+overcome the effects of wounds or oppose a combat special effect. 
+e Success of Success 
+
+They are also used to resist poisons and disease, or shrug off the 
+effects of baleful magic. 
+
+OpppPoOSseEdD SkiiLlLls OVvEeRr 100% 
+OvprpPoOsedD RooOLlLl EXxAaMmPpLlEeSs If the highest skilled participant in an Opposed or Differential 
+Activity Opposing Skill Examples Roll has a skill in excess of 100%, that participant subtracts the dif- 
+Bargaining/Haggling ~ Commerce vs Commerce, Influence vs Commerce ference between 100, and his skill value from the skill of everyone 
+
+Chasing/Racing Athletics vs Athletics, Athletics vs Endurance, Ride vs Ride in the contest, including himself. This reduces the skill value of the 
+
+Deceiving or Lying Deceit vs Insight, Sleight vs Perception opponents but leaves him retaining the advantage. 
+The identification of who has the highest skill must be calculated 
+
+Displaying Loyalty Passion vs Passion, Passion vs Insight, Passion vs Influence 
+after any other modifiers for circumstances have been applied. 
+
+Getting out of the Evade vs Athletics, Evade vs Mechanisms, Evade vs Ride 
+
+Way 
+
+Hiding or Sneaking Stealth vs Perception; Stealth vs Track Grourp RoollLls 
+Pulling Rank Influence vs Willpower, Deceit vs Willpower Group Rolls are a time-saving way for Games Masters to deter- 
+
+Staying the Course Endurance vs Endurance, Endurance vs Brawn mine the success of a group of individuals involved in the same task. 
+There are two separate forms of Group Roll: Team Rolls and Sorting 
+
+Swaying a Crowd Oratory vs Willpower 
+Rolls. 
+
+Test of Strength Brawn vs Brawn, Brawn vs Endurance 
+
+Test of Wills Willpower vs Willpower, Seduction vs Willpower 
+
+SIimMPpLlIifFyYiInNgG SuUBbTtRrAaCcTtIioOnN 
+wWIitThH  SKkIiLlLlSs oOVvEeRr 100% 
+
+Games Masters may find ad hoc subtraction for skills over 100% 
+slows down theflow of their game. As an allernative suggestion, penalties 
+should be rounded up to the nearest 10%. Thus in a conlest involving 
+a skl of say 115%, instead of subtracting 13% from everybody in 
+the contest, the Games Master can simply round the penalty up to 20% 
+
+Nw huch is a faster calculation. r 
+
+ol
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+Team RollLl Games Masters need to judge when to use multiple rolls to a 
+
+In a team test, success 1s co-operative; everyone reaps the ben- group roll. Multiple rolls — one roll for each individual in a group - 
+
+efit from a single success. If the group of bandits hunting Ana- is more realistic, but is time consuming. If it is important to keep a 
+
+thaym are all trying to search for her hiding place in the forest, then game flowing and individual skill successes are not so important, a 
+
+any successful Perception roll will reveal her to all the bandits. The Group Roll is more effective. 
+
+Games Master rolls once for the highest skill in the team (the highest 
+PRrOoPpOoRrTtIioOnNAaLl SKkIiLlLl SUuCcCcEeSsSs 
+
+Perception skill among the bandits, for example), and if the roll is 
+Occasionally it may be necessary to determine the success of 
+
+a success, everybody in the team succeeds. If the roll is a failure, 
+a large group of people performing the same task, in a situation 
+
+everybody fails. 
+in which there is no margin for error. In this case, simply take the 
+
+A ‘reverse’ team test can be used in a situation where one failure 
+skill being used and apply that as the percentage of success for the 
+
+can spell disaster. For example, if a group of hunters are attempting 
+whole group. 
+
+to stalk a deer, any failed Stealth test will startle the quarry. In this 
+For example: a group of 100 troops are attempting to wade across a 
+
+case, the hunter with the lowest Stealth skill rolls a Stealth test. If he 
+Jast-flowing river a short distance from a high and treacherous waterfall. Thus 
+
+succeeds, everyone succeeds. If the roll is a failure, everybody fails. 
+calls for an Athletics skill test. A faled skill test for an individual would result 
+
+SoORrTtIinNgG RoLlLl in thewr being swept away by the current. Rather than rolling 100 skill tests, 
+
+In a sorting test, success is individual. For or using a Group Roll to determine 
+
+example, the same group of bandits are being whether all 100 soldiers make it 
+
+chased by Anathaym, which calls for opposed across, the Games Master can sim- 
+
+Ride tests. Some of the bandits have a Ride Dby rule that the Athletics skillfor the 
+
+skill of 40%, some of 50%, and some of 60%. group represents what proportion of 
+
+The Games Master makes a group roll for the that group successfully completes the 
+
+bandits, which results in a 49. Those with skills task. If the troops have an Athletics 
+
+of 50% or more succeed, while the slower ban- skl of 75, then 75 of them will 
+
+dits - those on a skill of 49 or lower - begin to make 1t to the other side of the rwer, 
+
+fall behind (unless the remainder of the bandits and the remaining 25 will be swept 
+
+slow their progress to allow their fellows to keep away. 
+
+up). 
+
+52
+
+
+
+MYyTtHhRrAaSs::  SKkIiLlLlSs 
+
+SKkIiLlLlSs SuUMmMmAaRrIiEeSs 
+
+StTaAnNdDAaRrdD SKkIiLlLlSs 
+All - Combat  Styles  are Skill Basic Percentage Skill Basic Percentage 
+
+SIR+DEX Athletics STR+DEX Influence CHAx2 
+
+Boating STR+CON Insight INT+POW 
+
+Brawn STR+SIZ Locale INT x2 
+
+Conceal DEX+POW Native Tongue INT+CHA 
+
+Customs INTx2 Perception INT+POW 
+
+Dance DEX+CHA Ride DEX+POW 
+
+Deceit INT+CHA Sing CHA+POW 
+
+Il IDIO3SHROMY Stealth DEX+INT 
+Endurance CON x2 Swim STR+CON 
+
+Evade DEX x2 Unarmed STR+DEX 
+
+First Aid INT+DEX Willpower POW x2 
+
+PRrOoFfEeSsSsiIoOnNAaLl SKkIiLlLlSs 
+Skills in wtalics are used Skill Basic Percentage Skill Basic Percentage 
+
+wm Mage. Acting CHA x2 Literacy INT x2 
+
+L Lo Acrobatics STR+DEX Lockpicking DEX x2 
+Animism: Binding, and 
+Trance Art POW+CHA Lore INT x2 
+
+Binding POW+CHA Mechanisms DEX+INT 
+
+Mpysticism: Meditation Bureaucracy INT x2 Meditation INT+CON 
+
+and Mysticism Commerce INT+CHA Musicianship DEX+CHA 
+
+Courtesy INT+CHA Mpysticism POW+CON 
+
+Theism: Devotion and Craft DEX+INT Navigation INT+POW 
+
+Exhort Culture INT x2 Oratory POW-+CHA 
+Devotion POW+CHA Seamanship INT+CON 
+
+Somer.y: Traocation and Disguise INT+CHA Seduction INT+CHA 
+Shaping Engineering INT x2 Shaping INT+POW 
+
+Exhort INT+CHA Sleight DEX+CHA 
+
+Folk Magic POW+CHA Streetwise POW+CHA 
+
+Gambling INT+POW Survival CON+POW 
+
+Healing INT+POW Teach INT+CHA 
+
+Tnvocation INT x2 Track INT+CON 
+
+Language INT+CHA Trance POW+CON 
+
+PAaSssIioOnNSs 
+
+A person, in a romantic or familial context 30% plus Loved one’s POW+CHA 
+
+A person in a platonic context (a friendship or loyalty, ~ 30% plus Character’s POW, and subject’s CHA 
+for example) 
+
+A person in an averse context 30% plus Character’s POW, and subject’s CHA 
+
+An organisation or group of people 30% plus Character’s POW+INT 
+
+A race or species 30% plus Character’s POW x 2 
+
+A place 30% plus Character’s POW+INT 
+
+An object or substance 30% plus Character’s POW x 2 
+
+A concept or ideal 30% plus Character’s POW+INT 
+
+53
+
+
+

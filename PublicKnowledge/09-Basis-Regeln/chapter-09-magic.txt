@@ -1,0 +1,902 @@
+Mythras:  Magic
+
+% Mo e!  m KW S s A 7 = 17 %X N 
+
+Magic
+
+| TR Mok oo F m KW K I K EA P XN 
+
+agic comes in many forms and derives from numerous 
+sources, but all forms of magic have one thing in com- MAaGgIiCcAaLl DIiSsCcIiPpLlIinNEeSs 
+
+M mon: the ability for the user to overcome or manipu- MyTtHRAS provides rules for five distinct magical types, which 
+late the natural order of the world to achieve specific, supernatural for case of reference are called disciplines. Others exist, and will 
+effects. The theist’s magic derives from the relationship with his god; no doubt be explored in future supplements. Each of the following 
+the sorcerer’s magic derives from the rituals and formulae he has magical disciplines receives its own chapter describing in detail how 
+mastered; the animist’s magic comes from his relationship with the that magic works, how characters come by it, and what spells, spirits 
+spirits; and the mystic’s magic comes from within himself. Despite or other abilities are available. 
+their sources and the relationships that drive them, all these magi- Although each discipline provides a unique and interesting style 
+cians are able to perform remarkable feats that are beyond the capa- of magic, a MYTHRAS campaign does not have to include all five. 
+bilities of non-practitioners. Games Masters should consider whether each discipline is suitable 
+
+for his game setting. A campaign based on an archipelago of tropical 
+islands might only include Animism; whereas a more inclusive game 
+world might be based upon opposing cultures, one dominated by 
+
+TAaIilLoOrRIinNgG MAaGgIiCc sorcerers, and the other theist priests, but both of which also practice 
+Magic is one of the most variable aspects of any roleplaying mysticism in addition. 
+
+game. Whilst elements such as how character generation or combat Note that every discipline of magic has its own strengths and 
+works are ubiquitous no matter what the setting, almost every histor- weaknesses and are not necessarily balanced with one another. The 
+ical and fantasy genre has its own idiosyncratic style of magic — how five core disciplines are: 
+it is prepared, cast, and the scale of effect it can produce. 
+
+To ensure flexible adaptability, magic in MYTHRAS has been given 
+a range of options so that it can support a wide array of settings FoLlk MAaGgIiCc 
+and styles. The following sections describe different alternatives with Tolk Magic is the most basic form of magic available, and is 
+
+which magic can be tweaked. These suggestions are intended to usually associated with hedge wizards, witches, wise women, and so 
+
+inspire Games Masters to create unique magical ecologies, helping forth. These are simple spells and cantrips that offer limited magical 
+
+to overcome issues where a default system may appear at odds with effects and can, where permissible, be used by anyone. Folk Magic is 
+
+the setting concept the Games Master wishes to model. frequently taught by communities from an early age with the types 
+
+Although at first glance the range of options may seem some- of spells reflecting community necessities. This means that the Folk 
+
+what overwhelming, there are in fact only a few core considerations Magic taught by a Barbarian culture will differ to that taught by 
+
+required: a Civilised one. Folk Magic is also taught by some professions or 
+cults to aid their members in their jobs and duties. Folk Magic can 
+
+& What magical disciplines are available? therefore be accessible and available to all — in theory. In practice, 
+& What magical traditions control magic? Tolk Magic might be heavily restricted depending on the campaign 
+& How many magical abilities do traditions provide? setting, 
+& How long does magic take to cast? 
+& How is magical energy generated and recovered? 
+
+ANnIiMmIisSmM 
+& Can characters start with magic? 
+
+A higher magical discipline, Animism is the practice of dealing 
+with the spirit world and spirits that are bound to the mortal realm 
+
+112
+
+L 
+X 
+
+i 
+
+
+
+MYyTtHhRrAaSs::  MAaGgIiCc 
+
+in some form. Animists are shamans and totemists who deliberately 
+develop relationships with spirits to work magical effects, usually on 
+behalf of a community but also for obtaining personal power. Ani- 
+mists believe that all things, be they animate or inanimate, organic 
+or non-organic, are possessed of a spirit or soul. A relationship with 
+that spirit allows its power to be drawn upon and used by the ani- 
+mist. Animism usually teaches a profound respect for the natural 
+and spirit worlds, inculcating in its practitioners a need for restraint 
+and reciprocation. This does not mean, though, that there are no 
+rogue shamans; even animism has its share of selfish individuals pre- 
+pared to ignore this respect in favour of gaining greater personal 
+power at the expense of the spirit world. 
+
+MYysTtIicCiIsSmM 
+Mysticism achieves its effects through a combination of deep 
+
+inner understanding of the fabric of reality, and channelling energy 
+to produce a resulting action. The mystic attains this state of under- 
+standing through constant contemplation of the world around him, 
+discerning its truths and meditating on the very nature of existence. 
+This process is quite often linked with the asking of philosophically 
+challenging questions, but it is more common for the mystic simply 
+to understand both his place in the universe, and how the universe 
+itself is placed. This comprehension forms a path to unlock the mys- 
+tic’s inner potential. Mystics, ultimately, seek to transcend the fetters 
+of the natural world, and achieve a higher state of consciousness 
+that places them directly at one with the forces of the cosmos. The 
+reality though is far more complex, because every accomplished 
+mystic knows that an even higher state of existence can be attained, 
+one that transcends even the powers of the gods. 
+
+SoORrCcEeRrYy 
+Sorcery is the manipulation of underlying laws that directly upon is always based on the nature of the god or pantheon being 
+
+control the very fabric of creation. These formulae are complex worshipped. The strength of devotion to a god has a direct impact 
+equations: a mixture of mathematical, psychological, existential, on the power of the magic worked; assuming that the deity retains 
+and supernatural principals that allow the sorcerer to grasp a por- some awareness of his worshippers, maintaining a cordial relation- 
+tion of reality and bend it to his will. Sorcerers do not need to rely ship with the god is necessary to receive its power. 
+on gods for their powers; nor do they need to engage with spirits 
+to achieve their effects. Their manipulation of these metaphysical 
+equations makes sorcery very powerful and very flexible. However, 
+it also means sorcerers are viewed with suspicion, and even fear and MAaGgIiCcAaLl TRrAaDdIiTtIioOnNSs 
+hatred by those who come by their magic through less direct means. Although people may be born with the capacity to work magic 
+
+And, because sorcerers have little need for gods or spirits, it is not to greater or lesser degrees, the actual skill of using it is normally 
+uncommon for them to develop a certain degree of arrogance and taught and cultivated via some kind of social organisation; such as a 
+disdain for those who choose to venerate such entities. Although cult, order or a mentor. These are known collectively as traditions. 
+some sorcerers maintain a healthy respect for the gods, and may For example, the Cult of Myceras and the Cult of the Seven Badoshi 
+even practice worship themselves, this does not lessen the fact that Devils are both traditions based upon religious organisations, but 
+the sorcerer is, through his magic, attempting to perform acts that worship different gods and teach their priesthoods different miracles. 
+others may consider as the province of greater beings. Some traditions are not limited to providing a single discipline 
+
+of magic, but can combine two or more. A sorcery order could offer 
+
+THhEeIisSmM both Folk Magic and Sorcery to its members; the former providing 
+petty cantrips to lower ranking apprentices, whilst adepts and above 
+
+Theists draw their magic from their gods. Through worship and 
+are taught more potent spells of the higher art. 
+
+devotion, those that dedicate themselves to a deity channel these 
+It should also be noted that membership of a tradition need not 
+
+powers in the form of miracles, and thus gain the ability to work 
+necessarily grant access to magic. One could be a faithful worship- 
+
+similar effects in the mundane world — albeit in a much diluted form. 
+per of Myceras, and hold the rank of lay member in his cult, yet still 
+
+A worshipper of the Storm God might be able to summon lightning; 
+have no ability to cast theistic magic. 
+
+a worshipper of the sun god might be able to create brilliant daylight 
+even in the midst of the blackest night. The magic theists can call 
+
+113
+
+
+
+MYyTtHhRrAaSs::  MAaGgIiCc 
+
+As part of setting up the magical traditions in a campaign Games member of the warrior caste may be restricted to only learning 
+Masters should give some thought to what type of organisation or mysticism. 
+social groups will provide it. Some examples follow. 
+
+SPpEeCcIiEeSs SPpEeCcIiFfIicC 
+Cuutlrts Some races or species are naturally predisposed to magical 
+
+Organised sects who venerate a religion, a philosophy or an indi- knowledge. Elves or satyrs, for instance, are associated with consid- 
+vidual, cults receive a great deal more attention in their own chap- erable magical powers. Within the species magical skills are natural 
+ter. By and large cults only teach magic to their members, and are capabilities that only need training and refinement. Depending on 
+likely to restrict certain types or magic and spells to those who attain what type of magic they were inherently gifted with, the relevant 
+higher ranks within the cult. Cults can teach any kind of magic, magical skills could be considered Standard for that species. Typi- 
+depending on their nature. Some may mix magical styles (theism cally species specific magic tends to be of one type: Folk, Animism 
+and animism, say) whilst others may have only one, and so on. or Theism the most common. Magic such as sorcery and mysticism 
+
+may be learned but is generally not a natural accoutrement. 
+
+GuuIiLlDdSs 
+Guilds are professional bodies that represent and guard mem- ToTtEemMSs 
+
+bers of that occupation. Because they are focused on protecting Many cultures adopt totems or other symbols that become a 
+their market, and because they are concerned with more mundane focus and provider of magical power. The most prevalent exam- 
+skills, guilds are unlikely to offer higher magic, focusing instead on ples are those practicing animism, but there is no reason why totems 
+Tolk Magic — and only those spells of direct use and relevance to the should be confined solely to spirit magic. Sorcery orders may gain 
+profession. their knowledge through totemic practices; and idolatry in theistic 
+
+worship is very similar. Rather than an organised cult of teachers, it 
+
+RoYyAaLlTtYy AanNDd NOoBbLlEe HOoUuSsEeSs is the totem itself which is the channel for magical knowledge and 
+skill, granting magical lore to those that establish suitable bonds with 
+
+Kings, queens and emperors might attain royal power through 
+it or are born into the correct family, tribe or race to understand its 
+
+their command of magic, or through the support of those who wield 
+lore. 
+
+it. In some settings a monarch might be truly a divine appointment, 
+the living representative of a deity in the world. Conversely the 
+power to work magic might be dependent on inheriting the cor- 
+rect noble bloodline. Magic can be of any type, although in most How MAaNnYy ABbILilIiTtIiEeSs? 
+works of fantasy, magic-wielding monarchs tend to be either theists Abilities are the spells, talents, miracles or spirits provided by 
+or sorcerers. Outside the royal sphere magic use may be outlawed: it magical traditions. The number of abilities a tradition offers is com- 
+could be a threat to the monarchy, and thus needs to be suppressed. pletely setting-specific. A world in which cult theocracies rule entire 
+More benevolent monarchs might use magic for the greater good, nations may offer more miracles to its priesthood than a setting 
+but where magic keeps the monarchy in power, it is usual for all where grimoires of sorcery are exceptionally rare, each containing 
+sources of power to be jealously guarded. but a single spell. Several elements can adjust the amount and pro- 
+
+clivity of abilities available to a tradition. 
+
+InNdDIivViIdDuUaALl TEeaACcHhEeRrSs Firstly, traditions normally structure the learning path of the 
+
+The wandering hedge magician, hermit-mage, old and wise magical abilities they provide. Members only gain access to more 
+
+counsellor... fantasy is awash with examples of learned individuals potent magics at higher levels of achievement and rank. For exam- 
+
+who find and mentor an apprentice in the magical arts. Such prac- ple; if a sorcery order knows the particularly deadly spell Wrack, it 
+
+titioners are usually specialists in one form of magic, and may even is highly unlikely that it will be taught to students until they have 
+
+be an established part of a community, training the young adults attained a certain degree of knowledge, maturity and seniority to be 
+
+in those magical powers they will need to continue contributing to entrusted with its power and secrets. 
+
+society, or making their way in the world. Primitive and nomadic Secondly, traditions may teach more than one type of magic. A 
+
+cultures often rely on this form of patronage, lacking the popula- cult might combine Folk Magic with Theism for instance, granting a 
+
+tion numbers and organisation to support more formalised magical broader range of abilities. In this case the Games Master can grant a 
+
+tutoring. similar number of abilities per discipline, or limit the number given 
+to the more powerful one. 
+
+SocciiaALl CAaSsTtEeSs 
+Similar to magic restricted to nobility, social castes can denote 
+
+SPpEeLlLlSs bByY ORrGgAaNnIiSsAaTtIioOnN 
+what type of magic is available or taught to a person depending on 
+
+Medium 
+the birth caste they belong to. Settings with magic limited by social 
+
+Low Magic Magic Magic Rich 
+caste should probably offer a range of different types according to 
+
+Number of spells, 
+birth rank, hereditary lineage or something similar. Someone of the 
+
+spirits, miracles, 
+priestly caste might automatically join the predominant religion and 
+
+talents etc an 1d3 1d3+3 1d3+6 
+be indoctrinated into Theism for example; whereas a lower born 
+
+organisation 
+
+possesses: 
+
+114
+
+
+
+MYyTtHhRrAaSs::  MAaGgIiCc 
+
+A Games Master should consider how versatile he wishes magic THhEe GAaMmEeSs MAaSTstEeRr'’Ss SaAgGaA 
+to be in his setting and adjust the number and availability of abilities Steve designs his campaign to make use of all the avarlable magical disci- 
+to suit. But, as a rule of thumb, use the Spells by Organisation table Dlines, assigning them on the basis of culture and species: 
+as a guide: 
+
+In selecting what magical abilities are available, balance is key. &K Folk Magic is known to all cultures and sapient species 
+
+Just because a spell, miracle, talent or spirit is listed in MYTHRAS &K Animism is practiced by the wild tribes of bestial centaurs, satyrs and 
+
+does not mean that everyone should have access to it. Create spell minotaurs 
+
+lists; choose wisely. Don’t feel compelled to use every ability found &K Mysticism is studied by the remote nomad clans of the high plateau desert 
+
+in these rules. Indeed, some of the magics found in MYTHRAS can &K Sorcery is ostensibly forbidden in all cultures and is rare beyond isolated 
+
+be exceptionally powerful. If Games Masters feel these would desta- individuals 
+
+bilise his game then they should be either be omitted completely, K Theism is_favoured by both the civilised city states (of which Meeros is 
+
+withheld or reserved for potent non-player characters. central), and the barbarian hordes of the Badoshi Warlords. 
+
+Thus it is probably unwise to allow players to devise their own 
+traditions and spell lists — at least not without Games Master guid- 
+ance and approval. MAaGgIiCcAaLl ENnEeRrGgYy 
+
+Although knowledge of magical powers may be prevalent in 
+a setting, it does not automatically follow that the magical energy 
+
+RIiTtUuAaLlIiSsTtIicC required to invoke them is as widespread, or even available. Having 
+ 
+
+the skill to transform a man into a leopard is useless if you don’t have 
+
+CAaSsTtIinNgG TIimMEeSs the energy to cast the spell or request the miracle from the gods. 
+Whilst every character has an attribute known as Magic Points, 
+
+By default each type of magic in MYTHRAS has a casting time of 
+derived from their characteristic POW, this merely represents the 
+
+mere seconds. Whilst this permits magicians to utilise their powers 
+capacity to hold or store magical energy, not necessarily the ability 
+
+more freely, especially in combat situations, it can pose some prob- 
+to generate their own. 
+
+lems when trying to replicate the feeling of extreme effort it often 
+Of all the considerations required to tailor MYTHRAS magic to 
+
+takes for magic to be cast in some genres. 
+a campaign setting, where magical energy comes from (and how to 
+
+There are several methods of handling this issue: 
+recover it) is perhaps the most important. 
+
+& Grant casters the ability to roll an Easy skill check if spending 
+one minute in preparation, or Very Easy if spending an hour, WHhEeRrEe Do MAaGgIiCc 
+but only for the purposes of casting the spell (and any subse- 
+quent resistance checks) Poiints COoMmEe FrRoOmM?? 
+
+& Increase the default base casting time from Turns to Rounds, Magical energy should come from a particular source as defined 
+Minutes, Hours or even Days instead by the campaign setting. The following options need not be generic; 
+
+& As above, but in duress allow a magician to speed up cast- for example some types of magic might require particular sources 
+ing at a skill penalty of one difficulty grade per time frame different from each other. Also the setting might permit a few 
+advanced sources to be used in combination, so that there are several methods 
+
+of gathering Magic Points. 
+Of course ritualistic casting times need not be universally applied 
+
+to all magical disciplines, which can grant one type of magic a sig- & Self: the simplest and most convenient source of Magic 
+nificant speed advantage over others. For example Sorcery and Points, characters generate their own magical energy 
+Animism could have their base casting time increased to minutes, & Sacrifice: magical energy is ‘harvested’ from the sacrifice of 
+whilst Mysticism remains unmodified. This will have a significant on living creatures 
+a campaign setting, but can create some rather unusual, yet enter- & Magical Locations: magic is naturally produced at foci such 
+taining, twists in how magic is utilised. as ley-lines, temples, and the like 
+
+In general, increasing the length of casting times will turn magic & Destruction of an inanimate object: magic may come from 
+into a more thoughtfully applied tool — rather than a method of a ethereal or mineral substance of limited supply, gems for 
+applying greater firepower — and encourages careful planning. It can example 
+generate a huge amount of atmosphere, especially if the magician & Consumption of a substance: the consumption of particu- 
+must augment this preparation time with the inscription of magical lar herbs, narcotics or animal products may provide magical 
+sigils, tossing of powders, use of ritualised objects or even singing energy 
+and dancing. & Veneration: in a similar manner to the worship of gods, 
+
+Games Masters should take care when applying ritualistic cast- magic points might be provided to individuals who tap into, 
+ing times. Although it can add ambience to a setting, players with or become the focus of, organised worship 
+magic-using characters may feel hampered by increased preparation 
+times, and some magical abilities may lose a degree of applicability Characters must have access to the source of their magical 
+
+if they cannot be cast near instantaneously. energy to be able to regain expended Magic Points. If they do not, 
+then points used in the process of casting spells or using magical 
+abilities cannot be regained until the source is obtained. 
+
+115
+
+
+
+MYyTtHhRrAaSs::  MAaGgIiCc 
+
+SEeLlFf travel about with a string of such animals in tow, which will require 
+
+Here, the character attracts and stores magical energy from the care, feeding, guarding, and so on. 
+
+world around him. Recovering Magic Points is simply a matter of Note that those magicians seeking sapient victims for sacrifice 
+
+resting, and letting his body absorb the natural magical emanations had better belong to a culture which supports such activities. Need- 
+
+of the world until his points are restored. He need do nothing else. less killing of prisoners or slaves for the purposes of invoking magic 
+
+This has been considered the default source of Magic Points in other has dark connotations, especially when that magic is used for per- 
+
+games, but Games Masters should not feel limited by it. sonal gain rather than being intended for the care and protection of 
+the community. 
+
+SAaCcRrIiFfIicCeE 
+Sacrifice is a common trope of both the Sword & Sorcery genre MAaGgIiCcAaLl LoOCcAaTtIioONnSs 
+
+and historical religious practices. It requires the ritualised death of Here, a geographical place or physical structure acts as a con- 
+
+a ‘victim’ to produce a number of Magic Points, which can then be duit for natural magical energy which individuals can then absorb, 
+
+sent to an otherworld entity such as a god, spirit or demon in order replenishing diminished resources. The individual must spend a 
+
+to propitiate them; or the magical energy can be absorbed by the given period of time at this location, resting, praying, meditating, 
+
+person performing the sacrifice. and so on, for Magic Points to accrue. How much magic depends on 
+
+The amount of magical energy produced by such an act is an the strength of the place, and its environment. Some locations may 
+
+important consideration. Traditionally the most minimal sacrifices only provide Magic Points to particular types of magical disciplines 
+
+are livestock animals, whilst the most potent are sapient beings. With — ¢.g. druid groves might only produce Magic Points for Animists. 
+
+that in mind, MYTHRAS assumes as a default that the amount of Give a location a Magical Strength of either 25%, 50%, 75% or 
+
+Magic Points harvested by a being’s death is equal to their POW. 100%, depending on its size and importance. The Magical Strength 
+
+This can be raised or lowered as deemed fitting for the setting. is the percentage of a character’s Magic Points that can be regained. 
+
+Although at face value this may appear to provide a boundless Tor example, a character with a normal stock of 16 Magic Points 
+
+source of Magic Points, there are several important limitations to spending time at a shrine with Magical Strength of 25% would only 
+
+keep in mind. Firstly very few cultures or societies have ‘excess’ be able to recover back to a level of four Magic Points; whereas 
+
+livestock available for the purposes of ritual offerings.This is why attending a major temple with Magical Strength 100% would allow 
+
+it is called a sacrifice; because it may cost the community dearly him to restore his full 16 Magic Points. 
+
+to provide an animal from their subsistence level herds or flocks. The amount of time taken to replenish Magic Points should 
+
+In places where animals are freely available for purchase, then the depend on the overall strength of magic in the campaign. See 
+
+requirement becomes a question of finances, as a horse or cow is not Recovering Magic Points below for guidance. 
+
+a cheap commodity. 
+DEeSsTtRrUuCcTtIioOnN aAnNdD COoNnSsUuMmPpTtIioONn 
+
+Secondly each cult is likely to have a specific type of creature it 
+These work in similar ways to Magical Locations. The thing 
+
+requires as the preferred sacrificial victim, meaning that killing the 
+destroyed or consumed should be given a Magical Strength of 25%, 
+
+wrong beast may net the character no Magic Points at all. Even if 
+50%, 75% or 100%, depending on its quality, purity and other cru- 
+
+the correct species of creature is located, it may be required to be 
+cial factors. When destroyed or imbibed, Magic Points are recharged 
+
+in perfect health, possess an unblemished skin, be of a particular 
+back up to the level indicated by the percentage, at the rates sug- 
+
+colour, and so on. Once these factors are taken into consideration, 
+gested in the Recovering Magic Points section.. 
+
+it is doubtful that adventuring priests, sorcerers or shamans would 
+
+HE AMES ASTER'S AGA VEeNnEeRrAaTtIioOnN 
+The Games Master’s Saga
+
+Characters who orchestrate the ceremonial worship of super- 
+Further detailing bs campaign world, Steve develops the traditions which 
+
+natural beings are able to tap into magical energy produced by the 
+will teach and control magic. He constrains the practice of each discipline 
+
+worshippers. Others, who attain the status of heroes and demigods, 
+thusly: 
+
+may even use the veneration of themselves as a source of Magic 
+Folk Magic s taught as both an adjunct to religious cults and via individ- 
+
+Points. The amount of Magical Strength provided by each ritualised 
+ual teachers, such as hedge wizards or witches. 
+
+ceremony is dependent on the number of people who offer venera- 
+Animism can only be learned by those beast races which still possess an 
+
+tion, as follows: 
+amimal affinity to a particular totem spirit. Thus centaurs venerate Great 
+Horse, their species totem, with whom only they can_form a bond. Knowledge 
+
+Less than 100: 25% 
+us tightly held by clan shamans. 
+
+100-999: 50% 
+Mysticism 15 only taught to magically eligible nomads of the correct birth 
+
+1000-9,999: 75% 
+caste; thewr path of mysticism dependent on which astrological conjunction is 
+
+10,000 or more: 100% 
+at the apex of the sky as the chuld emenrgesfrom uts mother. 
+
+Sorcery, forbudden due to its diabolic overtones, s secretly studied by lone 
+practitioners who stumble upon the art, or under the tutelage of recluswe sor- REeCcOoVvEeRrIinNgG MAaGgIiCc POoIiNnTtSs 
+cerers living in remote places. How quickly Magic Points return is vital to the feel of a cam- 
+
+Theism s jealously guarded by the innumerable culls which propitiate the paign. Rapid return allows potent powers to be thrown about with 
+gods. Each of the cily states has its own unique patron deity, the temple to impunity, whereas slow recovery makes each act of magic an import- 
+which acts as the cult centrefor that god. The Badosh: on the other hand have ant decision and rare occurrence. 
+a pantheon of seven demons which is universally worshipped by all the tribes. 
+
+116
+
+
+
+MYyTtHhRrAaSs::  MAaGgIiCc 
+
+The same principle applies to settings where several different 
+How mMAaNnYy MAaGgIiCc POoIiNnTtSs forms of magical power generation exist in parallel. A character 
+
+fFoORr SAaCcRrIiFfIicCiInNgG Aa..... who recuperates at a dolman, performs a sacrifice, and is venerated 
+Sacrificial Magic Points are a perfect way to represent the transference by his army of worshippers may only recover as many Magic Points 
+
+or generation of magical power in many hustorical or gritty Sword & as provided by the most productive of those three sources. 
+
+Sorcery settings. Using this method however, will prompt the frequently Of course, games in which magicians recover Magic Points nat- 
+urally should ignore this rule, at least where it applies to the number 
+
+asked question of “How much magic is this creature worth?’ 
+of Magic Points generated from self. 
+
+As a general rule of thumb, Games Masters should treat tiny animals, 
+
+especially those which can be raised en-mass (such as doves) as capable of 
+RUuNnNnIinNGg Out oFf MAaGgIiCc POoIiNnTtSs 
+
+only producing a single Magic Point. Small animals (snakes, cals etc) as 
+The consequences of running out of Magic Points are, again, a 
+
+only generate 1d3 Magic Points, medium sized creatures (goats, pugs, and 
+campaign decision, and should be dependent on the setting. MyTH- 
+
+50 on) produce 1d6 Magic Points, and large animals (cows, bulls, horses) RAS’s default position is that, when Magic Points reach zero, no more 
+2d6 Magic Points. Only truly huge, magical or sapient creatures should spells or magical abilities can be used, but there are no further con- 
+provide 3d6 MPs or more. sequences for the character. 
+
+N 4 Additional options are offered below: 
+
+Only some sources of Magic Points permit natural recovery: FaAtTiIgGuUEe ACcCcRrUuAaLl 
+
+Self, Locations and Veneration. These assume complete rest, com- Characters can continue to cast magic or use magical abilities, 
+
+fort, and freedom from threat or stress. Camping in an occupied but gain one level of Fatigue for each Magic Point expended in the 
+
+dungeon or resting in the wilderness during the depths of winter spell or ability attempted. Note that in certain circumstances this 
+
+would prevent recovery; whereas returning to somewhere safe and could kill the caster if a fumble is rolled. 
+
+sheltered like an inn would permit it. 
+HIiTt POoIinNTt ATtTtRrIitTiIoOnN 
+
+&1 Magic Point per hour — Good for Magic Rich campaigns As for Fatigue Accrual but, instead, the caster suffers 1 Hit Point 
+& 1 Magic Point per day — Good for Medium Magic campaigns of physical damage to all Hit Locations for each spell or ability 
+& 1 Magic Point per week — Good for Low Magic campaigns attempted, no matter what its potency, magnitude or intensity. The 
+& Magic Points return at particular conjunctions — This option magician can keep on casting spells until he has incurred the equiv- 
+
+is perfect for settings with strong celestial or religious over- alent of a Major Wound, but at this point he is risking imminent 
+tones, the Magic Points of a source only being available at death. Natural healing processes are needed to restore expended Hit 
+specific times, such as those tapped from Veneration occur- Points; they do not regenerate with Magic Points. 
+ring on holy days sacred to that god, or magic from a mega- 
+lithic stone circle flowing when the moon is full. UNnCcOoNnSCscIiOoUuSsNnEeSsSs 
+
+On reaching zero Magic Points the character automatically falls 
+Whilst Medium or Low Magic recovery rates appear to be crip- comatose and remains that way until at least 1 Magic Point has been 
+
+pling for player character magicians, they do emphasise the rarity regained. Depending on the source of Magic Points, this might 
+of magic in some genres. On the other hand they offer a balanced mean extended periods in a coma, or even eventual death if not 
+game when characters have access to some of the most potent spells. cared for in the interim. 
+
+In fact the slow Magic Point recovery of a Low Magic campaign 
+is perfect for campaigns involving antagonists armed with deadly WIiLlLlpPoOwWEeRr 
+magic, allowing characters to survive the wrathful persecution of On reaching zero Magic Points the magician must make a suc- 
+say, a sorcerer, if after casting a couple of powerful spells he has to cessful Willpower roll to remain conscious. He is not prevented from 
+recover for several months before trying his diabolical magic again. trying to cast a new spell, but each subsequent attempt requires a 
+
+Magic Points from other sources can be recovered by performing new Willpower roll, at an additional difficultly penalty. Thus the 
+a ritual sacrifice, formal destruction of certain objects or the relaxed second check is Hard, the third Formidable, and so on. If the magi- 
+imbibing of other substances. Those acts in themselves should cian fails they collapse into unconsciousness for a random number 
+require at least an hour of effort, unless the magician wishes to has- of days up to the number of Willpower checks taken (so failing the 
+ten the experience and risk the loss of the magical energy generated. third check would be 1d3 days of unconsciousness). 
+
+HE ULE OF ECOVERY Endurance or Die
+The Rule of Recovery NDURANCE OR iE 
+
+Reaching zero Magic Points represents the exhaustion of life- 
+As a general guideline, it is suggested that characters cannot 
+
+force. The magician must make a successful Endurance roll or die, 
+recover more Magic Points than what is naturally produced by the 
+
+his psychic reserves having being spent completely. If the magician 
+local environment or their last ‘recharge’. Thus a character who 
+
+rolls a critical success he regains 1 Magic Point immediately. 
+rests in a magical location which can produce 50% of his magical 
+strength, cannot visit several of these places in succession in order 
+
+These options can, of course, be mixed and matched if Games 
+to completely regenerate his Magic Points. Neither can a magician 
+
+Masters desire, creating any number of custom variants that lend 
+sacrifice several goats in sequence and add each offering together to 
+
+a unique feel and character to how magic manifests itself in the 
+fully top up. 
+
+campaign. 
+
+117
+
+
+
+MYyTtHhRrAaSs::  MAaGgIiCc 
+
+Masters may wish to limit the availability of certain abilities accord- 
+CHhAaRrAaCcTtEeRrSs & MAaGgIiCc ing to cult rank, ensuring that characters learn the secrets of their 
+
+MyTHRAS does not automatically assume that everyone can use path in a particular order, and withholding the most potent abilities 
+magic or, even if they can, have access to it. Magic is not a right and until the cult deems them responsible enough to be trusted with such 
+nor should it be. Achieving any skill in magic usually requires follow- knowledge. 
+ing a career that teaches it as a specific discipline. This is certainly The values provided in the table are merely suggestions. These 
+very true of the higher magical paths such as Animism and Sorcery. can be changed if necessary, dependent on the flow of Experience 
+It may be possible for characters to have a smattering of Folk Magic Rolls permitted. Since they are important advancements both to 
+spells if this fits with the setting and level of magic within it. Gen- personal power and progression within a tradition, their costs should 
+erally magic should be something to be marvelled at, respected and be a significant investment. However, a character can break down 
+feared. the total investment of time and Experience Rolls into instalments 
+
+over several sessions of play. 
+
+BEeCccoOmMIinNgG Aa MAaGgIiCcIiaAnN At some point magician characters are likely to have learned all 
+the abilities provided by their cult, school or path. Depending upon 
+
+Unless magic is ubiquitous within a campaign, not all characters 
+the game world, this need not be the end of their magical develop- 
+
+begin with the knowledge or capability to perform magic. As can 
+ment. A character might be able to join a new cult, find another 
+
+be seen in the Careers and Development chapter, the specific skills 
+cache of sequestered knowledge or even seek tuition by a more 
+
+required to learn magic are by default restricted to certain profes- 
+renowned master. Such efforts require the starting of another skill 
+
+sions. Of course that need not be the case in all settings, but it works 
+specific to the philosophy of the new tradition. 
+
+as a general guideline. 
+There are a number of deliberations a Game Master must work 
+
+out prior to allowing magic using characters to be created. ExPpeeErRieIEnNcCeE ROoLlLl AanNDd TIimMEe COoSsTtSs 
+
+Magic Type Experience 
+1Is the ability to use magic restricted to a particular inborn gift? If so: Rolls 
+
+& Does the gift need to be nurtured during childhood to bring it Tolk Magic Cantrip/Charm 3 1 Week 
+
+to fruition, or can it be trained at any time of life? Animism Spirit ) 1 Month 
+
+& How extraordinary is the gift, is it commonplace or ultra rare? Mysticism Talent 5 1 Month 
+
+& Does possession of the gift grant instant access to particular Sorcery Spell 5 1 Month 
+
+cults or brotherhoods? Theism Miracle 5 1 Month 
+
+& Are those that bear the gift persecuted if they do not engage 
+in formal training? 
+
+& If formal training is unavailable, can magicians teach LeEaArRnNIinNgG NEewW TRrAaDdIiTtIioOnNSs 
+themselves? 
+
+Nothing prevents a character from joining a new tradition, pro- 
+
+1f magic is available to anyone provided they have the knowledge then: vided that: 
+
+& Do cults, brotherhoods, and so on restrict access to it to pre- & The new tradition uses the same maggi1c al discippllinnee,,  for exam- 
+
+serve their own power base? ple a theist cult can only join other theistic traditions 
+
+& Ts membership of such an organisation restricted to a certain & There is no antippaatthhy y between the new tradition and anyy  oth- 
+
+social class, career, culture, and so on? ers the character may already be a member of 
+
+& How far is magic taught by the culture the character belongs & The Games Master is willing g too  p permit the character to Jj oin 
+
+to? a new tradition 
+
+This assumes that magic cannot simply be learned by anyone 
+who decides to start studying it. In this case there may be no restric- 
+
+STtaARrTtIinNgG MAaGgIiCc tion to joining traditions which teach new styles of magic, save for 
+Characters permitted to learn magic start with knowing a num- the usual conflicts of interest. Games Masters should beware of 
+
+ber of abilities (spells, miracles, spirits or talents) based upon the characters learning multiple magical disciplines if this does not suit 
+value of the appropriate magical skill in that tradition (Binding, their campaign setting. 
+Devotion, Folk Magic, Invocation or Mysticism). Once the game In general it takes six months of dedicated study and the per- 
+begins they are restricted in what additional abilities they can learn, mission of its highest ranking masters, to gain the new tradition at 
+and when they can learn them. its base percentage, and whatever initial spells or talents the student 
+
+At character generation, a magician character knows one rel- is capable of learning. This costs the same amount of Experience 
+evant spell or ability for each 20% (or part thereof) he has in his Rolls as would normally be required to learn whatever new Pro- 
+magical skill. fessional skills are necessary for that tradition, plus the cost of each 
+
+spell learned. 
+
+LeEaArRnNIinNgG NEewW ABbILilIiTtIiEeSs 
+Once a character enters the game, learning further abilities CRrEeAaTtIinNgG NEewW TRrAaDdIiTtIioOnNSs 
+
+must be paid for by the investment of Experience Rolls, and a com- Some characters may wish to create their own religious or totemic 
+mensurate amount of study time. As previously mentioned, Games cults, sorcery schools, mystical paths or any other type of tradition 
+
+118
+
+
+
+MYyTtHhRrAaSs::  MAaGgIiCc 
+
+they conceive of. Existing traditions are complete philosophies and THhEe GAaMmEeSs MAaSTstEeRr’’Ss SaAgGaA 
+cannot be added to without tremendous research and effort, which Afler choosing what sort of traditions to use, Steve must come to a decision 
+would probably be resisted by the status quo of their masters. How- on how many abilities each magical tradition should provide. Steve decides 
+ever, new traditions can be created with fewer problems, although that he’d like his setting’s cults, schools and paths to grant a wide range of 
+progressing in this manner is inherently more expensive in time and powers. Selecting the Magic Ruch category allows each to provide between 
+effort than following an existing one. 7-9 spells, sparits, and so on; tweaking the actual number dependent on the 
+
+Thus it can sometimes take years, if not a lifetime, of dedicated importance and central role of the tradition. 
+practice to formulate a new tradition in comparison to learning an Since Theism is the dominantf orm of magic in the campaign world, Steve 
+established one. However, the practitioner who successfully creates also grants each divine cult an additional 7-9 Folk Magic charms in addition 
+a new tradition would be its grandmaster and founder, ever remem- lo thewr full range of 7-9 miracles. This substantially augments the potency 
+bered for his efforts. of theistic cults in comparison lo traditions based on other types of magic, but 
+
+Steve thinks it will give his setting a uniquely distinetf lavour: 
+CRrEeAaTtIinNgG NEewW TRrAaDdIiTtIioOnNSs 
+
+Although Steve likes the idea of making all magwc long and difficult to 
+Experience Rolls 
+
+Ability Added Months Required Required cast, he_finally chooses to go with the default casting times but keeping the 
+option to boost the casting chance if spending additional time in preparation; 
+
+Ist 3 7 since he wants magic to be an actwve part of the to-and-fro of combat. 
+2nd 6 13 
+
+3rd 10 19 
+
+4th 15 25 REeSsTtRrIicCtTeEdD ACcTtIioONnSs 
+5th 21 31 
+
+DuuUrrRiInNgG CAaSsTtIinNgG 
+6th 28 37 
+
+Whilst performing magic, no matter what discipline, characters 
+7th 36 43 
+
+are only able to: 
+Each +1 + (Ability Number+1) +6 
+
+& Move at a maximum of walking pace 
+& Perform Free or Reactive Actions 
+
+Therefore characters cannot attack any foes whilst preparing a 
+UssIinNgG MAaGgIiCc spell, or make any attempt to run or indeed perform any other skill. 
+
+MYyTHRAS uses a number of default assumptions concerning the This reflects the deliberation needed to focus on the spell and chan- 
+casting of magic. Since the same fundamental concepts are utilised nel the energy for it to have its desired effect. 
+by each discipline, they have been collated here for easy reference At the Games Master’s discretion, some reactive actions such as 
+and avoid unnecessary duplication. parrying or evading may make completing a spell more difficult due 
+
+The following rules are intended to be globally applied to all of to disruptions incurred to the normally required somatic gestures or 
+the magical disciplines — namely Folk Magic, Animism, Mysticism, mental focus. 
+Sorcery and Theism. However, as with all of the guidelines offered 
+in this chapter, the Games Master is free to tinker with these as InNtTeErRrRuUPpTtIinNgG CAaSsTtIinNgG 
+desired so that they fit with his play style and campaign setting. All types of magic have casting times measured in Turns. This 
+
+means a magician performing more complex invocations can be 
+slowed down in their casting by reacting to threats which eat up their 
+
+CAaSsTtIinNgG REeQqUuIiRrEemMEeNnTtSs 
+available Action Points. However, unless the caster suffers some dra- 
+
+Whether the passionate entreaties of a theist calling upon his god 
+matic shock, all this does is delay the final completion of the magic. 
+
+or the esoteric hand movements of a mystic, all magical disciplines 
+To totally disrupt casting normally requires that the magician be 
+
+are assumed to use ritual words and gestures to aid in the focussing 
+injured or mentally suborned. The chance of this depends on the 
+
+of concentration required for their proper incantation. 
+precise circumstances: 
+
+By default the following freedoms are required: 
+
+& Minor Wounds force the caster to make a Willpower check, 
+& Clear thought, unclouded by detrimental magic, narcotics or 
+
+failure makes the casting one difficulty grade harder 
+emotional stress 
+
+& Serious Wounds force the caster to make a Willpower check, 
+& The ability to gesture or symbolise with at least one free hand 
+
+passing makes the casting one grade harder, whilst failing 
+& The ability to make appropriate vocal sounds to invoke the 
+
+makes it two grades harder 
+formulae or request 
+
+& Major Wounds automatically causes the casting roll to fail 
+& The ability to accurately perceive or sense a potential target, 
+
+& Succumbing to mental domination automatically causes the 
+if the spell has to be targeted 
+
+casting roll to fail 
+Where one or more of these are denied to a magician, each miss- 
+
+ing element increases the difficulty grade of the appropriate magic 
+skill. A hedge wizard who is bound and blindfolded could attempt DiissmmisissiiInNgG ONnE’e'’s OwNn MAaGgIiCc 
+to cast Folk Magic, but does so at a Formidable grade. With enough Characters can dismiss any magic they have personally cast as 
+penalties it may become impossible to perform any form of magic. a Iree Action. No roll is needed for dismissing a spell; simply the 
+
+decision needed to cease its effects. 
+
+119
+
+
+
+MYyTtHhRrAaSs::  MAaGgIiCc 
+
+STtaAcCKkIinNgG MAaGgIiCc THhEe GAaMmEeSs MAaSTstEeRr'’Ss SaAgGaA 
+Continuing hus theme of Sword and Sorcery, Steve decides that magicians 
+
+In all circumstances, magic of different disciplines cannot be 
+are rare and exalted, requiring specialised trainingfrom childhood. Access to 
+
+stacked together to produce greater effects. Thus a Folk Magic spell 
+hagher magical powers s restricted to characters that pursue a spectfic magical 
+
+cannot add its effect to that produced by a theist Miracle for exam- 
+professiwon, spectfically those who take the mystic, priest, sorcerer or shaman 
+
+ple. In addition, magic of the same discipline which has a similar 
+career. However; he likes the idea of Folk Magic being somewhat more com- 
+
+purpose cannot be stacked. So two weapon enhancement magics 
+monplace, but restricted to those who those who devote themselves to a specific 
+
+such as Fireblade and Bladesharp cannot work together. 
+cult or possess a mentor willing to teach them. 
+
+In situations where two incompatible spells are in simultaneous 
+In his game the three main player characters are Anathaym, Kara and 
+
+existence, the magic with the greater Intensity take precedence, sup- 
+Mju. As part of her back-story during character generation, Kara began her 
+
+pressing or subsuming the lesser magic. Where both magics are of 
+adolescent life as a sacred dancer in the temple of Myceras where her natural 
+
+equal Intensity, the newer magic replaces the previous one. 
+affinaty with the god was recognised. So she was trained to enter the preesthood 
+permatting her access to Theism. 
+
+MAaGgNnIiTtUuDdEe AanNDd InNTtEeNnSsIitTyY Mju was born a mountain nomad under the constellation of the Jackal, 
+These two terms are methods of describing the potency of nomenally a lowly caste of hunter-scavengers, but blessed by a lunar eclipse 
+
+magic. Magnitude is used to see how difficult it is to dispel the magic and the falling of seven stars. This auspicious astrological sign destined him 
+whereas Intensity reflects its level of effect. More detail concerning lo be educated as a mystic of the Path of Shadows. 
+these terms is described for each discipline. Of the three only Anathaym starts with no magical skills, having trained 
+
+Although Intensity (and sometimes Magnitude) are based upon since chaldhood to be as great a warrior as herf ather. Since she did not begin 
+the value of a magical skill, they are not modified by any difficulty the campaign as a professional magician she can never adopt any of the higher 
+grades applied to the casting roll. For example, the Intensity of a magical arts, but could stull learn some minor Folk Magic charms if shefinds 
+sorcery spell is one tenth of the sorcerer’s Invocation skill, no matter the right cult to join. 
+whether the casting roll is Easy, Hard or even Herculean.. 
+
+Mjjuu’’s SaAgGaA 
+EnNDdUuRrIinNGg MAaGgIiCc COossTtSs Mju starts the game as a student of the art of mysticism. He has a score 
+
+As a general rule, the Magic Points attribute (or pool) of a magi- 
+i Meditation of 52 %, and Mysticism (Path of Shadows) 57%. Thus 
+
+cian is temporarily reduced by the cost of all his ongoing active he knows three mystical talents (one_for each 20% of his Mysticism skill). 
+magic. He is unable to start recovering Magic Points used to cast a Affler several sessions and the completion of a major adventure, Myu finds 
+spell (or similar ability) until that magic is dismissed or expires. humself with 5 Experience Rolls with which he wishes to learn another of 
+
+the talents taught by the Path of Shadows. The Games Master however says 
+that Mju has already learned all of the talents available to one of his lowly 
+standing. If he wishes to progressf urther; he must prove himself worthy to his 
+guru and be_formally promoted to the rank of disciple. 
+
+Mju sighs patiently, and instead uses the Experience Rolls to improve his 
+other skills, hoping to impress his master by diligently practicing in those areas 
+the old guru is always complaining are lacking 
+
+Later... 
+
+Mju is a faithful disciple of the Path of Shadows, butfinds it does not 
+teach all of the physicalf eats he wishes to learn. Encouraged by hus master; he 
+decides to go into retreat and meditate upon a new path of mysticism. 
+
+Studying on his own, in the remote depths of the desert plateau, Mju 
+notices the plucky hittle mice that scamper and hop amongst the rocks. Exper:- 
+encing an epiphany he uses the rodents as the source of his new path, attempt- 
+ing lo mimic therr abilities. It takes hum 3 months of contemplation and 
+practice, and 7 Experience Rolls, to emerge with his newly developed branch 
+of mysticism, which he names the Path of the Jerboa. This starts at the base 
+Mysticism percentage of POW=+CON; and he gains (chooses) thef urst talent. 
+
+Seeking to_further his path, Mju remains in isolation, spending another 
+6 months and 13 Experience Rolls o add a second talent. At this point he 
+Jeels he has done enough and must now see how his new path will serve him 
+in the world. 
+
+120
+
+
+

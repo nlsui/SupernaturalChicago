@@ -1,0 +1,933 @@
+Mythras:  Folk Magic
+
+| U G S [ R L L= = 1 1 LU SO QR <N < A o B | = < <Gl 
+
+Folk Magic
+| U G S [ R L L= = 1 1 I & KB A B« 7 o XN 
+
+olk Magic is the lowest level of magic available to MYTHRAS 
+
+F characters. Depending on the setting Folk Magic represents: AccCcEesss TtoO FoOLlkK MAaGgIiCc 
+Given its nature Folk Magic can be accessed in a number of dif- 
+
+& Simple cantrips and spells taught within a community to aid 
+ferent ways: 
+
+daily chores and tasks 
+& The magic of hedge wizards and witches who have not & Through a culture reflecting secrets known by a social group. 
+
+exposed themselves to the higher forms of magic & Through a career representing knowledge used by a vocation. 
+& A magical tradition with wide accessibility but a relatively low & Through a cult or brotherhood that has, over time, mastered 
+
+level of power these magical forces. 
+& Through an individual practitioner who may be willing to 
+
+Although Folk Magic might appear to be weak in comparison 
+share their knowledge. 
+
+with magical approaches such as animism, theism and sorcery it can, 
+& Through self-realisation from study or inner connection with 
+
+if used wisely, be a very powerful tool. The balance comes in its rel- 
+the world about them. 
+
+ative ubiquity: Folk Magic may be more commonplace and easier to 
+learn which leads to a wider range of use whilst not necessarily being Games Masters need to decide how Folk Magic is made available. 
+confined to specialists. It might be very common, with every cultural group having access to 
+
+certain spells that aid and support daily life. Or it might be restricted 
+to specific groups or individuals, with the uninitiated aware of its 
+
+THhEe NAaTtUuRrEe oOFf existence but unable to use it. Depending on the campaign setting, 
+not every character can or should have access to magic. 
+
+FoilLk MAaGgIiCc 
+Tolk Magic is an unseen force that permeates the world and is STtaARrTtIinNgG FoOLlkK MAaGgIiCc 
+
+not derived from the gods but is an echo of the very earliest stages of As an exception to the general rule of thumb, characters from 
+
+creation. Maybe it comes from life force, geomancy or perhaps the careers which specialise in Folk Magic may start with a number of 
+
+cosmic radiance of constellations, but, whatever its source, its power spells equal to one tenth of their Folk Magic skill. 
+
+is ubiquitous to those who know how to tap it. In campaigns where everyday people are permitted to pick up 
+
+Tolk Magicians have attuned their senses to this faint resonance, the skill as a hobby or as part of their cult or culture, non-magi- 
+
+tapping into the background energy to work magic on mundane cal career characters only start with the default number of spells as 
+
+things around them. In worlds where magic is limited, these magi- described in the previous chapter (see Starting Magic on page 118). 
+
+cians are valued for the small charms and blessings they can provide These default values may be changed as the Games Master 
+
+to their community. In settings where it is more commonplace, peo- desires. 
+
+ple use petty magics to ease their lives, aiding them in daily chores. 
+Since the focus of Folk Magic is to reduce effort or augment com- LeEaArRnNIinNgG FoOLlkK MAaGgIiCc 
+
+fort, few of its spells are overtly specialised in the ways of death and Folk Magic is usually taught by someone skilled in its use. If avail- 
+combat. Those arts are left to practitioners of higher magics. able culturally or professionally then such teachers are likely to have 
+
+taught Folk Magic during a character’s formative years. If being 
+learned during the course of a campaign, it costs three Experience 
+Rolls, and takes one week to learn a new Folk Magic spell. 
+
+121
+
+
+
+MyyTtHhRrAaSs::  FoOLlkK MAaGgIiCc 
+
+Learning spells may also come with a monetary cost — depending Career Suggested Folk Magic 
+on the teacher and perhaps the spell. Precise costs will be dependent 
+
+Bladesharp, Find, Mobility, Pathway, Preserve, Slow, 
+on circumstances, but as a general rule it costs 100 Silver of goods or Hunter i 
+
+Speedart, Vigour, Warmth 
+services per spell. Games Masters should adjust the base cost accord- 
+
+Alarm, Appraise, Calculate, Cleanse, Find, Glamour, 
+ing to how common lolk Magic is generally, who is teaching it, and Merchant . 
+
+Lock, Translate, Voice 
+whether or not the student has the benefit of cult or brotherhood 
+
+. Bludgeon, Breath, Find, Ignite, Light, Might, Pierce, 
+membership, special friendships, and so on. Tuition in Folk Magic Miner Lo 
+
+Repair, Vigour 
+may also be free in certain circumstances: attaining a particular rank 
+
+i Avert, Befuddle, Demoralise, Find, Heal, Mindspeech, 
+in a cult, say, or in recognition of services rendered. Mystic S . o B 
+
+Spiritshield, Vigour, Witchsight 
+Tor example a Healing cult might offer tuition in the Heal spell at 
+
+. Alarm, Calculate, Find, Glamour, Lock, Mindspeech, 
+arate of 50 Silvers to its members; whereas a local witch might offer Official . . . 
+
+Translate, Ventriloquism, Voice 
+to teach the spell at a base rate of 150 Silvers to the same student. A 
+mother might even offer to teach her child the spell for free when he . Breath, Calm, Cleanse, Cool, Find, Heal, Preserve, Sleep, 
+
+Physician 
+Warmth 
+
+or she leaves home for the wide world. 
+If a Games Master wishes, professional folk magicians may Priest Any 
+
+develop new spells for a suitable cost in Experience Rolls and time. ol Bladesharp, Deflect, Dry, Extinguish, Find, Pierce, Repair, 
+ailor 
+
+As a rough guideline, use the incrementing costs as presented on the Vigour, Warmth 
+
+Creating New Traditions table on page 119. Appraise, Calculate, Calm, Extinguish, Find, Mindspeech, 
+Scholar . . 
+
+Tidy, Translate, Voice 
+
+. Bladesharp, Bypass, Find, Incognito, Mobility, Pathway, 
+cout 
+
+UsbiiQquuiTittoous Speedart, Vigour, Warmth 
+
+Shaman Any 
+
+FoilLk MAaGgIiCc Sorcerer Any 
+
+Thicf Bypass, Coordination, Darkness, Demoralise, Find, Glue, 
+The table below is included for those campaigns where Folk ie 
+
+Knock, Mobility, Ventriloquism 
+Magic is available to common folk, rather than being restricted to 
+
+. Bladesharp, Bludgeon, Coordination, Fanaticism, 
+specialist hedge wizards and witches. Fach of the standard careers Warrior 
+
+Firearrow, Fireblade, Find, Protection, Vigour 
+has been presented with a list of generic spells useful to that partic- 
+ular profession. 
+
+Note: In regions predisposed to great heat rather than winter cold, any career offering 
+Some spells are more prevalent than others, and Games Mas- 
+
+Warmth as a spell can substitute itfor Cool instead (and vice-versa). 
+ters are encouraged to tweak the lists to fit their campaign. For 
+example, ostensibly similar careers may differ by one or two spells 
+depending on the background culture and environment. Some of 
+the rarer spells may be available to members of particular cults or UssIinNgG FoLlkK MAaGgIiCc 
+brotherhoods. Tolk Magic takes only a single Turn to cast.Each spell costs one 
+
+Magic Point which is deducted from the Magic Point total when- 
+CAaRrEeEeRr--SSPpEeCcIiFfIicC FoOLlkK MAaGgIiCc SPpEeLlLlSs ever it is successfully cast. Casting any spell successfully requires a 
+
+Career Suggested Folk Magic Tolk Magic roll. The Folk Magic skill covers every spell a character 
+
+Alarm, Befuddle, Bladesharp, Bypass, Find, Incognito, knows. Thus, a character with Folk Magic 70% would cast all their 
+Agent - . 
+
+Knock, Mimic, Ventriloquism Tolk Magic spells at this level: Folk Magic spells do not have discrete 
+skill ratings. 
+
+Alchemist Any 
+If the Folk Magic roll is a... 
+
+Beastcall, Find, Might, Mobility, Pathway, Pet, Slow, 
+Beast Handler i 
+
+Speedart, Vigour & Critical Success: the spell’s Magic Point cost is zero. 
+Alarm, Appraise, Befuddle, Calm, Cleanse, Find, & Success: the caster loses | Magic Point and the spell works 
+
+Courtesan 
+Glamour, Sleep, Tune successfully. 
+
+. Babel, Calculate, Calm, Fanaticism, Find, Glamour, & Failure: the caster loses 1 Magic Point, but the spell does not 
+Courtier . . 
+
+Mindspeech, Translate, Voice work. 
+Appraise, Bladesharp, Calculate, Coordination, Find, & Fumble: the caster loses 1d3 Magic Points for the spell and 
+
+Crafter A i . 
+Ironhand, Pierce, Polish, Repair the spell fails to work. 
+
+. Babel, Calm, Find, Glamour, Light, Mimic, Tune, 
+Entertainer i i i Due to their minor or petty nature, all Folk Magic spells have a 
+
+Ventriloquism, Voice 
+default Intensity and Magnitude of 1. 
+
+Beastcall, Bladesharp, Calculate, Find, Might, Preserve, 
+Farmer . 
+
+Repair, Vigour, Warmth 
+
+i Beastcall, Deflect, Dry, Find, Pierce, Preserve, Repair, LimMiiTts TtoO FoOLlkK MAaGgIiCc CAaPpAaCcIiTtYy 
+Fisherman . 
+
+Vigour, Warmth Characters have no actual limit to the number of Folk Magic 
+
+Alarm, Beastcall, Find, Heat, Pathway, Pet, Slow, spells they can learn, provided that the Games Master permits them 
+Herder 
+
+Speedart, Warmth to have access to new ones. Such knowledge might be restricted or 
+unavailable in the game world. 
+
+122
+
+
+
+MyyTtHhRrAaSs::  FOoolLkK MAaGgIiCc 
+
+FoLlk MAaGgIiCc SPpEeLlLlSs ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+Anathaym has never learned any FolkM agic as 1ts teaching has tradition- 
+
+Tolk Magic spells are defined by various traits defining the effects ally been restructed to Meeros’s cults, and the priesthood. However Anathaym’s 
+of the spell, and any particular limitations. Every spell is different sister, Kara, s an acolyte of Myceras, and has been learming Folk Maguc as 
+with some having fewer traits than others. part of her own training 
+
+While Anathaym recovers from the injuries to her right hand, Rara uses 
+
+DuurraaTtIioOnN oOFf FoOLlkK the time to teach her the Bladesharp spell - a useful warrior’s cantrip, and one 
+generally learned by Meeros’s soldiers. 
+
+MAaGgIiCc SPpEeLlLlSs 
+Unless a spell has either the Concentration or Instant traits it has 
+
+TRrIigGgGEerR 
+a natural duration which lasts the entire scene or action for which 
+
+Trigger spells can be cast successfully but have their effects 
+the spell was used. A few spells have custom durations noted in the 
+
+delayed by the caster. If the spell is not triggered during the scene it 
+spell’s definition. For example, using Pathway to traverse a section of 
+
+dissipates naturally. 
+thorny and overgrown woodland would last until the terrain clears, 
+and the spell is no longer necessary. 
+
+TrrRaAIitTSs SPpEeLlLlSs 
+Tolk Magic Traits are as follows: 
+
+ALlaArRmM 
+COoNnCcEeNnTtRrAaTtIioOnN 
+
+Special Duration 
+The spell’s effects remain in place as long as the caster continues 
+
+Casting Alarm on a location such as a room or small clearing 
+to concentrate on maintaining it. Concentration requires the caster 
+
+creates a temporary psychic bond between the area and the caster. 
+to be free of all physical and mental distractions: any such distur- 
+
+If the area is accessed by a living creature with a SIZ greater than 
+bance interrupts the concentration, resulting in the spell’s immediate 
+
+1, the caster is automatically made aware that something has trans- 
+dismissal. 
+
+gressed no matter how great the distance. The Alarm is usually a 
+
+InNsStTaAnNTt distinct tingling sensation or mental twinge which will awaken the 
+
+The spell’s effects happen immediately. It has no duration. caster. Alarm can also be used on an individual object, triggering 
+when touched or moved. 
+
+RAaNnGgEeDd The spell does not determine who or what has crossed the 
+
+Spells with the Ranged trait can be cast at a distance of up to the alarmed threshold, and neither does it prevent ingress. It lasts until 
+
+character’s Folk Magic score in metres. The caster must know the triggered, but the Magic Point used to cast it does not recover until 
+
+location of the target, such as ‘hiding behind the door’: if they are the spell is dismissed or concludes naturally. Once activated Alarm 
+
+unable to directly see or sense the target of the spell, then the Folk must be cast again. 
+
+Magic roll becomes one grade harder. 
+
+APpPpRrAaIiSsEe 
+ReessiistT (EEnNdDUuRrAaNnCcEe,, EVvAaDdEe,, WIiLlLlpPoOWwEeRr)) 
+
+Instant, Touch 
+Any spell that is not readily accepted by a target can be actively 
+
+Appraise allows the immediate assessment of the quality of phys- 
+resisted using either Endurance, Evade or Willpower, as determined 
+
+ical goods of combined ENC or SIZ equal to the caster’s POW. The 
+by this trait. To successfully resist a spell, the target must win an 
+
+spell determines whether or not identical looking items are of the 
+opposed roll of the relevant skill against the caster’s Folk Magic cast- 
+
+same or similar quality, or if one or more is either flawed or of a 
+ing result. If the target fails in the opposed roll then the spell takes 
+
+higher quality. The spell does not work on organic things, only on 
+effect as normal. Note that resisting is usually a passive action if 
+
+inanimate objects. Neither does it determine what flaws or enhance- 
+Endurance or Willpower are the being used. If a spell requires the 
+
+ments are present; merely that they exist. 
+target to Evade then it costs an Action Point to make the Evade 
+attempt. Targets without Action Points to spend in evading will 
+therefore be powerless against the spell’s effect. AVvEeRrTt 
+
+Instant, Ranged 
+
+ToucHh Avert 1s used to dismiss another Folk Magic spell within range. 
+The caster must be in physical contact with the target whilst the Avert can be cast reactively to neutralise offensive spells, by using the 
+
+spell is cast. If a target is intent on resisting physical contact then the Counter Magic Reactive Action. 
+caster will most likely fail to complete his spell unless some specific 
+circumstance prevents the target’s withdrawal, such as surprise or BAaBbBbLlEe 
+the Grip special effect. A touch spell merely needs to contact the 
+
+Resist (Willpower), Touch 
+target or its carried accoutrements in order to work. 
+
+Babble mangles anything spoken by its target. It does not affect 
+what the target is thinking, only what is verbally issued. Thus Babble 
+can seriously disrupt orders being issued by a commanding officer to 
+his troops, but it cannot influence what the commander is thinking 
+
+123
+
+
+
+MyyTtHhRrAaSs::  FoOLlkK MAaGgIiCc 
+
+or his intentions. Depending on the necessity for verbal components, BLluUdDgGEeoOnN 
+Babble may be able to adversely influence spell casting. 
+
+Touch 
+Bludgeon is similar to Bladesharp but used on weapons and tools 
+
+BeasstcaLlLl (XX ) that deal blunt-force trauma rather than cutting or piercing damage. 
+Instant, Ranged, Resist (Willpower) It is normally used to aid with threshing grain, fulling wool, or sim- 
+Beastcall is used to attract a single, specific animal, the type being ilar heavy duty work. 
+
+specified in the spell, within range. The animal summoned cannot 
+be sapient, and it may also resist the spell using its Willpower. If it BRrEeAatThH 
+fails to resist, it is naturally drawn, in a passive fashion, to the caster, 
+
+Touch 
+whereupon the spell dissipates, and the creature acts as it normally 
+
+Breath permits the recipient to hold their breath for an extended 
+would, finding itself in proximity to the caster. Physical obstacles 
+
+period, so that they can temporarily venture into harmful environ- 
+or adverse actions (such as a wall, river or line of spears, or a harsh 
+
+ments, such as underwater; or atmospheres tainted by rock dust, 
+yank on a set of reins or leash) also cause the spell to fail. 
+
+gases, smoke or poisons. The spell lasts for a maximum of half the 
+caster’s POW in minutes, during which time the recipient cannot 
+
+BEeFfuUDdDdLlEe speak or the breath is lost, and they immediately begin to asphyxiate 
+Ranged, Resist (Willpower) (or become poisoned). 
+Befuddle causes confusion within the mind of a corporeal target. 
+
+The subject of the spell has difficulty thinking straight, forgetting ByrpAasss 
+where it is, what it is doing, and why — often lapsing into disassoci- 
+
+Touch, Trigger 
+ated lines of thought. Befuddled targets can still act in self defence, 
+
+Bypass is used to cross the threshold of an area under the effect 
+but cannot initiate any constructive activity until the spell ends. 
+
+of an Alarm spell without triggering the Alarm. When cast the spell 
+Any sort of attack or threatening action instantly breaks the spell, 
+
+is held in preparation, triggering on contact with an Alarm spell. Of 
+whether or not it was directed specifically at the befuddled target. 
+
+course the caster must suspect that an Alarm spell exists in the first 
+place. Bypass does not negate the Alarm, and it must be cast for each 
+
+BLlaADdEeSshHAaRrPp crossing of the Alarm spell’s threshold. 
+Touch 
+Bladesharp is cast on edged and piercing melee weapons. It CAaLlCcUuLlAaTtEe 
+
+increases the damage of a weapon by one dice step, and inciden- 
+Instant, Ranged 
+
+tally leaves the edge honed after the spell concludes. This spell is 
+Calculate allows the immediate calculation of numbers, weight 
+
+often used on tools such as logging axes, ploughs and razors. Thus 
+or size of a thing, be it soldiers amassed in battle formation, the 
+
+casting this spell on a dagger increases it to 1d6+1 damage, whereas 
+length of a rope or weight of a sack of rice. The spell always yields 
+
+the same spell on a great axe would increase it to 2d8+2 damage. 
+a precise quantity, but not value or quality. Only items which are 
+
+(1d4>1d6>1d8>1d10>2d6>2d8>2d10) 
+directly observable (seen, lifted, smelled, and so on), and within 
+range can be calculated. The spell will work when cast on a con- 
+tainer — assuming, of course, that the container is not empty. 
+
+CaAlMm 
+Ranged, Resist (Waillpower) 
+Calm attempts to dampen down the passions or the target, 
+
+perhaps ensuring that a lovesick paramour doesn’t press his suit, 
+a frightened rival doesn’t scream for help or that weapons are not 
+drawn in anger. A calmed person is not otherwise mentally affected, 
+thus any sort of assault or threatening action still permits the target 
+to defend themselves, and even attack, albeit they will do so in a calm 
+and level headed manner. 
+
+CHhIiLlLl 
+Instant, Touch 
+Chill dramatically reduces the temperature of small objects (with 
+
+an ENC no larger than a third of the caster’s POW) down to the 
+temperature of ice water. Useful for rapidly cooling hot items, chill- 
+ing drinks, and so forth. The spell does not freeze an object, and 
+neither does it cause any damage to its structure: it merely renders 
+it very cold. 
+
+124
+
+
+
+MyyTtHhRrAaSs::  FOoolLkK MAaGgIiCc 
+
+CLlEeaANnSsEe DEeMmOoRArLaIliSsEe 
+Instant, Touch Ranged, Resist (Waillpower) 
+Cleanse is used to rid an object, person or small area of dirt, Demoralise temporarily fills the target with a sense of despon- 
+
+grease, grime, bad smells, and so on. It does not organise or tidy the dency towards a particular person, species, situation or object. When 
+target or area; merely cleans them to a spick-and-span state. This confronted with the subject of this despondency, any proactive skill 
+spell is often used to launder clothes. The caster can cleanse an arca attempts made by the afflicted character related to the source are 
+equal to POW in square metres. one grade harder. However a direct assault from the subject instantly 
+
+breaks the spell. 
+
+CooLl Thus a character could be given a demoralising dread of heights, 
+ensuring that any Athletic skill used for climbing or Acrobatics skill 
+
+Concentration, Touch 
+for balancing would be one difficulty grade harder. 
+
+Cool protects the recipient from the effects of muggy atmospheres 
+and heat prostration, guarding them from any Fatigue caused by 
+the natural environment. The spell does not stop the effects of heat DIiSshHEeVvEeLl 
+related magic, but will make any resistance roll one difficulty grade Instant, Touch 
+casier. Someone under the effects of this spell wearing full hoplite Dishevel is the reverse of the Cleanse spell. Objects affected are 
+armour could march through a tropical rain forest during the height immediately covered in grime, dust, cobwebs, and so forth. The 
+of summer without harm. Cool affects a target of SIZ up to the spell can be used to make brand new objects look old and weath- 
+caster’s POW x2. ered or help prevent normally well turned out people from being 
+
+recognised. The caster can dishevel an area equal to POW in square 
+
+COoOoRrDdIiNnAaTtIioOnN metres. 
+
+Touch, Trigger 
+Coordination enhances manual dexterity and agility when per- DIiSsrRuUPpTtIioOnN 
+
+forming a single task. When cast in preparation it permits the recip- Instant, Ranged, Resist (Endurance) 
+ient a chance to re-roll a single skill check where coordination is Disruption is used for damaging or dissembling physical objects 
+required, such as Acrobatics, Lockpicking and so on. The recipient without the need for tools. It is commonly employed to drive off or 
+may choose the better of the two rolls, but the spell is expended in kill living creatures, such as birds or vermin. When successfully cast, 
+the process. Disruption inflicts 1d3 damage to a single random Hit Location or 
+
+the overall Hit Points of an object. In both cases the damage ignores 
+
+CUuRrSsEe any armour or natural protection. 
+
+Special Duration 
+Curse must be cast in combination with a second spell of a Drry 
+
+harmful nature. Its one and only effect is to increase the duration of Instant, Touch 
+the accompanying spell so that it is continuous. This comes at a cost Dry removes all extraneous moisture from an object or person, 
+however, since the Magic Point used to cast the curse does not return either slicking off to form a puddle or evaporating in a cloud of 
+until the caster drops the curse willingly, the curse is dispelled, or the vapour. It is normally used to dry off after heavy rain or help protect 
+spell to which it is bound breaks naturally. Curse is commonly com- equipment from rotting, but has a number of other versatile uses. 
+bined with spells such as Befuddle, Demoralise, Dullblade, Repug- The caster can dry an object up to POW x2 in SIZ. 
+nance, and so on. 
+
+DUuLlLlBbLlaAdDEe 
+DAaRrKkNnEeSsSs Ranged 
+
+Concentration, Ranged Dullblade is the reverse of Bladesharp reducing the keenness of 
+Darkness creates an area of shadow, equal to POW in square weapons and tools. It reduces the damage inflicted by the weapon by 
+
+metres, which suppresses all light within it. This is enough volume one step, and can never keep a sharp edge. 
+to fill a modest room, a length of corridor or form a small cloud if 
+cast outside. All non-magical light, including sunlight, passing into EXxTtIinNgGUuIisShH 
+or present within the boundary is reduced to the equivalent of a 
+
+Instant, Ranged 
+dim glow. 
+
+Extinguish immediately quenches flames and small fires of mod- 
+est size and heat. It is useful for dousing candles, lanterns, torches or 
+
+DEeFfLlEeCcTt small cook fires, but it will not work on magical or larger, more fero- 
+Touch cious conflagrations such as pyres, burning houses or dragon flames. 
+Deflect wards the recipient against tiny impacts of foreign mate- 
+
+rial, such as rain drops, a cloud of midges or even flying grains of 
+sand. The protection is limited to individual objects smaller than a 
+child’s fingernail, and thus cannot prevent normal missile weapons 
+from striking a character. 
+
+125
+
+
+
+MyyTtHhRrAaSs::  FoOLlkK MAaGgIiCc 
+
+FaANnAaTtIicCIisSmM flammable materials alight if held to them for several rounds (see 
+Fire on page 79). Wooden hafted weapons under the effects of Fire- 
+
+Ranged, Resist (Willpower) 
+blade will be consumed as part of the spell. 
+
+Fanaticism is the reverse of Demoralise. It grants the target a 
+wildly excessive or irrational devotion, dedication, or enthusiasm for 
+a particular person, species, situation or object. Its effect is to grant FRrOoSsTtBbIiTtEe 
+the recipient a temporary Passion equal to the Folk Magic skill of Ranged, Resist (Endurance) 
+
+the caster. Fanaticism can be used to counter Demoralise, and vice Trostbite works directly on living, organic tissue, inflicting numb- 
+
+versa. ness and pain in one of the recipient’s extremities, for example fin- 
+gers, toes, buttocks, nose & ears, and so on. The caster must either 
+
+FinndD (XX ) touch a specific extremity or roll randomly if cast at range. If the 
+spell is not resisted the area affected suffers sensory numbness fol- 
+
+Concentration, Ranged, Resist (Special) 
+lowed by lingering pain for the duration, making skill tests utilis- 
+
+Find has many variations, always specific, and learned as sep- 
+ing that location one difficulty grade harder. Frostbite does not deal 
+
+arate spells. Some common examples are given below. It works by 
+direct damage but makes the affected area of limited use for a while. 
+
+attuning to the natural emanations of a creature or thing, alerting 
+Tor instance, a victim suffering frostbite to the buttocks cannot sit 
+
+the caster to its presence within the spell’s range. Find can be blocked 
+without extreme discomfort. 
+
+by dense or thick materials such as metal, or earth and stone at least 
+one metre thick. The spell cannot discern emotions or thoughts. 
+
+Find Arrows: Locates ammunition shot by hunters, which miss GLlaAmMOoUuRr 
+their target. Concentration, Ranged, Resist (Wallpower) 
+
+Find Flaw: Identifies any flaws in an object, such as hidden imper- Glamour makes the target alluring so that people are naturally 
+
+fections or physical damage. attracted to them. The particular nature of the glamour must be 
+
+Find Luvestock:  Locates a particular type of animal. Can be chosen when cast, and can be anything from increased natural 
+
+resisted with Willpower. beauty, a softer more sultry voice or even a seductively perfumed 
+
+Find Loot: Locates precious metals and gems. body scent. Whilst the spell grants no mechanical benefits, it does 
+
+Find Object: Locates a lost personal possession. ensure that the recipient will gain a chance to gather themselves an 
+
+Find Sickness: ldentifies the existence of disease and illness, audience, engage the attention of someone they wish to make con- 
+
+whether magical or mundane. tact with, or provide a distraction enabling accomplices an opportu- 
+nity to perform nefarious deeds. 
+
+FiIrReEaArRrRoOwW 
+Touch GLluEe 
+Firearrow causes all missiles thrown or fired by the recipient to Touch 
+
+burst into flame when released. Ostensibly created to act as a signal Glue cements together two solid, inanimate objects for the dura- 
+
+flare, it has since evolved into a combat magic. Missiles under its tion of the spell, for example a cart wheel to its axle or a door to 
+
+effect add an additional 1d3 damage, but are extinguished if they its frame. Whilst under the effects of the spell the items, no matter 
+
+impale flesh. Those that strike flammable material have how disparate, cannot be parted unless something actively tries 
+
+a chance equal to the caster’s Folk Magic skill of to wrench them apart. In this circumstance the spell has 
+
+setting alight whatever they lodge in, such as a Brawn skill equal to five times the caster’s POW, 
+
+wooden shields, thatched roofs, and so and fails when a superior Brawn is set against 
+
+on. Wooden ammunition is consumed it, defeating it in an opposed roll. Once 
+
+as part of the spell. the spell concludes or fails the items part 
+completely unharmed. 
+
+FIirReEbBlLaAdDEe 
+Touch HEeAaLl 
+Fireblade is similar to Fire- Instant, Touch 
+
+arrow but is instead cast on Heal has several different 
+
+hand tools and melee weap- effects depending on the nature 
+
+ons. The original purpose of of the ailment it is being used on. 
+
+the spell is to sterilise surgical If the subject is suffering from a 
+
+equipment, aid in slash and minor complaint such as a head- 
+
+burn agriculture or provide ache, back pain, hangover, cold, 
+
+illumination during darkness warts, and so on, then the symp- 
+
+without the need to carry toms are immediately lifted. Cast 
+
+an additional light source. If on a location suffering a Minor 
+
+cast on a weapon it inflicts Wound it restores all lost Hit 
+
+an additional 1d3 damage, Points instantly. Against Serious or 
+
+and has the chance of setting Major Wounds no Hit Points are 
+recovered. However the spell will 
+
+
+
+MyyTtHhRrAaSs::  FOoolLkK MAaGgIiCc 
+
+stabilise locations, stop all bleeding, and prevent imminent death directly against a Darkness spell to counter it. In this case both spells 
+from inattention. are consumed, leaving the ambient light to illuminate the area. 
+
+HEeaAtT Lock 
+Instant, Touch Special Duration, Touch 
+
+Heat dramatically increases the temperature of small objects Lock magically secures any device that already has a mechanical 
+(with an ENC no larger than a third of the caster’s POW) up to the bar or lock present. A Locked device can be opened only by the 
+temperature of boiling water. This versatile spell is useful for mulling caster, and cannot be picked by mundane means (such as by a thief 
+wine, cooking food without a fire, or warming a bed prior to sleep. using lock-picks) since the magic renders the mechanism immobile; 
+It does not affect living tissue although it can affect clothing and however it could still be forced open by breaking the object the lock 
+armour, heating it to uncomfortable levels. is set into. The magic remains in place until opened by the caster, 
+
+after which the device must be subject to a further casting of Lock 
+
+IgGnNIitTEe to restore the enchantment. The Magic Point used to cast Lock does 
+not recover until the spell is dismissed or concludes naturally. 
+
+Instant, Ranged 
+
+Ignite only works on flammable inorganic matter, causing a small 
+object or hand-sized area to burst into flame. Depending on what MAaGgNnIiFfYy 
+was set alight, once burning, the flames may then spread unless Concentration 
+quenched or countered in some way. This spell is normally used Magnify allows the caster to see something twice as close as it 
+to light candles, torches or lanterns from afar. It can also be used really is. Useful for close work as well as out in the field. 
+to start a camp or cooking fire in adverse conditions, such as using 
+damp kindling or in strong winds. MiiGgHhTt 
+
+Touch 
+InNcCoOGgNnIitToO Might permits the recipient to engage in impressive acts of phys- 
+
+Resist (Endurance), Touch, Trigger ical brawn. It adds the caster’s POW to the recipient’s STR, but 
+Incognito alters the facial features of the recipient to a bland, only for the purposes of lifting, breaking, and contests of strength 
+
+unmemorable countenance. It does not affect the voice, manner- as defined under the Brawn skill. It does not increase the character’s 
+isms or physical size /presence of the recipient, but ensures that visu- Damage Modifier when inflicting combat damage. 
+ally they do not stand out from the crowd.Anyone under the effects 
+of Incognito is actively ignored by those who might otherwise be Miimiic 
+searching for him; he is simply overlooked and discounted. 
+
+Touch, Trigger 
+Mimic allows the recipient to perfectly mimic the voice and man- 
+
+IrRoOnNhHaAnNdD nerisms of someone the caster has seen and heard personally. It does 
+Touch not affect their physical appearance. 
+Ironhand allows the recipient to hold anything that would oth- 
+
+erwise cause damage (such as extremely hot or cold items, or those MIiNnDdSsPpEeEecChH 
+dripping acid) without causing themselves injury. Thus a user could 
+
+Concentration, Ranged, Resist (Wallpower) 
+grasp a brand from a fire, lift a bubbling cauldron from a spit or 
+
+Mindspeech allows telepathy between the caster and a target, 
+even reach through a steam vent to grab an object on the other side. 
+
+enabling verbal intercourse without needing to speak aloud. The 
+It does not grant total immunity from damage, merely stops it from 
+
+caster and target must share the same language, or else the spell 
+conducting through the skin of the recipient’s hands. The spell does 
+
+will merely transmit unintelligible gobbledegook. Attempting to cast 
+not protect anything worn on the hand, so rings, gloves, and such 
+
+Mindspeech on somebody beyond range automatically fails. 
+like will suffer the effects of the source. 
+
+KNnOoCcKk Moosibuilrity 
+Touch 
+
+Instant, Touch 
+Mobility increases the Movement rate of the recipient by 1d3 
+
+Knock magically unfastens any device that is currently secured 
+metres for the spell’s duration. It is often used by hunters, herders, 
+
+with a mechanical bar or lock. It does not work on magically locked 
+and those secking to escape pursuit. 
+
+objects, only mundane ones. The spell only affects a single fastening, 
+so if there are several locks and bars securing the object, the spell 
+will need to be recast for each one. PaAtThHwWAaYy 
+
+Touch 
+
+LiIgGhHTt Pathway enables the recipient to more easily travel through 
+heavy vegetation, safe from being scratched, snagged or otherwise 
+
+Concentration, Ranged 
+hindered. Under its enchantment Movement rates are not reduced 
+
+Light must be cast on an inanimate object (this could be a branch, 
+in woods, jungles, swamps, and similar overgrown terrain. 
+
+sword blade, spear point, torch, and so on). It produces enough light 
+to illuminate an area as though with a lantern. It can also be cast 
+
+127
+
+
+
+MyyTtHhRrAaSs::  FoOLlkK MAaGgIiCc 
+
+PEerRfFuUmMEe The spell only protects against physical damage so won’t help 
+against events such as fire, choking, and so on. 
+
+Concentration, Ranged, Resist (Willpower) 
+
+Perfume either negates a noxious odour or imbibes an odourless 
+substance with a pleasing fragrance. The spell does not affect the REePpAaIirR 
+properties of the source of a stench (so a rotting carcass is still rotten) Instant, Touch 
+
+- it merely makes its presence tolerable. Repair fixes physical damage to an inanimate object. Each sepa- 
+rate successful casting repairs 1d3 Hit Points of damage. 
+
+PEeTt 
+Concentration, Resist (Willpower), Touch REepPuUgGNnAaNnCcEe 
+Pet allows the caster to take mental control of a small creature, Concentration, Ranged, Resist (Waillpower) 
+
+sending it off to scout, fetch or perform some other complex task. It Repugnance twists the appearance of the target so that they 
+
+can be cast on any creature neither of whose SIZ and INT charac- cause distaste in all those that see, hear or smell them. The partic- 
+
+teristics may exceed half the caster’s CHA. If the targeted creature ular effect must be chosen when cast, and can be anything from a 
+
+is the already the loyal pet of the caster it does not need to resist the great wart on the end of a nose, a high pitched nasal voice or even 
+
+spell. pungent body odour. Whatever is chosen, it will cause people to turn 
+away from the victim or make excuses so as to leave their presence 
+
+PHhAaNnTtaAsSmM as quickly as possible. 
+
+Concentration, Ranged 
+Phantasm allows the caster to weave together insubstantial or ShHoOCcKk 
+
+near weightless objects so that they take a shape or ghostly form. Instant, Ranged, Resist (Evade) 
+
+Thus a spectral figure could be woven from a naturally occurring Shock produces a mild electrical discharge which may be directed 
+
+mist, or a face formed in a pile of dead leaves. Beyond this the spell at living things. The caster must either touch a specific extremity or 
+
+has little effect, save to frighten, intrigue or disconcert those that roll randomly if cast at range. If the spell is not resisted, the shocked 
+
+view it. location is stunned for 1d3 Turns; armour does not protect. The 
+spell makes a loud crack when cast. 
+
+PIieErRcCEe 
+Touch ShHOoVvEe 
+Pierce can be cast on any item with a point, helping it to pene- Instant, Ranged, Resist (Special) 
+
+trate thick surfaces. It is normally used to help sew leather, punch Shove allows the caster to telekinetically move an object by giv- 
+
+holes in metal or hammer pitons into stone. Any weapon or tool ing it a single crude push. The item is not moved with enough force 
+
+enhanced with this spell ignores the first two Armour Points of the to inflict damage, and is still subject to gravity. The spell affects an 
+
+person, creature or object struck. amount of ENC or SIZ equal to the caster’s POW. Living targets 
+can resist with either Endurance or Evade. 
+
+PoLliishH 
+Instant, Touch SLlEeEePp 
+Polish instantly buffs an object of ENC or SIZ of up to the cast- Resist (Endurance), Touch 
+
+er’s POW to a high sheen making it glossy, shiny, and highly desir- Sleep sends its recipient into a deep, peaceful sleep. It has no 
+
+able even if the quality of the article is sub-par. effect on creatures with a SIZ greater than the caster’s POW. Unless 
+the target resists, it slumbers for a number of hours equal to the half 
+
+PRrEeSsEerRvVEe the caster’s POW. However the spell takes 1d3 Rounds to take effect 
+before the target falls unconscious. Any attempt to cast this spell in a 
+
+Instant, Touch 
+combat situation automatically fails. 
+
+Preserve prevents organic matter, both vegetable and animal, 
+from bacterial decay and putrefaction for 1d3 months, by sterilising 
+it. If the material is later smoked, pickled or salted it is preserved SlLooww 
+indefinitely. The spell can halt decay that has begun, but not reverse Ranged, Resist (Endurance) 
+
+it. The caster can affect an amount of organic matter with SIZ or Slow is the direct opposite of Mobility, slowing Movement Rate 
+
+ENC equal to their POW. by 1d3+3 metres, if the target fails to resist. 
+
+PRrOoTtEeCcTtIioOnN SpPeEeEdDaARrTt 
+Touch Instant, Touch, Trigger 
+
+Protection is useful in a wide range of tasks where there is a risk Speedart boosts the velocity of thrown or fired missiles so that 
+
+of accidental injury such as working in a foundry or mine. The first they travel farther before losing efficacy. The spell increases the 
+
+time the character would normally take damage that penetrates effective range by 1.5 times the weapon’s normal distance. 
+
+protective clothing or armour, the Protection spell will trigger, and 
+reduce the damage taken by 1d3 points. The spell then dissipates. 
+
+128
+
+
+
+MyyTtHhRrAaSs::  FOoolLkK MAaGgIiCc 
+
+SPpIirRIitTsShHIieElLdD CRrEeAaTtIinNgG NEewW FoOLlkK MAaGgIiCc SPpEeLlLlSs 
+Concentration, Resist (Willpower), Touch There are doubtless many spells Games Masters may want to introduce that are 
+
+This spell creates a shield around the recipient which deters spir- not covered by those provided in this chapter. If inventing new cantrips, some points to 
+
+its from entering. Any spirit wishing to attack or possess the recipient bear in mind to keep Folk Magic reasonably balanced are: 
+
+must overcome the spell by winning an opposed test of their Will- 
+&K As noted, Folk Magic spells are limited in their effects. Avoid introducing 
+
+power against the caster’s Folk Magic skill. 
+spells that have multiple or far-reaching effects. 
+
+&K Spells are utility-based: that is, to aid a mundane task in some way. Try to 
+
+TidDyY create spells that remain focused on aiding daily life rather than being whole- 
+
+Instant, Ranged sale_forces for destruction. 
+
+Tidy immediately restores a number of items (up to the caster’s & Note that Folk Magic spells do not, by and large, provide skill bonuses or 
+
+POW) within the spell’s range to a neat, tidy, and orderly fashion. penalties. Those that affect living things do so in subtle or limited ways. 
+
+Items larger than 3 ENC are shifted to a more orderly position but K One does not need to create spells that have a measurable game mechanics 
+
+will require manual intervention to tidy properly. effect. Folk Magic spells can provide background colows; flavous; and atmo- 
+
+sphere. Clever magicians will find creative uses for them. 
+
+TIirReE N s 
+Ranged, Resist (Endurance) 
+Tire inflicts one level of Fatigue on the subject unless resisted. VoIiCcEe 
+
+Concentration, Ranged, Resist (Wallpower) 
+TRrAaNnSsLlAaTtEe Voice amplifies the recipient’s intonation and delivery so that it 
+
+Concentration, Resist (Willpower), Touch becomes compelling when issuing verbal commands. All who can 
+Translate permits the caster to understand any language spoken hear the speaker are forced to listen. Their vocalisation also car- 
+
+to him, by setting up a psychic link with the target. The translation ries across and through even the loudest background noise (howling 
+provided is often imperfect, as complex terms or concepts cannot be gales, the roar of a waterfall, the clash of arms on a battlefield) up to 
+comprehended, but it does allow simple communication. The spell arange of ten times the recipient’s CHA in metres. 
+works between sapient creatures with a definite, constructed lan- 
+guage, and still relies on being able to see, hear or otherwise perceive WAaRrMmTtHh 
+the target as in normal conversation. If cast upon a creature of ani- 
+
+Concentration, Touch 
+mal awareness, communication is restricted to the simple reception 
+
+Warmth protects the recipient from the effects of freezing atmo- 
+of emotional state. 
+
+spheres and exposure, and from Fatigue caused by the natural envi- 
+ronment. The spell does not stop the effects of cold-related magic 
+
+TuUNnEe cast at them, but will make any resistance roll one difficulty grade 
+Instant, Touch easier. Thus a person under the effects of this spell could walk about 
+Tune ensures that the musical instrument touched is in perfect on a glacier during midwinter in their underclothes without harm. 
+
+pitch no matter the dampness, temperature or its general condition, Warmth affects an object of SIZ up to the caster’s POW x2. 
+ensuring that the following performance is unaffected. 
+
+WAiTtCcHhSsIigGhHTt 
+VEeNnTtRrIilLoOqQUuIisSmM Ranged, Resist (Waillpower) 
+
+Concentration, Ranged, Resist (Willpower) Witchsight allows the caster to see active magic, enchanted items, 
+Ventriloquism allows the caster to project their voice anywhere and invisible entities (although such things are simply shadowy 
+
+within range. The caster needs only to think the projected words, representations) that lie within range and line of sight. It can also 
+not actually to speak them physically, which can disconcert those penetrate illusions or discern the true guise of shapeshifted crea- 
+unaware of what is going on. If cast upon a living creature, the tures. Beings which wish to remain hidden or disguised must win an 
+caster can take control of their vocal cords, and speak through them opposed test of their Willpower versus the casting roll. 
+instead. 
+
+VIigGoOuURr 
+Touch 
+Vigour makes the recipient feel alive and energetic, being used 
+
+to offset the effects of strenuous physical labour. For the spell’s dura- 
+tion, all Fatigue effects gained from laborious activity are ignored 
+(but return on the spell’s dismissal). It negates the effects of a Tire 
+spell. 
+
+129
+
+
+

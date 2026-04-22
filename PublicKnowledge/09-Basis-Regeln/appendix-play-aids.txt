@@ -1,0 +1,348 @@
+Mythras:  Appendix: Play Aids
+
+BoH X = oM ¥ Gow o Ewm KT KKK EAR LT T XM 
+
+Appendix:L )  
+Play Aids
+
+BoH X = oM ¥ Gow o Ewm KT KKK EAR LT T XM 
+
+ythras has plenty of play aids and resources, many of 
+
+M MYyTtHhRrAaSs EnNEemMYy GEeNnEeRrAaTtoORr 
+ which are free to use or download, and we have listed This online tool rapidly creates statistics for hundreds of Mythras 
+our favourites in this section. Over the next three pages creatures and NPCs. Individual enemies or entire gangs of them 
+
+we also provide a character sheet and a combat tracking sheet; both can be created at the press of a button and then exported to PDF 
+are valuable resources for both players and Games Masters. Feel free if one wishes. 
+to make copious copies of these for personal use. 
+
+Other resources that you may find useful are as follows: LinNnkks TtoO PLlAaYy AIiDdsSs 
+
+MyyYtThHRrAaSs GAaMmEeSs MAaSTstEeRr'’Ss GUuIiDdEe Design Mechanism Website 
+This free PDF collects together all the essential tables and charts www.thedesignmechanism.com/products 
+
+from the game into a handy PDF that can be printed and chopped 
+up to create a custom GM screen. The guide also includes two DrivethruRPG 
+starting scenarios, one of which following Anathaym’s fate after the www.drivethrurpg.com/browse/pub/4057/Design-Mechanism 
+earthquake that shakes Meeros. 
+
+Enemy Generator 
+MYyTtHhRrAaSs ImMPpEeRrAaTtIivVEe 
+
+http://ouropa.planeetta.com/rq_tools/enemygen/ 
+This free booklet is a beginners’ introduction to Mythras. Con- 
+
+densing the rules into less than 50 pages, this is the ideal way for 
+Lulu Webstore 
+
+players and GMs new to Mythras - and d100 gaming in general - to 
+http://www.lulu.com/spotlight/Mythras 
+
+get to grips with the system. Imperative is free to download from 
+the Design Mechanism website, DrivethruRPG, and other online 
+game sites. You can also buy a printed copy from Lulu - see the list 
+of links, opposite. 
+
+MyyYtThHRrAaSs COoMmBbAaTt AppPp 
+Designed for Android, this app presents all the Special Effects in 
+
+an electronic format, showing at a glance what effects are available, 
+what they do, and additional information relating to combat results. 
+It can be downloaded from Google Play. 
+
+MyyTtHhRrAaSs COoMmBbAaTt CAaRrDdSs 
+All the Special Effects presented in a deck of 60 playing cards. 
+
+Fach card deals with a single effect, one side illustrating the effect 
+with an evocative woodcut, and the other side noting the specifics 
+of the effect. Presented as cards, this deck is ideal for those new to 
+Mythras as a handful of effects can be agreed on and held in-hand, 
+thereby focusing choices and making it easier to envisage the effect 
+and when best to use it. It also makes Special Effects even more fun 
+than simply consulting a list. Available from DrivethruRPG. 
+
+301
+
+
+
+i Mythras:  Appendix: Play Aids ™ 
+PLAYER: CHARACTER: 
+
+A0 1 S0 0 N N B 
+
+SPECIES: GENDER: AGE: 
+
+FrAME: CULTURE: 
+
+HEeiGHT: SociaL Crass: yihr 
+LLEEL PR SR e 
+
+WeiGHT: CAREER: 
+. J 
+
+—— NoTes ABOUT BACKGROUND, COMMUNITY & FAMILY ————— — CoNTACTS, ALLIES & ENEMIES — 
+
+_ VAR J 
+
+——— CHARACTERISTICS ATTRIBUTES N MONEY & WEALTH — 
+Original  Max.  Current Original - Current 
+
+ACTION POINTS 
+
+DAMAGE MODIFIER 
+
+EXPERIENCE MODIFIER 
+
+Income Day Week Season Year 
+HEALING RATE ——_ ' 
+
+J 
+INniTiaTIVE BONUS ——+— MaAGIC POINTS —M8M— 
+
+o 1 2 g 4 5 6 7 8 g 10 
+Luck PoiNTs 
+
+o1z 19 14 15 16 17 18 19 20 
+
+CHARISMA MOVEMENT RATE Ese:;l;édge e:;ecti;): 27 28 29 g0 
+A _J 
+
+— STANDARD SKILLS N\ PROTESSIONAL SKILLS N EXPERIENCE ROLLS ————— 
+Skill basic % |4 % Skill basic % 4 % 
+Athletics & STR+DEX (][] o0 _— 
+Bt]:&ling‘ STR + CON E‘ D A— l:‘ l:l P— k J 
+
+Brawn M STR+s1z [ [ o — MAGIC SKiLLS 
+Conceal i DEX+POW [ [  Skill basic % 4 Yo 
+
+Customs INT x2 RN RN Folk Magic oW +cHA [] O 
+
+Dance & DEX+CHA [] [ Od Binding POW+CHA [] [ 
+Deceit INT+CHA [] [] RN Trance con+row [ [] 
+
+Drive & DEX+POW [] [ [ I Meditation coN+INT OO0 
+Endurance coNxe [ [ 0 Mysticism con+pow [ [ 
+
+Evade @ DEXx [ [ Oogd Invocation Ne [0 
+
+First AidB INT + DEX D |:] |:| D Shaping INT + POW D D 
+
+Influence cHAx: (1T Oogd Devotion POW+CHA [] [ 
+
+Insight INT+POW [ ] [] 0 Exhort INT+cHA ] O 
+
+Locale INT x2 RN 0o = 
+
+Perception INT+POW [] [ HEN r— PASSIONS — 
+
+Ride & DEX+POW [J [0 LANGUAGES (INT + CHA) Passion % 
+Sing CHA+POW [ Skill (%] % 
+
+Stealth & DEX+INT (O[O Native T. aad 
+Swim # sTR+coN [J[] RN 
+Unarmed STR + DEX [:| |:] - |:| D 
+
+Willpower POW x2 [:I D L l:‘ D ) L ) 
+
+Ed: Fumbled skill | E: Trained skill | &: Affected by Encumbrance (ENC) | 0: Armour Penalty Design and layout: Pelayo MDC
+
+
+
+My thras:  A) ppendoix:: PLlay Aiipds 
+P EQUIPMENT & ARMOUR e MOVEMENT ————— 
+
+Movement types Move U 
+Walk : 
+
+Sprint* (Move + Ath. %/25% m) x5 -Um 
+
+Equipment ENC 
+
+Armour ENC (Equipped = ENC/2) R ~ Rough or rugged surface — -Dim 
+TOTAL ENC £ Steep surface Un 
+
+o 
+Armour Penalty ()) = armour ENC/5 e o Sheer surface — -Den 
+
+. S| Swimi Do Sum St 
+Hit LocATiONS 4: Athletics critical success: +1 m to base/jump Movement. 
+
+#:hy: PC's height (meters). Minimal run-up = 5 m. 
+dzo Location AP Hit Points Without run-up: halved distance and - /4 m. 
+
+Y Swimming critical success = +1 m. 
+1 2 7 8 g 10 
+
+1G- 20 > (: PC floats and can move. 
+o 
+
+-1 =2 - -8 -9 -10 1: Swimming Move /2-10) = {: Yo T bt s 
+». s rounded down. = ; . 
+
+——— CuLT INFORMATION 
+) r 2 3 4 5 Ranks ¢ Benefits € Restrictions ¢4 Gifts €< Geas 
+
+1315 Right A L) 
+U T -2 -3 -4 5 -6 
+
+1 2 
+
+478 Abdomen U 0 
+S -2 
+
+Max, Current 
+
+OO 
+1 8 e B W k F 
+
+L p ABILITIES 
+———— RESISTANCES Spells € Spirits ¢ Talents ¢ Miracles 
+
+Skill basic % 4 %o . 
+
+Brawn i STR+81Z [ [ = 'é 
+Endurance oNe 0O 'g E; '2'5; % _r-z " 
+
+Willpower oW [ [ O O O O O ) 
+
+-~ COMBAT STYLES 
+Style name Weapons Trait 7] Yo 
+
+[ — 
+[ [— 
+[ [— 
+
+- —_—— < 
+e WEAPONS & SHIELDS % 
+Melee weapons & shields Damage Size Reach Traits Combat Effects AP HP (Max./current) 
+
+X 
+
+/ 
+
+/ 
+
+K 
+
+wA 
+
+K 
+
+. 
+
+Ranged weapons Damage DM Force Load Range Combat Effects Size AP HP (Max./current) 
+
+/ 
+
+X 
+
+S£ d: Fumbled skill | €: Trained skill | &: Affected by Encumbrance (ENC) | U: Armour Penalty 303 Design and layout: Melayo MDCg 
+
+
+
+MyyTtHhRrAaSs::  APpPpEeNnDdIiXx:: PLlAaYy AIiDdSs 
+
+304 
+
+- Round 1 Round 2 Round 3 Round 4 
+
+Strike Creature / NPC Engaged With... Action Points Wounds & Status Action Points Spent Action Points Spent J\cllon Pm““ Spcn( )\ctmn Pmnl'; Spent 
+Rank 1 2 3 4 5 6 1 2 3 45 6 1 4 5 6 
+
+g . 
+(Notes for This Combat Instructions for Use 
+
+Record the name or description of NPCs / Creatures against the 
+Strike Rank Value. Note how many Action Points the opponent has 
+available. Use the relevant columns to note who the NPC / Creatire 
+is engaged with, and what its status is in terms of wounds sustained 
+;Ill(] any ot|1(:r |mp0(tm1t notes, 
+
+For each round shade in or strke through each Action Point box as 
+Action Points are used, denied or cxp{-ndrd. Carry-over Action Point 
+
+\ Usage into the next ronnd where necessary. p, 
+
+
+
+Aythrb athse  aeclzimed fantacy mleplaying game. 
+Frepything you foed for extiling adyamliin 
+
+o Fxntaatse walldn 
+
+fs presiui n one volume. 
+
+X chufisiing woarnbonT A wily Bhbel A gtil sfoorerd® A dgend ol th Gada? 
+
+Iy Adtheraors  define vaurf eharactes B Akl b
+l vt pent alow 
+
+foor insfimlde comilnatofi toabnonsts and cipabalities 
+
+LT ] Wil IKYRIL 
+
+Ay yoius & momath of the seppes foliruing t
+he teepd s ? Brahaps youl ares 
+
+Rarrd oo Teaabeatiai used b b radds ol s anriahilsoary wond o winims of 
+
+ifhe Cacmbi. Alaglee you Ape A ity dwetlere, o e waB i
+U  anad A eiGrs 
+
+of enaliratian, T Alyihees whne you Game front ivas Empartant i whea yuil e 
+
+SR R . ! Bnd 
+
+[ v wospshilgd the mighty Geoif JeUrSt80srm amd W A Y, |;-.-|l'|.
+1|:|-. 
+
+2 EsBower of the Gneat Arovsion SpiriksO? i it that you i the Gaods and 
+e
+
+fllives & e skl parhy seeking vnlig
+hpelmoil aned e i e ayites 
+
+1
+yini Ju;!q i 1he dark amil dire potency il wea
+
+poryt0 Al elo ol et 
+
+e YOUr mags anid your destimy il thro
+uigh theem Bootss §0 Uhe - 
+
+. 
+RGe o the b‘;..,u,!- Lhaiie] W
+
+i  
+
+L' L w i i Tis 
+Py TR vl i 
+
+MualiEes suipgorls ey & elo fapn
+anys fecmy yoniis 
+
+s andd Sapery thamegh de el Fa
+ntasy 
+
+allienare T With miaghc wivh i bt ol vl
+ 
+
+and myechanios 340 T ible and adsprabide, 
+
+Wik Ay ireres o (M0 T COEE Cher waritina 
+
+agid $b0ders ol ik, Yo AN 1|t.|]' 
+
+o ele churad ler dreal R 
+
+P S ates el syl £ 
+Five dhiterond fommis] MR 
+A e seleot e o Croalunes 20 pidnis 
+
+fropn mayth and legend 
+Comnthapaie sduiin fat Gt Mot 
+
+THE ESIGN’ 
+“NMECHANISM 
+e

@@ -1,0 +1,13 @@
+# Zauberei
+
+## Einleitung
+
+Zauberei ist die Technik, magische Effekte durch das Verständnis und die Anwendung transzendenten Wissens hervorzurufen. Sobald ein Zauberer die objektiven Regeln der Realität begreift, kann er sie auf eine wiederholbare und methodische Weise einsetzen. Das bedeutet natürlich nicht, dass ein Zauberer diese grundlegenden Gesetze selbst herleiten kann – nur dass er sie, sobald eine Technik oder Formel erlernt ist, auf eine Vielzahl raffinierter Weisen manipulieren kann.
+
+Der Weg der Zauberei ist oft ein schwieriger, der viel Zeit für Studium und Forschung erfordert. Sogar sein Ruf kann mit einem Element des Misstrauens betrachtet werden, verglichen mit der Verehrung gemeinschaftlicher Götter oder der Ehrerbietung gegenüber Stammesgeistern; da jene, die nicht in seine Geheimnisse eingeweiht sind, dazu neigen, ihm mit Neid oder vielleicht Furcht zu begegnen, besonders wenn der Zauberer ein abweisender Einsiedler ist, der weder die Notwendigkeit noch die Verantwortung gegenüber seiner Gemeinschaft verspürt.
+
+Nicht alle Praktizierenden sind Einzelgänger. Einige nehmen Lehrlinge an, um die Kunst an jene der nächsten Generation weiterzugeben, während andere Schulen oder Gilden gründen, in denen sie ihr Wissen im Austausch gegen gegenseitigen Schutz oder ein gewisses Ansehen teilen. Ausgefeiltere Gesellschaften entwickeln häufig spezialisierte Orden, die ihre Vereinigungen nutzen, um bestimmte Arten von Zauberei als Beruf auszuüben, von umherziehenden Wettermachern bis zu Söldner-Zauberschwertern. Auf ihrem Höhepunkt kann Zauberei sogar dazu verwendet werden, Nationen vor primitiveren Formen der Magie zu schützen oder den Lebensstandard durch die Aufrechterhaltung innovativer Verzauberungen zu steigern.
+
+Obwohl die Fähigkeit, Zauberei zu wirken, je nach Kampagnensetting auf jene beschränkt sein kann, die dazu geboren oder von Kindheit an in der Kunst ausgebildet wurden, ist jeder Zauberspruch lediglich eine Beschwörung, die von jenen Zauberern erlernt werden kann, die bereit sind, die Zeit aufzuwenden, um seine philosophischen Bedeutungen zu begreifen oder zumindest die Methodik auswendig zu lernen. Daher bewahren die meisten Zauberorden die Geheimnisse ihrer mächtigsten Magien gut verborgen, selbst vor ihren eigenen Schülern, aus Angst, dass die Macht des Zaubers missbraucht oder seinen Träger korrumpieren könnte.
+
+Obwohl Zauberei in der Schwert-und-Zauberei-Literatur oft als dunkel oder böse angesehen wird, muss sie es nicht zwingend sein. Zauberei kann wohltuend eingesetzt werden oder eine Schlüsselrolle in Gesellschaften spielen, denen andere Formen der Magie fehlen, abhängig von der Art und Weise, in der der Spielleiter sie präsentieren möchte.

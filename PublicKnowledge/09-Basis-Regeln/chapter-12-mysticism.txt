@@ -1,0 +1,630 @@
+Mythras:  Mysticism
+
+B oF X = oM k¥ NI LA S K K (F & K E B« o XN 
+
+Mysticism
+
+| G S|B Mmoo Em K K KB 3 M Qaw T X W 
+
+ysticism is the implementation of phenomenal abilities 
+MEeDdIitTaAtTiIoOnN (IINNTT++CCOON)) 
+
+by the force of one’s willpower, either via contemplative 
+M Meditation is the ability to reach a state of concentration by 
+
+concentration, or by summoning or suppressing strong 
+removing all extraneous distractions. Once achieved, this higher 
+
+passions. The effects of mysticism can be great if used wisely, but 
+mind state permits the mystic to tap their inner powers, and perform 
+
+despite being modest in comparison to other disciplines in terms of 
+feats of parallel thought impossible to non-mystics. Increasing com- 
+
+flexibility and raw power, it drains the psychic strength of the user 
+petence in Meditation improves the mystic’s ability to concentrate 
+
+quickly. However, the path of mysticism encourages a philosophy of 
+on several mystical abilities simultaneously. 
+
+self improvement, as it augments the natural skills and capabilities 
+A mystic may maintain a cumulative level of Intensity of active 
+
+of the user. 
+talents equal to their Meditation skill divided by 10. Thus, a mystic 
+
+Mystics do not study spells; instead they learn to channel their 
+with Meditation 66% can manifest a maximum Intensity of 7. This 
+
+energies into enhancing their personal capabilities, sometimes far 
+intensity could be applied to a single active talent —in which case no 
+
+outstripping those of their fellows. Through a combination of med- 
+other talents could be used — or split between several talents: Aug- 
+
+itative technique and applied knowledge, mystics can increase their 
+ment X to Intensity 2, Invoke Y at Intensity 1, and Enhance Z to 
+
+likelihood of success with skills, invoke seemingly supernatural pow- 
+Intensity 4 for example. When a talent becomes inactive, its intensity 
+
+ers, and develop incredible reactions to direct threats and other hos- 
+is immediately released, and can be used for something else. 
+
+tile situations. 
+None of this is achieved through overt magic, but by under- 
+
+standing the true nature of his capabilities, focusing on the ener- 
+gies needed, and channelling them in the right way and at the right 
+time to achieve what is needed. By necessity, a mystic’s powers are MEeDdITitAaTtIioONnSs oONn PoOWwEeRr 
+self-centred: they cannot be conferred on others. Mysticism is a very Of all the magic disciplines avarlable in MyTHRAS, mysticism is per- 
+personal journey that only the individual can experience. What he haps the least magical. To an external observer, much of what a mystic us 
+learns on that journey elevates him far above the norm. capable of achieving seems the result of incredible skill or training, rather 
+
+than some supernaturalf orce. The source of a mystic’s power, at least the 
+Magic Points with which ke performs his acts of excellence, lends itself 
+
+SEeeEkKIinNgG TthHE primarily to self generation (see Where Do Magic Points Come From, 
+e page 115). This may contradict or undermine the principles behind the 
+
+TRruUTthH WIiTtHhIinN magical ecology of the setting if the Games Master does not wish a more 
+exotic form of mysticesm. 
+
+The two key skills of mystics are Meditation and Mysticism. 
+As an alternative, mystics may provide thewr own Magic Points by 
+
+Meditation is used to train the mind of a mystic, enabling it to 
+performing long hours of meditation, dance, creating art or even choral 
+
+achieve a state of relaxation and perfect self-belief. It also enables singing, thus keeping the restoration of their power both in check, and also 
+them to be able to concentrate on several activities at once. Mys- 
+
+Ni n keeping with the philosophy of mysticism. ticism represents the depth of knowledge concerning a particular r 
+mystical path, granting knowledge of the esoteric abilities - disci- 
+plines known as talents - available to that philosophy. 
+
+154
+
+
+
+MYyTtHhRrAaSs::  MYySsTtIiCcIisSmM 
+
+Myyssttiicismm (PPOOWW+CON)) Mjjuu’’s SaAgGaA 
+A favthful student of the Path of Shadows, Mju is already in possession 
+
+Mysticism is the knowledge concerning the secret techniques and 
+of the talents Augment Perception, Augment Stealth and Invoke Dark Sight. 
+
+abilities taught to a particular Path of Mystic enlightenment. It not 
+Yet he has been forbudden from learning more of the path’s secret talents until 
+
+only controls the maximum Intensity at which any particular talent 
+he rises to the rank of disciple. To prove himself worthy, Mju s tasked to 
+
+can be implemented, but may also govern how quickly the mystic 
+climb Cloud-reach Mountain a week before the sacredf estival of Sun Return, 
+
+masters each of the talents available to that path. 
+and remain upon is summatf or seven days in deep contemplation of the inner 
+
+Mysticism is used to achieve the following effects: 
+meaning of his path. 
+
+& Augment specific skills by shifting their difficulty grade Mju accepts the challenge, and begins the long trek across the desert of the 
+& Enhance the mystic’s attributes (Damage Modifier, Healing hagh plateau to its northern peaks. He has many adventures along the way, at 
+
+Rate, and so on) one point arding a par of susters who are seeking an ancient temple of Yethus to 
+& Invoke particular traits or abilities clear the ruins of their evil. Eventually he reaches the white tipped mountain, 
+
+carefully scaling its dangerously sheer slopes. The broken off summat s cold, 
+A mystic is limited to using each individual talent at a maxi- 
+
+windswept, and ice covered, but Mju takes this as part of the test, settling 
+mum Intensity of one twentieth of the Mysticism skill from which 
+
+hamselff or days of meditation to wgnore the hardships. 
+it originates. Thus a mystic with 34% in the Path of the Awakening 
+
+During the following days he starts to notice certain oddities about the 
+Dragon would be limited to implementing any of its talents at an 
+
+peak. A slightly rank smell in the brief periods the wind stops blowing Odd 
+Intensity of 2 at most. However, using Meditation he may be able to 
+
+scratches, and perhaps carvings on the rocks which_form a natural amphithe- 
+maintain several of these talents at the same time. 
+
+atre. Even some ragged scraps of what could be brown crusted desert robes 
+Jrozen into the ice. Something about all these hinis at an unforeseen danger, 
+50 Mju augments his Perception skill to keep alert during the remaining days 
+
+PAaTthHSs AanNDd TAaLlEenNTtSs of meditation. 
+
+Each incidence of the Mysticism skill must be tied to a specific On the night of Sun Return hus sharpened hearing picks up the sounds of 
+
+foundation of mystical knowledge, known as a path. These paths are Napping wings. Mju invokes has second talent of Dark Sight, and spots a vast 
+number of winged beasts all headingf or the summiat. In desperation he utilises 
+
+often based on ancient hermetic teachings, passed down in sacred 
+fus last talent to augment lus Stealth skill, squeezing himself into a narrow 
+
+books or by esoteric gurus or secret mountain-top schools. 
+A path contains knowledge of multiple mental disciplines called crevasse on the downwind side of the peak. All that night the assorted griffons, 
+
+talents — namely skill augmentations, trait invocations, and attribute wgart, and giant eagles dance atop the mountain in a great ritual celebration, 
+
+enhancements — which are defined later on in this chapter. There is and at day break, they fly off in different directions. 
+
+no preset limit to the number of talents a path can contain, although When Mju_finally returns to the travelling caravan of his master and 
+
+the mystical school that has developed the path will have imposed its explains in respectful tones the sights he saw, the old guru knows that unlike 
+
+own limitations based on its particular doctrine. Furthermore the many before him, lis student passed the test. Promoted to a disciple of the 
+
+talents contained within a path tend to be linked, and these natural Path of Shadows, Mju us now free to learn the next two talents of his path... 
+
+relationships will impose their own limitations. 
+For example, the Path of Abjuration might include: Augment Endurance, It should be noted that some talents are potentially very power- 
+
+Augment Survwal, Invoke Denwal (Food), Invoke Denal (Water), Invoke Denial ful, and should be considered carefully before being made accessible 
+(Sleep), Enhance Fatigue and Enhance Hit Points. Conversely the Path of Shad- to characters. Games Masters may wish to limit the availability of 
+ows maght offer Augment Perception, Augment Stealth, Augment Ranged Combat certain talents according to cult rank, ensuring that characters learn 
+Style, Invoke Adhesion, Invoke Astral Projection, Invoke Dark Sight and Enhance the secrets of their path in a particular order, and withholding the 
+Fatigue. most potent abilities until the cult deems them responsible enough 
+
+Paths are therefore the mystical equivalent of Combat Styles: to be trusted with such knowledge. 
+diverse talents and abilities folded into the umbrella skill of Mys- Mystic characters begin play with knowledge of a number of 
+ticism. A path is usually tied to a profession or philosophy, and talents equal to one twentieth of their Mysticism skill. These will 
+depending on the setting it might be rare for an adept to learn more generally be the least potent of the talents available to that path, as 
+than one. suited to a low ranking or novice student. 
+
+These different combinations of talents can lend a character 
+some quite remarkable capabilities in a very wide variety of unusual 
+
+Learning Talents
+situations that differ from theism and animism. EARNING ALENTS 
+
+Learning new talents is not just a case of handing over cash as 
+if a financial transaction. Rather it necessitates an investment of 
+time and Experience Rolls as described in the Magic chapter on 
+
+STtaARrTtIinNgG MYySsTtIiCcSs page 118. Even if a character has a sufficient number of Experience 
+
+If a character begins the game as a mystic he must choose one Rolls available, consent to learn a new talent must be sought first 
+
+path to follow that is built from talents either designed by the Games since knowledge of these arts is carefully restricted by the masters 
+
+Master, agreed between the player and Games Master, or chosen of a path. 
+
+from the examples given in the Cults and Brotherhoods chapter. Gaining permission to learn new talents usually requires the 
+
+Only one path can be chosen at this stage but others can potentially mystic to demonstrate a certain base competence in skill, loyalty to 
+
+be learned and developed during the course of play. the master who teaches them, and possibly proof of their readiness 
+
+155
+
+
+
+MYyTtHhRrAaSs::  MYySsTtIiCcIisSmM 
+
+by undertaking a difficult or dangerous test. There are countless Mjuju’’s SaAgGaA 
+ways for a mystical order to winnow out those unworthy of learning As a disciple of the Path of Shadows Mju has learned the talents Aug- 
+their most powerful secrets. Roleplaying the interaction between the ment Perception, Augment Stealth, Invoke Adheswn, Invoke Dark Sight and 
+mystic and his teachers builds the depth of their relationship to that Enhance Fatigue. In addition, afler spending nearly a_year meditating in the 
+path, and can form the basis for adventures. deep desert, he has also created hus own Path of the Jerboa, via which he mas- 
+
+tered the talents of Augment Athletics and Enhance Movement Rate. 
+Tlus gwes lam a lotal of seven talents. However Mju only possesses a 
+
+UssIinNgG MYySsTtIiCcIisSmM POWof 12 which means he may only maintain the concurrent practice of 
+six talents at any time. Afler much thought he decides to drop Enhance Move- 
+
+Mysticism permits some extraordinary powers which can pro- 
+ment Rate from his daily mental exercises and keep the others. If needed he 
+
+duce dramatic results. Although less inherently flexible than sorcery, 
+can resume the practice of enhancing his Movement Rate, restoring the ability 
+
+and less crushing than theism, in their own niche mystics can be 
+afler a week of meditation; but at the cost of dropping another talent from 
+
+formidable foes. Their talents can boost their skills to phenomenal 
+fus repertorre. 
+
+levels, grant them unusual physical or mental abilities, and increase 
+their attributes to those of legendary heroes. 
+
+To gain access to these inner mysteries requires constant and Secondly the mystic must have enough Magic Points remaining 
+
+regular practice. Although expensive in terms of magical strength, to attempt the talent. If too few remain either the talent doesn’t 
+
+being dependent only upon themselves, mystics have no need to work or they may suffer some detrimental effect (see Running out of 
+
+enslave spirits or return to temples to regain their effectiveness. Magic Points page 117). 
+
+Indeed the potent nature of their talents can pose a serious chal- Last but by no means least; the mystic must pass the requisite 
+
+lenge to magicians who follow other disciplines of magic. Mysticism skill check. Failure to implement the talent normally 
+results in nothing more than the loss of a few Magic Points. 
+
+ImMPplLeEmMEeNnTtIinNgG Aa TAaLleEnNTt CossTts oOFf ImMPplLeEmMEeNnTtIinNgG TAaLlEenNTtSs 
+Summoning the strength to implement a talent requires a mystic Talents cost a variable amount of Magic Points to activate 
+
+to utter a short mantra or exhale breath in a focussed shout, whilst depending on their type —see Magnitude and Intensity below— and 
+making some sort of mystical gesture — normally a sweeping or strik- the success level of the implementation roll. 
+ing motion — which aids concentration. In addition the mystic must Once the base cost is known, the Mysticism roll is made: 
+satisfy the following conditions. 
+
+Firstly the mystic may only implement a talent which he has spe- & Critical Success: the talent works, and only half the Magic 
+
+cifically been taught. Knowing a path does not automatically grant Point cost is expended. 
+
+understanding (or awareness) of all the talents which belong to it. & Success: the talent works, and the full Magic Point cost is 
+expended. 
+
+COoNnSsEeQqUuEeNnCcEeSs oOFf MYySsTtIiCcIisSmM & Failure: the talent fails, and a single Magic Point is expended. 
+& Fumble: the talent fails, and the full Magic Point cost is 
+
+Although mysticism can be used in a number of exotic, tmaginative 
+ways.from creating mysterious desert hermals to ascetic philosopher monks, expended. 
+
+it 1s inevitable that players will eventually want to create warrior mystics; 
+attracted by the thought of augmenting therr Combat Style skills or number 
+of Action Points to unbeatable levels. ImMPplLeEmMEeNnTtAaTtIioOnN TIimMEe 
+
+Games Masters should carefully consider the consequences of allow- All mystical talents require one turn of preparation per point 
+
+ing mystics access lo these types of talents. If permitted, then practitioners of their Intensity, and no other action may be performed whilst the 
+
+of these Paths of Mysticism will be near unstoppable by mortal oppo- talent is prepared. On the last turn of preparation the mystic makes 
+
+nents — which s not necessarily a bad thing provided it is embraced by a Mysticism roll and, if successful, the talent is initiated immediately. 
+
+the campaign setting 
+Thas can be done in a number of ways. A devotee of a mystic warrior MAaGgNnIiTtUuDdEe aAnNDd InNtTEeNnSsIitTyY 
+
+tradition may be treated with fear or_fawning respect so that the character Magnitude is the Magic Point cost required to call upon a talent. 
+rarely has to fight. Ordinary soldiers may develop specific tactics to take on Intensity is the level of effect achieved. These are as follows: 
+such_formidable mystics, saturating their defences with volleys of ranged 
+weapon_fure or sacrificially attacking en masse, fully expecting half their & Augment Skill: 1 Magic Point per level of Intensity. A level 
+
+number to fall. Perhaps mystic warriors are sofearsome that it sf orbidden of Intensity improves the success chance of the skill by one 
+
+by law for them to kill save in times of war or on specific command of grade. For example, increasing a skill from Standard to Easy 
+
+their master. costs 1 Magic Point; increasing it to Very Easy costs 2, and 
+
+So unless warrior mystics are commonplace in the setting, the Games so on. 
+
+Master should expect to have foes scythed down; the only challenges being & Tnvoke Trait: 2 Magic Points. All traits have a default Inten- 
+
+other mystics, maybe those of an opposing path. To get the better of such sity of 1. 
+
+a character may instead require political intrigue, use of narcotics or poi- & Enhance Attribute: 3 Magic Points per step of increase. Each 
+
+sons, alternate forms of magie, cunning traps or maybe just playing on step is a level of Intensity (for example, enhancing Damage 
+
+the mystic’s passions. Modifier by one step, from 1d2 to 1d4 costs 3 Magic Points; 
+
+. 4 
+
+156
+
+
+
+MYyTtHhRrAaSs::  MYySsTtIiCcIisSmM 
+
+enhancing from 1d2 to 1d6 costs 6 Magic Points, and so spend a week recalling the talent he wishes to replace it with. A Med- 
+forth). itation roll is required to see if the mystic succeeds. If the roll fails, he 
+
+not only loses access to the dropped talent but must spend another 
+The upshot for mystics is that use of Mysticism can be Magic 
+
+week in meditative practice to re-master the new one. 
+Point intensive when compared with other types of magic. How- 
+ever, when used creatively, Mysticism can be incredibly potent. A 
+character’s natural abilities can be enhanced to a level that is not 
+necessarily available to other magical disciplines. TAaLleEnNTt DEeSsCcRrIiPpTtIioOnNSs 
+
+Talents come in three varieties based upon the boost or ability 
+
+DUuRrAaTtIioOnN oOFf TAaLlEenNTtSs they grant. These are either skill augmentations, invoking traits or 
+
+Unless specifically stated in its description, a talent only remains enhancing attributes, as described in the following sections. Each has 
+
+in place for the period of time required to action it. Once the imme- its own Magic Point costs and scaling limitations. 
+
+diate task for which the talent was called upon has been concluded, 
+its effect lapses. AUuGgMmEeNnTtIinNGg SKkIiLlLlSs 
+
+Tor example, enhancing Movement Rate to run a race should The mystic augments his skills by concentrating on the nature 
+last only for that race, augmenting a Combat Style would be for the of the task at hand, and channelling his own positive energies into 
+length of that melee, whereas inducing Featherlight would remain attaining a desired result. A mystic literally envisages his own suc- 
+until the mystic finishes walking over a river. cess, and then prepares himself to attain it. 
+
+As a rule of thumb, once a mystic focuses his attention on Each level of Intensity improves the mystic’s chance of success by 
+another, different task, the currently maintained talents drop. How- one difficulty grade (see Modifying Skills page 38). This can be used 
+ever, until a talent is dropped the Magic Points used to implement it to counteract situational penalties the mystic is already suffering, or 
+cannot start to recover. augment them to superhuman levels of skill. 
+
+Common sense should be applied as to when the talent natu- A mystic cannot boost his skill chance beyond the grade of Very 
+rally ends. It is unreasonable to suggest that an augmented Combat Easy. Any levels of Intensity beyond this are ostensibly wasted, but 
+Style continues once the mystic’s foes have been defeated, or that an will come into play if the mystic is subsequently penalised by detri- 
+invoked perception lasts beyond the investigation of a person or area mental circumstances. 
+if the mystic becomes distracted by other events. 
+
+InNvVoOKkIinNgG TRrAaIiTtSs 
+DiisPpEeLlLliInNgG TAaLlEenNTtSs Traits are specialised physical, mental and emotional endeavours 
+
+Since mysticism is based upon inner focus and strength of will, akin to the those found for many creatures. All traits by default have 
+it is not normally susceptible to magical dismissal via spells such as an Intensity of 1, making them very useful abilities with which to 
+Avert, Dismiss, Neutralise, and the like. The best way of dealing compliment the mystic’s other path talents. A trait confers a specific 
+with mystics i3 to induce some form of mental or psychological dis- power for the duration it is implemented. 
+turbance which may cause their concentration to break; or render The available traits are as follows: 
+them unconscious, whereupon any active talents immediately drop. 
+
+When subjected to such a disturbance the mystic is permitted ADdHhEeSsIioOnN 
+to resist using their Willpower in an opposed roll against the skill The mystic can move freely on vertical surfaces, and even move 
+actively used against them, in order to maintain concentration. For upside down on a ceiling with no special equipment. Such Move- 
+instance, if injured by a thrown object, the mystic would oppose the ment is always at half the mystic’s normal Movement Rate. 
+Athletics roll of the thrower. Some discretion is required to ensure 
+that the distraction is valid to the situation. A separate Willpower roll ARrRroOWwCcUuTt 
+is needed for each active talent. The mystic is able to parry and deflect projectiles (arrows, darts, 
+
+Conversely mystics have no ubiquitous way of defending them- spears, and so forth) using his bare hands; or weapons not normally 
+
+selves against direct magical assault, save by augmenting skills such permitted to perform such feats, such as swords or whips. 
+
+as Endurance, Evade or Willpower. 
+ASsTtRrAaLl PRrOoJjEecCTtIioOnN 
+
+The mystic can project a visible, albeit ethereal image of himself 
+LIimMIitTaAtTiIoOnNSs tToO TAaLlEenNTtSs to a distance in kilometres equal to his Meditation skill. The Astral 
+
+The maximum level of Intensity at which an individual talent Protection acts a conduit for the mystic to communicate with and 
+can be implemented is equal to one twentieth of the relevant Mys- observe a distant location, but he cannot physically interact with it. 
+ticism skill. 
+
+The maximum combined levels of Intensity of all active talents AUuRrAa (X) 
+cannot exceed the Mystic’s Meditation skill divided by 10. The mystic projects a particular kind of aura (Fear, Intimidation, 
+
+No matter how many paths and talents a mystic knows, he may Serenity, Mastery, and so on) that can be used to present a particu- 
+only actively practice a limited number of them. A mystic can con- lar aspect to those who behold him. Overcoming the mystic’s aura 
+currently maintain the training of a number of talents up to half the requires an opposed roll of Willpower versus the mystic’s Mysticism 
+value of his POW. If the mystic wants to change one of the talents roll for invoking the trait. The aura affects all things within a radius 
+regularly practiced, he may discard it from his training regime, and of the mystic’s POW in metres. 
+
+157
+
+
+
+MYyTtHhRrAaSs::  MYySsTtIiCcIisSmM 
+
+Mjuju’’s SaAgGaA to attempt to remain unperceived by the mystic is one grade more 
+
+Mju is travelling the dark streets of Meeros one night hoping to meet an difficult. 
+
+oldf riend, when he spots a suspiciousf iguref litting along an alleyway, curved 
+FeEaAtThHEeRrLliIgGhHTt 
+
+knife in hand. He covertly follows the suspected assassin into the sacred grove, 
+The mystic’s physical weight becomes negligible, allowing him 
+
+located next to the senate house. Unfortunately for the mystic it w5 autumn, 
+to balance on impossibly thin or slender surfaces, including those 
+
+and the ground is littered with dry leaves which crunch underfoot. The Games 
+that should not be able to support the his mass (twigs, saplings, and 
+
+Master rules that crossing the leaves unheard s a Formudable task. So Mju 
+SO on). 
+
+lakes a_few moments to_focus on his Augment Stealth talent, implementing it 
+at an Intensily of 3 to ensure success. This costs ham three Magic Points and 
+
+FoORrMmIiDdAaBbLlEe NAaTtUuRrAaLl WEeAaPpOoNnSs 
+modifies the difficully gradefrom Formidable to Eas). 
+
+The hands and feet of the mystic are treated as size Large for the 
+Mju follows the suspicious man into the senate house. Inside the peri- 
+
+purposes of attacking and parrying in combat. 
+style building it s almost putch black, Litle light from the starry night sky 
+penetrating through the roof opening. Momentarily stumped Mju eventually HEeAaRrTt SlLooww 
+discerns a_faint tllumination on the far side of the audience chamber; where The mystic is able to finely control his heart and metabolic rates, 
+the knife wielder; holding a sofily glowing orb, s conversing with a shadowy reducing them almost to a standstill. Using this trait a mystic must 
+cloakedf igure. remain completely inactive for its duration but, to all intents and 
+
+Despite his augmented Stealth skill, Mju somehow gives away lus presence purposes, has no pulse, no heart rhythm, and organic functions 
+as he creeps closer to the clandestine meeting. In a heartbeat the globe is extin- have ceased. He becomes immune to other Life Sense attempts and 
+guished. Mju hears the refined accent of a Meerish noble whisper all him’ appears to be dead. Once the trait finishes the mystic’s faculties are 
+before the sound of departing sandals leave the marbled hall. Hearing no other fully restored. 
+Jootsteps Myu realises his life is in extreme danger: 
+
+He decides he needs to invoke lus Dark Sight talent, taking a voluntary ImMmUuNnIiTtYy (XX ) 
+penally to his Mysticism skill (see Casting Requirements page 119) for not The mystic is completely immune to one specific type of damage 
+whispering the mantra aloud. Despite this Mju succeeds, andf or the cost of caused by a particular source. This source can be magical, physical, 
+2 Magwc Points, reveals the darkened chamber to his mystical senses. The or energy based, but should be quite narrow in scope. Examples 
+hunting knife weelder has no such advantage, and Mju breaks his neck from include, but are not limited to: cold, fire, electricity, iron, poison, 
+behind. A quick investigation reveals the ritual scarring of the Brotherhood of disease, cutting, crushing, falling, impaling, and so on. 
+Dust, branded upon the assassin’s tongue; the favoured tools of the Badosh 
+Warlords... InNdDOoMmIiTtAaBbLlEe 
+
+The Mystic is utterly immune to attempts at mind control or 
+domination, including spells and spirit possession. 
+
+AWwAaRrEeNnEeSsSs 
+The mystic is aware of a particular kind of emanation (threat, LifFeE SeEnNSsEe 
+
+love, danger, magic, and so on) within a radius equal to his POW In tune with the rhythms of nature, the mystic can determine 
+
+in metres. He cannot gauge specifics; only that the emanation exists the vitality of any living thing by touch alone. If the mystic touches 
+
+and is close by. another he learns of the target’s current injuries, Fatigue level, and 
+whether it is currently afflicted by any poison or disease. The mystic 
+
+DAaRrKk SiIgGhHTt is also aware of any form of life within a number of metres equal to 
+Allows the mystic to ‘see’ normally in any level of limited light, his Willpower skill, which may make Stealth difficult to accomplish. 
+
+even its complete absence. 
+MAaGgIiCc SEenNSsEe 
+
+DeenniiAaLl (X)) Similar to Life Sense but instead permits the mystic to detect 
+The mystic can deny the effects of one specific environmental magical emanations over distance. If the mystic touches another he 
+
+condition. Denial (Rain), for example, would keep the mystic dry learns of the target’s current magic points, carried enchantments, 
+in even the most intense monsoon; Denial (Air) allows the mystic and active spells. 
+to forgo breathing for an extended period; Denial (Falling) would 
+allow the mystic to briefly levitate above the ground; Denial (Sun- NIigGhHTt SiIgGhHTt 
+light) would prevent the burning, dehydrating effects of the most Allows the mystic to treat partial darkness as illuminated, and 
+
+intense sun. darkness as partial darkness. 
+
+EAaRrTthH SEenNSsEe PAaIinN COoNnTtRrOoLl 
+The mystic has a perfect sense of direction, depth and orienta- The mystic is inured to pain and able to work through its effects. 
+
+tion beneath ground, and suffers no penalties to Perception rolls for Endurance rolls when experiencing any kind of injury are consid- 
+
+underground environments. ered to be automatic successes. 
+
+EcHhOoLlOoCcAaTtIioOnN SPpIirRIitT SEenNSsEe 
+The mystic senses his environment through reflections of sonic Similar to Life and Magic Sense, but the mystic’s senses are 
+
+waves. This means that he can perceive others that may be either attenuated specifically to the activity of spirits and the spirit plane. 
+
+motionless or hidden. In such circumstances, using a Stealth roll The mystic can sense what spirits are active within a radius equal to 
+
+158
+
+
+
+MYyTtHhRrAaSs::  MYySsTtIiCcIisSmM 
+
+Mjuju’’s SaAgGaA 
+Sent to spy on the nefarious Badoshi Warlords to assess their plans for 
+
+war againstM eeros, Mju is attempting to sneak into their compound — a lofly 
+valley fortress lugh in the Grey Peaks. Moving cautiously, he s traversing a 
+long, hagh corridor which leads to the pleasure gardens of the inner courtyard, 
+and needs to bypass the six alert guards waiting at the end of the passageway. 
+Knowing that if he is seen he will be attacked, Mju considers hus options. 
+
+Frst he invokes Adhesion which gives him the ability to traverse sheer sur- 
+faces and ceilings. Mju immediately scuttles up the closest wall, and crouches, 
+spider-like, on the ceiling, where none of the guards will think to look. Next 
+he decides to boost hus Stealth by Intensity 2. Thus increases lus curcumstan- 
+tial modifier from Standard to Very Good, doubling hus base Stealth skill to 
+160%. 
+
+He carefully manoewvres along the ceiling and the Games Master calls 
+Jor a Stealth roll to gauge Mju’s progress. Luck is against him, and he rolls a 
+96 which is an automatic failure. Even with their Perception skills suffering 
+a 60% penally (from Mju’s augmented Stealth skill exceeding 100%), one 
+of the guards notices somef alling grit dislodgedf rom the ceiling, looks up, and 
+spots the skulking myst. 
+
+Mju immediately leaps down behind the sentrees, diving into the luxuriant 
+growth of the flowering gardens. Then in the few moments it takes for the 
+Stunned guards to react, he stips into a waler lily covered pool. Knowing that 
+the grounds will be thoroughly searched, Mju drops his Adhesion talent, free- 
+ing up as much of hus meditative capacity as possible to enhance hus Fatigue 
+by four levels, whilst still maintaining his augmented stealth. 
+
+Three of the Badoshi arrwe to check the pool, remaining there_for over 
+lwo manules lo ensure nobody is huding beneath the surface. Although Mju 
+look a deep breath before immersing humself; he eventually runs out of aiy 
+and soon burns through the extra Fatigue levels, almost drowning before the 
+
+his Willpower in metres and, if he succeeds in an Insight roll, can guards leave lo search the rest of the garden. Now out of Magic Points, and in 
+
+gauge the general intensity of the spirit entities. Spirit Sense confers serious jeopardy of capture or death, Myu stealthily flees the fortress, cursing 
+
+no other powers or protection when dealing with spirits. uts bad stonemasonry... 
+
+SqQUuEeEeZzEe 
+FaAtTiIgGuUEe 
+
+The mystic is able to manipulate his body, allowing him to 
+Each point of Intensity negates a level of Fatigue. This attri- 
+
+squeeze into recesses and through gaps that would otherwise be 
+bute can be enhanced pre-emptively in anticipation of becoming 
+
+impossible. The smallest opening, hollow or volume the mystic may 
+fatigued. Thus a ‘fresh’ mystic who spends 6 Magic Points could 
+
+utilise is one third of his SIZ. 
+grant himself two buffer levels of Fatigue which could be lost before 
+he started feeling the effects of his strenuous activity. 
+
+EnNHhAaNnCcIinNGg ATtTtRrIiBbUuTtEeSs At the conclusion of the task any negated levels of fatigue return, 
+Mystics can enhance an Attribute, temporarily increasing its potentially causing the mystic to collapse into unconsciousness. 
+
+effectiveness. The following attributes can be enhanced in the ways 
+described below. Luck Points and Experience Modifier cannot be HEeAaLlIinNgG RAaTtEe 
+enhanced. Enhanced Healing Rate works slightly differently to the standard 
+
+Attribute Enhancement rules. The amount of Hit Points healed is 
+ACcTtIioOnN POoIiNnTtSs not increased, but the speed at which Healing Rate works is. Each 
+
+Each level of intensity increases available Action Points by 1. level of intensity improves the speed of recovery by one step as 
+The additional Action Points can only be used for defensive actions follows 
+in combat. Thus, a mystic who spends 6 Magic Points to enhance 
+his Action Points from 3 to 5 may only use these additional Action & Combat Rounds 
+
+Points to Parry or Evade. He cannot use the additional points to & Minutes 
+
+make additional attacks or cast additional magic. & Hours 
+
+& Days 
+
+DAaMmAaGgEe MOoDIdFifIiEeRr & Weeks 
+
+Each point of Intensity increases the Damage Modifier by one &« Months 
+
+step. Thus, at Intensity 3 (for a cost of 9 Magic Points, if available) a 
+Usually Minor Wounds heal at a rate of 1 Day, Serious Wounds 
+
+mystic’s Damage Modifier of +1d2 would increase to +1d8. 
+at a rate of 1 Week, and Major Wounds at a rate of 1 Month. Each 
+level of Intensity changes the speed of healing. Thus, at Intensity 
+
+159
+
+
+
+MYyTtHhRrAaSs::  MYySsTtIiCcIisSmM 
+
+2, hit points are recovered at the following speeds: Minor Wounds Above: The fabled Floating Citadels of the Azure Mystics. These sages 
+1 Minute, Serious Wounds 1 hour, and Major Wounds 1 day. specialise i the Adjuration of the Physwal Earth, focusing on the Denial 
+Enhanced Healing Rate rapidly speeds-up recovery but it will not of Gravity. Through their advanced state of enlightenment the Azure Mys- 
+reattach severed limbs or restore the use of maimed ones. tics have been able to raise their monastery citadels into the skies. They drift 
+A mystic may remain in a healing trance for as long as it takes amongst the clouds covering many leagues a day in unguided flight, going 
+
+to fully recover. However he may perform no other tasks during this wherever the air currents dictate. 
+time. 
+
+HiiTt POoIiNnTtSs 
+Each level of Intensity boosts Hit Points in every location by 1. 
+
+So an Intensity 4 Hit Point enhancement would raise all Hit Loca- 
+tions by 4 points. These additional Hit Points absorb damage first, 
+before the natural Hit Points are affected. 
+
+However these temporary Hit Points do not change the Serious 
+and Major Wound boundaries, which remain tied to the mystic’s 
+natural Hit Points. Enhancing Hit Points after a Serious or Major 
+Wound is suffered does not permit damaged locations to return to 
+functionality. 
+
+MOoVvEeMmEeNnTt RAaTtEe 
+Fach level of Intensity increases Movement by 2 metres. 
+
+InNIitTiIaAtTIivVeE 
+Each level of Intensity adds 2 to the Initiative roll. 
+
+160
+
+
+

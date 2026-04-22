@@ -1,0 +1,1634 @@
+Mythras:  Sorcery
+
+=% X o2 M K GO F m KT K = I R UL I < < | 
+
+Sorcery
+YL 
+B oy 
+
+| U G S [ R L L= = 1 1 I & KB A B« 7 o XN 
+
+orcery is the technique of invoking magical effects through the 
+understanding and application of transcendent knowledge. MAaNnIPipUuLlAaTtIinNgG 
+
+S Once a sorcerer comprehends the objective rules of reality, 
+they can employ them in a repeatable and methodical manner. Of tThHEe COoSsmMOoSs 
+course this does not mean a sorcerer can figure out these funda- The practice of sorcery requires two core skills, Invocation and 
+
+mental laws for themselves, only that once a technique or formula is Shaping. Invocation reflects the depth of knowledge concerning a 
+
+learned, they can manipulate it in a variety of ingenious ways. particular philosophy or school of sorcery; whilst Shaping is the skill 
+
+The path of sorcery is often a hard one, requiring much time of the sorcerer to manipulate the parameters of a spell, so that can 
+
+spent in study and research. Even its reputation can be viewed with be cast in a flexible and innovative manner. 
+
+an element of suspicion when compared to the worship of com- 
+munal gods or the veneration of tribal spirits; as those not privy to InNvoOcAaTtIioOnN (IINNT x2) 
+its secrets tend to regard it with jealousy or perhaps fear, especially Invocation represents a sorcerer’s ability to successfully cast spells 
+when the sorcerer is an aloof recluse without need for or responsibil- learned from a particular source, be that a grimoire, mentor, school, 
+ity towards his community. extra-planar demon or even an ancient artefact. The precise scope 
+
+Not all practitioners are loners. Some take apprentices to pass on 
+of what the skill covers depends upon the campaign setting, but each 
+
+the art to those of the next generation, whilst others form schools 
+incidence of Invocation must be assigned to a specific type or well- 
+
+or guilds in which they share their knowledge in return for mutual spring of sorcery. 
+protection or a degree of respectability. More sophisticated societ- The skill encompasses a plethora of magical principles from 
+ies often evolve specialised orders, utilising their unions to practice comprehending the philosophy underlying how that type of sorcery 
+particular types of sorcery as a profession, from itinerant weath- works; to being able to achieve the necessary mental state to manip- 
+er-workers to mercenary spell-swords. At its pinnacle, sorcery can ulate reality. As the value of this skill increases, so does the capability 
+even be used to shield nations from more ‘primitive’ forms of magic, of the sorcerer to create greater changes. 
+or provide an increase to the standard of living by the maintenance The Intensity of a sorcery spell is equal to one tenth of the Invo- 
+of innovative enchantments. 
+
+cation skill used to cast it. 
+Whilst the ability to cast sorcery, depending on the campaign 
+
+setting, may be limited to those born to it or trained in the art from 
+childhood, each sorcery spell is merely an invocation which can be ShHAaPpIinNgG (IINNTT++PPOOW)) 
+mastered by those sorcerers willing to spend the time to grasp its In their default form, sorcery spells are relatively feeble in scope. 
+
+philosophical meanings, or at least to memorise the methodology. Shaping is the method used to change the parameters of a sorcery 
+
+As such, most orders of sorcery keep the secrets of their most potent spell so that it can be wrought to meet certain requirements, such as 
+
+magics well hidden, even to their own students, for fear of the spell’s increasing its range or duration. 
+
+power being abused, or corrupting its wielder. Once the base concepts of Shaping are known, they can be 
+
+Although sorcery is often viewed as a dark or evil in Sword & applied to any spell known by the sorcerer; no matter its school or 
+
+Sorcery literature, it need not necessarily be so. Sorcery can be used tradition. Thus sorcerers normally need only learn a single Shaping 
+
+beneficently or play a key role in societies lacking other forms of skill (see Restricting Components of Sorcery Spells page 165). 
+
+magic, depending on the manner in which the Games Master wishes Shaping is never rolled against when casting sorcery, rather it 
+
+to present it. acts like a governor to limit the degree of modification which can be 
+applied to a spell. The maximum level of alteration is equal to one 
+
+161
+
+Iv] 
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+tenth of the value of the Shaping skill. Thus a sorcerer with Shaping DuuRraATtiIoOnN 
+47% would be able to apply 5 points to shape the parameters of any Sorcery spells have a default duration equal to the POW of the 
+sorcery spell he cast. caster in minutes. 
+
+These points may be divided up amongst any of the following Applying one or more points of Shaping to the Duration com- 
+components to optimise the spell as desired: ponent will extend the length of a sorcery spell as noted in the table. 
+
+The spell remains running for the entire duration, although in some 
+& Combine: Used to fuse together several spells into a single 
+
+cases part of its effect may require active concentration to function 
+casting 
+
+(see Concentration page 166). 
+& Duration: Used to extend the period of time the spell’s effects 
+
+Some spells may end up with an extended duration which can 
+last 
+
+last hours, or even longer. In these cases the Magic Point Attribute of 
+& Magnitude: Used to penetrate magical defences or resist mag- 
+
+the sorcerer is temporarily reduced by the number of Magic Points 
+ical attacks 
+
+used to cast that spell until the magic is dropped or expires. 
+& Range: Used to increase the distance a spell can be cast over 
+& Targets: Used to increase the number of targets affected by 
+
+MAaGgNnIiTtUuDdEe 
+the spell 
+
+Sorcery spells have a default Magnitude of 1, making them weak 
+and vulnerable. 
+
+COoMmBbIiNnEe Applying one or more points of Shaping to the Magnitude com- 
+This component permits the sorcerer to combine the effects of ponent will improve its ability to overwhelm magical defences or 
+
+several sorcery spells into a single casting, so that they all affect the resist magical attacks. It has no effect on the Intensity of a sorcery 
+target simultaneously. This not only saves time on casting, but also spell which is solely based upon the caster’s Invocation skill. 
+preserves Magic Points, as all the conjoined spells share the same 
+shaping components (see Invocation Costs page 165). Use the fol- RAaNnGgEe 
+lowing guidelines when combining spells: Sorcery spells have a default Range of Touch, requiring that the 
+
+recipient be within physical reach of the caster. 
+& A spell may not be combined with another instance of itself; Applying one or more points of Shaping to the Range compo- 
+
+only different spells may be combined nent will allow the spell to be cast over greater distances, potentially 
+& If the conjoined spells come from different sources, then the achieving ranges beyond the immediate perception of the caster. In 
+
+lowest Invocation skill is used as the base casting chance such cases the sorcerer will need alternate methods of observing the 
+& The conjoined spells must all share the same target or targets target. 
+& Any shaping applied to a combined casting is assigned to Sorcery spells limited to Touch range may only be cast on oth- 
+
+cach, and every one of the spells involved at no extra Magic ers if physical contact can be maintained for the entirety of the 
+Point cost Invocation. 
+
+& Fach additional spell added using combine, costs one extra Once someone or something is affected by a sorcery spell, it 
+Magic Point and increases the difficulty grade of the Invoca- continues even if they travel beyond the spell’s Range. Spells which 
+tion roll by one step (see Focus page 165) require Concentration (see page 166) lapse into passive mode once 
+
+the target exceeds this distance, but only for the period it remains 
+Although combined spells might require several different resis- 
+
+beyond the Range limit. 
+tance checks, the target only makes a single resistance roll — the 
+result matched against each requisite opposed skill. Thus it is per- 
+
+TAaRrGgEeTtSs 
+fectly possible, for example, to save against all the combined spells 
+
+Sorcery spells have a default Target of one object, creature or 
+requiring Resist Endurance whilst simultaneously failing to throw 
+
+person, which may be the caster himself. 
+off the Resist Willpower spells. 
+
+ShHAaPpIinNgG TAaBbLlEe 
+
+Points of Shaping Combine Duration (Mins) Magnitude Range Targets 
+
+None None POW 1 Touch 1 
+
+1 2 Spells 2xPOW 2 Im x POW 2 
+
+2 3 Spells 3xPOW 3 5m x POW 3 
+
+3 4 Spells 4xPOW 4 10m x POW 4 
+
+4 5 Spells 5xPOW 5 50m x POW 5 
+
+5 6 Spells 6xPOW 6 100m x POW 6 
+
+6 7 Spells 7xPOW 7 500m x POW 7 
+
+7 8 Spells 8xPOW 8 lkm x POW 8 
+
+8 9 Spells 9xPOW 9 5km x POW 9 
+
+9 10 Spells 10xPOW 10 10km x POW 10 
+
+10 11 Spells 11 x POW 11 15km xPOW 11 
+
+Each point... +1 Spell +1 x POW +1 Magnitude +5km x POW +1 
+
+162
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+FuURrTthHEeRr EXxTteEnNDdIinNgG DUuRrAaTtIioOnN ScChHOoOoLlSs AanNDd SPpEeLlLlSs 
+Some Games Masters may_find the duration of sorcery to be too lim- A sorcerer’s power and spells are restricted to the particular phi- 
+
+utedfor how magic works in their campaign setting The_following alter- losophy or tradition of sorcery he studies. Named schools of sorcery, 
+
+native progression s offered to those that like to greatly extend the active the term represents a collated body of knowledge rather than a for- 
+
+¢ffects of spells. Bear in mind however that until a sorcery spell hasf inally mal organisation. 
+
+completed, the Magic Points used to cast it do not recover: Access to a specific school of sorcery can be held by particu- 
+lar groups, individuals, objects or even locations. Thus a sorcery 
+
+Points of Shaping Duration tradition need not necessarily be taught by a formal cult, rather it 
+can potentially be self-learned if the sorcerer can comprehend the 
+
+None Caster’s POW in Turns 
+source for himself. 
+
+1 Caster’s POW in Rounds 
+For instance a sorcery cult could be nothing more than a group 
+
+2 Caster’s POW in Minutes 
+of loosely affiliated wizards who are all aware, and make use of a 
+
+3 Caster’s POW x 5 Minutes particular source; an infamous tome such as the Scroll of Khronus 
+4 Caster’s POW x 15 Minutes or the psychic powers gained by inhaling the deadly narcotic smoke 
+5 Caster’s POW x Hours of the ebony lotus; some discovering the secrets by themselves, oth- 
+6 Caster’s POW x 6 Hours ers guided by a mentor already privy to the knowledge. 
+
+7 Caster’s POW x Days In a similar vein, there are no preset limitations as to how many 
+
+8 Caster’s POW x Weeks spells are available to a particular school of sorcery. Yet the spells 
+accessible to that philosophical path will generally be related in 
+
+9 Caster’s POW x Months 
+terms of metaphysical mechanics as to how they work, or will pos- 
+
+10 Caster’s POW x Years 
+sess similar supernatural effects. 
+
+Each point... Continue progression: Decades, Centuries, 
+For example the Stygian Path s a school of sorcery which specialises in 
+
+Millennia, and so on... 
+manipulating darkness, granting access to the spells: Animate Darkness, Dom- 
+inate (Reptiles), Palsy, Sculpt Darkness, Smother, Teleport (via Shadows), and 
+
+- 4 Wrack (Darkness). Whereas the Masters of Metamorphosts may learn a school 
+of sorcery that controls the changing of things using the spells: Abjure,Diminish, 
+Enhance, Haste, Regenerate, Shapechange and Transmogrify. 
+
+SoOUuRrCcEeSs oOFf KNnOoWwLlEeDdGgEe With this in mind, schools of sorcery should be crafted to fulfil 
+
+The fundamentals of sorcery are as varied as the sources_from which a particular concept. They need not be balanced with one another; 
+
+uts knowledge can be learned. All depends entirely on who, or what, has corrupt diabolic cults might indeed offer more spells than their 
+
+preserved such arcane knowledge. Although sorcery is oflen tied to the benevolent counterparts. A grimoire might only grant a single, albeit 
+
+archetype of reading cryptic old spellbooks, it need not have any relation- potent, spell; whereas a respected guild of sorcery could provide a 
+
+ship with that particular stereoty pe. dozen. The precise balance or lack thereof is for the Games Master 
+
+Sorcery maght instead be recorded in theform of towering prehustoric to decide when designing his campaign. 
+
+pictograms carved into the sudes of mountains or be accessible only to those Further consideration should be made towards whether a sor- 
+
+that drink the waters of a legendary well. Perhaps only those thatjourney cerer can join several guilds or discover additional sources of arcane 
+beyond the boundaries of reality can master its esoteric secrets. knowledge. MYTHRAS is not predisposed towards the limitless accu- 
+
+Of course the theory and practice of sorcery can be passed on by living mulation of innumerable spells, but rather the clever and innovative 
+
+beings too, without need_for books or artefacts. Lone masters might hand use of a few. However, this should not preclude such occurrences if 
+down their sagacity as ancient aural traditions to their students. Maybe that is what is desired. 
+
+such wasdom us held only by demons or spirits of the otherworld, which 
+must be summoned and appeased before they teach those who dare to call STtaARrTtIinNgG SOoRrCcEeRrEeRrSs 
+them up. Sorcery could even be learned by listening to the hidden meanings 
+
+A character starting the game as a sorcerer should choose a sin- 
+of mournful hyena howls around campfires at might. 
+
+gle school of sorcery to study; one designed by the Games Master, 
+Infinite are the sources of sorcerous knowledge. The only limat is your 
+
+agreed to between the player and Games Master, or chosen from the 
+imagination. 
+
+examples given in these rules or the relevant setting. Only one school 
+- 4 of sorcery can be chosen at this stage but others can potentially be 
+
+Applying one or more points of Shaping to the Targets compo- discovered during the course of play. 
+
+nent will allow the spell to affect an increasing number of multiple In addition, the source of this sorcery should be decided also; 
+
+targets, each one receiving the full consequence of the magic. That whether it is an object, a mentor or a cult. There is no penalty to 
+
+is to say, each target receives an identical copy of the original spell. being self-taught, a common conceit of the Sword & Sorcery genre. 
+
+Unless specifically permitted by its description, the targets of a Sorcerer characters begin with a number of spells from that 
+
+spell may not be changed once it is cast. school equal to one twentieth of their Invocation skill. Once the 
+campaign starts they are restricted in what additional spells they can 
+study, and when they can learn them. 
+
+163
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+KRrAaTtOoSs’’ SaAgGaA of advancing cult rank or even as the result of many months 
+
+Kratos started out as a modest scribe in thefamed city of Meeros. Unfor- research and study. When knowledge is quite literally power, a sor- 
+
+tunately, hus increasing interest in the arcane arts soon brought him into conflict cerer should not be able simply to purchase spells by handing over 
+
+with the cult priests of Myceras, who exiled him on suspicion of stealing a cartload of silver. Although a gift might influence the mind of a 
+
+Jorbidden texts. The scholar swore vengeance towards the city of hus birth and sorcerer’s mentor, the spell itself is almost always priceless. 
+
+Journeyedf ar into unknown lands in search of true power: 
+Ultimately Kratos found an old hag who taught kim the_fundamentals of 
+
+sorcery n exchangefor certain... favowrs. After a year of subservience, suffer- USsIinNgG SoORrCcEeRrYy 
+ing her horrible embraces, Kratos learnt the skills of Invocation (Stygian Path) 
+
+Although sorcery is not necessarily the most potent type of 
+32% and Shaping 33 %. Then, in a dastardly act of betrayal, he strangled 
+
+supernatural power available to mortals, the ability of a sorcerer to 
+his mentor; stealing the strange crystal which seemed to be the source of her 
+
+shape his magic makes it extremely versatile. Sorcerers can weave a 
+sorcerous knowledge. 
+
+handful of awesome spells into a single, magic-efficient casting; blast 
+Alone in the wilderness, the sorcerer is discovered by a troop of man-eating 
+
+small units of warriors with the same spell; or even control the mind 
+centaurs. Faced with becoming their next meal, Kratos attempts to invoke a 
+
+of a victim from hundreds of kilometres away. This ability, which 
+spell to_frighten the monsters away. Lacking the skill to affect the centaurs 
+
+greatly augments one or more spell components, enables their magic 
+directly, he tries lo Animate the shadows dancing about hus camp fire. 
+
+to far exceed the more rigid parameters of other types. 
+With his Shaping skill he has four points he can use to manipulate the 
+
+The inherent flexibility of sorcery extends beyond its ability to 
+magic. He uses 1 pownt lo extend the Range of the spell to 16 metres, so that 
+
+be shaped. Unlike animism there is no dependency upon third party 
+it can reach the centaurs. The remaining 3 points he places into the Tar- 
+
+spirits which might slip from control. Similarly they need not return 
+gels component, so that he can simultaneously controlfour separate shadows. 
+
+to specific holy places to recover their magical strength unlike theists. 
+His invocation is successful so he sends the amorphous figures of flickering 
+
+In effect, sorcery grants its practitioner freedom from needing things 
+darkness towards the slavering man-horse chimeras. To his great surprise, the 
+
+or places. All that is required is knowledge of the spell, and enough 
+centaurs yell in superstitious terron; and prostrate themselves at his_feet begging 
+
+Magic Points to invoke it. 
+Jfor mercy... 
+
+InNvVoOKkIinNgG Aa SPpEeLlLl 
+LeEaArRnNIinNgG SPpEeLlLlSs Casting a sorcery spell requires that the sorcerer performs a short 
+
+invocation, allowing him to mentally impose the spell’s transcenden- 
+Learning new spells requires an investment of Experience Rolls 
+
+tal formula upon the cosmos, changing reality. It may be an envi- 
+as described in the Magic chapter on page 118. Whether or not 
+
+sioning of a complex glyph or articulate utterance of a harmonic 
+new spells are available is a different matter. For example, an adept 
+
+mantra. Whatever the procedure, for the spell to work the sorcerer 
+member of a powerful guild may be withheld from freely acquiring 
+
+must meet the following prerequisites. 
+the more dangerous spells of the order; only being taught once they 
+
+Firstly they must actually know the spell being cast. Simply read- 
+demonstrate the correct level of understanding or responsibility. A 
+
+ing or repeating a spell parrot fashion from something like a scroll 
+mage who learns his art from a demon might instead need to provide 
+
+will not work if the sorcerer has no understanding of its underlying 
+the entity with a suitable offering (a diabolical deed or rare sacrifice) 
+
+metaphysics. 
+before he is shown a new spell. 
+
+Secondly they must have the requisite number of Magic Points 
+Likewise a self-taught sorcerer who picks up a grimoire cannot 
+
+remaining. Attempting to cast a spell with insufficient Magic Points 
+learn every spell inscribed within its pages as soon as they have the 
+Experience Rolls to invest. There are limits to how much, and how KRrAaTtOoSs’’ SaAgGaA 
+quickly a sorcerer can understand and absorb knowledge from the Now in command of a troop of loyal centaurs, Rratos sends them forth 
+complex metaphysical implications of such a work. lo gather tribute and sacrificial victims whilst he spends lus time studying the 
+
+As a rough guideline, spells accessible to a school of sorcery are strange artefact he stole. He knows thef ist-sized black diamond was the source 
+usually linked or entwined in such a way that they must be learned: of the hag’s sorcery, from the cold tingling the crystal elicits when he touches it. 
+
+Some dim memory suggests that this may be the Tear of Yethis, an infamous 
+& In a particular order; acquisition of lesser incantations being 
+
+relic said to be the only remainingfragment of a mighty Serpent Demon who 
+needed to comprehend the underlying techniques to invoke 
+
+once ruled the world. 
+higher ones. 
+
+Afler much experimentation Kratos discovers that pouring fresh human 
+& When a specific degree of mastery is reached, each spell lim- 
+
+blood over the stone causes its holder to experience vivid dreams in which the 
+ited to a particular cult rank or value of the Invocation skill 
+
+demon lord appears, passing on_forbidden arcane knowledge to he who would 
+may be learned as the sorcerer has demonstrated the neces- 
+
+learn to master such power. As hus skill and arrogance increase, Kratos begins 
+sary level of comprehension. 
+
+lo demand new spells from his diabolical mentor. The demon slyly agrees, 
+« Only after the student has shown the correct attitude, 
+
+providing the sorcerer us willing to pay the hellish pruce. 
+behaviour or dedication to be permitted deeper knowledge. 
+
+In exchange for the ritual slaughter of nine pure virgins from the highest 
+Thus the learning of new spells is not an automatic ability or rankedf amalies of Meeros, the demon promases to teach the increasingly cor- 
+
+right. Access to them must be earned through roleplaying and over a rupt Kratos the magical ability to shift between pools of shadow. The sorcerer 
+period of time in the campaign. A new spell should be regarded as a readily agrees, little comprehending that the next spell will cost him far; far 
+reward for completing a particularly difficult task, as a consequence more. 
+
+164
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+means that either the spell doesn’t work, or something bad occurs to 
+the sorcerer to find the last fragments of power (see Running out of ALlTtEerRnNAaTtEe COoMmPpOoNnEeNnTtSs fFoOrR SoORrCcEeRrYy SPpEeLlLlSs 
+Magic Points page 117). Other parameters can be added to Shaping, granting sorcery spells 
+
+Thirdly on the last turn of casting, the sorcerer must pass an additional strange and exotic abilities. Some of these components are not 
+
+Invocation skill check. Failing to cast the spell correctly usually strictly balanced with one another; so care should be taken if introducing 
+
+results in nothing bad save that the magic doesn’t work, or at worst them to a campagn. 
+
+the squandering of a few Magic Points. Ablation — Used with spells which have the Resist trait, each point of 
+shaping applied to Ablation grinds down any protective magic on the target 
+which tries to block the incoming spell; reducing its Magnatude by the level 
+
+InNvVoOCcAaTtIioOnN COoSsTtSs of ablation. This is still the case even if the protective magic successfully 
+The cost of casting a sorcery spell depends on how much it is blocked the sorcery spell. 
+
+shaped, and the success level of the Invocation skill roll. Focus — Used to ensure that a spell works, no matter what the mental 
+Base cost is 1 Magic Point plus an additional one point per spell and physical distractions, each point of shaping applied to Focus permuts 
+
+component modified. For instance a spell which has its Range and the sorcerer to 1gnore one level of difficully applied against them. This cov- 
+Duration components increased will have a base cost of 3 Magic ers the loss of verbal or somatic components, mental state due to narcotics, 
+Points. If several spells are woven together using Combine, then an combining multiple spells, and even penalties appliedf or suffering wounds. 
+additional Magic Point is added to the cost for each extra spell. T hus component cannot raise the casting chance above s base value. 
+
+Once the base cost is known, the Invocation roll is made: Fortune — Used with spells which have the Resist traut, each point of 
+
+& Critical Success: the spell works but only half the Magic Point shaping applied to Fortune allows an additional casting rollfrom which 
+the sorcerer selects the most_favourable result. A spell cast with 3 points 
+
+cost is expended. 
+of shaping applied to Fortune would permat the sorcerer to rollfour times 
+
+& Success: the spell works, and the full Magic Point cost is 
+and choose the best roll. 
+
+expended. 
+Precision — Used with spells that randomly target Hut Locations, each 
+
+& Failure: the spell fails, but no Magic Points are expended. 
+point of shaping applied to Precision allows the caster to adjust the dice 
+
+& Fumble: the spell fails, and the full Magic Point cost is 
+10ll by 1 to select the most advantageous location. 
+
+expended. 
+Swifiness — Used to hasten the casting of complex or heavily manipu- 
+
+lated spells, each point of shaping applied to Swifiness reduces the casting 
+time by 1 Turn, to a minimum of one. 
+
+InNvVoOCcAaTtIioOnN TIimMEe 
+The time taken to cast a sorcery spell is equivalent to 1 Turn plus N ' 
+
+an additional Turn for each spell component modified. This is usu- 
+ally the same as its Magic Point cost except in cases where Combine DIiSsPpEeLlLliInNgG Aa SoORrCcEeRrYy SPpEeLlLl 
+(or the optional Swiftness component) is utilised. Sorcery spells resist dispelling using their Magnitude. Thus if this 
+
+The Invocation skill check is made on the final turn of casting; component is left unaugmented sorcery can be fairly easy to dismiss. 
+
+the result of the roll occurring immediately. 
+
+LIimMIitTaAtTiIoOnNSs oOFf SoORrCcEeRrYy 
+MAaGgNnIiTtUuDdEe AanNDd InNTtEeNnSsIitTyY There are no restrictions to the number of concurrent spells a 
+
+Sorcery spells have a default Intensity equal to one tenth of the sorcerer can maintain, save that only a single Concentration spell 
+
+caster’s Invocation skill. Their Magnitude depends on how many can be focused on at any moment in time. 
+
+shaping points were devoted to that spell component. Due to the boggling complexity of sorcerous invocations, there 
+
+Sorcerers need not apply the entirety of their available Intensity is a limit to how many spells a sorcerer can keep in his mind. Thus 
+
+if they desire to limit the spell’s effect. a sorcerer may only memorise a number of spells up to the value 
+of his IN'T characteristic. In the rare situation that the sorcerer has 
+access to more spells that he has the space to memorise them, spells 
+may be swapped by spending a week of intense deliberation in reclu- 
+
+REeSsTtRrIicCTtiInNgG COoMmPpOoNnEeNnTtSs oOFf SoORrCcEeRrYy SPpEeLlLlSs sive isolation to exchange them. 
+Not all schools of sorcery need have access to the same component 
+
+parameters, not even the default ones. A campaign could be created where 
+certain paths of sorcery lack knowledge of a particular shaping technique, 
+perhaps being compensatedf or by the addition of a different, more exotic SPpEeLlLl DEeSsCcRrIiPpTtIioOnNSs 
+component. If used in this way, sorcerers should require a separate and All sorcery spells are defined by several traits which control how 
+
+spectfic Shaping skillfor each type of Invocation they know. each spell functions. By design sorcery spells lack a degree of physi- 
+
+The LZemgaran School of Unseen Sorcery for example could teach cal and temporal description since these parameters can be modified 
+
+Shaping but using only the components of Magnitude, Range, Targets by Shaping as it is cast. 
+
+and Focus. Whereas the Inebriated Sorcerers of ‘Tzushan may teach This flexibility can make certain spells appear to be remarkably 
+
+their apprentices the components of Combine, Duration, Magnitude and potent, especially those which have their duration or range greatly 
+
+Fortune. extended. Such possibilities are intentional, providing an interest- 
+ing opportunity for those who wish to cunningly manipulate their 
+
+N\ 4 magic. 
+
+165
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+ABbJjuURrEe (SSuUbBsStTaAnNCcEe/PRrOoCcEeSsSs)) 
+Resist (Special) 
+Abjure allows the recipient of the spell to abstain from some- 
+
+thing usually required for life, utterly removing its need (or effect) 
+until the spell ends. Each variant of the spell affects a specific sub- 
+stance or process, which could be anything, including Food, Water, 
+Breath, Sleep, Dreams, Narcotics, and so on. Due to its flexibility, 
+the Games Master should use common sense when more unusual 
+versions of the spell are used, for example Abjure (Narcotics) will not 
+only remove any desire to take narcotics in the first place, but also 
+ensure any already taken will no longer affect the target. 
+
+The sorcerer can affect targets with a maximum SIZ of three 
+times the spell’s Intensity. If the recipient is unwilling they are per- 
+mitted to resist using Willpower. Exceedingly rare and exotic ver- 
+sions of this spell exist such as Abjure Pain, Abjure Sensory Percep- 
+tion, and even Abjure Ageing. 
+
+ANnIiMmAaTtEe (SSuUBbSstTaANnCcEe)) 
+Concentration, Resust (Special) 
+Animate quite literally invests an inanimate object with a sem- 
+
+blance of life, permitting it to move under its own power. Each vari- 
+ant of the spell affects a specific type of substance, which can be 
+fairly broad in scope. For example wood, stone, fire, darkness, rope, 
+fabric, and so on. 
+
+The sorcerer can animate an object with a maximum SIZ of 
+three times the spell’s Intensity. Insubstantial substances such as air, 
+fire, darkness or clouds are instead measured in terms of volume, 
+with the sorcerer able to affect a number of cubic metres equal to 
+the spell’s Intensity. The animated object gains a default Movement 
+
+Most potential game abuses are handled in the spell descriptions. 
+Rate of 1m, which may be incremented by assigning points of 
+
+However, Games Masters who find that certain spell combinations 
+Intensity (on a one for one basis) to movement rather than to the 
+
+are causing problems should feel free to impose extra restrictions 
+amount of SIZ or Volume affected. 
+
+— such as reducing spell functionality, preventing the same spells 
+Providing they have some degree of flexibility or the ability to 
+
+being available to a single school of sorcery, or using the same tactics extrude portions of themselves, animated objects may perform com- 
+against the player characters. 
+
+plex physical manipulations. These are performed by using the sor- 
+The following two traits are available to sorcery spells: 
+
+cerer’s own skills, reduced by one difficulty grade. If combined with 
+the appropriate Sculpt spell (see Shaping), the sorcerer can achieve 
+
+COoNnCcEeNnTtRrAaTtIioOnNnN 
+much finer control and ignore this penalty. Where necessary, treat 
+
+The spell’s active effects only function so long as the charac- 
+ter specifically concentrates on it. During this time the sorcerer is 
+usually restricted to moving at a maximum of walking pace, and To Rock AanNDd RoLlLl 
+performing Free or Reactive Actions (when necessary; use common The material and shape of an object has important implications on 
+sense). Any passive elements of the spell continue running without how the Animate spell is used. 
+the need to concentrate; for example a Fly spell requires concentra- For instance, a sorcerer who knows Animate (Stone) 78 % could use it 
+tion to actually move, but it will simply keep the sorcerer floating to move a boulder of up to SIZ 24 (a little over 200kg), but he couldn’t 
+in place if his concentration lapses. By default a sorcerer may only affect a solid cliffface with a much larger size, nor could he break a lump 
+concentrate on a single Concentration spell at any one time. Jfrom it unless the fault bines and cracks already existed. However, a more 
+
+insubstantial material like water 15 easier to divide up, so there would be 
+ReessiistT ((EEnNdDuURrAaNnCcEe/ WWIilLlLpPoOwWEeRr/EVvAaDdEe)) no problem splitting off a small pool of waterfrom a lake. 
+
+Offensive spells allow the target to make an opposed test of Shape us also vital. Animating a boulder would allow it to ponder- 
+their Endurance, Willpower or Evade skill (as specified by the spell) ously roll about, but it obviously could not pick up an object, open a door 
+against the casting roll of the sorcerer, to avoid the effect of the spell (although it might be able to smash through i) or anything else which 
+entirely. To resist using Evade, the character must expend a Combat required limbs or dugits to achieve. An animated statue on the other hand 
+Action. would possess the requisite appendages. 
+
+Some obyects may appear innocuous but can be potentially formidable 
+Be warned that some of the following spells are extraordinarily powerful, in the right circumstances. An animated bunch of ropes or a carpet could 
+
+included only for the use of major antagonusts or as long lost arcane secrets. They be an excellent way of entangling opponents, or an animated fire sent 
+are extremely rare and not intendedf or starting player characters. dancing through a tent encampment a deadly distraction. 
+
+N\ 4 
+
+166
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+the object as having a Damage Bonus based on twice its SIZ, or as potentially be reflected back at its caster. The sorcery can only affect 
+an elemental of equal volume. spells possessing the Resist trait which have a Magnitude equal to or 
+
+Sorcerers must actively concentrate to cause animated objects less than the Magnitude of the Castback. 
+to move or perform complex manipulation. If their concentration In such cases if the recipient of the Castback fails to resist the 
+lapses the object becomes quiescent until the sorcerer can focus his incoming spell, then it affects him normally. If on the other hand he 
+will through it again. Objects which are already under magical con- succeeds in resisting, the reflected spell is sent back to its caster who 
+trol are only affected if the Magnitude of the Animate is equal or in turn must roll to see if he himself suffers its effects! 
+greater than the previous effect. Castback has no way of discerning the difference between hostile 
+
+If the animated object is carried or worn by a living creature, or beneficent magic, and affects all spells save those the target casts 
+then it may resist the spell with Endurance. Whilst the spell can be on himself. 
+used to discommode/break such objects, their manipulation cannot The recipient cannot exceed a maximum SIZ of three times the 
+be used to directly inflict harm on the creature (see Shrink page 174). spell’s Intensity. 
+
+ATtTtRrAaCcTt (ThHRrEeAaTt)) DAaMmAaGgEe EnNHhAaNnCcEeMmEeNnTt 
+Resist (Willpower) Damage Enhancement augments the physical damage inflicted 
+Attract makes the recipient of the spell a scapegoat for certain, by an object or creature. This can be anything from natural weap- 
+
+and usually harmful, occurrences. Fach variant of the spell affects ons, a two handed axe or even the spikes of a pit trap. The magic 
+a specific type of threat, for instance spells, creatures, spirits or even increases the minimum amount of damage that is inflicted during 
+missiles. Often used as a punitive curse or self-sacrificial gesture a successful attack, raising it to the value of the spell’s Intensity if 
+rather than an offensive weapon, Attract draws all incidences of the dice roll is lower. The spell cannot inflict more damage than the 
+its particular threat which pass within a radius equal to the spell’s weapon is normally capable of. 
+Intensity in metres, redirecting them so that they target the recipient 
+instead. DAaMmAaGgEe REeSsIisStTaAnNcCEe 
+
+The mechanical effects of the spell depend entirely upon the Damage Resistance protects an (entire) object or person against 
+
+type of threat: physical damage. It provides the recipient with a number of Armour 
+Points equal to the spell’s Intensity. These do not stack with existing 
+
+& Creatures: Attracts aggressive beasts with a SIZ of up to three protection (whether worn or natural) so that only the highest value 
+times the spell’s Intensity. protection works. 
+
+& Magic: Atracts offensive ranged magic with a Magnitude This magic does not necessarily need only to be cast on living 
+equal or less than the spell’s Intensity. creatures. It can just as easily be used to toughen a sword, make a 
+
+& Missiles: Attracts ranged weapons with a maximum damage door more difficult to hack through, or render a delicate glass bottle 
+(including magical augments) equal or less than the spell’s near unbreakable. The target cannot exceed a maximum SIZ of 
+Intensity. three times the spell’s Intensity. 
+
+& Spirits: Attracts aggressive spirits with a maximum Intensity 
+of half the spell’s Intensity. DiimiiNniishH (CCHhAaRrAaCTcEtReIrSisTtIiCc)) 
+
+Resist (Willpower/Endurance) 
+Diminish allows a sorcerer to reduce a physical or mental trait 
+
+BAaNnIiSshH 
+of a living target. Each variant of the spell affects a specific char- 
+
+Resist (Willpower) 
+acteristic, diminishing it by 2 points per Intensity of the spell —to a 
+
+Banish enables a sorcerer to dismiss a spiritual or demonic entity 
+minimum of 1. The target must possess the characteristic in ques- 
+
+with a maximum POW of three times the spell’s Intensity, back to 
+tion to be effective. 
+
+the Plane from whence it was summoned (or from which it travelled). 
+If the target is unwilling it is permitted to resist the spell, using 
+
+If the target is unwilling it is permitted to resist using Willpower. 
+Endurance if the spell is affecting a physical characteristic (STR, 
+
+This spell does not work on spirits which are residing within a 
+CON, SIZ or DEX) or Willpower if affecting a mental one (INT, 
+
+fetish to which they are bound. If brought forth from the object 
+POW or CHA). Note that creatures affected by Diminish (SIZ) actu- 
+
+to perform a service, however, the spirit becomes vulnerable to the 
+ally shrink, rather than becoming wasted and skeletal as with the 
+
+banishment; which if successful, sunders the binding. Likewise Ban- 
+Tap spell. 
+
+ish does not work on spirits currently possessing a victim, but only 
+those which are tricked into abandoning the host first. 
+
+DOoMmIiNnAaTtEe (CCRrEeAaTtUuRrEeSs)) 
+Concentration, Resust (Wallpower) 
+
+ByPpAasss ARrMmOoUuRr 
+Dominate grants the sorcerer psychic control over a creature of 
+
+Bypass Armour affects objects, armaments or the natural weap- 
+the specific species the spell affects. The spell is limited by the intel- 
+
+ons of creatures so that they pass through armour. The spell allows 
+lect of the target, the caster only able to subjugate creatures with an 
+
+the weapon or trap to ignore a number of Armour Points equal to 
+INT or INS up to twice the spell’s Intensity. Those that fall within 
+
+the spell’s Intensity. This spell also works against magical protection, 
+this range may resist with Willpower. 
+
+such as Damage Resistance or Shield. 
+Whilst the sorcerer concentrates, he may mentally issue com- 
+
+CAaSsTtbBaAcCkK mands to the victim, who (in most circumstances) cannot refuse. If 
+
+Castback shields the recipient from magic in a somewhat hap- the sorcerer allows his concentration to lapse, the victim temporarily 
+
+hazard manner, with the chance that any spell cast at them may regains volition; at least until the next time the sorcerer re-establishes 
+
+167
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+Kratos wields his Dominate (Reptiles) spell to command a lizardman raiding party of the Lo Swamps to serve him. With this subservient force, the sorcerer plans his revenge 
+
+against Meeros. 
+
+concentration. Dominate does not grant any awareness of what the The target of the spell may be an object, location or person — 
+target is doing when beyond the perception of the sorcerer. In addi- although the latter, if unwilling, may also attempt to resist. If suc- 
+tion, if the target escapes the Range of the spell they are freed from cessful the target throws off the curse, and the spell fails. 
+control, although it can established again if they return. Although the magic may seem extremely potent, it is balanced 
+
+Certain circumstances permit a new resistance roll to break the by the amount of time required to gather together creatures from 
+spell, such as acts which run contrary to the target’s strongest beliefs overly long distances. In addition, interfering with nature on a wide 
+or instincts, for example being forced to murder a loved one. In these scale often results in unforeseen (and dire) consequences. Thus Draw 
+cases the subjugated victim may resist using a Passion, Oath or some is most often used for things like: pestering an individual with insects, 
+similarly relevant skill. Suicidal commands instantly break the spell. clandestinely stealing an entire herd of cattle, or blighting a city with 
+
+a plague of rats. 
+DRrraAww (CCRrEeAaTtUuRrEeSs)) 
+
+Resust (Wallpower) EnNCchHAaNnTt (OOBbJjEeCcTt)) 
+Draw summons creatures of a specific type within range towards Resist (Special) 
+
+a target. Each variant of the spell affects a family of species, such Enchant enables a caster to make one of their sorcery spells ever- 
+as fish, felines or birds. It affects creatures up to a maximum SIZ of lasting, but at the cost of seriously reducing their magical strength. 
+three times the spell’s Intensity, which may resist the summons using Normally enchantments are bound into inanimate objects, some- 
+Willpower. Those that fail are drawn towards the target, moving at a thing which will last beyond the life of the sorcerer, perhaps even 
+natural speed suitable to that type of creature. becoming a legendary object. On the other hand a living target can 
+
+Physical obstructions may prevent the creatures from reaching be enchanted, although the spell is often one of a deleterious nature. 
+the desired location. Upon their arrival, some other magic must be A spell which is to be made perpetual must be Combined with 
+used to control the creatures since Draw provides no protection or the casting of Enchant. In addition, it is limited to possessing only as 
+domination against them. Aggressive species may potentially ram- many points of shaping as the Intensity of the Enchant. The strain 
+page or mindlessly attack depending on their natural instincts. of creating the enchantment permanently reduces the sorcerer’s 
+
+Magic Points attribute by the magic point cost of the combined spell. 
+These can be recovered later if the enchantment is unwoven by the 
+
+168
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+HY NCHANT? ENnSsLlAaVvEe (CCRrEeAaTtUuRrEeSs)) 
+Why Enchant?
+
+Resist (Willpower) 
+Few player character sorcerers are likely to create enchantments since 
+
+Enslave grants the sorcerer power to manipulate large numbers 
+the ultimate cost always comes from their own Magic Points attribute. 
+
+of targets, all of whom must be of the same species as specified by 
+Although it may seem foolish to enchant objects or people with permanent 
+
+the spell. Instead of crushing the will of its victims, turning them 
+spells due to this crippling reduction in power, there are some circumstances 
+
+into helpless automatons (as per the Dominate spell), the magic 
+where it can actually be a reasonable act. 
+
+instils a powerful yet wholly artificial zeal or desire within those 
+In magically poor settings, recovery of Magic Points may be slow and 
+
+which it affects — giving them a temporary Passion at a value equal 
+difficult. An enchanted object in this case, will actually save the sorcerer 
+
+to the caster’s Invocation skill. This can be anything from devoted 
+from expending power, especially of it is a spell which he uses regularly — a 
+
+adoration towards the sorcerer to an unremitting hatred for a hith- 
+canpet enchanted with Fly for instance. 
+
+erto friendly nation. 
+Progression in a magical guild or cult might require the creation of an 
+
+The potential number of victims a sorcerer can Enslave is equal 
+enchantment, a wizard’s staff” being a common concept. Combining this 
+
+to ten times the Intensity of the spell, multiplied by its Targets com- 
+with the right spell could create a dangerous weapon of sorcery (Wrack), 
+
+ponent; thus if cast at Intensity 7 with four Targets, the spell will 
+grant a supplementary pool of Magic Points (Store Manna), or some other 
+
+actually attempt to affect 280 victims. These are normally gathered 
+imaginative use. 
+
+in a crowd or restricted area so that both the sorcerer can see them, 
+Last but by no means least, a sorcerer can use an enchantment to bless 
+
+and they can hear him. The sorcerer can only enslave creatures with 
+or curse a victim with a persustent effect. A rather infamous example would 
+
+an INT or INS up to twice the spell’s Intensity. Those that fail to 
+be changing a prince into a baboon with a permanent Shapechange spell, 
+
+resist will listen to the words of the sorcerer and be influenced by 
+although with the right shaping entire cities could be damned with some 
+
+them. 
+nefarious sorcery. 
+
+Whilst under the influence of this spell, victims cannot directly 
+
+- 4 harm the caster, thinking him sacrosanct or a fount of wisdom. 
+However they can baulk at a command if the order brings them 
+
+original caster or the object (or person) is destroyed. Dismissing or 
+into conflict with another Passion of equal or higher value. Enslave 
+
+Neutralising an enchantment only suppresses its powers temporarily. 
+is normally used by powerful sorcerers to raise armies, subjugate 
+
+Itis recommended that only objects be permitted to be enchanted 
+tribes or corrupt ruling bodies, enabling them to subtly seize power 
+
+with spells requiring the Concentration trait. Enchantments should 
+or ensure their own safety in an otherwise hostile society. 
+
+be recorded with the Invocation skill of the enchanted spell at the 
+time of its creation, along with whatever shaping was performed. 
+
+Evoke 
+EnNHhAaNnCcEe (CCHhAaRrAaCTcEtReIrSisTtIiCc)) Resust (Wallpower) 
+
+Evoke brings an extra-planar being to the presence of the caster; 
+Resist (Willpower/ Endurance) 
+
+which can be anything from a demon or genie, to an intangible spirit. 
+Enhance allows a sorcerer to increase a physical or mental trait 
+
+The only requirements are that it cannot be native to the plane of 
+of a target. It works in precisely the same way as Diminish, save that 
+
+existence to which it is summoned, that it does not possess a POW 
+it improves a specific characteristic, enhancing it by 2 points per 
+
+greater than three times the spell’s Intensity, and that the sorcerer 
+Intensity of the spell — to a maximum of twice the original charac- 
+
+knows its true name. For some settings, each incidence of this spell 
+teristic value. Malevolent use of the spell may be resisted. 
+
+might be specific to a unique individual. 
+Careful consideration should be taken before permitting charac- 
+
+Although Evoke may summon the entity, it does not grant him 
+ters access to certain versions of this spell, such as Enhance (DEX, 
+
+any power over the extra-planar being. Unless some sort of magical 
+INT or POW), due to the potentially unbalancing nature of these 
+
+protection or compulsion is used, the sorcerer is completely at the 
+spells. 
+
+mercy of the entity, relying on ritual tradition or good nature. Of 
+
+ENnLlAaRrGgEe 
+Resust (Special) SuUmMMmOoNnIiNnGg OTtHhEeRrWwOoRrLlDd ENnTtIiTtIiEeSs 
+Enlarge is the opposite of the Shrink spell. It is used to expand Using Evoke to summon entities from other worlds or dimensions us 
+
+non-living or inanimate objects, the initial SIZ of which cannot one of those spells which, according to the genre, commonly requires a 
+exceed a maximum of three times the spell’s Intensity. Under its great deal of preparation as described in the Introduction to Magic chapter 
+effect, the dimensions and weight of the object are multiplied by a (see Ritualistic Casting Times page 115). 
+factor equal to the Intensity. For instance a plank of wood subject to 1In this particular case, the Games Master could require that the initial 
+an Intensity 7 Enlarge spell it would grow to seven times its length summoning of the entily requires roleplaying a long drawn out ritual, with 
+and mass, possibly allowing it to form a bridge. JSfull descriptions of the laying down of protective wards, and any required 
+
+Normally objects cannot resist the magic, but if it is carried or sacrifices. Then, assuming the summoned creature doesn’t just destroy the 
+worn by a living creature, then the victim may resist the spell with sorcerer or drag him back to its own realm, some form of negotiation 
+Endurance. Used offensively in this way, the creature has the chance should take placefor future services. 
+to brace itself or simply drop the object as it expands. Thus whilst Once thus deal is struck the entity could be allowed to return home, 
+having a suit of mail grow to five times bigger and heavier may be a ready to respond the next time it is called by the Evoke spell. However, 
+hindering inconvenience, it will not cause direct harm. Additionally, these_future summonings merely require the sorcerer to call out the being’s 
+an object will stop growing when it meets too much resistance. name whilst casting the spell, allowing it to respond near instantaneously. 
+
+- 4 
+
+169
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+course the being may not necessarily attack or punish its summoner, HIinNDdEeRr 
+but few are happy about being yanked from their native plane with- Resust (Endurance) 
+out some sort of suitable raison d’étre or a gift to smooth ruffled Hinder reduces the Movement Rate of whatever itis cast on, in a 
+feelings. similar manner to Haste. The spell can affect targets of up to a max- 
+
+Summoned entities only remain in the world for as long as the imum SIZ of three times the spell’s Intensity. Those that fail to resist 
+Duration of the spell. In addition they cannot travel further from the are slowed by a number of metres equal to the Intensity. However, a 
+place of their summoning than the spell’s Range. target’s Movement Rate cannot be lowered to less than 1 metre per 
+
+round with this spell. 
+Frly 
+
+Concentration HooOLldDFfaASsTt 
+Fly enables the recipient to move freely through the air at their Resust (Endurance) 
+
+own behest. The spell can affect a person, creature or object of a SIZ Holdfast magically adheres an object (of a SIZ up to three times 
+up to three times its Intensity, granting them a base Movement Rate the spell’s Intensity) to another surface. The bonding is unbreakable 
+of 6. Further levels of Intensity not allocated to SIZ can instead be by normal means, save for the destruction of the target or the sur- 
+used to augment the speed of flight, each point granting an addi- face it is bonded to. It can only be dispelled by magic if the counter 
+tional 6 metres per round. For instance an Intensity 7 Fly spell could spell can overcome the Magnitude of the Holdfast. 
+grant a SIZ 14 creature a Movement Rate whilst flying of 18. The materials of the two surfaces make no difference to the 
+
+Fly requires concentration only when actively moving. If concen- spell. However, if the target is a living being, it is permitted to resist 
+tration lapses the magic continues, keeping the recipient hovering using its Endurance. This magic is often used to seal doors into 
+aloft; although if travelling at high speed it might take a round or their frames, stick weapons into scabbards, or even fasten thieves to 
+two to coast to a stop. objects they were trying to steal! 
+
+If the spell is used on a beast of burden or an object used to sup- 
+port others (such as a carpet) it must be capable of lifting the com- ImMPpRrIisSoOnN 
+bined SIZ of both the creature or object, and those mounted upon Resist (Willpower) 
+it. Otherwise it either fails to take off, or sinks towards the ground at Imprison creates an invisible barrier around a person or creature, 
+a rate deemed fitting by the Games Master. blocking it from leaving the area. The magic only affects corporeal 
+
+beings with a maximum POW or SIZ of up to three times the spell’s 
+HAaSsTtEe Intensity. If either characteristic exceeds the limit the spell fails. The 
+
+Haste augments the Movement Rate of whatever it is cast on, imprisoned creature is permitted a single chance to resist. If they 
+whether a person, creature or object. The spell can affect targets up successfully overcome the magic, they can escape. 
+to a maximum SIZ of three times the Intensity of the spell. Under Depending on the setting, Imprison may require the area of the 
+its effect, the recipient’s Movement Rate is increased by an amount imprisonment to be pre-prepared with use of powders, glyphs or 
+equal to the Intensity. If the target is an inanimate object, it increases geometric designs. It is often combined with the Evoke spell to pro- 
+the top speed of the vehicle or vessel, but does not provide motive vide some degree of protection when summoning hostile entities. 
+power. 
+
+InNtTuUIitTiIoOnN 
+HiiDdEe LifFe Concentration, Resust (Wallpower) 
+
+Hide Life conceals the recipient’s soul in a specially prepared Intuition permits the sorcerer to discern the true emotions and 
+object called a soul jar, which can take any form the caster desires. motives of the target, as if he had made a successful Insight roll. 
+It works only on targets with a maximum POW of up to twice the The spell can only affect targets with an INT up to twice its Inten- 
+Intensity of the spell. Under its effects the recipient loses a single Hit sity. Although the magic allows a deeper awareness of psychological 
+Point from every location, but in exchange cannot be killed. Fach state, it does not enable the sorcerer to read memories or guarded 
+time they suffer an injury, affliction or spell which would normally thoughts. Targets who are aware of the spell may try to veil their 
+slay them, at the moment of death their body discorporates and feelings, gaining another resistance roll against the caster’s Invoca- 
+reforms next to the object in which the life force is stored. tion skill, each time they try to deflect the sorcerer’s probing. 
+
+It takes the body a period of one month divided by the Intensity 
+of the spell to fully reform and heal. Conversely, if the recipient MAaRrKk 
+ventures further away from its soul jar than the Range of the spell, it Resist (Willpower) 
+begins to degenerate, suffering damage in reverse. Dying beyond the Mark is used to magically tag an object with a mystical sigil, so 
+reach of the spell is permanent. that it may be located, summoned or even targeted by another spell 
+
+Hide Life can be dismissed or neutralised, but requires the count- without being in range of the caster’s perception. The magic can 
+er-magic to be cast directly onto the soul jar, which is normally well mark an object of a SIZ up to three times the spell’s Intensity. Whilst 
+hidden or protected. The only other way of ending the spell is to the caster is within the Range of the spell, he is aware of the object’s 
+smash the object itself, which may prove hard if it is carved or fash- distance and direction. Whether or not the magical mark is visible 
+ioned out of exceptionally durable material. Although Hide Life depends on the setting, but once placed it cannot be removed until 
+prevents death, it does not cease ageing, as many sorcerers who later the spell ends. If cast upon a living creature, it may attempt to resist 
+become withered liches have discovered to their cost. the effects of the spell. 
+
+170
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+MyyssTtiic (SeEnNSsEe)) PhHAanNtToOmM (SSeEnNSsEe) 
+Concentration Concentration, Resust (Special) 
+Mystic (Sense) enables the caster to perceive magic using the Phantom produces an illusory effect on a target, tailored to fool a 
+
+sense of perception as specified by the spell. This could take the specific sense. There are many versions of this spell, each one affect- 
+form of seeing auras, hearing faint tinkling, smelling peculiar scents ing a different type of perception. The most common are used to 
+or even feeling his skin crawl. subvert sight, sound, smell, taste and touch; but others exist to fool 
+
+Due to the diversity of senses, the magical object need not be in more exotic senses such as temperature, magic or emotion. Several 
+direct perception, but less precise sensory methods may make it dif- phantasm spells can be woven together to form a single illusion, 
+ficult exactly to locate the source. The power of Mystic (Sense) per- using the Combine component. 
+mits it to extend into alternate planes, for example the Spirit World, Illusions produced by the Phantom spell confuse the senses of 
+if such exist in the setting. those who interact with them, but do not change the underlying 
+
+The sorcerer will be able roughly to judge the Magic Points reality hidden beneath. As such, phantasms cannot inflict direct 
+of objects and people to within 1d3 points. If observing a spell or harm, but can be indirectly dangerous. For example a visual illusion 
+enchantment with an Intensity equal or less than that of the sorcer- of a paved floor could hide the existence of a spiked pit beneath it, 
+er’s Mystic (Sense), he may discern what the type of magic (Theistic, or the smell and taste of a deadly acid could be hidden under the 
+Mystic, etc), what it does, and the unique signature of whichever illusory bouquet of fine wine. 
+cult, guild or tradition cast it — or if already a member of that group, Of course, illusions need not be used to hide danger but could 
+the individual. intimidate or bluff instead. The same visual illusion could make a 
+
+pony appear to be a deadly sabre-toothed tiger, or turn the rags of a 
+NEeUuTtRrAaLlIiSsEe MAaGgIiCc beggar into princely robes. 
+
+Neutralise Magic suppresses a single spell or miracle on a target, Detecting an illusion is not normally permitted unless the 
+with a Magnitude equal or less than its own. The magic is negated observer has good reason to question its validity. The audible and 
+only as long as the Duration of Neutralise Magic, which in most visual phantasm of a tiger cast on a pony will fool almost anyone, yet 
+cases is more than enough time for the targeted spell to expire. a dog witnessing the same illusion would notice that the tiger smelled 
+Magic with a longer duration reinstates itself when Neutralise ends, very strongly of horse, and would have a strong suspicion that it was 
+thus it cannot be used to permanently negate long-running curses or not all it seemed. In such cases the observer may attempt to resist 
+break enchantments for example, but could be used to briefly bring using their Willpower against the Invocation skill of the caster. Resis- 
+relief or bypass them. tance rolls are also permitted if the phantasm attempts to aggres- 
+
+If used against spells or miracles which specifically protect against sively overwhelm those subject to its illusory effects (see below). 
+magic (such as Spell Protection or Reflect), Neutralise Magic takes Phantasms can react to their surroundings provided the sorcerer 
+precedence in those situations when the Magnitude of both is equal. concentrates on the spell. If the caster’s attention lapses the illusion 
+
+Neutralise Magic can be used defensively to negate incoming enters a relatively static standby mode, still operant but not longer 
+spells using the Counter Spell reactive action. It affects targets with dynamically responding to the environment; so background noises, 
+a SIZ up to three times the Intensity of the spell. scents and such like rarely need to be concentrated on. 
+
+Tor instance casting the phantasm of a tiger out of thin air 
+PAaLlsy 
+
+would require the caster to concentrate to make it move or respond 
+Resist (Endurance) 
+
+to attacks; whereas casting the same phantasm on the pony would 
+Palsy renders a single random Hit Location on the target com- need no concentration, since all he has done is changed its external 
+
+pletely useless, the affected area twitching and unresponsive. The 
+appearance, and the animal will move by itself — although cropping 
+
+precise effect depends on the location struck. Being hit in the head 
+grass and fleeing at the first sign of danger might be giveaways. 
+
+causes the victim to become completely incapacitated, the chest 
+Phantom can only be used to replicate senses and memories pre- 
+
+results in paralysis from the neck down, the abdomen paralysis from 
+viously experienced by the caster, or things he can mentally imagine. 
+
+the waist down, and a limb simply ceases functioning. Thus a sorcerer could create some horrific looking monster with a 
+The spell cannot affect Hit Locations which normally possess Hit 
+
+hundred eyes, but correctly mimicking the taste of Fireberry Juice 
+Points greater than the Palsy’s Intensity. Nor can a single casting of 
+
+may be beyond his ability if he hasn’t already sampled it. Such 
+the spell be used to target multiple locations on the same victim. 
+
+minor oversights are often a good way of recognising phantasms. 
+The following guidelines are provided to help judge the effects of 
+
+PEeRrCcEeIivVEe (SeEnNSsEe) 
+particular sensory illusions: 
+
+Resist (Endurance) 
+Perceive grants the recipient a new and unusual sensory percep- 
+
+SiIgGhHTt 
+tion. This could be anything from Echolocation to X-Ray Vision. 
+
+Creates a visible yet non-corporeal illusion which cannot exceed 
+The recipient cannot exceed a SIZ more than three times the spell’s 
+
+a length, height or width of more than the Intensity of the spell in 
+Intensity and if unwilling, may resist. Each version of the spell 
+
+metres. This can range from simply changing the colour of a door to 
+relates to a single unique sense, which can be made up by the Games creating a carpet of aggressive, multicoloured snakes which continu- 
+Master or chosen from the Creature Traits table. ally wriggle over each other. If used subtly; a visual illusion can help 
+
+Depending on the setting, the spell may strangely mutate existing disguise the true appearance of an object or creature, changing skin 
+Sensory organs, or grow exotic new ones, such as giant bat-like ears, tones or the pattern of clothing, Creating a fabrication completely 
+delicate antennae or even glowing slit eyes — potentially causing dis- out of context with the setting allows the viewer a chance to resist, 
+trust, fear or nausea to observers. 
+
+171
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+as does physically interacting with it. Animate illusionary creatures However, the portal only remains open for as long as the sorcerer 
+use the relevant skills of the sorcerer to perform physical actions; for concentrates. If his attention lapses, the portal remains in place, but 
+example, an illusionary giant spider attempting to avoid a thrown is impassable. 
+javelin would use the sorcerer’s own Evade skill to scuttle clear. The appearance of the portal usually depends on the setting. 
+
+Games Masters should decide whether a portal terminus can be 
+SmMEeLlLl placed blindly, whether it relies on close personal familiarity with 
+
+Reproduces any single scent of something, from a pleasant per- the chosen location, or requires use of other magic such as Project 
+fume to the stench of vomit or the smell of cut grass to freshly cooked (Sense) or Mark. 
+food. The illusory scent has a detectable radius in metres (to humans Conversely portals may require a specially enchanted spot or 
+at least) equal to the Intensity of the spell. When used creatively, the object to function, such as a set of standing stones. Another consid- 
+smell can drive off those who find the odour unpleasant, or cause eration is whether sensory information can pass through the portal 
+them to involuntarily gag or choke. Conversely the scent might draw as if it were a window to another place, or if the surface remains 
+the attention of persons or creatures who find it attractive. mysteriously opaque. 
+
+SoOuUnNDd PRrOoJjEecCTt (SeEnNSsEe)) 
+Generates an audible illusion, anything from a faint, distract- Concentration 
+
+ing whisper to an overwhelming clap of thunder. The sorcerer can Project allows the recipient to send one of his senses beyond his 
+influence the nature and volume of the sound so long as he con- body in the form of an astral projection. This discorporated ‘recep- 
+tinues to concentrate upon it. Although very loud sounds can be tor’ is both invisible and intangible, permitting it to travel anywhere 
+produced, the illusion cannot cause permanent deafhess or damage. with no chance of observation save for those with magical percep- 
+On the other hand the volume can be high enough to interfere with tion. Each individual Project spell relates to a specific sense, which 
+verbal communication, or hide the sounds of other things happen- is not necessarily limited to just human perceptions. A sorcerer who 
+ing. Treat the volume to be equal to ten times the Intensity on the knows several of these spells can Combine them together, clairvoy- 
+Decibel scale. Any task which requires hearing one’s own voice or ance and clairaudience for example. 
+maintaining concentration (such as spell casting), can attempt to Wherever the projected sense travels, it relays back its particular 
+resist, or suffer the usual consequences. sensory information, allowing the recipient to see, listen, touch or so 
+
+on via the receptor. Whilst one of his senses is projected in this way, 
+TAasTtEe 
+
+the recipient can no longer use it with his physical body. So a sor- 
+Produces any taste the sorcerer has previously encountered, from 
+
+cerer who projects his hearing off to a distant location becomes deaf 
+the most subtle of flavourings to mouth fouling tangs. The target of 
+
+until the spell ends or he brings the projected sense back. 
+this spell need not just be food or drink, although that it is primary Concentration is required for two aspects of the spell: moving 
+focus. It can be used to make the skin of a lover taste like lemon zest the astral receptor, and attempting a Perception check with the pro- 
+or be applied to a knife so that whatever it cuts is tainted with the jected sense. Relatively speaking the sense moves quite slowly, with 
+flavour of rotted fish sauce. Using this spell offensively is somewhat 
+
+a maximum speed of ten times the spell’s Intensity in kilometres per 
+difficult, but it might be utilised to cause a faux pas; forcing some- 
+
+hour. When focus lapses, the receptor remains static but it keeps on 
+one to spit something out unexpectedly; or perhaps make somebody 
+
+relaying ambient information. If for any reason the projected sense 
+abandon a complete meal, allowing the caster to claim it for himself. 
+
+is detected, it can be dispelled or even attacked with a magically 
+
+ToucHh 
+Creates an illusion of tactility, which when combined with other DEeAaTthH fFrRoOmM AFfAaRr 
+
+types of phantasm can grant them a greater degree of reality. The Although Project (Sense) s oflen used to search or spy from remote 
+sense imposed can range from feathery tickles to resilient impact, et secure locations, its main advantage is that it enables a sorcerer to cast 
+although in truth there is nothing actually there. So a target could spells at extreme Range, ostensibly safe from reprisal. Whlst this may 
+be goosed from afar or the bite of a phantasmal tiger given crush- seem the perfect way lo curse or assassinate a victim (and indeed s a staple 
+ing force. Indeed the spell is so versatile it can be used to replace of the Sword & Sorcery genre), there are certain dfficulties with using it 
+the painful lash of a whip with the sense of being gently caressed. in this manner. 
+Such sensations simply fool those that interact with target, thus the Fastly there is no guarantee the sorcerer will actually know the precise 
+spell cannot inflict, and is itself immune to, damage. Victims may location of hus intended victim. Of course the location of a public figure 
+still believe they have been wounded (or not as the case may be), such as a king may be guessed at, but it stull might take some time to_find 
+and must resist the spell to avoid psychosomatic effects of receiving has exact position, especially if he lacks a regular schedule. Once a victim 
+wounds, even though they have not suffered any actual harm. discovers he s being magically hunted it would be easy to hide or move 
+
+somewhere unforeseen by his hunter, making it mgh tmpossible to locate 
+POoRrTtAaLl by serying. 
+
+Concentration Secondly, after extending the Range of a sorcery spell to reach tens or 
+Portal creates a magical gateway connecting two places, which hundreds of kilometres, few Shaping points remain to augment its Mag- 
+
+when stepped through, allows instantaneous transportation between nitude; meaning that even modest magical protection will block the attack. 
+the caster’s side to the terminus, which may be located anywhere Tus 15 espectally true for places such as temple sanctuares or wizard’s 
+within Range. The portal is large enough for objects or creatures lowers which tend to be warded against such magical assaulls. 
+with a SIZ up to three times the spell’s Intensity to pass through. - 4 
+
+172
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+augmented weapon or spell —which if successful, transfers the mag- REeVvIiVvIifFyY 
+ical effect or damage back to the head of the recipient. Concentration 
+A sorcerer can use Project (Sense) to be able to aim a second spell Revivify is used to animate a dead body, creating a mindless 
+
+at a target who is out of direct observation —whether because of dis- undead automaton such as a skeleton or zombie. The spell requires 
+tance or blocking obstacles. The piggy-backed spell must also have the relatively whole corpse of a dead creature in order to work, 
+sufficient Range to reach the target, and cannot possess a greater although bodies can be assembled piecemeal from dismembered 
+Intensity than that of the Project spell. parts of several less intact carcasses, provided time is spent stitching 
+
+flesh or wiring bone together first. 
+PRrOoTtEeCcTtIiVvEe WAaRrDd 
+
+The sorcerer can revivify corpses with a maximum SIZ of three 
+Protective Ward is an augmenting spell which must be cast in 
+
+times the spell’s Intensity. The characteristics of the skeleton or zom- 
+association with one or more other sorcery spells, using the Com- 
+
+bie are as described in the Creatures chapter, but gain a bonus to 
+bine component to meld them together. Its purpose is to form an 
+
+STR and CON equal to the Intensity of the spell. All other attri- 
+extended wall to which spells such as Damage Resistance, Spell 
+
+butes are based on the original creature. 
+Resistance or Spirit Resistance can be bound, so that the magic 
+
+Being mindless, revivified undead rely on their creator to guide 
+defends an area or volume, rather than individual targets. 
+
+them. Thus they act with physical skills equivalent to those of the 
+The ward can cover an area (or encompass a volume) of up to 
+
+sorcerer (capped by the value of the caster’s Invocation skill), but if 
+1 metre per point of Intensity in width, height and depth. Thus an 
+
+he allows his concentration to relax, they lapse into quiescence until 
+Intensity 6 Protective Ward could be used to create a simple wall 6 
+
+actively guided again. Nothing prevents the sorcerer from further 
+metres wide, a trapezoid pyramid measuring 6m along each verti- 
+
+augmenting the undead servitor with other magic or arming it, pro- 
+ces, or even a hemisphere 6m in diameter. As preparation before it 
+
+vided it has the physiology to wear or wield such items. 
+is cast, the ward must be inscribed upon a solid surface, its sigils or 
+lines either drawn, scratched or etched along the perimeter of the 
+area so protected. 
+
+When cast, the sorcerer decides in which direction the ward is 
+permeable, if any. Thus a warding could be set up to affect anything 
+entering the warded area, or conversely anything leaving it. In cer- 
+tain circumstances the caster may wish that the magics woven into 
+the perimeter work in both directions. 
+
+REeGgEeNnEeRrAaTtEe 
+Concentration 
+Regenerate allows the sorcerer to slowly heal injuries by accel- 
+
+erating the natural healing processes of the target. The magic will 
+counteract bleeding and stabilise a dying target, but cannot repair 
+Major Wounds. Targets regenerate a number of Hit Points per hour 
+equal to the Intensity of the spell. These points may be divided 
+across several locations or all applied to one location at the will of 
+the caster. However, the sorcerer must actively concentrate on the 
+spell for healing to occur. If concentration lapses or the spell is ter- 
+minated early, the amount of Hit Points recovered is proportional to 
+the time spent regenerating. 
+
+REePpUuLlSsEe (CCRrEeAaTtUuRrEeSs)) 
+Resist (Willpower) 
+Repulse is the exact opposite of the Draw spell (see page 168), 
+
+driving off creatures of a specific type within range of the target. It 
+has a range of useful applications, such as a personal insect repellent 
+or purging homes of vermin. On a larger scale Repulse can keep 
+villages clear of especially dangerous creatures, which might pose a 
+threat to the inhabitants. As a curse it works well too, from driving 
+
+ScuuLlppPtT (SSuUBbSstTaANnCcEe)) 
+prey away from a hunter up to the damning of entire cities by repel- 
+
+Concentration, Resust (Special) 
+ling people from entering their forbidding gates! 
+
+Sculpt enables a sorcerer to mould the form of a particular sub- 
+The precise nature of the repulsion is left to the caster to decide. 
+
+stance, shaping it to his will. Each variant of the spell affects a specific 
+It takes the form of some emotive response, for example disgust, 
+
+type of substance, which can be fairly inclusive, for instance sand, 
+nervousness or outright terror. 
+
+stone, water, metal, and so on. The sorcerer can sculpt a volume 
+or object with a maximum SIZ of three times the spell’s Intensity. 
+Insubstantial substances such as smoke, shadows or mist are instead 
+measured in terms of cubic metres equal to the spell’s Intensity. 
+
+173
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+Concentration is only required to actively shape the substance, For example, a sorcerer of SIS 10 who wishes to change into a lion (average 
+the spell maintaining the new form until the next change the sor- SIZ 22), requires a Shapechange of Intensity 8; whereas if the same sorcerer 
+cerer wishes to make. At the conclusion of the spell the substance wished to turn into a rat (average SIZ 1), he would only need an Intensity of 7. 
+will retain its final form, provided the material is rigid. For instance There are many variants of Shapechange, each one specific 
+a hole opened in a wall would remain, but a statue moulded out of to a species of creature. The categories are quite broad in scope, 
+water would collapse. however, covering an entire family: for example: rodents, canines, 
+
+Although sculpt can create any form imaginable, the actual artis- snakes, etc. To change into a Wyvern, for example, one would need 
+tic value or architectural strength of the new shape is limited by the Shapechange (Draconic); assuming the sorcerer had sufficient Inten- 
+appropriate Craft or Engineering skill; thus a sorcerer who tried to sity to achieve the new form. The spell only works on living things, 
+repair the hull of a ship with this spell would only be as effective as which may resist if they are unwilling. 
+his Craft (Carpentry), albeit he’d need no tools, and could perform 
+the task in mere moments. ShHRrIinNkK 
+
+If the targeted object is carried or worn by a living creature, then Resist (Special) 
+
+they may resist the spell with Endurance. Whilst the spell can be Shrink is used to miniaturise non-living or inanimate objects, the 
+
+used to discommode/break such objects, their manipulation cannot SIZ of which cannot exceed a maximum of three times the spell’s 
+
+be used to directly inflict harm on the creature (see Shrink, opposite). Intensity. The manner in which objects decrease their proportions is 
+
+Exotic versions of this spell can be used on living substances, different to the Diminish spell, since objects targeted with this magic 
+
+provided the spell can affect the entire plant or creature. Unwilling may be quite small and light. Instead Shrink reduces their dimen- 
+
+targets may attempt to resist. No damage is inflicted on those that sions and weight by a factor equal to the Intensity. For example a 
+
+fail, but their physique and appearance may be warped as the sor- broad sword has a default SIZ of 1, but if subject to an Intensity 8 
+
+cerer desires. Shrink spell it would be reduced to an eighth of its length and mass, 
+making it much easier to conceal. 
+
+SensEe (OOBbJjEeCcTt,, STtaATtEe oORr SUuBbSsTtAaNnCcEe)) If the targeted object is carried or worn by a living creature, 
+Concentration then they may resist the spell with Endurance. Otherwise the object 
+Sense is utilised as a means to detect valuables, lost possessions or gets no save against the magic. When used offensively upon worn 
+
+hidden objects from afar. Each incidence of this spell senses a spe- objects, the targeted item either tears open, squeezes off, or if it is 
+cific type of object, physiological status or unique substance. Such too resilient to break, simply stops shrinking when it meets too much 
+categories are usually quite broad, to ensure some degree of versa- resistance. So using Shrink on a soldier’s full helmet might miniatur- 
+tility. Examples include precious metals, fresh water, weapons, flesh ise it to the point where it is painfully tight and impossible to remove, 
+and bone, edible food, or even undeath. but it will not inflict any significant harm on its wearer. 
+
+The caster must concentrate to detect his spell’s objective, which 
+reveals its presence by tweaking one of the sorcerer’s primary senses. SmMOoTtHhEeRr 
+Thus the location of water might be indicated by a gurgling, tinkling Resust (Endurance) 
+
+noise which strengthens as the caster draws closer to its source. Smother slowly asphyxiates a target, starving it of air so that it 
+
+Sufficient thickness of interposing material will block the spell, collapses choking and gasping. The magic affects targets with a SIZ 
+
+which can penetrate a number of metres of solid wood, earth or up to three times the Intensity of the spell. Those that fail to resist 
+
+water equal to the spell’s Intensity. Denser materials such as metal or begin to suffocate immediately, suffering damage at the start of the 
+
+stone reduce this to a number of centimetres equal to the Intensity. next Round (see Asphyxiation page 71). The spell can also be used 
+
+Penetrating magical protections require that the Intensity of Sense on flames to extinguish candles, lamps, and even fires of up to 1 
+
+exceeds that of the protective spell. cubic metre per Intensity. 
+
+Sense cannot discern more insubstantial things like emotions or Normally this spell ceases to inflict damage once the victim passes 
+
+intents. out. Rarer versions possess more dire effects, actually filling the vic- 
+tim’s lungs with water, blood, or even sand so that they actually die. 
+
+ShHAaPpeEcChHaAnNGgEe (tToO CRrEeAaTtUuRrEe)) 
+Resust (Endurance) SPpEeLlLl REeSsIisStTaAnNcCEe 
+Shapechange morphs the physical body of the target into that of Spell Resistance provides the recipient protection against magic 
+
+another species. The sorcerer can affect any living creature of a SIZ cast at them. It blocks incoming spells with a Magnitude equal to, 
+
+up to three times the Intensity of the spell. The SIZ of the original or less than, its own. If a spell or miracle manages to overcome this 
+
+form, added to the difference in SIZ between the original and mod- protection, the Spell Resistance suffers no harm, unless of course it 
+
+ified form, must be within this range. itself was the target of magical dismissal. 
+
+The magic transforms the target into an average example of the The negative side of Spell Resistance is that it cannot discern 
+
+new species. He adopts the physical Characteristics (STR, CON, between friendly or hostile magic. Thus someone seriously wounded 
+
+SIZ and DEX) of the creature assumed, plus whatever inherent under its protection may need to terminate the spell or be prevented 
+
+attacks and modes of locomotion it possesses. The recipient may from receiving magical healing. Spell Resistance affects targets with 
+
+use the creature’s base skills or his own, if they are better. Magical or a SIZ up to three times the Intensity of the spell. 
+
+supernatural abilities are not granted, and nor are any of the mental 
+SPpIirRIitT REeSsIisStTaAnNcCEe 
+
+characteristics. 
+Spirit Resistance blocks spirits and intangible entities of other 
+
+planes from coming into contact with the recipient. The magic 
+
+174
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+blocks spirits of an Intensity up to half the Intensity of the spell. Both the sorcerer and the target retain their own skills and men- 
+Tor example, an Intensity 3 disease spirit would be blocked by an tal Characteristics, but gain the STR, CON; SIZ and DEX of the 
+Intensity 5 or 6 Spirit Resistance. other’s body, which may require recalculation of some attributes. 
+A blocked spirit is unable to touch, discorporate, possess or oth- Since this spell can be used upon creatures as well as sapient 
+
+erwise engage the recipient in Spirit Combat. Likewise any magic beings, the sorcerer takes provisions to ensure his own body cannot 
+cast by a spirit at the recipient is also blocked unless the Magnitude suffer harm from the temporary occupant; for instance by leaving it 
+of the spell exceeds the Intensity of the Spirit Resistance. under the supervision of servants or magically binding himself into 
+
+immobility. 
+StToORrEe MAaNnNnAa If the sorcerer’s body is killed whilst switched with a victim, his 
+
+Store Manna creates a temporary storage vessel for Magic Points, consciousness will also die when the spell ends. Using this spell a 
+a reservoir which can charged, then later be called on to power the sorcerer could briefly escape the death of their own body in order 
+sorcerer’s own spells. It requires an object to be the target of the to wreak revenge. Casting Switch Body as an Enchantment (see 
+spell in which the Magic Points are physically stored. This can be Enchant, page 168) can technically allow a sorcerer permanently to 
+anything from an eggshell to an iron idol, but more delicate objects inhabit the body of a target and assume its status or influence, if he 
+can be prone to breakage. The object can store a maximum number can carry off the exchange. 
+of Magic Points equal to the Intensity of the spell. Travelling further 
+from this object than the Range of the spell cuts the sorcerer off TaPp (CCHhAaRrAaCTcEtReIrSisTtIiCc)) 
+from his Magic Points. Resist (Special) 
+
+When initially cast, Store Manna has no Magic Points of its Tap is used to drain Characteristic points from victims in order to 
+own. These must be transferred from other sources; such as vol- boost sorcerer’s own, potentially achieving superhuman levels. Each 
+untary donations from other sorcerers. Depending on the setting, version of the Tap spell affects a different characteristic. Targets 
+Magic Points might also be gathered from ritual sacrifices, tapping may willingly submit to the spell or attempt to resist its effects, using 
+of magical locations, and other more unusual methods (see Where Endurance if the spell is affecting a physical characteristic (STR, 
+Do Magic Points Come From? Page 115). CON, SIZ or DEX) or Willpower if affecting a mental one (INT, 
+
+If the spell expires, naturally coming to the end of its duration or POW or CHA). 
+from being dispelled (or the object is broken), any remaining Magic The number of points drained from each target is equal to the 
+Points stored within the object are lost. spell’s Intensity (down to a minimum of 1 point). The sorcerer how- 
+
+The sorcerer can only benefit from a single casting of Store ever only gains one fifth of these points — up to a maximum of dou- 
+Manna at a time, additional castings either not working or replac- ble his original characteristic value. For instance if a sorcerer cast 
+ing the previous incidence of the spell. In addition, the application Tap (STR) at Intensity 7 on four targets, each of the victims would 
+of the Targets component does not permit multiplication of the lose seven points of STR whilst the sorcerer’s own strength would be 
+Magic Point storage, but simply allows the default number to be split augmented by +6 points. 
+between multiple objects. Once the spell concludes, the characteristic points of all involved 
+
+revert to normal. Certain versions of this spell such as Tap (IN'T) or 
+SuUmMmMOoNn Tap (DEX) can be very potent, especially if combined with Enchant. 
+
+Resust (Evade) When using Tap to steal a creature’s SIZ, the magic causes the vic- 
+Summon brings a non-living, inanimate object to the sorcerer, tim to become wasted and skeletal, rather than shrinking them. 
+
+teleporting it from wherever it previously rested to his hand or body 
+as desired. The magic can summon an object of a SIZ up to three TEeLleEpPaAtThHyY 
+times the spell’s Intensity. Usually this is something he can directly Resist (Willpower) 
+perceive with his own senses, although objects residing at greater Telepathy allows a sorcerer to establish mental two way commu- 
+distances can be summoned via magical observation, or previously nication with a target, without the need for shared language or even 
+prepared with the Mark spell. species. The caster can form the telepathic link with beings of an 
+
+If the object is something in the possession of a living creature, INT up to twice the Intensity of the spell. Non-sapient creatures use 
+it may attempt to resist the magical theft by snatching it back or their INT equivalent and not their INS. In this case, communication 
+diving away. This spell is often used to call forth prepared equip- is limited to the exchange of mental pictures or emotions. 
+ment the sorcerer does not wish to carry, or to arm himself in a The spell also grants the ability to experience memory, if the tar- 
+moment’s notice. Clothing and armour must be prior mounted on get is willing to share it. If cast on multiple targets, the sorcerer can 
+a mannequin for it to be instantly settled about the sorcerer’s body. decide if everyone connected via the Telepathy can communicate 
+When the spell ends the object returns to the precise location it was freely, or whether he acts as a hub for numerous private links. 
+summoned from. 
+
+TEeLleEpPoORrTt 
+SwiitchH Bopdy Concentration, Resist (Evade) 
+
+Resist (Willpower) Teleport enables a sorcerer to instantaneously move the recipi- 
+Switch Body enables a sorcerer to switch his consciousness with ent anywhere within the Range of the spell. Several limiting factors 
+
+that of another, so that they exchange bodies. The caster can affect apply to this transportation, these being that the destination is in 
+targets with a POW up to twice the Intensity of the spell. Unwilling direct observation (or tagged by the Mark spell), there is solid footing 
+targets who fail to resist become host to the caster’s mind, and their and no object bars their arrival; otherwise the spell automatically 
+own psyche finds itself in the sorcerer’s body. fails. A sorcerer is limited to teleporting creatures with a SIZ up to 
+
+175
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+three times the Intensity The effect of the spell 
+of the spell. depends on the substance 
+
+Although the spell per- it was converted to. A solid 
+mits contiguous jumping material such as gold will 
+until its Duration expires, place a living victim into 
+the recipient is forced to a state of suspended ani- 
+teleport back to its origin mation which lasts until 
+before selecting a new the sorcery terminates. 
+destination to travel to. Unless defaced, the tempo- 
+Fach jump is treated as rary golden statue reverts 
+a Reactive Action requir- back to its original form 
+ing the expenditure of unharmed. If the substance 
+an Action Point, and can was ice or salt on the other 
+be used to avoid attacks hand, some wearing might 
+in an opposed roll in a occur due to abrasive winds 
+similar fashion to Evade. or melting. 
+When the spell ends or Being transformed into 
+is dismissed, the recipi- a fluid substance usually 
+ent returns to his starting spells doom for the original 
+point. This occurs even if target. Objects converted 
+he is dead. to sand or water collapse 
+
+Teleport can be fur- under their own weight 
+ther limited by requiring and may disperse entirely. 
+the presence of a certain Those transmogrified into 
+material or substance at more viscous substances 
+cither end of the jump, often deform, and living 
+through which to pass. creatures which emerge 
+Tor example a sorcerer alive from such an expe- 
+may only be able to rience are often horribly 
+pass from one shadow warped or mutated by the 
+to another. Likewise this experience. 
+could be pools of water, Whilst it can be used as 
+burning fires or even liv- a horrible curse, transmog- 
+
+Kratos's Wrack (Darkness) spell easily overwhelms a Meerish champion. His pain is caused by 
+ing trees! ethereal serpents that bite and tea; their venom inflictingfreezing agony. rify is normally used in more 
+
+productive (or at least inven- 
+TRrAaNnSsFfEerR WOoUuNnDd tive) ways, anything from trick- 
+
+Concentration, Resust (Endurance) ing merchants to undermining fortifications. Games Masters should 
+Transfer Wound allows a sorcerer to transfer physical damage restrict this spell to only the most foul sorcerers if it is likely to be 
+
+from himself to the target or vice versa. By spending an Action Point abused for the purpose of killing. 
+and concentrating on his Turn he may move a single wound of dam- 
+age equal or less than the spell’s Intensity between the target and TrRaApP SouLl 
+himself. Resist (Willpower) 
+
+Wounds must be shifted between identical or at least roughly Trap Soul snares the spirit of a corporeal creature so that at the 
+similar locations, which cause the spell to fail if cast on a target moment of its death, it can be trapped within a specially prepared 
+with alien physiology. When the spell ends, transferred wounds object or location. The magic can affect targets with a POW up to 
+remain where they were last shifted. If multiple targets are incorpo- twice the Intensity of the spell. Unwilling targets may attempt to 
+rated, then damage transferred from the sorcerer is divided equally resist nefarious use of this spell. 
+between each recipient. Only those beings that die before the Trap Soul spell ends, and 
+
+whilst still within its Range have their souls imprisoned, unable to 
+TRrAaNnSsMmOoGgRrIiFfYy (tToO SuUBbSsTtaANnCcEe)) depart for the spirit world or afterlife until the object containing 
+
+Resist (Endurance) them is destroyed, or the spell concludes. 
+Transmogrify converts the base substance of a creature or object Whilst held within their prison, the soul is unable to communi- 
+
+to some other material. Each variant of the spell converts targets cate, unless contacted by magic with a Intensity greater than the 
+to a specific type of substance, which can be as broad or narrow as Trap Soul’s Magnitude. Sorcerers specialising in necromancy often 
+is suitable for the setting, for example salt, mud or even gold! The combine this spell with Enchant to create immortal oracles, to eter- 
+sorcerer can transmogrify a target with a maximum SIZ of three nally imprison deadly enemies, or to bind the soul of a slain victim 
+times the spell’s Intensity. Living creatures and magical constructs to its own place of death or body, where it endures as a Haunt (see 
+are permitted to resist. page 150). 
+
+176
+
+
+
+MYyTtHhRrAaSs::  SoORrCcEeRrYy 
+
+UNnDdEeAaTthH 
+Resist (Endurance) 
+Undeath enables the sorcerer to turn the recipient into an undead 
+
+monster, gaining the ability to forgo air, food, water, warmth or rest; 
+to experience immunity to disease and poison; and no longer to suf- 
+fer the adverse effects of Serious Wounds, fatigue or ageing. In effect 
+they gain the Undead creature trait. All this comes at a cost however; 
+whilst under the effect of the magic, the recipient is infertile, no 
+longer heals, and is incapable of generating Magic Points naturally. 
+
+The sorcerer can affect living targets with a CON up to three 
+times the Intensity of the spell. Unwilling targets may attempt to 
+resist. Sorcerers who fear death often resort to this spell, and com- 
+bine it with Enchant to make it permanent, turning themselves into 
+an immortal lich or mummy. Occasionally it is used to impart a 
+terrible curse on those that transgress cult taboos or some equally 
+heinous crime. 
+
+WRrAaCcKk (SSuUbBsStTaAnNCcEe oORr HAaRrMm)) 
+Concentration, Resust (Evade) 
+Wrack enables a sorcerer to harm opponents with deadly bolts 
+
+or waves of sorcerous energy. On his Turn as a Combat Action, he 
+may launch a magical attack against the target or targets, using his 
+Invocation skill as the attack roll, which may be resisted with Evade. 
+Successful attacks strike a random location, the Intensity of the spell 
+denoting the damage it inflicts. Worn armour does not protect, but 
+natural or magical Armour Points reduce damage as normal. 
+
+WRrAaCcKk DAaMmAaGgEe 
+
+Intensity Damage 
+
+1-2 1d2 
+
+3-4 1d4 
+
+5-6 1d6 
+
+7-8 1d8 
+
+9-10 1d10 
+
+11-12 2d6 
+
+The caster must concentrate to launch a Wrack attack, but can 
+let the spell drop into dormancy to perform other actions in-between 
+cach magical assault. 
+
+Each variant of this spell inflicts damage in a different manner, 
+according to the school from which it was learned. For example 
+Wrack (Darkness) taught by the Stygian Path would strike the tar- 
+get with serpent-like tendrils of freezing shadow, whereas Wrack 
+(Death) learned from the Guardians of the Grave, may cause a vic- 
+tim’s limbs to rot with necrotic lesions. 
+
+177
+
+
+

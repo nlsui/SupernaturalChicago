@@ -1,0 +1,3 @@
+# 6: LEIDENSCHAFTEN
+
+Leidenschaften sind Teil des Hintergrunds jedes Charakters. Verwende die Regeln auf den Seiten 22-23 von Mythras, um die Leidenschaften eines Charakters zu bestimmen. In den Dresden Files sollte jeder Charakter normalerweise zwischen einer und drei Leidenschaften haben. Häufige Leidenschaften in diesem Schauplatz umfassen: Vampire hassen oder vernichten, Fae hassen oder vernichten, Okkultes Wissen suchen, Die Geheimnisse der Anderswelt ergründen, Loyalität gegenüber dem Regenten (nur niedere Vampire), Loyalität gegenüber dem Rudel (nur Lykanthropen), Verachtung für Menschen ohne Verbindung zum Übernatürlichen und Menschen ohne Verbindung zum Übernatürlichen schützen.

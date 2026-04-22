@@ -1,0 +1,1445 @@
+Mythras:  Economics & Equipment
+
+o — 
+= YY % &W T S LU SO GO << A o IR UL AR | < < 
+
+Economics & 
+
+Equipment
+o — 
+
+T= Y5Y  X 2 M oK &ow i S LU SO GO << A o IR UL AR | < < 
+
+his chapter is concerned with money: how much characters 
+have, and what it buys. MYTHRAS uses the Silver Piece (SP) as InNcCoOMmEe,, LIivViInNgG 
+
+T the standard unit of currency in the game, with the cost of 
+most equipment, goods and services being measured in SP. One Sil- StTaAnNdDAaRrDdSs AanNDd CLlAaSsSs 
+ver Piece is the standard price for one day’s food, drink, and accom- A character’s income is a reflection of how much he makes in 
+
+modation for one person, of stark quality; that is to say, breakfast a given period of time. Whilst income equates to wealth, it is most 
+
+and an evening meal, with some form of cheap beverage, and a common for average workers to generate income not in terms of 
+
+place to sleep for the night. coin, but in terms of food and shelter, or access to land which, if 
+
+It therefore costs a character around 7 SP a week personally to tended, annually generates an amount per year equivalent to their 
+
+live at subsistence level. Depending on where the characters are yearly income in terms of coinage. Other common forms of rec- 
+
+located, coinage may not even be used (or may be viewed with suspi- ompense include training — magical and mundane — favours, and 
+
+cion). Some cultures value barter and payment in kind more favour- trade in kind. 
+
+ably than the chink of silver. Civilised cultures are most likely to use coinage for income and 
+
+Other coins are available as well. The standard currency for expenditure — although only those social classes with any form of 
+
+MyTHRAS consists of the Copper Piece, Silver Piece and Gold Piece. prosperity will use coins on a frequent basis. Lowly classes will rely 
+
+The exchange rate is: on barter, favours, and payments-in-kind for most transactions, with 
+coins being a rare and treasured luxury. 
+
+& 10 Coppers = 1 Silver An individual’s standard of living is determined by their total 
+& 100 Silvers = 1 Gold expenditure each year on essentials: food, drink, lodging, clothes, 
+
+Thus a single Gold Piece would provide a MYTHRAS character gifts, and so on. It is natural for most people to spend nearly all their 
+
+with reasonable food for 100 days. Three or four Gold Pieces would income achieving, or maintaining, the highest possible standard of 
+
+see a character roughly all the way through the year, if he is frugal. living that they can. Note that this income may be required to sup- 
+
+Some cultures, typically farming, nomad and barbarian commu- port any additional dependents they may have, such as children, 
+
+nities, measure wealth in terms of livestock. A single large herd ani- household servants or perhaps even a troop of personal guards. 
+
+mal, such as a cow, is worth around 100 SP. A pig or sheep is worth Those who spend more are likely to be at the top of their social 
+
+around 25 SP, and a flock of hens around 15 SP. class; those who are frugal and pinch pennies can exist on about 
+25% less than the amounts listed in the Social Class table, and will 
+save some of their income, but may show a lower standard of living 
+for their class. 
+
+Anyone seeking to be socially mobile must increase their living 
+ANnAaTtHhAaYyMm'’Ss SaAgGaA expenditures accordingly. Note, though, that social rank often does 
+
+As MrTHRAS is not setting-spectfic the names of coins are very generic, but not rely on comparatively equal incomes. A barbarian chieftain may 
+Games Masters should create something evocativefor their coinage. very well be accorded more respect, and wield more power, than a 
+
+Silvers could, for example, be shillings, royals, pounds, and so on. Coppers civilised rich noble, yet have nowhere near the same income in terms 
+could be penmes, bits orf arthings. Gold could be wheels, Imperials or some- of cash and value in property. 
+thing equally grandiloquent. The Minimum Maintenance Costs table opposite compares the 
+
+In Meeros the copper prece is known as an Obol, the silver as a Drachm, minimum required expenditures required over time to maintain the 
+and a gold a Zarig. standard of living for that social class. It does not necessarily indicate 
+
+54
+
+L 
+hL4 
+
+
+
+MyyTtHhRrAaSs::  EcCoONnOoMmIiCcSs & EqQUuIipPmMEenNTt 
+
+the actual amount a member of that social class earns, which can be 
+higher, but it can be used as a basis for deciding how much money 
+a particular social class may have available in ready coin or other 
+commodities. 
+
+Social SP per SP per SP per . 
+Typical Home 
+
+Class Day Week Year* 
+
+Exile Lives a hand to mouth existence None/Lives Rough 
+
+Slave 1 7 370, Shared Shack/Hut 
+
+Hut/Cabin/ 
+Freeman 2 15 750 
+
+Rented Room 
+
+Gentry 10 75 3,750 House/Apartment 
+
+. Large Villa/ 
+Aristocracy 50 350 20,000 . 
+
+Mansion 
+
+Ruling 250 1,750 100,000 Palaces/Estates 
+
+*Depends on the campaign setting Assumes a year length of roughly 360 days with 
+
+totals rounded up for neatness 
+
+CHhAaRrAaCcTtEeRr InNcCoOmMEe 
+
+BEetTwWEeEenN ADdVvEeNnTtUuRrIinNGg 
+Characters are unlikely to spend all their time adventuring and, 
+
+between adventures, will be engaged in professional and cultural means in order lo prevent himself dropping a social class, perhaps being forced 
+pursuits. Characters can therefore expect some form of income into servitude as a slave to pay off lus debls. 
+from ‘normal’ day to day business according to their social class. Characters can expect to spend the income indicated in the 
+
+Tor example a noble might earn a regular income from taxing Minimum Maintenance Costs table on general living expenses. Of 
+the inhabitants of his lands, or receive a stipend from his father, course, they can squander any windfall or spend less if prepared 
+requiring no direct involvement on his part; whereas a baker might potentially to drop their living standards, albeit at the risk of their 
+be employed slavishly baking loaves every day. reputation suffering in some form. 
+A character can expect to earn an applicable SP amount for his 
+
+profession and social class. This assumes all is well in the world and 
+no disasters, natural or otherwise, have affected the ability to gen- 
+erate income. However, if a more accurate reflection of downtime BAaRrTtEeRrIinNgG aAnNDd 
+income is needed, roll on the Seasonal Income table adjusting the 
+1d100 roll as follows: HAaGgGgLlIinNGg 
+
+In most societies shopping for services or goods is rarely straight- 
+
+SeEaAsSoOnNAaLl InNcCoOmMEe TAaBbLlEe forward. Coinage tends to be confined to civilised cultures, but in 
+
+1d100 Profitability primitive, barbarian and nomad cultures, barter is far more com- 
+mon. Even where currency is actually used, traders rarely sell any- 
+
+01-10 Disastrous: Reduce Income by 50% 
+thing for a ‘standard’ price, as the value of most objects is subjective, 
+
+11-20 Poor: Reduce Income by 25% 
+and most purchases are haggled over. 
+
+21-60 Normal: No adjustment to Income 
+As was once wisely said, an item is only as valuable as the amount 
+
+61-80 Prosperous: Increase Income by 25% 
+somebody will pay for it. 
+
+81-00 Very Prosperous: Increase Income by 50% 
+
+The table represents the downtime profitability during the length BAaRrTtEeRrIinNgG 
+of time the character was working or supervising his holdings, any- Bartering successfully depends on tendering something someone 
+
+thing from several days to a year. During this period any number of else needs in exchange for what is being offered. A civilised character 
+
+things may have occurred from the failure of a harvest or theft of his in a barbarian stead might offer coins in exchange for food, but coin- 
+
+property, through to an unexpected demand for particular produce age does not necessarily offer any immediate advantage to the bar- 
+
+or the expansion of a business. barian. To barter successfully then, the character must have some- 
+
+For example, a self-employed Baker (a_freeman) might expect to earn 30 SP thing the other party finds valuable in their normal environment. 
+
+in a week under normal circumstances. The 1d100 result is 06. One winter s Trading in kind usually works well: offering to chop wood for a 
+
+especially bad, and the price of grain is driven up due to shortages, forcing the morning in exchange for a bowl of stew and a bed for the night, for 
+
+baker to absorb the majority of the loss in order to keep his customers. The baker example. More complex or specialised goods and services are less 
+
+only earns 50% of hus usual Seasonal amount, for a total of 15 SE which likely to succeed — unless the character can convince the other party 
+
+Jortunately is just enough to keep supporting lisf amaly, and business. If his basic of the need and utility. 
+
+income had been less then he might have had to sell his bakery or resort to illicit 
+
+5o
+
+
+
+MyYyTtHhRrAaSs::  EcCoONnOoMmIiCcSs & EQqUuIipPmMEenNTt 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA Influence or Commerce against Willpower or Commerce. The out- 
+
+Anathaym decides she wishes to purchase a new sword. Venturing to the come of the roll is determined by the difference in success levels 
+
+bronzesmuth’s quarter in Meeros, she spots an intriguing blade suited to her between buyer and seller: 
+
+lastes, and begins to bargain with the seller. The Games Master decides to 
+HAaGgGgLlIinNgG OuuTtCcoOMmEe TAaBbLlEe 
+
+use the Haggling rules which requare resolution based on a differential roll. 
+Anathaym has an Influence skill of 28% which the merchant opposes with Difference in Levels of Purchaser gains 
+
+s Advantage Seller gains Advantage 
+
+his Commerce skill of 63 %. 
+The dice are rolled. Whilst Anathaym manages to succeed in her Influence 5 25% of the Standard 200% of the Standard 
+
+10ll, the merchant Criticals his, resulting in the seller winning by one level of Price Price 
+
+success. According to the Haggling Outcome Table this means that although 50% of the Standard 150% of the Standard 
+
+Anathaym negotiates well, the merchant’s impressive sales pitch convinces her : Price Price 
+
+lo pay a quarter over the normal pricefor such a weapon. Anathaym considers | 75% of the Standard 125% of the Standard 
+
+herself fortunate however, if she hadf ailed the roll the merchant would have Price Price 
+
+won by two levels of success, which would have been even more expensive! Equal Standard Price Standard Price 
+
+Bartering works in the following way: 
+
+& The character makes an offer of something. If this is a com- 
+mon commodity or an essential service appropriate to the EqQUuIipPmMEenNTt 
+other party that is obviously going to be of benefit, then the The remainder of this chapter is given over to equipment: 
+
+barter succeeds. armour, weapons, clothing, tools and other sundries characters rely 
+
+If the character is intending to offer something of less obvi- on when adventuring. 
+
+ous value/utility or something esoteric, then he makes a Cus- Any piece of equipment is described in terms of one or more 
+
+toms or relevant Culture roll. If successful, he has spotted a elements (some apply more than others). These are: 
+
+way of pointing out benefits not realised by the other party. & Cost (in SP or CP) 
+This changes the difficulty grade of either Influence or Com- 
+
+& Armour Points: the natural resilience of the item to damage 
+merce, whichever is being used to effect the transaction. 
+
+& Hit Points: how much damage the item can sustain before 
+being destroyed or rendered useless 
+
+BAaRrTtEerR MOoDIdFifIiEeRr TAaBbLlEe & Encumbrance: how much the item contributes to Encum- 
+
+Customs/Culture Influence Bonus Commerce Bonus brance (see page 77) limits; a combined measure of weight, 
+
+Ciritical Easy Very Easy mass, and restriction 
+
+Success Standard Easy Some items, typically clothing, and very small, light things, have 
+TFailure Hard Standard only cost listed: it can be assumed that such things do not contrib- 
+Fumble Formidable Hard ute towards Encumbrance limits and can be damaged relatively 
+
+casily. Others, such as weapons, armour, and tools, display all four 
+
+& Next the character makes an Opposed Influence or Com- elements. 
+
+merce roll. The other party resists with either Willpower or 
+Commerce - whichever is higher. EqQUuIipPmMEenNTt PRrIicCEe 
+
+& If the character wins the Opposed roll, what he offers is 
+All items listed in this chapter represent standard quality exam- 
+
+accepted. If he fails, it is not. If the Adventurer fumbles the 
+ples. Items of better or worse quality are available at an either an 
+
+opposed roll, then there is a good chance he has insulted the 
+inflated or reduced cost. The section on Equipment Quality, starting 
+
+other party, meaning that offence has been taken, even if not 
+on page 65, provides guidance on costs, enhancements/drawbacks 
+
+intentionally offered. 
+or higher and lower quality goods. 
+
+The prices quoted assume availability is good. When there is a 
+short supply of something, prices will rise and, depending on the 
+
+HAaGgGgLlIinNGg commodity, may be anywhere between 10% and 1000% higher than 
+Reducing a price to a reasonable amount is known as Haggling. quoted (1d100x10%). The environment, too, will affect availability 
+
+In some cultures haggling is a major source of social interaction, a and therefore cost. Items, and commodities are generally easier and 
+prime source of daily entertainment. A skilled negotiator can achieve cheaper to obtain in larger settlements with established markets and 
+substantial discounts through careful haggling, although it is rare for 
+
+traders. In remote or rural areas all but the most basic of locally 
+any seller to allow themselves to make a loss on any transaction. produced goods and foodstufts will be more difficult to obtain; and 
+To do so on a regular basis would soon place them out of business. will command a higher price, if available at all. 
+Prices listed in the Equipment section assume a ‘standard’ profit 
+margin for the seller, enough to reasonably support themselves. 
+
+The process works in a slightly different way from Bartering, in 
+that participants use Insight rather than Customs to gain an advan- 
+tage in the negotiation. This is followed by a Differential Roll of 
+
+56
+
+
+
+MyyTtHhRrAaSs::  EcoONnOoMmIiCcSs & EqQUuIipPmMEenNTt 
+
+helm made from sewing boar tusks to a leather cap, or a suit of half- 
+CUuLlTtUuRrEe/MILilIiEeuU 
+
+plate from cuir bouilli dinosaur leather or carved jade. Of course 
+Depending on the setting for your MYTHRAS game, not all items 
+
+some materials are stronger than others; a bronze breastplate will be 
+will be available. One would not expect clockwork mechanisms or 
+
+thinner and lighter than an equivalent made from rhino hide. Thus 
+wheeled vehicles to be available in a MYTHRAS setting modelled on 
+
+the material used to manufacture the armour affects its Encum- 
+Ancient Mesoamerica, for example. Equipment is therefore pro- 
+
+brance (ENC). 
+vided with a Culture/Milieu classification to help Games Masters 
+
+No matter what material the armour is made of], it cannot be 
+identify what is and isn’t available in a particular setting. This is a 
+
+layered with other types — such concepts are already incorporated as 
+rough guide only, but one that helps recreate an authentic atmo- 
+
+part of its construction. Armour is assumed to come with whatever 
+sphere (if one is needed; your MYTHRAS setting may be deliberately 
+
+lining or padding would normally be expected as part of the com- 
+anachronistic). 
+
+plete panoply. 
+The Culture/Milieu classifications are: 
+
+Each type of armour is defined by the following qualities: 
+
+& Prehistoric (P): Ttems likely to be found in settings and cul- 
+& AP: The number of armour points given to each location 
+
+tures that have not progressed much beyond the Stone Age. 
+covered by this armour. If a character is wearing multiple 
+
+& Ancient (A): Ttems likely to be available in settings and cul- 
+pieces of armour on a location, only the highest armour point 
+
+tures equating to the Bronze and Iron Ages. 
+score is used although the ENC incurred is cumulative. 
+
+& Medieval (M): Ttems likely to be available in settings and cul- 
+& ENC: The typical weight and bulk of the armour. Use 
+
+ture equating to the European Middle Ages. 
+the Material Types table to adjust ENC for more unusual 
+
+& Renaissance (R): Ttems likely to be available to settings and 
+materials. 
+
+cultures equating to the European Renaissance. 
+& Cost: The cost, in Silver Pieces, per location covered. Price 
+
+& Enlightenment (E): Ttems likely to be available in settings and 
+assumes the armour is made from common local material, 
+
+cultures equating to the European Age of Enlightenment 
+more exotic substances increase this cost. 
+
+(17th and 18th Centuries). 
+& Milieu: Typical milieus where this type of armour occurs. 
+
+& Industrial (I): Ttems found in settings and cultures that have 
+embarked on an Industrial Revolution. The Armour Table lists each of the characteristics by armour 
+
+type, and also summarises the encumbrance and cost for a full suit, 
+covering all seven Hit Locations, for the armour in question assum- 
+ing construction from standard materials. The Armour Penalty for a 
+
+ARrmMOoUuRr full suit of the same armour is given in parentheses. 
+In the Material Types table, no cost adjustments are given for the 
+
+Worn for protection against physical harm, armour reduces the 
+amount of damage a Hit Location sustains by its Armour Point construction of armour from more unusual materials, only its effect 
+
+on ENC. The availability and additional cost of such substances 
+value. Armour of any kind therefore offers a significant advantage 
+
+is wholly dependent on the campaign setting. For instance, chitin 
+in combat, and helps improve the chances of survival. The downside 
+to armour is that it can be heavy and restrictive to movement; fight- armour would be impossible in a game where giant insects did not 
+
+exist. Likewise if chitin is only available to primitive or hostile cul- 
+ing for a sustained period in metal armour takes its toll in terms of 
+
+tures, it might be vastly more expensive for someone in a civilised 
+fatigue, and also slows down the ability to react. 
+
+Armour is ranked according to the manner in which it is con- culture to purchase armour made from the material, assuming 
+somebody in the city could actually craft or import it. On the other 
+
+structed and overall coverage, not the actual material it was made 
+from. For example it is perfectly permissible to manufacture a scaled hand, it might be the default armour substance for tribesmen lack- 
+
+ing metallurgy. 
+
+LiInNoOtThHoOrRaAxX BEeZzAaIinNTteEdD CHhAaIiNnMmAaIiLl HoorpLliiTte CUuIiRrAaSsSs 
+
+57
+
+
+
+MyyTtHhRrAaSs::  EcoONnOoMmIiCcSs & EQqUuIipPmMEenNTt 
+
+ARrMmOoUuRr TAaBbLlEe 
+
+Base . Cost per Suit ENC/Cost/ Armour . 
+. Construction Example . Milieu 
+
+Material Location Penalty 
+
+Natural/Cured Furs, Hides 1 2 20 14/140/3 Any 
+
+Padded/Quilted Aketon, Gambeson 2 1 80 7/560/2 Any 
+Flexible 
+
+Laminated Linothorax, Bezainted 3 2 180 14/1260/3 A-M 
+
+Scaled Brigandine, Lamellar 4 3 320 21/2240/5 A-R 
+
+Half Plate Hoplite Plate 5 4 500 28/3500/6 A-R 
+
+Rieid Mail Mail Hauberk, Laminar 6 5] 900 30/6300/7 A-R 
+fest 
+
+Plated Mail Splinted Chainmail 7 6 1400 42/9800/9 M-E 
+
+Articulated Plate Gothic Plate 8 7 2400 49/16800/10 M-E 
+
+MMAaTtEeRrIiAaLl  TTyyPpeess  TTaasbLlee ARrmMOoUuRr AanNDd SIZ 
+ENC Flexible armour will generally fit one point of SIZ more or less 
+
+Material Modifier Notes than the SIZ it was designed for. Rigid armour is crafted to fit a 
+
+Bulky though light, desiccated bone can be used in wearer of specific proportions, so it will only fit the same SIZ and 
+B 1.5 . . . 
+one * Laminated, Scaled, and Plate construction frame for which it has been demgned. 
+
+. i Bronze, like iron, is considered the default material for 
+ronze X . 
+
+sigd armour ARrmMOoUuRr PEeNnAaLlTtYy tToO InNIitTiIaAtTIivVeE 
+Lighter than other rigid materials it can be used for Armour can be heavy and impede movement to some degree. 
+
+Chitin «0.75  Laminated, Scaled, and Plate armours. Chitin can The vast bulk of those who train in weapons also train in armour, 
+only be carved however, not moulded, so large armour and so become accustomed to armour’s rigours, but this does not 
+segments must come from insects of suitable size mean they are free from its more restrictive effects. 
+
+. o i considered the default MyTHRAS simulates this through the Initiative Penalty. The more 
+ezl for mgt TS armour one wears, and the heavier or more encumbering it is, the 
+
+Tory <los  leethand tusks can be fashioned as part of greater the Initiative Penalty. This penalty is applied to a character’s 
+Laminated, Scaled, and Plate Initiative. Its calculation is simple enough; add together the ENC for 
+Leather can be tanned or boiled to make it rigid, and all the armour worn, and then divide by 5, rounding up. A full suit 
+thus used in the construction of any armour save mail, of plated mail, having an ENC of 6 per location, and covering seven 
+
+Leather x2 providing it is thick enough; crocodile skin fora  suit of locations has an Armour Penalty of (6X7)/5 = 8.2, rounded up to 
+
+Lejileigiogexample urs jand Hide armour is by 9. Thus a character wearing a full set would reduce his Initiative by 
+default assumed to be made from leather 9 pOil’ltS 
+
+. Linen or its woollen equivalent is considered the default 
+Linen x1 . . . . 
+
+material used in flexible armours up to Laminated ANATHAYM’S SAGA 
+Anathaym’s Saga
+
+Shell tetonbedthisck, and h t ke . . . 
+Cf a_rm;ur_l_en ; s blc a; ZVY. . m; . d Meerish Warrwors wear Hoplite Half Plate armour: helm, greaves, vam- 
+
+up for its fragility, but can be used in Laminated, an . . . 
+Shell x2 P N ) i ) braces, breatsplate, and kilt. Anathaym therefore has her seven Hit Locations 
+
+Scaled armour; or if the source creature is of sufficient i . . . 
+o I covered with armour having an ENC value of 4 per prece. The total ENC is 
+
+S1Z€, S1ngle P1eces carves own to shape Ior Flate . . . 
+
+therefore 28, and her Initiatwe Penalty due to the Hoplite Armour 28/5. Her 
+i Tougher, and lighter than other fabrics, silk can be used e . 
+
+Silk x0.75 Initiative Penally s therefore -6. 
+to make flexible armours 
+
+Superior in strength to iron or bronze, it is can be 
+
+Steel x0.75 fashioned into thinner, lighter pieces for rigid material 
+
+armours 
+
+ACcCcOoMmMmOoDdAaTtIioONn 
+ot often used due to its weight, stones such as jade or . 
+bad b L and s 4 I J, Accommodation can be permanent or temporary, fixed or trans- 
+
+obsidian can be carved, an round Into smaj 1€CCS . . 
+Stone x3 N P portable. Prices for rented temporary accommodation, such as a 
+
+suitable for laminated or scaled armours, or large single . . . 
+room at an inn, are per night. Food is extra. 
+
+segments worn as impromptu half-plate cuirasses . R i 
+As always, accommodation costs will vary with seasons and 
+
+demand. In busy periods — markets, festivals, and so on — prices will 
+climb with demand, and larger towns and cities will charge more, in 
+general, than smaller ones. 
+
+58
+
+
+
+MyyTtHhRrAaSs::  EcoONnOoMmIiCcSs & EqQUuIipPmMEenNTt 
+
+ACcCcOoMmMmOoDdAaTtIioONn TAaBbLlEe CLloOTtHhIinNgG TAaBbLlEe 
+
+Accommodation Garment Cheap Reasonable Superior 
+Cheap Reasonable Superior 
+
+Type Boots 25 50 100 
+
+Common room floor/ Cap or Hat 3 6 18 
+0.5 - - 
+
+stables 
+Gloves, Socks or 5 10 20 
+
+Shared room/ Underwear 
+
+dormitory 
+General Coat or Cloak 20 45 90 
+
+Private room 
+Vest or Tabard 10 20 50 
+
+Rented hovel or shack 
+Tunic or Dress 15 30 78 
+
+(week) 
+Sandals 4 8 20 
+
+Rented cabin or 
+Shoes 20 45 90 
+
+cottage (week) — sleeps 15 25 50 
+Trousers, Skirt or Kilt 12 25 60 
+
+small family 
+Shirt, Smock or Shift 8 16 35 
+
+Rented house or 
+
+apartment (week) — 30 50 75 Winter Coat or Cloak 30 75 150 
+
+sleeps large family 
+
+Rented villa or 
+
+mansion(week) — sleeps 100 250 1000 
+
+small entourage 
+
+Hovel or shack to buy 100 - - 
+
+Cabin or Cottage to 
+750 1,250 2,500 
+
+buy (per bedroom) FooDd 
+House or Apartment Food is not specified by any particular type in MYTHRAS as it can 
+
+to buy (per 2 3,000 5,000 7,500 vary dramatically according to culture: assume that food bought is 
+
+bedrooms) a meal which, for a very basic, cheap meal typically includes some 
+kind of broth, pastry or bread, and some brewed or dairy bever- 
+
+Villa or Mansion 
+
+to buy 20,000 50,000 200,000 age. More expensive meals include larger portions of meat or fish, 
+
+(per 4 bedrooms) a wider range of seasonal fruits and vegetables, and a better grade 
+
+Tent (per person of beverage. A superior meal consists of several varied courses, and 
+
+capacity) luxuries of some sort such as rare meats, spices or imported fruits. 
+Trail rations consist of food preserved for long life, such as dried 
+
+and cured meats, cheese, bread (usually unleavened flatbread for 
+case of transport), and cereals, either nuts or grains. 
+
+Characters need to eat and drink at least once per day or begin 
+to suffer penalties, see Survival on page 49. 
+
+CLloOTtHhIinNgG 
+All characters begin the game with a set of clothes appropri- 
+
+ate to their culture and social class, but through wear and tear it Foopd TAaBbLlEe 
+will become necessary to replace existing garments as well as buy Type Cheap Reasonable Superior 
+
+new ones appropriate to the local conditions or to celebrate unusual Meal at a tavern or inn 1 3 8 
+
+occasions. Those of high Social Class may even be required to con- Ale or Beer for an evening 1 1.3 3] 
+
+tinually purchase new sets of clothes simply to keep up with fashion. 
+Wine or Spirits for an 2 4 6 
+
+The following prices are merely guidelines. There is technically 
+evening 
+
+no upper limit as to how much an item of garb can cost once you 
+Trail rations (7 days) 7 9 12 
+
+take into consideration exotic fabrics, embroidery, dyed colours, and 
+decorations of precious furs or jewels. 
+
+Assuming more or less continual wear, cheap clothing can be 
+worn for a year before it is rendered to rags. Reasonable clothing 
+lasts for twice that before being reduced to cheap status. Superior 
+clothing lasts for three years of wear, and then is downgraded to 
+
+LIivVeEsStToOcCkK 
+reasonable status. 
+
+In many communities livestock represents cash wealth, and may 
+Repairing clothing is a normal part of everyday life. In most cul- 
+
+even form the local currency. Livestock needs to be fed and ten- 
+tures it is commonplace to provide garments, footwear or the fabric 
+
+dered. The cost to maintain livestock in bought food (grazing will 
+to make such things as part of an employee’s annual wages. 
+
+usually be free during appropriate seasons, but stockpiled food is 
+essential in inclement seasons) for a week is usually a twentieth of 
+the animal’s price. 
+A creature’s inherent worth is not simply dependent on how 
+
+much food it produces when butchered. Some are valued for their 
+
+59
+
+o 
+
+(& 
+
+fanl 
+
+
+
+MyyTtHhRrAaSs::  EcoONnOoMmIiCcSs & EQqUuIipPmMEenNTt 
+
+ability to draw vehicles or ploughs, whilst others may be a source Tools ENC Cost 
+of valuable materials such as ivory or chitin. A few creatures might 
+
+Abacus 8 SP 
+even be kept for their ability to fight or hunt. 
+
+Astrolabe (Ancient onwards) 200 SP 
+The following table only offers general livestock. In more exotic 
+
+Backpack/Satchel (holds up to 20 ENC) 5SP 
+settings one can expect to see a greater range of creatures available, 
+anything from giant insects to flying beasts. Higher quality usually Bedroll 1 SP 
+
+reflects better physical characteristics or training, but can be merely Bit & Bridle 15 SP 
+
+based upon the creature’s aesthetic beauty. Block & tackle 15 SP 
+
+Bottle, glass/ earthenware 2 SP 
+Livveessttoock TAaBbLlEe 
+
+Candle, 6 hour 1 SP 
+
+Item Poor Quality  Reasonable Superior 
+Chain, 2m 40 SP 
+
+Bull 500 1000 3000 
+Chest, Large (holds up to 100 ENC) 80 SP 
+
+Calf 30 60 180 
+Chest, Small (holds up to 50 ENC) 40 SP 
+
+Camel 1100 2200 6000 
+Cooking Pot (for travel) 3 SP 
+
+Cow 100 200 600 
+Craft tools (basic tools to match a handicraft) 75 SP 
+
+Towl 1 2 4 
+Crop (riding) 15 SP 
+
+Goat 25 50 100 
+Crowbar 25 SP 
+
+Horse (cavalry/ 3000 6000 10,000 Doorjamb 5SP 
+war-trained) 
+
+Driver’s whip 25 SP 
+Horse (heavy draught) 1400 2800 8000 
+
+Talconer’s Kit 30 SP 
+Horse (riding) 1200 2500 7000 
+
+Feed/mount rations (per day) 5CP 
+Ox 150 300 800 
+
+Tine wine goblet (glass — double for silver) 8 SP 
+Pig 25 50 150 
+
+Tirst aid kit (useful for 10 applications of First Aid 
+Sheep 25 50 150 25 SP 
+
+skill) 
+
+Fish hooks (20) 1 SP 
+
+Tishing kit 15 SP 
+
+Tishing Net 10 SP 
+
+Flint & tinder 1 SP 
+
+Tooouils Game Snares, and Traps 1 SP 
+
+Tools include all the items any self-respecting adventurer can be Goad 25 SP 
+expected to own: rope, sacks and bags, candles, lanterns, and so on. 
+
+Grappling hook 58P 
+All items in this list are deemed to be of reasonable quality. 
+
+Hammer/Saw/Mallet/ Chisel 1 SP 
+
+Healer’s kit (useful for 10 applications of Healing 
+150 SP 
+
+skall) 
+
+Hourglass (Ancient onwards) 20 SP 
+
+Knife (tool, not weapon) 58P 
+
+Ladder, rope 3m 2 SP 
+
+Lantern, basic 1 10 SP 
+
+Lock picks 75 SP 
+
+1-4 
+
+Lockbox depending 75 - 250 SP 
+
+on size 
+
+Lodestone 58P 
+
+Milling Stone 2 8 SP 
+
+Mirror (hand glass) 12 SP 
+
+Mug/Beaker/Dish/Plate (wood — double price for 
+5 CP each 
+
+metal) 
+
+Musical instrument 70 SP 
+
+Nails or tacks (50) 2 CP 
+
+Oil flask 1 SP 
+
+Papyrus or paper sheet (double the cost for vellum) 5CP 
+
+[ RSN& o 
+
+
+
+MyyTtHhRrAaSs::  EcCoONnOoMmIiCcSs & EqQUuIipPmMEenNTt 
+
+Tools ENC Cost with their own weapon. The Reach categories are Touch (T), Short (S), 
+Medium (M), Long (L), and Very Long (VL). 
+
+Oil flask 1 1 SP 
+& Combat Effects: The design of the weapon allows it access lo weapon 
+
+Papyrus or paper sheet (double the cost for vellum) — 5CP 
+specific Special Effects. Swords, for instance, slce and stab, and so are 
+
+Pickaxe 1 35 SP 
+permitted access to the Impale and Bleed effects, whereas a mace us unable 
+
+Pole, 3m 1 1 SP lo produce those effects but could inflict Stun Location instead (see Special 
+Quills , and ink for writing 1 30 SP LEffects page 95). 
+Quiver — 2 SP « ENC: The weapon’s combined encumbrance and weight 
+Razor, folding — 3 Sp « AP/HPA:ll weapons are ratedf or thewr Armour Points and Hut Points; 
+Rope (hemp), 10m 2 10 SP their ability to withstand direct damage, and how much damage they 
+
+Sack, large (holds up to 60 ENC) 1 5CP can lolerate before breaking. Those weapons that rely on metal for ther 
+damage capability are assumed to be either bronze or iron. 
+
+Sack, small (holds up to 30 ENC) — 2CP 
+Trauts: Some weapons, due to their specialised nature, have certain qual- 
+
+Saddle, riding 3 60 SP 
+wtes, or traits, that differentiate them from weapons of a sumilar style. 
+
+Saddle, war 4 90 SP 
+The common traits are: 
+
+Saddlebag (holds up to 2x20 ENC) 2 20 SP & Barbed — If impaled it will cause_full vather than half damage on 
+Saw, hand 1 1 SP being yankedf ree. 
+Scythe/ Sickle 2 30 SP &K Defensive — If used to parry an attacking weapon, that weapon is 
+Sextant (Renaissance cultures, and later) 1 25 SP considered one size smaller than it actually 5. So a Large sword 
+
+Ship’s Compass (Medieval cultures, and later) 1 70 SP 15 considered Medium, and a Medium sword is considered Small. 
+
+Shoes, horse 1 10 SP Weapons already Small in size are unaffected. 
+K Double Ended — If broken in combal, the length remaining in the 
+
+Spade/Hoe/Pitchfork 1 25 SP 
+hand can be reversed, and used as a shorter version of the orginal 
+
+Torch, 1 hour — 4 CP 
+weapon. 
+
+Torch, 6 hour 1 8 CP 
+&K Entrapping — As per the Defensive trait, but also allows use of the 
+
+Waterskin or Canteen (holds 2 litres of liquid) 1 5CP 
+Pin Weapon special effect without needing to roll a Critical. 
+
+Wax, block 1 2 CP &K Flexible — If the opponent is using a shield to parr, the shield is 
+considered one size smaller than it actually is. So a Huge shield s 
+
+considered Large, a Large shueld 1s considered Medium, and so on. 
+& Mount— The weapon must be usedf rom the back of @ moving mount. 
+&K Offensive — The weapon cannot be used to parry. 
+& Pussive Block — The weapon can passively block multiple Hit Loca- 
+
+tions, which must be contiguous lo one another. 
+& Ranged Parry — The weapon can parry ranged weapons. 
+
+MEeLlEeEe WEeAaPpOoNnSs K Set — The weapon can be set io receive a_foot or mounted chage. 
+
+The weapons listed here cover a wide gamut of societies and &K Stealth — The weapon must be usedfrom ambush. 
+periods. Some weapons, such as swords, axes, and spears, are ubiq- &K Thiown — The weapon can be used as a ranged weapon as well as 
+
+uitous, whereas others have firm cultural and period groundings. In a hand-to-hand weapon. 
+
+many societies it is deemed both necessary and desirable to carry 
+some means of defending oneself. Customs always vary though, and & Cost: The weapon’s cost in Silver Pieces. 
+
+the type of weapon carried depends very much on circumstances. 
+The melee weapon tables begin on page 63. 
+
+Having a sword and dagger anchored to one’s belt may not be 
+thought unusual, for instance, whereas carrying a halberd or greats- 
+word would be deemed unthinkable unless one is actively preparing 
+for war. RAaNnGgEedD WEeAaPpOoNnSs 
+
+All weapons are governed by a series of characteristics which are Ranged weapons deal damage at a distance, and do not require 
+as follows: physical contact between combatants; such as a thrown rock, a bullet 
+
+from sling or an arrow from a bow. Being able to harm an oppo- 
+&K Damage: The amount of damage the weapon delivers if an attack is 
+
+nent from range has clear advantages: one can take advantage of 
+successful. 
+
+cover and greater protection and, unless the opponent has a ranged 
+&K Size: Fvery weapon is ratedf or its mass, leverage and stability. The Size 
+
+weapon himself] the chances of you being injured are lessened. 
+us used lo determine the weapon’s ability to inflict and parry damage (see 
+
+Since dealing damage at range inevitably means imparting veloc- 
+page 94). The size categories are Small (S), Medium (M), Large (L), 
+
+ity to some form of projectile, ranged weapons are difficult to defend 
+Huge (H), and Enormous (E). 
+
+against. Without a shield or other form of solid cover that can 
+& Reach: Every weapon is also ratedf or ils Reach — ils length and ability 
+
+disperse the energy of a projectile, ranged weapons cannot be par- 
+lo hold a foe at bay due to its length. The longer the weapon the greater 
+
+ried; meaning that the best defence, if one is aware of an incoming 
+its ability to prevent an opponent getting close enough to inflict damage 
+
+missile, is evasion. However evasion often puts the defendant into a 
+situation where returning an attack, even a ranged one, is difficult. 
+
+61
+
+
+
+MyYyTtHhRrAaSs::  EcCoONnOoMmIiCcSs & EQqUuIipPmMEenNTt 
+
+Ranged weapons have very similar characteristics to Melee arrows, as long as the appropriate raw materials, and a suitable work 
+Weapons, although there are some differences as noted below: area or workshop are available for the task. If bought from a crafts- 
+
+man then the costs are as follows: 
+&K Damage: The amount of damage the weapon delivers if an attack is 
+
+successful. & Arrows (per sheaf of a dozen) 4 SP 
+& Damage Modifier: Not all ranged weapons can take advantage of a char- & Quarrels (per sheaf of a dozen) 3 SP 
+
+acter’s damage modifier. A Ves or No entry dictates whether or not the & Lead sling bullets (per bag of twenty) 1 SP 
+user’s damage modifier can be applied. & Blowgun darts (per half dozen) 2 SP 
+
+& Force: Each ranged weapon possesses a_force rating equivalent to the & Thrown darts (per sheaf of a dozen) 2 SP 
+Size’ of close combat weapons. In the case of projectiles, this does not 
+
+Ranged Weapon tables begin on page 65. 
+relate to the firing weapon self; but rather to how much impact’ s 
+ammunition has. The value is used to determine whether the weapon can 
+overcome any shield which may parry it. The size categories are Small 
+(S), Medium (M), Large (L), Huge (H), and Enormous (E). SIieEgGEe WEeAaPpOoNnSs 
+
+&K Range: This is a measwre of the weapon’s effictiveness at thiee distances 
+Most siege weapons are used to lob simple bolts or stones at tar- 
+
+separated by slashes, representing the maximum Close, Effective and 
+gets. They are so powerful that a direct hit will generally cripple 
+
+Long ranges of the weapon or its ammunition. Ranges are expressed in 
+or kill most armoured humanoids with a single shot. However, it 
+
+metres. Note that distance penalties to the user’s skill are independentfrom 
+is often only siege weapons which can hurt larger creatures such as 
+
+the weapon, see page 108. 
+giants or dragons . If not being used in battle most siege weapons 
+
+& Close Range — The distance over which Choose Location may be used 
+are used to reduce fortifications, breaching holes in walls or destroy- 
+
+as a non-critical special effect, provided the target is stationary or ing defensive towers hosting their own siege weapons. 
+unaware of the impending attack. The following weapons do not use handedness, damage bonuses 
+
+& Effective Range — The distance over which there are no significant or ENC being beyond such issues. The Size of their projectiles is 
+modfiers on the weapon’s accuracy or power rated as Beyond Enormous (BE), meaning that no shield will protect 
+
+& Long Range — The distance over which the weapon can stll inflict against the force of such impacts. Due to the nature of the weapons, 
+harm, but the amount of damage is halved, and its Force is reduced 
+
+Range only has two values; Effective Range and Long Range. 
+by one step. 
+
+&K Load: This shows how many turns are required to load or reload a NOoTtEeSs oONn SIieEgGEe WEeAaPpOoNnSs 
+weapon which fires ammunition. 
+
+& Combat EffectsA:s per Close Combal weapons. & Reloading time is measured in Combat Rounds, not Turns. 
+
+&K Impaling Size: The effective size of the weapon or its ammunition if it & Crew: This is the minimum and maximum crew required to 
+
+succeeds in an impaling attack. operate the weapon. Each extra person above the minimum 
+
+& ENC: The weapon’s combined encumbrance and weight. value reduces the Load time by 1. 
+
+& AP/HPA:ll weapons are ratedf or their Armour Points and Hit Points; & Siege Weapon Combat Effects are included for attacks 
+
+their ability to withstand direct damage, and how much damage they against large or colossal creatures. They are superfluous 
+
+can tolerate before breaking Those weapons that rely on metal for their against fortifications. 
+
+damage capability are assumed to be either bronze or iron. 
+Siege Weapon tables begin on page 64. 
+
+&K Cost: The weapon’s cost in Silver Pieces. 
+
+1! Thrown javeellins maay use the Pin Weeapon special effeect agaiinsst shiielldss,, wiithout 
+needing to rooll laa Crriittiicaall.. 
+
+VEeHhIiCcLlEeSs 
+RAaNnGgEeDd WEeAaPpOoNn AMmMmUuNInTitIioONn Most vehicles are drawn by one or more animals, and move at 
+
+Weapons such as bows and crossbows use ammunition to deliver the animal’s rate. The number of animals required, for the animals 
+damage. Arrows, quarrels, darts and bullets can be made by any- to maintain their standard movement rate, is noted in the Draw col- 
+one with the appropriate craft skill, for example Craft (Fletcher) for umn of the vehicles table. Reduce the movement proportionately 
+
+if fewer animals are used. Generally drivers will not exceed the 
+required number of animals because this decreases control, stability, 
+and integrity. 
+
+The amount a vehicle can carry in terms of driver(s), and passen- 
+gers, and cargo (total ENC) is indicated in the Load column. Again, 
+drivers will refuse to exceed these load amounts because control, and 
+stability becomes more difficult. 
+
+Vehicle tables begin on page 64. 
+
+62
+
+
+
+MyyTtHhRrAaSs::  EcoONnOoMmIiCcSs & EqQUuIipPmMEenNTt 
+
+ONnEe HAaNnDdEeDd WEeAaPpOoNnSs 
+Weapon Damage Size Reach  Combat Effects ENC AP/HP Traits Milieu Cost 
+
+Bash, Entangle, Stun 
+Ball & chain 1d6+1 M M . 2 6/8 Flexible M 250 SP 
+
+Location 
+
+Battleaxe 1d6+1 M M Bleed, Sunder 1 4/8 A-R 100 SP 
+
+Broadsword 1d8 M M Bleed, Impale 2 6/10 A-E 175 SP 
+
+Chain 1d4 M M Entangle 1 8/6 Flexible A-T 10 SP 
+
+Club 1d6 M S Bash, Stun Location 1 4/4 All 5SP 
+
+Dagger 1d4+1 S S Bleed, Impale . 6/8 Thrown All 30 SP 
+
+Hatchet 1d6 S S Bleed 1 4/6 Thrown All 25 SP 
+
+Falchion 1d6+2 M M Bleed 1 6/10 A-M 200 SP 
+
+Flail 1d6 M M Bash 1 3/6 Flexible A-M 25 SP 
+
+Knife 1d3 S S Bleed, Impale . 5/4 All 10 SP 
+
+Lance 1d10+2 H VL Impale, Sunder 3 4/10 Mount A-M 150 SP 
+
+Longsword 1d8 M L Bleed, Impale 2 6/12 M-R 250 SP 
+
+Mace 1d8 M S Bash, Stun Location 1 6/6 A-R 100 SP 
+
+Main Gauche 1d4 S S Bleed e 6/10 Entrapping M-E 180 SP 
+
+Military pick 1d6+1 M M Stun Location, Sunder 3 6/10 M-E 180 SP 
+
+Entrapping, 
+Net 1d4 S L Entangle 3 2/20 All 20 SP 
+
+Thrown 
+
+Rapier 1d8 M L Impale 1 5/8 E 100 SP 
+
+Sabre 1d6+1 M M Bleed, Impale 1 6/8 E-1 225 SP 
+
+Scimitar 1d8 M M Bleed 2 6/10 M-E 200 SP 
+
+Shortspear 1d8+1 M L Impale 2 4/5 Set, Thrown All 20 SP 
+
+Shortsword 1d6 M S Bleed, Impale 1 6/8 All 100 SP 
+
+Trident 1d8 M L Impale 2 4/10 Barbed, Thrown A-M 155 SP 
+
+Entrapping, 
+
+Whip 1d3 M VL Entangle, Stun Location 1 2/8 Flexible, A-M 100 SP 
+
+Offensive 
+
+Shields
+
+Shield Damage Size Reach  Combat Effects ENC AP/HP Traits Milieu Cost 
+
+. Ranged Parry; Passive 50 SP 
+Buckler 1d3 M S Bash, Stun Location 1 6/9 i M-E 
+
+Blocks 2 locations 
+
+. Ranged Parry; Passive 150 SP 
+Heater 1d4 L S Bash, Stun Location 2 6/12 i M 
+
+Blocks 3 locations 
+
+. . Ranged Parry; Passive 300 SP 
+Hoplite 1d4 H S Bash, Stun Location 3 6/15 i A-M 
+
+Blocks 4 locations 
+
+. . Ranged Parry; Passive 300 SP 
+Kite 1d4 H S Bash, Stun Location 3 4/15 i M 
+
+Blocks 4 locations 
+
+. Ranged Parry; Passive 150 SP 
+Peltast 1d4 L S Bash, Stun Location 2 4/12 i A-M 
+
+Blocks 3 locations 
+
+. Ranged Parry; Passive 450 SP 
+Scutum 1d4 H S Bash, Stun Location 4 4/18 i A-M 
+
+Blocks 5 locations 
+
+Ranged Parry; Passive 150 SP 
+Target 1d3+1 L S Bash, Impale 2 4/9 i A-E 
+
+Blocks 3 locations 
+
+. . Ranged Parry; Passive 300 SP 
+Viking 1d4 L S Bash, Stun Location 3 4/12 M 
+
+Blocks 4 locations 
+
+63
+
+
+
+MyyTtHhRrAaSs::  EcoONnOoMmIiCcSs & EQqUuIipPmMEenNTt 
+
+Two HAaNnDdEeDd WEeAaPpOoNnSs 
+Weapon Damage Size Reach Combat Effects ENC AP/HP Traits Milieu Cost 
+
+Battleaxe 1d8+1 L M Bleed, Sunder 1 4/8 A-M 100 SP 
+
+Garrotte 1d2 S - e 1/2 Stealth A-1 15 SP 
+
+Glaive/ Rhomphaia 1d10+2 L L Bleed, Sunder 2 4/10 A-M 250 SP 
+
+Great axe 2d6+2 H IL, Bleed, Sunder 2 4/10 A-M 125 SP 
+
+Great club 2d6 H L Bash, Stun Location 3 4/10 All 50 SP 
+
+Great hammer 1d10+3 H L R 3 4/10 M-E 250SP 
+Sunder 
+
+Greatsword 2d8 H L Bleed, Impale, Sunder 4 6/12 M-E 300 SP 
+
+Halberd/Polcaxe 1d8+2 L vy el 4 4/10 Set AE 200 SP 
+Impale, Sunder 
+
+Longspear 1d10+1 L VL Impale 2 4/10 Set All 30 SP 
+
+Longsword 1d10 L L Bleed, Impale, Sunder 2 6/12 M-E 250 SP 
+
+Military flail 1d10 L L Bash, Stun Location 3 4/10 Flexible A-M 250 SP 
+
+Pike/Sarissa 1d10+2 L VL Impale 4 4/12 Set A-M 90 SP 
+
+Quarterstaff’ 1d8 M L Stun Location 2 4/8 Defensive All 20 SP 
+
+Xyston 1d10 L VL Impale 3 4/10 Sct; Double A 100 SP 
+Ended 
+
+SIieEgGEe WEeAaPpOoNnSs 
+Weapon Damage Rflnge Load  Crew SIZ Combat Effects AP/HP Milieu Cost 
+
+Effective Long 
+
+Scorpion 3d6 150m 300m 4 1/1 BE Impale, Sunder 4/15 A-M 750 SP 
+
+Ballista 4d6 200m 400m 5 2/4 BE Impale, Sunder 4/25 A-M 1,000 SP 
+
+Mangonel 5d6 250m 500m 6 2/4 BE Bash, Stun 4/50 M 1,250 SP 
+
+Onager 6d6 300m 600m 7 3/6 BE Bash, Stun 4/75 A-M 1,500 SP 
+
+Couillard 7d6 350m 700m 8 3/6 BE Bash, Stun 4/100 M 3,000 SP 
+
+Trebuchet 8d6 400m 800m 9 4/8 BE Bash, Stun 4/150 M 5,000 SP 
+
+VEeHhIiCcLlEeSs 
+Vehicle Occupants/Load ENC Draw Milieu Cost 
+
+Two wheeled cart (hayrick, ox cart or similar) 6/60 1 A-1 60 
+
+Two wheeled wagon (goods cart, carriage or similar) 10/100 1 A1 175 
+
+Four Wheeled Freight wagon 10/200 2 A-1 500 
+
+War Chariot 2/20 2 AT 1200 
+
+Sedan Chair (carried by humans) 1/10 2 A-1 400 
+
+Palanquin (carried by humans) 4/40 8 Al 2000 
+
+Stage Coach (covered and comfortable) 8/200 4 R, I 8000 
+
+Heavy Coach (covered and comfortable) 12/400 8 R, I 15000 
+
+64
+
+
+
+MyyTtHhRrAaSs::  EcoONnOoMmIiCcSs & EqQUuIipPmMEenNTt 
+
+RAaNnGgEeDd WEeAaPpOoNnSs 
+I;/‘:;ii[i Damage l])[;:; Force  Range Load C;fir:izt In;f::le ENC  AP/IHP  Milieu Cost 
+
+Atlat] — — +1 Step +0/+25/+75 1 — — 1 1/4 P 10 SP 
+
+Blowgun e N — 10/20/30 2 — — . 1/4 P 30 SP 
+
+Bolas 1d4 N — 10/25/50 — Entangle — — 2/2 P-A 10 SP 
+
+Dagger 1d4 Y S 5/10/20 . Impale S . 6/8 All 30 SP 
+
+Dart 1d4 Y S 5/10/20 — Impale S — 2/1 P-A 10 SP 
+
+Discus 1d4+1 Y L 5/20/40 e Stun Location — . 2/3 A 30 SP 
+
+Hatchet 1d6 Y S 10/20/30 — Bleed — 1 4/6 All 25 SP 
+
+Wiy uosihmy 1d10 N H 20/150/300 4 Impale, S 2 4/8 ME 350 SP 
+Sunder 
+
+Impale, Pin 
+
+Javelin 1d8+1 Y H 10/20/50 — Weapon M 1 3/8 A-M 20 SP 
+
+(Shield) 
+
+Light crossbow 1d8 N L 20/100/200 3 Impale S 1 4/5 M-E 150 SP 
+
+Long bow 1d8 Y H 15/125/250 2 Impale S 1 4/7 M 200 SP 
+
+Net . N . 3/5/10 . Entangle — 3] 2/20 All 20 SP 
+
+Recurve bow 1d8 Y H 15/125/250 2 Impale S 1 4/8 A-M 225 SP 
+
+Short bow 1d6 Y L 15/100/200 2 Impale S 1 4/4 P-M 75 SP 
+
+Shortspear 1d8 Y L 10/15/30 - Impale M 1 4/5 All 20 SP 
+
+Sling 1d8 N L 10/150/300 3 Stun Location — . 1/2 P-M 5SP 
+
+Staff sling 2d6 N E 5/25/50 4 Stun Location — 2 3/6 A-M 20 SP 
+
+Stone/Rock 1d3 Y S 5/10/20 . Stun Location — All 
+
+Trident 148 Y L 10/15/30 — Barbed, M 2 4/10 AM  155SP 
+Impale 
+
+E might be reduced by several grades. Some repairing, and manufac- 
+EqQUu i] pPmMEeNnTt turing tasks will be simply impossible without the right elements, and 
+
+Games Masters will need to adjudicate based on local circumstances 
+MAaNn uU fFaAcCtTuU rR]i nN gG (does a village have a working forge? Is iron, and wood available?), 
+
+AND UALITY and on common sense. 
+and Quality
+
+With the right resources characters can make, repair, and CI RCUMSTANCE M ODIFIERS 
+Circumstance Modifiers
+
+enhance the quality of items they acquire. The right resources are 
+The following modifiers may be applied, depending on 
+
+the skills to do the job (usually a Craft skill, or Engineering/Mecha- 
+circumstances: 
+
+nisms); tools, and other equipment, such as a forge, workbench, and 
+so on; and, finally, time. 
+
+? ’ ¥ tm REeSsoOUuRrCcEe MOoDIdFifIiEeRrSs TAaBbLlEe 
+
+Circumstances Skill Grade 
+REeSsoOUuRrCcEeSs 
+
+No tools Hopeless 
+Access to resources is essential to the task. These will differ from . 
+
+Improvised tools Herculean 
+one job to another but will, at the very least, involve suitable tools, Poor Quality/1 . ) 
+
+. . oor Qualll ncomplete tools, or . 
+materials, and a suitable place of work (a forge or workshop for ) ty P Formidable 
+
+lacking crucial resources 
+example). 
+
+The availability of resources determines a number of things: 
+TaAsk ROoUuNnDdSs 
+
+& Whether or not the task is possible Building or repairing something is measured by Task Rounds. 
+& How long it takes to complete This is a variable amount of time dependent on what is being done. 
+& The quality of the output Again, Games Masters should decide how long something is going 
+It is the Games Master’s responsibility to decide if available to take, but the suggested Task Round table below offers some sug- 
+
+resources are suitable, and in the right quantities. If they are not gestions, and inspiration: 
+
+then the grade of the skill being used for the task should be reduced 
+appropriately— and if there is a true dearth of materials, the skill 
+
+65
+
+
+
+MyYyTtHhRrAaSs::  EcCoONnOoMmIiCcSs & EQqUuIipPmMEenNTt 
+
+/.\ 
+
+. 
+
+SaAmMPpLlEe TAaskK ROoUuNnDdSs 100%. For example, if a blacksmith is ordered to shape, and fit a 
+
+Task Appropriate Skill Task Round Unit horseshoe in two Task Rounds (half the usual time needed) then, 
+unless he scores two critical successes with his skill rolls the finished 
+
+Repairing clothing Craft (Needlework) 5 minutes — 1 hour 
+shoes will have no more than 50% of their effectiveness (meaning 
+
+i 5 minutes — 30 
+Torging metal Craft (Blacksmith) they are incorrectly shaped, do not fit properly, and may come loose 
+
+minutes 
+or even injure the horse). 
+
+Torging a sword Craft (Weaponsmith) 1 days — 5 days 
+With unlimited time it is possible to exceed 100%. The percent- 
+
+Erecting a wooden or 6 months — several 
+Engineering age achieved at the end of the time available indicates the overall 
+
+stone structure years 
+quality of the product or task, as shown in the Item Quality table, 
+
+Mechanisms or Craft 
+Sharpening a blade 3 to 5 minutes opposite. Exceptional quality offers enhancements to the product. 
+
+(Weaponsmith) The final percentage reflects the quality of the product or completed 
+task. 
+
+Completing the task requires a roll against the relevant skill. Note 
+the level of success: 
+
+EnNHhAaNnCcEeMmEeNnTtSs 
+« Critical: 50% If a task exceeds 100% in four or fewer Task Rounds it gains 
+& Success: 25% Enhancements as indicated in the Item Quality table. If a project 
+& Failure : 0% reaches 100% in four or fewer Task Rounds, the maker has the 
+& Fumble: —25% option to continue refining it. To do this he continues to work on it 
+
+for a further Task Round and, depending on the result of the skill 
+Continue making skill rolls, each taking one Task Round, until 
+
+roll for the Task Round, may enhance it. 
+100% has been achieved — or until time, resources, and budget are 
+exhausted. Thus, a competent worker will usually be able to accom- & Critical Success: 2 Enhancements 
+plish the work in four Task Rounds, assuming a standard Success in & Success: 1 Enhancement 
+each round. Reaching 100% means the final result is of an accept- & Failure: No Enhancements 
+able standard. Anything less is below par, and may be flawed in & Fumble: Reduce Quality by 25% 
+some way. If time is pressing or constrained then the number of 
+Task Rounds can be reduced: this will constrain the ability to reach 
+
+66
+
+
+
+MyyTtHhRrAaSs::  EcoONnOoMmIiCcSs & EqQUuIipPmMEenNTt 
+
+Thus, a fumble actively overworks the item, taking away from its 
+quality rather than enhancing it. 
+
+The Enhancement is determined by the nature of the object. 
+Choose from the following: 
+
+Enhancements can be stacked: so an item with two Enhance- 
+ments could benefit from being highly efficient, for example, con- 
+ferring a 10% bonus to the using skill. However no item can benefit 
+from more than two Enhancements of the same type. 
+
+ItTeEmM QUuAaLlIiTtYy TAaBbLlEe 
+
+Total 
+Result Enhancements 
+
+Score 
+
+150 Excellent 2 
+
+125 Good 1 
+
+100 Acceptable 0 
+
+The product will break or wear out 25% faster 
+
+than normal; or its Hit Points and value are 
+75 Flawed N 
+
+reduced by one quarter reflecting its flawed 
+
+durability. 
+
+The product will break or wear out 50% faster 
+
+50 Poor than normal; or its Hit Points and value are 
+
+reduced by half reflecting its flawed durability. 
+
+The product will break or wear out 75% faster 
+
+than normal; or its Hit Points and value are 
+25 Shoddy e 
+
+reduced by three quarters reflecting its shoddy 
+
+durability. 
+
+0 orless Unusable The product is simply of no use whatsoever. 
+
+EnNHhAaNnCcEeMmEeNnTtSs TAaBbLlEe 
+
+Enhancement Effect 
+
+Desirable The item’s value is doubled. 
+
+Durable The item’s Hit Points are increased by one. 
+
+Resilient The item’s Armour Points are increased by one. 
+
+Efficient The item of such quality that it confers a 5% bonus to the 
+
+skill required to use it. 
+
+Effective If a weapon it gains +1 to its Damage rating. Other items 
+
+reduce ENC value by 1d2 points. 
+
+UssIinNgG TthHEe TAaSskK RUuLlEeSs iInN 
+
+OTtHhEeRr CIirRcCuUMmSsTtAaNnCcEeSs 
+The rules presentedfor making and repairing equipment can be applied 
+
+lo many different situations. Using the same basic mechanics any situation 
+requiring an wnwestment of time, effort and skill, and requiring a quality of 
+outcome, can be simulated. Some examples are given below: 
+
+Social conflict - where characters are engaged in argument, debate, negoti- 
+ation, politics, diplomacy, and so on. 
+
+Affawrs of the heart— seductions, courtshap, proof of love (or even hatred). 
+Steges and wars of attrition — use the Task rules to simulate the progress 
+
+of a stege or extended battle over a long-term period. 
+Chases and pursuits — use the Task rules where purswits take place over 
+
+days or weeks, rather than in detailed time where an tmmediate result is more 
+destrable. 
+
+Games Masters will no doubtf ind their own uses for these rules. 
+
+67
+
+
+

@@ -1,0 +1,2713 @@
+Mythras:  Combat
+
+— — — 
+= YY S R (R < > 
+
+Yy m KI n S LUK SO GO << A o IR UL AR | < A < 
+
+Combat
+
+— — 
+BoH5 X = oM ¥ §row moKl T S I &K E B« r T X W 
+
+ombat is an important feature of MYTHRAS. Violent con- 
+frontation has ever been a way of settling problems, from COoMmPpOoNnEeNnTtSs 
+
+C vengeance driven fights between nemeses, to the clash of 
+armies in times of war. Combat need not be a savage battle to the oOFf COoMmBbAaTt 
+death. Some combat encounters can be swashbuckling duels which MyYTHRAS uses a number of terms and concepts to explain the 
+
+end without injury, or perhaps light-hearted bar room brawls. core elements of Combat. These are explained in the following sec- 
+
+There are a number of central concepts which are an inherent tions, but in overview, these are: 
+
+part of MYTHRAS combat: 
+COoMmBbAaTt STtYyLlEeSs 
+
+& Combat can be a very deadly business: Even the greatest The skill of wielding a group of weapons learned as part of a 
+hero can be hacked down if seriously outnumbered, receive culture or profession. 
+grievous wounds if abjuring armour, or suffer ‘the slings and 
+arrows of outrageous fortune’ if luck turns her back. ComBbAaTt ROoUuNnDdSs 
+Combat need not end in death: Although commonplace in Book keeping time segments of five seconds each. 
+
+some genres, battles do not have to conclude with the demise 
+of opponents. It is as easy to end a fight with the submission CoMmBbAaTt ACcTtIioONnSs 
+or capture of a foe without necessarily killing them. Possible acts a character can perform during a round by the 
+
+Combat is both abstract and tactical: Whilst the rules are not expenditure of an Action Point. 
+
+specifically designed for tabletop miniatures, tactical manoeu- 
+WEeAaPpOoNn S1izZeE AanNDd REeAaCchH 
+
+vres and techniques are a vital part of how combat plays. A 
+How difficult it is to parry a particular weapon, and the distance 
+
+comprehensive range of options exist to take advantage of 
+it can engage at. 
+
+the situation if one participant gains the upper hand over 
+another. 
+
+EnNGgAaGgEemMEeNnTt 
+Combat is exciting: Since combat is inherently dangerous, 
+
+Combatants can hit or be hit by a direct opponent, depending 
+a well orchestrated duel or melee will exhilarate players; the 
+
+on circumstances. 
+advantage swinging to and fro with innovative use of tactical 
+choices and techniques. 
+
+SPpEeCcIiaALl EFfFfEeCcTtSs 
+
+MyTHRAS combat can be either gritty or cinematic: The rules Special combat manoeuvres which can be performed if one 
+
+allow for the emulation of any genre, from the grim realism as combatant gains the upper hand. 
+
+recounted from Viking Sagas to the highly visceral encounters in 
+works of fantasy — such as written by Howard, Leiber or Gemmell 
+— and mythological epics like the Iliad or Mahabharata. Whatever COoMmBbAaTt STtYyLlEeSs 
+the setting, MYTHRAS is designed to handle all such confrontations. 
+
+Fighting skills are purchased as styles. Each style is a ‘package’ of 
+Whatever the intent of participants, their armaments or the situ- 
+
+multiple weapons, related by culture, career or even schools of com- 
+ation they find themselves in, all forms of physical combat are han- 
+
+bat, which avoids the necessity of learning each individual weapon 
+dled using these rules in this chapter. 
+
+separately. Deciding how many weapons should be included into a 
+single style is ultimately a choice determined by the Games Master. 
+
+86
+
+= 
+A5 
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+ANnAaTtHhAaYyMm’’Ss SaAgGaA 
+SaAmMPpLlEe COoMmBbAaTt STtYyLlEeSs 
+
+As part of her cultural background, and civic duties, Anathaym learned 
+The following are Combat Styles taken from elsewhere in the MrrH- 
+
+the Meerish Slinger style, combining the art of slinging with the close combat 
+RAS rules to help act as inspirationfor developingyour own Combat Styles. 
+
+skill in shorisword, and peltast shield. During the hot summers of her adoles- 
+cence she trained as part of a skirmishing unat learning how to sling stones at 
+
+Meerish Infantry (Spear, Hoplite Shield, Favelin) 
+largets, whilst sometimes wielding a shield in her off-hand. 
+
+Meerish Slinger (Sting, Shortsword, Peltast Shueld) 
+At the same time she was also taught how to use a shortsword, again both 
+
+Centaur Warrior (Spear;, Shield, Short Bow) 
+with, and without a shield, to prepare herf or close combat if ever her unit was 
+
+Duwarven Legionary (Axe, Hammer, Shield, Crossbow) 
+ever engaged in melee during a battle. She even knows how to fight with just a 
+
+Elven Ranger (Sword, Speas; Shzeld, Bow) 
+shaeld if she ever loses her shorisword in a_fight. This adaptability holds her 
+
+Lizardman Savage (Axe, Shortspear; Target Shield) 
+in good stead, since provided she is using at least one of her cultural weapons, 
+
+Big Hutty Things - Ogres (Club, Hammer, Thrown Rock) 
+she’ll never suffer a situational penally due to her comprehensive preparation. 
+
+Striped Death - Tger (Teeth, and Claws) 
+Crushing Doom - Giant Snake (Constrict, Bute, and Writhe) 
+
+Games Masters should avoid, if possible, replicating the same 
+n 4 weapon within additional Combat Styles. If unavoidable, common 
+
+However, some guidance is provided here to help tailor Combat sense should be applied, such as limiting the character to use the 
+
+Styles to match a particular campaign theme. relevant Combat Style skill if the weapon is used in combination 
+
+The most important aspect of Combat Styles is that the char- with a second weapon available only to that specific style, or permit- 
+
+acter learns how to use each weapon in the style, both singly and ting them to use the style with the highest value when wielding that 
+
+in combination so that they might be interchanged as necessary. particular weapon singly. Duplication of weapons simply reflects 
+
+Combat training does not focus merely on using a specific weapon superfluous, repetitive training. 
+
+or weapons under best conditions, but also covers what to do when Choosing how many weapons should be part of a Combat Style 
+
+placed at a severe disadvantage. Such cross-training is a primary depends ultimately on how important combat will be within a cam- 
+
+part of preparing a combatant for the unpredictable events of the paign. Some suggestions are: 
+
+battlefield, where weapon breakage or becoming disarmed is always 
+& Combat Styles are very exclusive: Each style pertains to one 
+
+a potential possibility. 
+particular two-handed weapon or a specific paired weapon 
+
+Almost all characters begin with the chance to learn a cultural 
+combination. Best used for combat heavy campaigns such as 
+
+combat style. This is supposed to reflect a basic education in those 
+a game focused on gladiators, where each gladiatorial type 
+
+weapons available for a member of that society and social 
+has its own precise weapon combination (net and trident for 
+
+rank, reflecting the training given for 
+example). Exclusive styles necessitate a greater investment 
+
+community (or perhaps personal) 
+of skill points during character generation, and subsequent 
+
+defence. Thus a barbarian karl 
+investment of Experience Rolls to achieve 
+
+may be expected to know diversification, which may slow down 
+how to use a spear, hand the development rate of combative 
+axe, and bow — the funda- 
+
+characters. 
+mental weapons and tools 
+
+& Combat Styles are cult or 
+of a commoner; whereas a 
+
+school specific: Each style specia- 
+thane from the same commu- 
+
+lises in a few weapons of noted 
+nity, growing up with access to 
+
+significance to a particular 
+better weapons, may be trained 
+
+cult or school of combat. 
+in swords, spears, and shields 
+
+An evil brotherhood of 
+instead. 
+
+assassins may, for example, 
+Some careers such as hunter 
+
+train in unusual signature 
+or warrior offer the option to learn 
+
+weapons like blowpipes and 
+further styles. These should reflect 
+
+garrottes. Schools of combat 
+more unusual weapons, or weap- might reflect the battlefield 
+ons normally restricted from 
+
+armaments of a mercenary 
+someone not of their profession. 
+
+company, or an ascetic martial 
+So continuing the previous 
+
+arts school. The suggested num- 
+example, if the karl decided 
+
+ber of weapons should range from 
+to become a mercenary he 
+
+two to three per style. 
+might learn a new style, 
+
+& Combat Styles are career 
+diversifying  his compe- 
+
+specific: Each style is limited to the core 
+tence to include glaives, 
+
+weapons used by a professional combat- 
+great axes, and thrown 
+
+ant of that career, for example a legionary 
+axes. 
+
+soldier should demon- 
+strate competence in 
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+shortsword, dagger, scutum, and javelin. The number and an inbuilt technical advantage the style offers for those particular sit- 
+type of weapons should roughly match those of a similar his- uations. However, a trait is only intended to be used with the weap- 
+torical context, between three or four per style. ons and situations of that particular style. 
+Combat Styles are weapon class based: Each style incorpo- There are limitless diverse and potential benefits a Combat Style 
+rates every weapon of a particular design or damage type. An can enjoy. The adjacent table merely suggests a few possibilities, and 
+example may be ‘All Swords’, incorporating everything from is intended to offer flavour rather than overwhelming tactical advan- 
+shortswords to greatswords; or ‘Bludgeoning Weapons’ cover- tage. Games Masters are encouraged to create further ones to match 
+ing clubs, hammers, maces, and anything else which relies on their campaign setting. 
+bashing to inflict damage. As can be surmised, these catego- Note that some of these benefits can potentially be applied, by 
+ries can potentially include dozens of weapons. extension, to the Unarmed skill —either learned via culture or added 
+Combat Styles are all-encompassing: These styles are inclu- later as part of a profession. 
+sive of any, and all melee weapons, ranged weapons or both. 
+This option is only recommended for campaigns where com- 
+
+Usse oFf WEeAaPpOoNnSs NOoTt 
+bat is infrequent, secondary to other forms of interaction. 
+
+Covered by a Combat Style
+It should be obvious that not all Combat Styles will be equal, or OVERED BY A OMBAT TYLE 
+
+Occasionally characters may be forced to pick up an unfamil- 
+necessarily need to balance with one another. Such considerations 
+
+iar weapon, using it either independently or in conjunction with a 
+are intended to be based on culture, social class and career — not be 
+
+trained weapon. A character with a Sword and Shield style might, 
+limited by game mechanics. 
+
+for example, be forced to use a mace, or mace and shield together. 
+By rights, using an untrained weapon forces the user to fight at 
+
+WEeAaPpOoNn CHhOoIiCcEeSs his base Combat Style percentage. However, much depends on the 
+When deciding on which particular weapons are included within weapon and how similar it is to something the user is experienced 
+
+a Combat Style the following should be considered: with. Some guidelines on using unfamiliar weapons are as follows: 
+
+& Two handed weapons generally have an advantage in both & If a weapon is substantially different from a trained weapon — 
+terms of weapon reach (see page 61), and how much damage in weight, size, length and method of use — then offensive and 
+they inflict, but leave the wielder vulnerable if the weapon defensive actions are made at the base Combat Style skill (ie, 
+is lost. STR+DEX). 
+Shields are the best defensive weapons, able to block fairly If a weapon is reasonably different from a trained weapon — say 
+large weapons in addition to protecting against ranged attacks a greatsword when the combatant is trained with a broad- 
+- which other weapons cannot normally parry. sword — then offensive and defensive actions are based on the 
+Using two offensive weapons simultancously offers the existing Combat Style but are two grades more difficult. 
+wielder a greater range of engagement distances and grants If a weapon is broadly similar to a trained weapon — say a 
+some security if one weapon is broken, dropped or disarmed shortsword when the combatant is trained with a broadsword 
+during combat. Secondary off-hand weapons must be at least — then offensive and defensive actions are one grade more 
+one size category smaller than the main weapon, unless both difficult. 
+are small. If a weapon is sumilar to a trained weapon — a scimitar say, as 
+Ranged weapons grant the ability to strike from beyond the opposed to a broadsword — then the character uses his exist- 
+immediate reach of an enemy, typically at the cost of a lower ing Combat Style with no penalty. 
+rate of attack unless using anachronistic firearms or sorcerous If a combatant is using an unfamiliar weapon in conjunction 
+devices. A Combat Style could potentially include unusual with a trained weapon, such as a shield, then the trained Com- 
+weapons such as siege engines. bat Style is used, but is one grade harder. This simulates the 
+Unarmed combat styles allow the user the opportunity to compensation in the overall style the combatant must make 
+fight and defend themselves without the need of weapons. (adjusting balance, accounting for heft, and so on) necessary 
+They are also useful in situations where an opponent has to use a combination of trained and untrained weapons. 
+closed inside the reach of a wielded weapon. An unarmed The penalty imposed by use of an unfamiliar weapon cannot 
+attack can be made with any part of the body, except for the reduce the user’s skill below the default level of STR+DEX. 
+torso. Thus limbs, wings, tails and even the head can be used. 
+
+COoMmBbAaTt STtYyLlEe BEeNnEeFfIiTtSs CoMmBbAaTt ROoUuNnDdSs 
+Combat styles possess another function beyond simply learning a 
+
+To emphasise its visceral nature, MYTHRAS combat is tracked on 
+group of weapon skills. Since each style is taught by a particular cul- 
+
+a blow by blow basis. In order to ease bookkeeping but still reflect 
+ture or career, they are inherently optimised for the environment or 
+
+the differences in speed or numbers of attacks, fights are broken 
+military tactics that group normally fights with; for instance a horse 
+
+down into Combat Rounds of five seconds each. During this period 
+nomad learns to fight from the saddle, or an infantryman trains to 
+
+combatants may make hand-to-hand attacks or defend against 
+fight in close order formation. Therefore, as an additional bonus, 
+
+them, manoeuvre into and out of combat, fire or throw a ranged 
+every Combat Style may gain one or more traits which grant it an 
+
+weapon, and so on. 
+advantage under certain circumstances. This can be thought of as 
+
+38
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+COoMmBbAaTt STtYyLlEe TRrAaIiTtSs 
+
+Trait Description 
+
+Assassination Allows the user access to the normally restricted “Kill Silently” special effect. 
+
+If the fighter’s Damage Modifier is two or more steps greater than his opponent’s, his weapon is considered one size larger for the purposes of 
+Batter Aside 
+
+bypassing parries. 
+
+Beast-back Lancer Performing a mounted charge with this combat style does not incur the one step difficulty penalty to hit. 
+
+Blind Fighting Allows user to ignore any penalties imposed due to poor lighting or temporary blinding. 
+
+Cautious Fighter Can use the Change Range action to automatically withdraw from engagement with no need to roll 
+
+Chariot Fighting Style allows those riding in a chariot to ignore the skill cap placed upon their combat rolls by the driver’s Drive skill. 
+
+Daredevil May use Evade to dodge blows in hand to hand combat without ending up prone. 
+
+Defensive Minded Increases the Size of your weapon when parrying by one step, provided no offensive action is taken that round. 
+
+Do or Die Allows dual weapon combinations to use the Flurry special effect, provided that each subsequent attack utilises the alternating weapon. 
+
+Excellent Footwork When fighting on slippery, wobbling surfaces the user can ignore the skill cap placed on combat rolls by the Acrobatics skill. 
+
+Permits a group of three or more warriors to draw into close formation, placing more open or disordered opponents at a disadvantage (provided 
+Formation Fighting* 
+
+the “unit’ cannot be outflanked), and thus reducing each foe’s Action Points by one if they engage. 
+
+Allows the user to utilise seemingly innocuous objects noted as part of the style as deadly weapons, with no chance of accidental breakage despite 
+Hidden Weapons 
+
+apparent delicacy (fans or musical instruments for example). 
+
+Style encourages frequent yells and bellows in combat to intimidate foes, making any psychological resistance rolls inflicted on an opponent one 
+Intimidating Scream 
+
+grade harder. 
+
+Knockout Blow When attacking with surprise treat any Stun Location as lasting minutes instead of turns. 
+
+The styyle le g grants its user an advantag=e  when entanglgilnng g or immobilising g opOppp!o nents, making g a foe’s opPpPo sed rolls to evade or break free one 
+Mancatcher 
+
+difficulty grade harder. 
+
+Mounted Combat Style allows rider to ignore the skill cap placed upon combat rolls by the Ride skill. 
+
+Ranged Marksman When using a ranged weapon, shift a random Hit Location roll to an adjoining body location. 
+
+Permits clubs and axes to roll the weapon’s damage twice and pick the best result, but only when using the Damage Weapon special effect against 
+Shield Splitter 
+
+shields. 
+
+Allows a group of three or more shield users to overlap their protection, adding one to the number of locations which can be protected with 
+Shield Wall* 
+
+passive blocking and resisting Knockback, Leaping attacks, and Bash as if using the Brace action. 
+
+The style permits its user to ignore the skill cap placed upon combat rolls by the Athletics skill when making assaults whilst scaling walls or crawling 
+Siege Warfare 
+
+through tunnels. 
+
+Skirmishing The style permits launching ranged attacks whilst at a run (but not whilst sprinting). 
+
+Style allows the user to engage in attacks and evades made whilst jumping or swinging into (or disengaging from) combat, ignoring any skill cap 
+Swashbuckling 
+
+placed on it by the Athletics skill. 
+
+Throw Weapons Any nominal melee weapon in the style can also be thrown at no penalty to skill, but when used in this way a weapon’s damage roll is halved. 
+
+Intended for styles which emphasise fighting in close coordination with an animal companion (such as trained birds of prey, pet wolves, and so on), 
+Trained Beast 
+
+the user may utilise any of his Action Points to defend against attacks launched at his beast. 
+
+Unarmed Prowess Permits the user to treat his Unarmed blocks and parries as ‘Medium’ sized, enabling him to better defend himself from armed opponents. 
+
+Water Combat The style allows its user to ignore the skill cap placed on combat rolls by the Swim skill. 
+
+* Requires everyone else in the group to also have this benefit, otherwise the coordinated effortfails to lack of one or more participants being trained in the correct 
+technique. 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+Anathaym s trained in two separate Combat Styles, Meerish Slinger, and Meerish Infantry. Afiler considering the options available, the Games Master decides 
+
+lo grant the Meerish Slinger style the Skirmisting trait, and the Meerish Infantry style the Formation Fighting trait. Thus her cultural and career styles now look 
+like this: 
+
+Meerish Shinger: (Skirmishing) sling, shortsword and peltast shield 
+Meerish Infantry: (Formation Fighting) spear; hoplite shield and javelin 
+
+Note that Anathaym s limated to ranged weapon skirmishing with her sling, andf ormationf ighting with spear and large shield. During the hundreds of hours she 
+trained in combat, she only ever practiced slinging at a running gait, sincej avelin throwing was learned as part of being a close ordered unat. Simalarly she learned the 
+lactics of fighting shoulder to shoulder only whilst using a spear and large hoplite shield, and wouldn’tf eel comfortable trying to fight as a_formation with a shorter 
+weapon and smaller shield. 
+
+39
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+On the plains outside the city Anathaym is practicing with shortsword and 
+
+shield against her weapons tutor, Master Lamothis. Both she and her mentor 
+have 3 Action Points each, but Anathaym rolls a better initiative. Goingf urst 
+she decides to attack (Proactwe, 1 Action Point) which Zamothis effortlessly 
+deflects (Reactive, 1 Action Point). Thus far they have each used one Action 
+Point — Anathaym to attack and Zamotlus to parry. Then it s her mentor’s 
+turn, and he returns with an attack (Proactve, 1 Action Point), forcing her to 
+block (Reactive, 1 Action Point). Now they have used two Action Points each. 
+
+Both have now taken their respective turns, but each stll has a Combat 
+Action remaining; so the Games Master cycles back to the highest initiative 
+again; allowing Anathaym lo attack a second time that round. Zamothis again 
+parries the blow and the round ends, since neither has any Action Points 
+remaining. Thus going furst allowed Anathaym to use her actions to attack 
+twice and parry once. 
+
+CAaLlCcUuLlAaTtIinNgG InNIitTIiaAtTIivVeE 
+Initiative is calculated by each participant rolling 1d10 and add- 
+
+ing their Initiative Bonus. Whoever gained the highest result acts 
+first, followed by the second highest, and so on. When two or more 
+participants tie scores they act concurrently. 
+
+InNIitTiIaAtTIivVeE PEeNnAaLlTtYy 
+Characters who wear armour are hindered by the encum- 
+
+brance of their protection, slowed by its inherent mass and bulk. As 
+described on page 58, a penalty is applied to Initiative equal to the 
+total ENC for all the armour worn, divided by 5, and rounded up. 
+Tor example, a full suit of Hoplite Plate armour, covering all seven 
+
+Similarly to real life, most combat engagements — once joined hit locations, with an ENC value of 4 per location, imposes an Ini- 
+
+— are concluded in a matter of seconds rather than minutes. In tiative penalty of (7x4)/5 = 6. 
+
+game terms this means several Combat Rounds (usually three or 
+less) unless participants withdraw to perhaps reset initiative, reassess CYyCcLlEeSs AanNDd TUuRrNnSs 
+their tactical situation or simply to grab a momentary rest before Once initiative has been determined, the participants have the 
+re-engaging. Only fights between well matched foes or sequences of potential to perform several Combat Actions during each Combat 
+opponents tend to last longer. Round. The number of times they can act is equal to their Action 
+
+Combat Rounds use several important terms: Points, but when they can act is limited to whether the action is pro- 
+
+& Initiative: The order of who acts when during a Cycle of a active or reactive. 
+
+Combat Round. Proactive actions can only be attempted on the character’s own 
+
+& Cycle: The countdown through initiative values from the Turn; that is to say, when it is his initiative. Proactive actions are 
+
+highest to the lowest, so that each participant has a chance to those in which the character is the instigator, such as making an 
+
+take their Turn when their number is reached. There can be 
+several cycles per Combat Round. ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+
+& Turn: Upon each turn, participants perform a Combat As Master Zamothis continues hus lesson Anathaym notices three bel- 
+Action, which comprises of a declaration, any necessary dice lLgerent centawrs, armed with bows, gallop out of a nearby gorge lowards 
+rolls (including reactions), and the resolution of the action. them. She cries out a warning and interposes herself between her momentardly 
+
+surprised mentor and the approaching raiders. 
+Fach term is described in more detail, below. 
+
+All three centaurs roll higher initiatives than Anathaym. Each one, on 
+us turn, spends an Action Point to fire an arrow at the female warrwor. In 
+
+InNIitTiIaAtTIivVeE response Anathaym defends herself against the fusillade with her shield, forc- 
+Initiative determines participants’ order of actions during the ing her to block three times, once per arrow. This costs all three of her Action 
+
+cycles of a Combat Round. It is rolled at the start of a fight. Unless Points, so when her turn arrives she s unable to do anything and indeed cannot 
+something occurs to change the situation, such as certain Combat actf or the rest of the round. 
+Actions or Special Effects, initiative remains in play until it is forced The Games Master cycles back to the highest initiative, butf ortunately for 
+to be re-rolled. Anathaym the centawrs each spend their second (and last) Action Point nocking 
+
+new arrows to their bows. Thus the end of the second cycle s reached, and 
+since nobody has any Action Points remaining, a new round s begun. 
+
+90
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+attack with a weapon. Only one proactive action may be attempted 
+per cycle. If no proactive action is selected, the character is assumed KEeEePpIinNgG TRraACckK oOFf ACcTtIioOnN POoIiNnTtSs 
+to have used Dither by default. 1t can be tricky to keep track of Action Points during a round, espe- 
+
+Reactive actions are those taken by a character to counter or ctally if characters make a habit of using Combat Actions such as Delay 
+
+resist an act made against them. Only one reaction attempt is per- or casting spells which require more than one turn to complete. As an aide 
+
+mitted for each threat, an example would be trying to parry an lo simplify book keeping, the use of tokens (coins or poker chips are ideal) 
+
+attack. However, any number of reactions may be made per cycle, 15 recommended. 
+
+provided that the character has Action Points to spend. Guve each player a number of tokens equal to their Action Points, 
+
+The end of the cycle is reached once every participant has taken then each time they act or react, remove one of the tokens — tossing them 
+
+their turn. If anyone still has Action Points remaining then a new into a used pile in the centre of the table. In the case of the Delay action, 
+
+cycle is begun for those characters with Action Points available. This the token can be moved half way, indicating a held action which can be 
+
+continues until all available Action Points have been expended, at triggered at a later point. For spell casting a separate pile could be formed 
+
+which point the round is over, and a new one begins. which keeps track of how many turns have been invested thus far: 
+When each round concludes the players can reclaim a requasite number 
+
+of tokensfrom the discard pile. Of course other methods can be used, such 
+COoMmBbAaTt ACcTtIioONnSs as using due as trackers or even tallying Action Points on scrap paper. 
+
+Combat Actions are those acts which can be performed during N f 
+battle. Drawing a weapon, casting a spell, or diving clear from an 
+attack are all examples of Combat Actions. Most are concerned 
+
+Change Range
+with elements of combat itself, but some relate to activities outside HANGE ANGE 
+
+the to and fro of spells and weapons. The character can attempt to close on, or retreat from, an oppo- 
+nent; changing the range at which he is fighting to take best advan- 
+
+As previously mentioned, how often a character can act per 
+round is limited by their available Action Points. These are spent tage of his weapon’s reach or disengage from engagement entirely. 
+
+over the course of each Combat Round to perform various Combat See Weapon Reach - Closing and Opening Range on page 106. 
+
+Actions. Once a combatant’s Action Points are expended, they may 
+DeeLlay 
+
+no longer act for the remainder of that round, and must wait until 
+The character conserves his action so that he can instead perform 
+
+their points reset at the beginning of the next. 
+a Reactive Action at a later time, such as an Interrupt or Parry. The 
+
+Unless otherwise specified any Combat Action (save for ‘free’ 
+Action Point cost of delaying is covered by whatever act is finally 
+
+actions) costs one Action Point. Thus combatants need to care- 
+performed. If the delayed action is not taken before the character’s 
+
+fully consider how and when they use their points. They may act as 
+next turn (on the following cycle), then the character is considered to 
+
+aggressively or defensively as they wish, dynamically reacting to the 
+have Dithered, and the Action Point is lost. 
+
+evolving circumstance of the combat. 
+
+DiiTthHEeRr 
+PRrOoAaCcTtIiVvEe ACcTtIioONnSs 
+
+A character can decide to simply waste his turn doing nothing 
+The following are activities a character can attempt on his Turn 
+
+useful. 
+by spending an Action Point. Note that some actions such as spell 
+casting or reloading may take several turns to complete; each turn 
+
+Howlpd Maacgiic 
+costing its own Action Point. Once casting is complete, the character may hold a spell, miracle 
+
+or spirit in temporary check, awaiting the best moment to release it. 
+ATtTtaAcCkK 
+
+The magic may be held back for as long as the character continues 
+The character can attempt to strike with a hand-to-hand weapon 
+
+to take this action on his subsequent turns, but allows free use of the 
+or use a ranged weapon. 
+
+Counter Spell reaction if pertinent to his spell. 
+
+BRrrRaAcCeE 
+Moouunnt 
+
+The character braces himself by taking a firm stance, and lean- 
+The character can mount or dismount a riding beast. Particu- 
+
+ing into the direction of a forthcoming attack. For the purposes 
+larly large mounts may require several turns to complete. 
+
+of resisting Knockback or Leaping Attacks the character’s SIZ is 
+treated as 50% bigger. Against the Bash special effect SIZ is dou- 
+
+Moovvee 
+bled. The benefits of bracing are lost once the character moves away Provided he is not engaged with an opponent, the character can 
+from the place they planted themselves. move any distance the Games Master deems suitable for the situa- 
+
+ton. The Move Combat action is not required for every instance of 
+CAasTt MAaGgIiCc 
+
+movement during combat. 
+The character can attempt to cast a spell, call for a miracle, 
+
+One does not need to spend an Action Point on Move to engage 
+invoke a talent or summon a spirit. Complex magics may require 
+
+an opponent. For instance, a character crossing an open field to 
+several turns in order to complete the casting. Once concluded, the 
+
+engage a group of archers would spend 1 Action Point to cover the 
+magic can be released at any moment up until the caster’s next turn; 
+
+distance. He would not, though, need to spend a further Action 
+at which point it can be held for later effect; but this requires the 
+
+Point to initiate combat with one of the archers when he reaches 
+Hold Magic action (see below) to maintain it in preparation for later 
+
+their vantage point. He may use his next turn solely for his attack 
+release. 
+
+roll. 
+
+91
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA StTrRuUGgGgLlEe 
+Backtracking the centawrs’ trail, Anathaym and Zamothus discover the If the character is the victim of a certain types of attack or Spe- 
+
+raider’s encampment in a small cave-filled canyon far to the west of Meeros. cial Effect, he may attempt to extract himself from the situation. For 
+
+Using the cover of darkness they creep close enough to see a sorcerer by the example breaking free from a Grapple or Pin Weapon. 
+
+name of Kratos, whom the herd is serving, about to perform a human sac- 
+rifce of a youth tied spread-eagled between frighteningly carved totem poles. REeAaCcTtIiVvEe ACcTtIioONnSs 
+Lamothis orders Anathaym to deal with the black wizard, then yells loudly This list specifies reactions which can be used at any time during 
+
+and, bedecked in his bronze hoplite armows; heroically leaps down into the the Combat Round as a response to an imminent threat. As in the 
+
+madst of the centaur warriwors to cause a distraction. previous list, a reaction costs an Action Point to perform. 
+
+Anathaym runs to engage the sorcerer and Initiative 1s rolled, resulting in 
+COoUuNnTtEeRr SPpEeLlLl 
+
+Kratos gaining the higher Initiative. Spotting her approach the sorcerer imme- 
+The character can attempt to dismiss or counter an incoming 
+
+diately begins invoking a diabolical spell, one which the Games Master deter- 
+spell, miracle or spirit. This assumes the countering magic has a 
+
+manes will take two turns to cast. He marks off the fust of Kratos® Action 
+casting time of one Turn, otherwise it must be prepared in advance, 
+
+Points for the round. Guessing at her immanent doom, Anathaym on her turn 
+and temporarily withheld using the Hold Magic action. Successfully 
+
+tries to stab the sorcerer; forcing Kralos (who has no weapons) to Evade in a 
+intercepting magic in this manner is assumed to negate the entire 
+
+desperate attempt to avoud the blow. Rolls are made, and the sorcerer success- 
+spell or miracle, even those with multiple targets or areas of effect. 
+
+JSully throws kamself backwards into the shadows, but is now prone upon the 
+rocky ground. T his concludes the cycle, with Anathaym having used one Action 
+
+EVvaAdDEe 
+Point, and Kratos two. 
+
+The character can attempt to dive or roll clear of threats such as 
+The next cycle begins with the sorcerer in apparent difficully. He has one 
+
+incoming missiles or a charging attack. Using Evade leaves the char- 
+Action Point remaining, and has the choice of either kicking at the warrior 
+
+acter prone, unless mitigated by some special consequence. Thus 
+in the hope of perhaps tripping her (leaving him at the mercy of Anathaym’s 
+
+the character’s next turn is usually spent taking the Regain Footing 
+sword_for the rest of the round) or continuing his half cast spell. Facing little 
+
+action to stand again. See Evading on page 103. 
+chance of mercy Kralos uses his turn to complete his spell and rolls against his 
+Invocation skill. Despite an imposed difficultly grade of Formidablefor lying InNtTeErRrRuUPpTt 
+on las back, he succeeds, and disappears in a puff of greasy, black smoke. (Delaying characters only) Halts an opponent’s turn after his decla- 
+Anathaym 15 left on her turn with nobody to attack, so revises her intentions ration in order to take your own delayed turn. Assuming no change 
+and starts cutting the youtl’s bonds... in the tactical situation, the opponent continues his turn after yours 
+
+is completed. If unable to still achieve his original declaration, the 
+opponent’s Action Point is wasted. An interrupt can also be used 
+
+To summarise, use the Move Combat Action for: 
+against anyone passing close by the delaying character, within 
+
+& Moving up towards a combat weapon reach. 
+
+& Perform a dramatic action within combat (swing from a 
+handy chandelier, for example) DEeLlAaYy aAnNDd InNtTeErRrRuUPpTt 
+
+Delay s intended to be a way of allowing a character to conserve 
+Move s not necessary to engage an opponent. 
+
+all of their Action Points in a Round jfor reactive actions; for example 
+parrying 
+
+OUuTtMmAaNnOoEeUuVvRrEe 
+Interrupt, on the other hand, is intended to permit pre-emptive actions 
+
+The character can engage multiple opponents in a group 
+which could, but do not necessarily, involve combat, such as slamming a 
+
+opposed roll of Evade skills. Those who fail to beat his roll cannot 
+door shut, knocking a siege engine off target, waiting for the clear shot, 
+
+attack him that Combat Round. See the section on Outmanoeu- 
+and so on. 1t is also worded to allow characters to intercept those that try 
+
+vring on page 104. 
+to dodge or pass close by them. 
+
+REeeaAdDyY Neither Delay nor Interrupt are intended to be used as a way of 
+ WEeAaPpOoNn 
+
+The character may draw, sheath, withdraw or reload a weapon. gaining an Action Point advantage over a closing opponent: it is not in the 
+
+Retrieving a nearby dropped weapon requires two turns: one to spurit of the rules to permat the withholding of actions until engagement 
+
+move and reach down for the weapon, and a second to return to has been initiated. 
+
+a readied stance. Some missile weapons require several turns to - 4 
+reload. 
+
+REeGgAaIinN FoOOoTtIinNgG 
+If unengaged with an opponent, the character can regain his PAaRrRrYy 
+
+The character can attempt to defend against an incoming attack 
+footing from being tripped or knocked down. If engaged, the char- 
+acter must win an opposed test of Brawn or Athletics with the oppo- using a combination of parrying, blocking, leaning, ducking or 
+
+nent before standing. side-stepping footwork to minimise the blow. 
+
+FRrEeEe ACcTtIioONnSs 
+Free actions can be performed at any time during the Combat 
+
+Round, and cost no Action Points to perform. 
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+ASsSsEeSsSs SIitTuUaAtTiIoOnN WAaRrDd LoOCcAaTtIioOnN 
+If unengaged, a character can make a Perception roll at no The character guards a particular Hit Location from being hit by 
+
+Action Point cost. Success in the roll alerts them to any relevant dedicating one of his weapons to statically cover the area. Any blow 
+changes in the tactical situation (such a spotting a foe beginning a which lands on that location has its damage automatically down- 
+charge). graded as per normal for a parrying weapon of its Size. The ward 
+
+continues until the dedicated weapon is used to attack or actively 
+Drrooprp WEeAaPpOoNn parry. Establishing a ward or changing the Hit Location covered 
+
+Dropping a weapon is a I'ree Action. must be performed prior to an opponent rolling to attack the charac- 
+ter. Due to their design, shields can cover multiple areas. For further 
+
+SIigGnNaALl 
+explanation see Passive Blocking, page 105. 
+
+If unengaged, gesturing or signalling to one or more participants 
+(as long as they can perceive the sign) is a Free Action. 
+
+SpPeEaAkK WEeAaPpOoNn SIizZeE 
+A character can speak at any time during combat, but what is 
+
+said should be limited to short phrases which can be uttered in five aAnNDd REeAaCchH 
+seconds or less; for example “Time to die!”, ‘Look out behind you!” Every weapon in MYTHRAS possesses a number of different attri- 
+or ‘Damn you to hell”” butes from the damage it deals to how many hands are required to 
+
+wield it. Two of these ratings, Size and Reach are important due 
+Usse Luck PoIinNTt to their mechanical effect. Size is used to determine the weapon’s 
+
+Using a Luck Point — to re-roll a particular result for example —is ability to impose and parry damage (see Damage Reduction in this 
+a Free Action. 
+
+93
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+chapter), whilst Reach can affect whether an opponent lies within 
+range of being struck (see Weapon Reach - Closing and Opening How CoMmBbAaTt WOoRrKkSs 
+Range on page 1006). Fighting in MYTHRAS is resolved in a blow by blow progression, 
+
+Size categories are Small, Medium, Large, Huge, and Enormous. each attack or parry representing a single swing, cast or shot of a 
+Reach categories are Touch, Short, Medium, Long, and Very Long. Some weapon. Any offensive action is permitted the chance to be resisted 
+monsters and weapons further extend these categories beyond the by a reaction. Thus even if a character manages to strike an oppo- 
+scope of human characters, as illustrated in the Creatures chapter. nent, the foe is permitted its own roll to see if it can parry the blow 
+
+Both of these ratings are largely abstract in nature, simplified to before it lands. The same philosophy is used whether the attacks are 
+help speed play. Size is a combination of a weapon’s mass, leverage missile weapons against targets diving for cover, or trying to break 
+and stability. Reach is more a measure of its length and ability to free from the iron grasp of a giant octopus. 
+hold a foe at bay due to how far it extends beyond the hilt or grip. 
+
+The Equipment chapter provides default Size and Reach values 
+ATtTtAaCcKkSs AanNDd PAaRrRrIiEeSs 
+
+for common weapons, but the following guidelines are provided for 
+Close combat is handled in the following step by step manner: 
+
+those Games Masters wishing to design their own armaments. 
+The unarmed attacks of creatures are assigned similar categories 
+
+1. On his turn the attacker spends an Action Point, rolls 
+according to their physical characteristics. See page 222. 
+
+against his Combat Style and notes the result. 
+WEeAaPpOoNn Sii1zzeE CAaTtEeGgOoRrIiEeSs 2. If desired, the defender spends an Action Point, rolls against 
+
+Size Description his Combat Style and notes the result. 
+
+Human unarmed combat, and light single handed weapons 3. The success level of the results are compared as per a Dif- 
+Small . . 
+
+less than a kilo in weight, such as a dagger ferential Roll. 
+
+. Single handed weapons over a kilo in weight, a mace for 4. Any difference grants the combatant with the superior roll 
+Medium i 
+
+instance one or more Special Effects (see below). 
+5. If the attacker achieved a success or critical, he may roll 
+
+Long hafted thrusting weapons, two handed spears being a 
+Large R . 
+
+case in point weapon damage and apply their Damage Modifier (if any). 
+If applicable, a Hit Location is determined for the blow. 
+
+i Two handed slashing, chopping or bashing weapons, like 
+uge 
+g greatswords 6. If the defender achieved a success or critical, reduce any 
+
+damage inflicted according to the comparative sizes of the 
+Weapons used by very large creatures, for example a tree 
+
+Enormous weapons involved. 
+trunk used by a giant 
+
+It should be noted that any Special Effects generated by the 
+WEeAaPpOoNn REeAaCchH  CAaTtEeGgOoRrIiEeSs exchange are independent of whether or not damage is inflicted. It 
+Reach Description is quite possible for a defender to gain the higher success level, yet 
+Touch Human reach in unarmed combat, knuckledusters, spiked still suffer injury. 
+
+kneepads, and so on 
+
+Short Weapons less than half a metre long; such as a dagger or 
+DAaMmAaGgEe REeDdUuCcTtIioOnN 
+
+short sword If a defender succeeds in parrying, then he can reduce an attack- 
+Medium Single handed swung weapons longer than half a metre, er’s damage, if any, according to the comparative Size of the weap- 
+
+like a ball and chain ons used. 
+Long Single handed thrusting weapons, or two handed swung 
+
+& Parrying an attack with a weapon or shield of equal or greater 
+weapons, a great axe for instance 
+
+Size deflects all damage 
+Very Long Two handed or mounted thrusting weapons, polearms or & Parrying with a weapon or shield of one Size less only deflects 
+
+lances for example half damage 
+& Parrying with a weapon or shield #wo or more Sizes less fails to 
+
+deflect any damage 
+
+For example, parrying a great axe (Huge) with a hoplite shield (also Huge) 
+
+KEeEePpIinNgG TrRaACckK oOFf ATtTtaAcCkK RooLlLls would block all damage; parrying it with a pike (Large) would halve the damage, 
+
+As will be_further explained in the rules, some Special Effects and and parrying it with a shortsword (Medium) would stop no damage at all. 
+
+certain types of injury require an opposed roll of some sort against the 
+attacker’s original attack roll. The same thing applies to offensive magic. PAaRrRrYyIinNgG aA MIiSsSsEedD ATtTtaAcCkK 
+For this reason it s a useful habitfor players to leave the percentage dice 
+
+If the attacker misses his initial attack roll, the defender has 
+lying untouched on the table until the attack and consequences have been 
+
+the option of whether or not to spend an Action Point to parry. 
+Sully resolved. In this way the dice provide a record of what number was 
+
+Although it may seem disingenuous to parry an attack which will 
+actually rolled, thus helping to avoid lapses of memory or unnecessary 
+
+miss anyway, a skilled defender can use this to his advantage to gain 
+dispute. 
+
+one or more Special Effects, potentially weakening or incapacitating 
+
+N 4 a foe, and preserving their next turn for some other action. 
+
+94
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+DAaMmAaGgEe REeDdUuCcTtIioOnN TAaBbLlEe 
+
+Attacking Weapon 
+
+Small Medium Large Huge Enormous 
+
+Small All Half None None None 
+
+Medium All All Half None None 
+
+Defending Weapon Large All All All Half None 
+
+Huge All All All All Half 
+
+Enormous All All All All All 
+
+opponent fumbles, then he misses the opportunity to take advantage 
+UNnAaBbLlEe oORr UNnWwILilLlIinNgG tToO PAaRrRrYy 
+
+of his foe’s clumsiness. 
+In a situation where a defender is unable to parry due to having 
+
+In the rare circumstance that both opponents fumble, Games 
+no Action Points remaining, or, confident in his ability to weather 
+
+Masters are encouraged to describe some hilarious or amazingly 
+the blow, elects not to parry, he is treated as having automatically 
+
+improbable event occurring which temporarily takes both out of the 
+rolled a failure. This has the consequence of granting a successful 
+
+fight. 
+attacker one or more Special Effects. 
+
+FaAIilLeEdD ROoLlLls aAnNDd FuUMmBbLlEeSs 
+If both combatants fail their rolls, or the defender decides not to SPpEeCcIiaALl EFfFfEeCcTtSs 
+
+take advantage of a missed attack, then the attack-parry sequence Fighting is far more than simply injuring or killing an opponent. 
+
+ends, and combat continues on to the participant with the next high- Combative arts teach many methods of defeating a foe, perhaps 
+
+est Initiative. rendering them helpless or forcing them into situations where they 
+
+Fumbling a Combat Style roll has no additional effect other than must capitulate, without necessarily needing to actually cause them 
+
+the chance it provides his opponent to inflict multiple (and more harm. Special Effects represent these techniques, and control how 
+
+dire) Special Effects against him. If a combatant fails when his they occur in play. 
+Whenever opponents engage in a Differential Roll of their 
+
+respective fighting skills (Combat Styles or Evade for example), 
+any resulting difference in success levels indicates an opportunity 
+
+REeTtRrOoAaCcTtIiVvEe PAaRrRrYyIinNgG WIiTthH for Special Effects to occur. This reflects one combatant manoeu- 
+
+Aa SKkIiLllL oOVvEerR 100% vring his opponent into a disadvantageous situation which can be 
+exploited using a cunning trick or tactic. 
+
+Allowing a character to parry only those attacks which will bt is an 
+The number of Special Effects received depends on the differ- 
+
+essential part of maintaining the unpredictable flow of combat. However 
+ence between the levels of success, as illustrated on the Differential 
+
+it does start to cause problems when the defender has a combat skill exceed- 
+Roll Results Table (see page 51). 
+
+ing 100 %, since what was originally a successful roll by the attacker may 
+If any Special Effects are won during an exchange, they must 
+
+become downgraded to a muss if the penalty provided by the defender’s 
+be selected before Damage and Hit Location, if any, are rolled. In 
+
+superior skill us retroactively applied. 
+cases where the recipient is badly wounded in addition to receiving 
+
+To avoid messy calculations or causalily issues, the best way to handle 
+a Special Effect, Endurance rolls are resolved after the application 
+
+this situation s to only permut the defender to impose his over 100% skill 
+of the effect. 
+
+penally if he pro-actively defends, declaring his parry before the attacker 
+Special Effects cover a diverse range of situations and techniques. 
+
+r0lls. Thas has the added benefit of preventing superhumanly skilled oppo- 
+Some are designed specifically for attacks, whilst others are intended 
+
+nents_from being near-immune lo atlacks without the need to expend Action 
+for defence, and a few are adaptable for either circumstance. Certain 
+
+Points to defend themselves. 
+Special Effects can also be limited to particular weapon types or 
+specific dice rolls, requiring a Critical or Fumble result on their skill 
+
+For example; despite hus best efforts to outmanoewvre them, Master 
+check for instance. 
+
+Lamothis s surrounded by centaur opponents. The grizzled warrior is 
+When two or more Special Effects are gained, the combatant 
+
+worthy of his title, possessing (amongst others) a Combat Style (Meerish 
+may freely mix and match which ones are selected, providing he 
+
+Infantry) skill of 120%. However he is surrounded andf aces the tough 
+meets the prerequisite conditions for each one. Some effects can be 
+
+chotce of whether or not to use his remaining two Action Points to defend 
+stacked. For example, an attacker who rolls a critical success and 
+
+fumself- Since hus skill s so high that it would provide a penally to his 
+wins two Special Effects could choose Maximise Damage twice, 
+
+attackers, the Games Master asks lus player of he wishes to declare his 
+rather than choosing two separate offensive manoeuvres. 
+
+parry i advance (thus reducing the centawrs impending attack skill by 
+20%) or withhold parrying until i is seen whether the centawrs hut or 
+miss at their normal skill. 
+N - 
+
+95
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+Tatigue, until they collapse and possibly die. Bleeding wounds can 
+be staunched by passing a First Aid skill roll, but the recipient can no 
+longer perform any strenuous or violent action without re-opening 
+the wound. See Blood Loss page 71. 
+
+BluinDd OPpPpOoNnEeNnTt 
+On a critical the defender briefly blinds his opponent by throw- 
+
+ing sand, reflecting sunlight off his shield, or some other tactic which 
+briefly interferes with the attacker’s vision. The attacker must make 
+an opposed roll of his Evade skill (or Weapon style if using a shield) 
+against the defender’s original parry roll. If the attacker fails he suf- 
+fers the Blindness situational modifier for the next 1d3 turns. 
+
+ByPpAasss ARrmMOoUuRr 
+On a critical the attacker finds a gap in the defender’s natural or 
+
+worn armour. If the defender is wearing armour above natural pro- 
+tection, then the attacker must decide which of the two is bypassed. 
+This effect can be stacked to bypass both. For the purposes of this 
+effect, physical protection gained from magic is considered as being 
+worn armour. 
+
+CHhOoOoSsEe LoOCcAaTtIioOnN 
+When using hand-to-hand melee weapons the attacker may freely 
+
+select the location where the blow lands, as long as that location is 
+normally within reach. If using ranged weapons Choose Location is 
+a Critical Success only, unless the target is within close range, and is 
+either stationary or unaware of the attacker. 
+
+THhEe HEeAaDd?? AGgAaIiNn? 
+SPpEeCcIiaALl EFfFfeEcCTt DEeSsCcRrIiPpTtIioOnNSs Some Games Masters may find the Choose Location special effect a 
+
+rather sour annoyance, especially if their players continue to take downf oe 
+
+ACcCcIiDdEeNnTtAaLl InNjJuUrRyY afler foe with exactly the same blow. What might surprise many people 
+
+The defender deflects or twists an opponent’s attack in such a lo know 1s that this behaviour s exactly matched by real life combat. Not 
+way that he fumbles, injuring himself. The attacker must roll dam- only is the head s the closest part of the body to strike, but shields tend to 
+age against himself in a random hit location using the weapon used be held beneath the level of the eyes, exposing the head and part of theface 
+
+to strike. If unarmed he tears or breaks something internal, the 50 thatyou can see your opponent. 
+
+damage roll ignoring any armour. T here are several techniques which can help prevent foes being chopped 
+down with the same blow. Furst, and most obvious, s to wear a hel- 
+
+ARrIiSsEe met, which after shields was the most prevalent type of protection used 
+Allows the defender to use a momentary opening to roll back up throughout hastory. Secondly s to use the Ward Location action. This is a 
+
+to their feet. Dperfectly natural thing to do, since once an opponent has suffered a wound 
+he will tend to try to keep that weakened area covered so that it cannot be 
+
+BAashH struck again. 
+The attacker deliberately bashes the opponent oft balance. How Last but by no means least the Games Master should hamself use 
+
+far the defender totters back or sideward depends on the weapon a range of dwerse and interesting Special Ejffects, showing that Choose 
+being used. Shields knock an opponent back one metre per for Locatwon can be eclipsed by manoeuvres such as Bleed, Stun Location or 
+every two points of damage rolled (prior to any subtractions due to even Bash in the right circumstances! 
+armour, parries, and so forth), whereas bludgeoning weapons knock 
+back one metre per for every three points. Bashing works only on . 4 
+creatures up to twice the attacker’s SIZ. If the recipient is forced 
+backwards into an obstacle, then they must make a Hard Athletics 
+
+CIirRcCuUmMVvEenNTt COoVvEeRr 
+or Acrobatics skill roll to avoid falling or tripping over. 
+
+Assuming that the shooter is using some high-tech weaponry, 
+they can fire around the target’s cover. In most cases this will require 
+
+BLlEeeEdD 
+The attacker can attempt to cut open a major blood vessel. If the something along the lines of self guided ammunition. If used as a 
+
+blow overcomes Armour Points and injures the target, the defender trick shot, for example bouncing a laser blast off a mirror or rico- 
+cheting a bullet off a wall, then the special effect should be treated as 
+
+must make an opposed roll of Endurance against the original attack 
+a Ciritical Success only with a commensurate reduction in damage. 
+
+roll. If the defender fails, then they begin to bleed profusely. At 
+the start of each Combat Round the recipient loses one level of 
+
+96
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+CIirRcCuUmMVvEenNTt PAaRrRrYy EnNHhAaNnCcEe PAaRrRrYy 
+On a critical the attacker may completely bypass an otherwise On a critical the defender manages to deflect the entire force of 
+
+successful parry. an attack, no matter the Size of his weapon. 
+
+CLlosse RAaNnGgEe ENnTtaANnGgLlEe 
+Permits the character to automatically change the engagement Allows a character wielding an entangling weapon, such as a 
+
+range between himself and his opponent, so that they end up at the whip or net, to immobilise the location struck. An entangled arm 
+Range favoured by the shorter weapon (see Weapon Reach - Closing cannot use whatever it is holding; a snared leg prevents the target 
+and Opening Range page 106). from moving; whilst an enmeshed head, chest or abdomen makes 
+
+all skill rolls one grade harder. On his following turn the wielder 
+COoMmPpEeLl SuURrRrEenNDdEeRr may spend an Action Point to make an automatic Irip Opponent 
+
+Allows the character a chance to force the surrender of a help- attempt. An entangled victim can attempt to free himself on his turn 
+less or disadvantaged opponent; for example someone who has been by either attempting an opposed roll using Brawn to yank free, or 
+disarmed, is lying prone unable to regain his footing, has suffered a win a Special Effect and select Damage Weapon, Disarm Opponent 
+serious (or worse) wound, and so on. Damage is not inflicted on the or Slip Free. 
+target, they are only threatened. Assuming the target is sapient and 
+able to understand the demand, the target must make an opposed FlLuURrRrYy 
+roll of Willpower against the original attack or parry roll. If the tar- An unarmed creature or attacker can make an immediate fol- 
+get fails, they capitulate. Games Masters may wish to reserve Com- low-up attack using a different limb or body part, without needing 
+pel Surrender for use against non-player characters only. to wait for its next turn. A human attacker might follow up a punch 
+
+to the abdomen with a knee to the face for example. The additional 
+DAaMmAaGgEe WEeAaPpOoNn attack still costs an Action Point, but potentially allows several attacks 
+
+Permits the character to damage his opponent’s weapon as part in sequence before the defender can respond offensively. 
+of an attack or parry. If attacking, the character aims specifically at 
+the defender’s parrying weapon and applies his damage roll to it, FoORrCcEe FaAIilLuUrREe 
+rather than the wielder. The targeted weapon uses its own Armour Used when an opponent fumbles, the character can com- 
+Points for resisting the damage. If reduced to zero Hit Points the bine Force Failure with any other Special Effect which requires 
+weapon breaks. an opposed roll to work. Force Failure causes the opponent to fail 
+
+his resistance roll by default — thereby automatically be disarmed, 
+DiisarrRmM OPpPpOoNnEeNnTt tripped, etc. 
+
+The character knocks, yanks or twists the opponent’s weapon 
+out of his hand. The opponent must make an opposed roll of his Grriip 
+Combat Style against the character’s original roll. If the recipient of Provided the opponent is within the attacker’s Unarmed Com- 
+the disarm loses, his weapon is flung a distance equal to the roll of bat reach, he may use an empty hand (or similar limb capable of 
+the disarmer’s Damage Modifier in metres. If there is no Damage gripping such as claws, tails or tentacles) to hold onto the opponent, 
+Modifier then the weapon drops at the disarmed person’s feet. The preventing them from being able to change weapon range or disen- 
+comparative size of the weapons affects the roll. Each step that the gage from combat. The opponent may attempt to break free on his 
+disarming character’s weapon is larger increases the difficulty of the turn, requiring an opposed roll of either Brawn or Unarmed against 
+opponent’s roll by one grade. Conversely each step the disarming whichever of the two skills the gripper prefers. If the gripped vic- 
+character’s weapon is smaller, makes the difficulty one grade eas- tim wins, they manage to break free. Note that some attackers using 
+ier. Disarming works only on creatures of up to twice the attacker’s Brawn may be so strong that no amount of brute force or cunning 
+STR. technique can overcome their grip (see Brawn page 39). 
+
+Drorp Foe ImMPpAaLlEe 
+Assuming the target suffers at least a minor wound from the shot, The attacker can attempt to drive an impaling weapon deep into 
+
+they are forced to make an Opposed Test of their Endurance against the defender. Roll weapon damage twice, with the attacker choosing 
+the attacker’s hit roll. Failure indicates that the target succumbs to which of the two results to use for the attack. If armour is penetrated 
+shock and pain, becoming incapacitated and unable to continue and causes a wound, then the attacker has the option of leaving the 
+fighting. Recovery from incapacitation can be performed with a weapon in the wound, or yanking it free on their next turn. Leaving 
+successful First Aid check or using some form of technological or the weapon in the wound inflicts a difficulty grade on the victim’s 
+narcotic booster if such exists in the campaign. Otherwise the tem- future skill attempts. The severity of the penalty depends on the size 
+porary incapacitation lasts for a period equal to one hour divided by of both the creature and the weapon impaling it, as listed on the 
+the Healing Rate of the target. Impale Effects Table above. For simplicity’s sake, further impale- 
+
+ments with the same sized weapon inflict no additional penalties. 
+Duck BAack To withdraw an impaled weapon during melee requires use of the 
+
+This special effect allows the shooter to immediately duck back Ready Weapon combat action. The wielder must pass an unopposed 
+into cover, without needing to wait for their next Turn to use the Brawn roll (or win an opposed Brawn roll if the opponent resists). 
+Take Cover action. The character must be already standing or Success pulls the weapon free, causing further injury to the same 
+crouching adjacent to some form of cover to use Duck Back. location equal to half the normal damage roll for that weapon, 
+
+97
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+ImMPpAaLlEe EFfFfEeCcTtSs TAaBbLlEe 
+Creature SIZ Small Weapons Medium Weapons Large Weapons Huge Weapons Enormous Weapons 
+
+1-10 Tormidable Herculean Incapacitated Incapacitated Incapacitated 
+
+11-20 Hard Tormidable Herculean Incapacitated Incapacitated 
+
+21-30 No Effect Hard Tormidable Herculean Incapacitated 
+
+31-40 No Effect No Effect Hard Formidable Herculean 
+
+41-50 No Effect No Effect No Effect Hard Tormidable 
+
+Each +10 Tollow table progression 
+
+but without any damage modifier. Failure implies that the weapon through the first victim to strike a second behind them, assuming 
+remained stuck in the wound with no further effect, although the that it overcomes the first target’s body armour. The second vic- 
+wielder may try again on their next turn. Specifically barbed weap- tim however, only suffers half damage due to attenuation or slowing 
+ons (such as harpoons) inflict normal damage. Armour does not down of the shot. Overpenetration is generally of more use with 
+reduce withdrawal damage. Whilst it remains impaled, the attacker high powered weapons that inflict large amounts of damage or those 
+cannot use his impaling weapon for parrying. which have some sort of armour piercing ability. Any special effects 
+
+inflicted on the first target are not applied to the second. 
+KIiLlLl SIilLeEnNTtLlyY 
+
+Restricted to those trained in a Combat Style with the Assassina- PinN DoowwnnN 
+tion benefit. It allows the attacker to neutralise a victim in complete Similar to Press Advantage, this special effect forces the target to 
+silence, covering their mouth or grasping them about the neck whilst make an Opposed Test of their Willpower against the attacker’s hit 
+simultaneously stabbing, cutting or garrotting them. This prevents roll. Failure means that the target hunkers down behind whatever 
+the victim from crying out or otherwise raising an alarm for the cover is available, and cannot return fire on their next Turn. Note 
+entire round. In addition, if during this time the attacks inflict a Seri- that Pin Down works even if no actual damage is inflicted on the tar- 
+ous or Major Wound, the victim will automatically fail its Endur- get (perhaps due to a successful evasion or shots striking their cover 
+ance roll. Kill Silently can only be used on a surprised opponent, instead), as it relies on the intimidation effect of projectiles passing 
+and only on the first attack against them. very close by. 
+
+Although a pinned victim is unable to fire back for the requi- 
+MAaRrKkSsmMAaNn site time, they can perform other actions provided they don’t expose 
+
+Permits the shooter to move the Hit Location struck by his shot themselves to fire in the process, such as crawling away to new cover, 
+by one step, to an immediately adjoining body area. Physiology has communicating with others, reloading a weapon, and so on. 
+an effect on what can be re-targeted, and common sense should be 
+applied. Thus using this special effect on a humanoid would permit PiNn WEeAaPpOoNn 
+an attacker who rolled a leg shot, to move it up to the abdomen On a critical the character can pin one of his opponent’s weap- 
+instead. Conversely shooting a griffin in the chest would permit ons or shield, using his body or positioning to hold it in place. On his 
+selection of the forelegs, wings or head. turn the opponent may attempt to wrestle or manoeuvre the pinned 
+
+item free. This costs an Action Point and works as per the Grip spe- 
+Maaxxiimmiisse DAaMmAaGgEe cial effect. Failure means that the pinned item remains unusable. In 
+
+On a critical the character may substitute one of his weapon’s the meantime, an opponent lacking a weapon or shield in the other 
+damage dice for its full value. For example a Hatchet which nor- hand may only avoid an attack by evading, using his Unarmed skill 
+mally does 1d6 damage would instead be treated as a 6, whereas a or disengaging completely. 
+great club with 2d6 damage would instead inflict 1d6+6 damage. 
+This special effect may be stacked. Although it can also be used for PRrEePpaARrEe COoUuNnTtEeRr 
+natural weapons, Maximise Damage does not affect the Damage The defender reads the patterns of his foe and pre-plans a 
+Modifier of the attacker, which must be rolled normally. counter against a specific Special Effect (which should be noted 
+
+down in secret). If his opponent attempts to inflict the chosen Spe- 
+OPpEeNn RAaNnGgEe cial Effect upon him during the fight, the defender instantly substi- 
+
+Permits the character to automatically change the engagement tutes the attackers effect with an offensive or defensive one of his 
+range between himself and his opponent, so that they end up at the own, which succeeds automatically. 
+Range favoured by the longer weapon (see (sce Weapon Reach - 
+Closing and Opening Range page 106). PRrEeSsSs ADdVvAaNnTtAaGgEe 
+
+The attacker pressures his opponent, so that his foe is forced to 
+OVvEeRrEeXxTteEnNdD OPpPpOoNnEeNnTt remain on the defensive, and cannot attack on their next turn. This 
+
+The defender sidesteps or retreats at an inconvenient moment, allows the attacker to potentially establish an unbroken sequence 
+causing the attacker to overreach himself. Opponent cannot attack of attacks whilst the defender desperately blocks. It is only effective 
+on his next turn. This special effect can be stacked. against foes concerned with defending themselves. 
+
+OVvEeRrPpEeNnEeTtRrAaTtIioOnN 
+If shooting at lineally positioned opponents or into a densely 
+
+packed group, this special effect allows the shot to travel completely 
+
+98
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+RAaPpIidD REeLloOaAdD Sulpipr FRree 
+When using a ranged weapon, the attacker reduces the reload On a critical the defender can automatically escape being Entan- 
+
+time for the next shot by one. This effect can be stacked. gled, Gripped, or Pinned. 
+
+REeMmIiSsEe StTaAnNdD Fast 
+The attacker performs a sequential follow-up attack with a The defender braces himself against the force of an attack, allow- 
+
+weapon of size Small on his opponent’s next turn, which forces the ing them to avoid the Knockback effects of any damage received. 
+foe to change their proactive action into a reactive one. 
+
+StTuUnN LocAaTtioOnN 
+ScaAr FoEe The attacker can use a bludgeoning weapon to temporarily 
+
+The opponent is given a scar that will disfigure them for the stun the body part struck. If the blow overcomes Armour Points 
+rest of their life, for example a slice across the face, or an artfully and injures the target, the defender must make an opposed roll of 
+inscribed letter across the chest. Endurance vs. the original attack roll. If the defender fails, then the 
+
+Hit Location is incapacitated for a number of turns equal to the 
+SEeLleEcCtT TaARrGgEeTt damage inflicted. A blow to the torso causes the defender to stagger 
+
+When an attacker fumbles, the defender may manoecuvre or winded, only able to defend. A head shot renders the foe briefly 
+deflect the blow in such a way that it hits an adjacent bystander insensible. 
+instead. This requires that the new target is within reach of the 
+attacker’s close combat weapon, or in the case of a ranged attack, is SuUNnDdEeRr 
+standing along the line of fire. The new victim is taken completely The attacker may use a suitable weapon to damage the armour 
+by surprise by the unexpected accident, and has no chance to avoid or natural protection of an opponent. Any weapon damage, after 
+the attack which automatically hits. In compensation however, they reductions for parrying or magic, is applied against the Armour Point 
+suffer no special effect. value of the protection. Surplus damage in excess of its Armour 
+
+Points is then used to reduce the AP value of that armour(ed) loca- 
+tion — ripping straps, bursting rings, creasing plates or tearing away 
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+SPpEeCcIiaALl EFfFfEeCcTtSs SuUmMMmAaRrYy 
+Special Effect Offensive Defensive Specific Weapon Type Specific Roll Stackable 
+
+Accidental Injury X Attacker Fumbles 
+
+Arise X 
+
+Bash X Shields or Bludgeoning 
+Bleed Cutting Weapons 
+
+Blind Opponent X Defender Criticals 
+Bypass Armour Attacker Criticals X 
+
+Choose Location See Description 
+
+Circumvent Cover Ranged Weapons 
+
+Circumvent Parry Attacker Criticals 
+
+Close Range 
+
+Compel Surrender 
+
+Damage Weapon 
+
+Disarm Opponent 
+
+Drop Foe Ranged Weapons 
+
+Duck Back Ranged Weapons 
+
+Enhance Parry X Defender Ciriticals 
+
+Entangle X Entangling Weapons 
+
+Flurry Unarmed X 
+
+Force Failure X Opponent Fumbles 
+
+Grip Unarmed 
+
+Impale Impaling Weapons 
+
+Kill Silently Small Weapons See Description 
+
+Marksman Ranged Weapons 
+
+Maximise Damage Attacker Criticals X 
+
+Open Range X 
+
+Overextend Opponent X X 
+
+Overpenetration Ranged Weapons Critical Only 
+
+Pin Down X Ranged Weapons X 
+
+Pin Weapon Critical Only 
+
+Prepare Counter X X 
+
+Press Advantage 
+
+Rapid Reload 
+
+Remise Small Weapon Only 
+
+Scar Foe 
+
+Select Target Attacker Fumbles 
+
+Slip Free Defender Criticals 
+
+Stand Fast 
+
+Stun Location Bludgeoning Weapons 
+
+Sunder Axes, Two Handed Weapons 
+
+Take Weapon Unarmed 
+
+Trip Opponent 
+
+Weapon Malfunction Ranged Weapons Attacker Fumbles 
+
+Withdraw X 
+
+100
+
+A KA A A KA < < A A M A S A RB A I  < 
+
+A A KA < A KA 
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+One of the centawrs battling Master Zamothis becomes infuriated at the CLlosse COoMmBbAaTt 
+
+grizzled warrior’s near impenetrable defence. When 1t finally rolls a critical Close combat is hand to hand fighting in its classic sense, when 
+
+attack, Zamothis once again parries with his Hoplite shield which would nor- combatants strike each other with wielded or natural weapons. 
+
+mally be enough to block any damage from the centaur’s great club. So rather Although the basic combat rules have been described previously, 
+
+than attacking the warrior;, the enraged beast aims for the shield instead, and this section further details a number of tactical and environmental 
+
+selects Damage Weapon as its effect. The blowfrom the club inflicts 11 points situations which may affect those in close combat. 
+
+of damage which when applied to the shield, overcomes its 6 Armour Points The following guidelines offer ways to make close combat more 
+
+and reduces it to 10 Hit Points. The resulting cracking noise alerts Master interesting and help to further explain some concepts hinted at ear- 
+
+Lamothis, who realises he will soon be in serwous trouble.. lier in this chapter. 
+
+Meanwhile, Anathaym culs theyouth fiee, but as he flees to the entrance 
+of the canyon, one of the centaurs spots the escape and closes in for an attack, SIitTuUaAtTiIoOnNaALl MOoDIdFifIiEeRrSs 
+waving a dangerous looking halberd in wide circles above its head. Anathaym The Situational Modifiers table (see overleaf) provides some 
+inderposes herself; and engages the savage warrior in combat. Rolls are made common situational modifiers that may be applied when fighting in 
+resulting in Anathaym gaining a normal success, and the centaurfumbling! particular situations, or as the result of a Special Effect. 
+
+With two special effects to select, Anathaym decides she doesn’t want to be Unless stated otherwise, these modifiers are applied to attacking, 
+it by the halberd so chooses Disarm Opponent and Force Failure. Normally parrying, and evading equally. The difficulty grade column sug- 
+this would prove troublesome for the heroine, her shortsword suffering signifi- gests a suitable skill penalty for that situation. Where two or more 
+cant penalties to knock the larger weapon out of the centaur’s hands. However, situations are pertinent to the character, use the most severe. See 
+because she has also taken Force Failure, the centaur automatically fails the Modifying Skills page 38. 
+opposed roll and his weapon clatters to the ground, leaving fam unarmed. 
+
+CLloosesEe COoMmBbAaTt SIitTuUaAtTiIoOnNaALl MOoDIdFifIiEeRrSs 
+
+the hide, scales or chitin of monsters. If any damage remains after Situation Difficulty Grade 
+
+the protection has been reduced to zero AP, it carries over onto the Attacking a helpless target Automatic 
+
+Hit Points of the location struck. 
+Attacking in a confined situation Hard 
+
+TaAKkEe WEeAaPpOoNn Defending while on lower ground or against mounted 
+Hard 
+
+foe 
+Allows an unarmed character to yank or twist an opponent’s 
+
+weapon out of his hand. The opponent must make an opposed roll Tighting while on unstable ground Hard 
+
+of his Combat Style against the character’s original Unarmed roll. Tighting whilst crouching or from one knee Hard 
+
+If the target loses, his weapon is taken and from that moment on, Tighting in poor visibility (thick fog, snowstorm) Hard 
+
+may be used by the character instead. Take Weapon differs from Defending against an attack from behind Tormidable 
+
+Disarm Opponent in that the size of the weapon is largely irrele- Tighting while prone Tormidable 
+
+vant. However, the technique only works on creatures of up to twice Tighting in partial darkness (dim illumination) Tormidable 
+the attacker’s STR 
+
+Tighting in pitch black conditions (no illumination at 
+Herculean 
+
+all) 
+TriiPp OPpPpOoNnEeNnTt 
+
+Blinded or loss of primary perceptive sense Herculean 
+The character attempts to overbalance or throw his opponent to 
+
+the ground. The opponent must make an opposed roll of his Brawn, 
+Evade or Acrobatics against the character’s original roll. If the target 
+fails, he falls prone. Quadruped opponents (or creatures with even EnNGgAaGgEemMEeNnTt 
+more legs) may substitute their Athletics skill for Evade, and treat the An important concept of close combat is that of Engagement. A 
+
+roll as one difficulty grade easier. character is considered Engaged if he is within melee weapon range 
+of his opponent. This does not necessarily require that both combat- 
+
+WEeAaPpOoNn MAaLlFfUuNnCcTtIioOnN (FFiIrReEaArRmMSs)) ants can reach each other; only that one of them can be potentially 
+The attacker’s weapon malfunctions in such a way that it is ren- struck by the other. 
+
+dered useless until time can be spent repairing it. Once a character has engaged with an opponent he can no 
+longer freely depart that fight (Charging is a special exception). It 
+
+WIiTthHdDrRaAwW requires some form of deliberate act to break contact with the foe, 
+The defender may automatically withdraw out of reach, break- who might not wish to allow him to depart. This is normally per- 
+
+ing off engagement with that particular opponent. formed via a combat action such as Change Range or Outmanoeu- 
+vre, but sometimes an unexpected chance to disengage occurs by use 
+of a Special Effect. Fleeing from a battle requires that engagement 
+is broken first. 
+
+Certain circumstances will allow a character to engage with mul- 
+tiple foes simultaneously, provided the enemy are in close proximity 
+with each other. This can occur in many ways, for instance closing 
+with a line of soldiers blocking a bridge, or jumping down into the 
+
+101
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+middle of a tight packed rabble. In such situations not only does the ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+character have the option of which foe he strikes, but the reverse is Although disarmed the centaur v still dangerous. On its next turn it clips 
+also true. Anathaym with a hoof sending her reeling backwards, momentarily stunned. 
+
+Withdrawing from Engagement in this circumstance depends on When she gathers her senses she sees that herfoe has galloped off to pluck up 
+the distribution of foes. Obviously retreating from the middle of a a lance, and is now galloping back towards her; weapon levelledfor a charge! 
+pack will be near impossible, whilst withdrawing from an organised Cursing that she only brought her peltast shield, Anathaym realises that 
+formation might be automatic, providing the enemy doesn’t wish to attempting to parry the lance would resull in the weapon passing right through 
+break ranks. the shield (shield size Large versus a lance size Huge, but boosted to size 
+
+Enormous during a charge). Not wishing to be impaled she decides to try and 
+
+CLlosse COoMmBbAaTt MEeCcHhAaNnIiCcSs dwe clear. The centaur makes an opposed roll of his weapon skill against 
+
+The remainder of this section provides further guidelines con- Anathaym’s Evade. Both achieve normal successes but Anathaym gets the 
+
+cerning combat under different tactical circumstances. agher 1ol and leaps clear;, ending up prone. On her next turn she regains her 
+Jeet, but by this time the centaur has been carried clear by the speed of us 
+
+CHhAaRrGgIinNGg attack, and is now slowing in preparationfor another charge... 
+Charging is the act of moving quickly to increase the force and Fearing that she will eventually fail if forced to keep on evading, Ana- 
+
+impact of an attack. There are two main types of charging, depend- thaym looks aroundf rantically for some other option, and spols the halberd she 
+ing on whether the attacker wishes to stop in engagement range with earlier knocked from the centaur’s grasp. She quickly grabs the weapon and, 
+the target or continue sweeping past, through or over the target. using 1t like a speas; sets it to receive charge then braces herself; completing her 
+
+The common principles of a charge are as follows: arrangements just before the centaur contacts her again. 
+Since both weapons are of equal reach, the Games Master declares that 
+
+& A charge requires at least one full Combat Round of move- 
+the attacks are simultaneous. The centaur’s attack s rolledf ust, and to Ana- 
+
+ment at running or sprinting speed prior to contact 
+thaym’s great relief the mighty beast just misses her with is lance, thanks to 
+
+& A charge imposes a penalty to the attack roll, increasing it by 
+the attack difficulty being raised to Hard. Her own attack us a hit however, 
+
+one difficulty grade 
+and since the halberd is set she uses the centaur’s own Damage Modifier 
+
+& A charge increases a bipedal attacker’s Damage Modifier by against uself; in this case 1d8 (1d4 increased by two steps for the charge). 
+one step; or the Damage Modifier of four (or more) legged T s added to the 1d8+2 for the halberd, and the special effectfor not defend- 
+creatures by two steps. In addition, the Size of the attacking 
+
+ing, Anathaym impales the weapon through the centaur’s chestfor 14 points 
+weapon is improved by one step of damage, giving it a Major Wound. T he centaur collapses in gouts of blood, 
+
+The recipient of a charge has three options; attempt to parry, unable to continue the fight. 
+
+evade or simultaneously counterattack the charging attacker. 
+Parrying a charge attack holds some significant risks, depend- great-axe, throwing himself at a shield wall, hoping that the impetus 
+
+ing on the size and strength of the attacker. The primary danger is of his charge will help him smash through the defender’s shield or 
+suffering knockback, which may leave a victim prone even if they knock him over. 
+suffer no other damage from the impact. Use of the Brace combat Once the charge strikes home, the attacker is considered engaged 
+action in advance of the charge attack can help mitigate the effects with his opponent. From that moment on combat proceeds normally. 
+of knockback. The secondary threat comes from the bonus to the All benefits gained from the charge are lost after the first attack. 
+charger’s weapon size, which may permit a blow to penetrate or 
+overcome the defender’s parrying weapon. CHhAaRrGgIinNGg tThHrRoOuUgGhH COoNnTtAaCcTt 
+
+Evading a charge attack is more of a gamble, but in some cir- The second type of charge is one which uses the momentum to 
+cumstances may be the only option. The defender must make an carry the attacker through, and clear of an engagement. It is nor- 
+opposed roll of his Evade skill versus the charging opponent’s com- mally limited to mounted combatants or creatures of significant size 
+bat skill. If the defender wins he throws himself completely clear of unlikely to be hindered by an impact with smaller foes. For instance 
+the charge, otherwise he is hit. Any difference in Level of Success an enraged aurochs could quite easily charge through a group of 
+results in Special Effects as normal. warriors, tossing or trampling over a victim as it passes, before con- 
+
+Counterattacking sacrifices the defender’s opportunity to actively tinuing on out of close combat range. 
+
+defend against the charge in exchange for a chance to injure the The speed of such charges prevents the attacker and defender 
+attacker. In such cases both sides are treated as having failed to parry, from exchanging more than a single action with each other, namely 
+although they can still benefit from Passive Blocking. The wielder of the charge attack, and the defender’s reaction to it (Parry, Evade 
+the weapon with the longest Reach strikes first, potentially hindering or Counterattack). Since the charge attack occurs on the attack- 
+his opponent from launching the subsequent blow. If using long- er’s turn, they will have already been carried clear by the time the 
+shafted impaling weapons which can be ‘set’ against a charge, the defender’s turn arrives. 
+defender may substitute his own Damage Modifier for that of the Note that charges are not limited to just running, but can be per- 
+charging opponent (or its mount if the attacker is riding). formed by flying or swimming creatures in the relevant environment. 
+
+CHhAaRrGgIinNgG iInNtToO COoNnTtAaCcTt COoVvEeRr 
+Some charges are intended as a method to crash into an oppo- Cover is used by opponents to obstruct attacks against them, 
+
+nent, then remain in place to take advantage of any chaos caused. whether from ranged or close combat. This occurs by either phys- 
+
+An example of this would be a barbarian warrior, armed with a ically blocking a blow due to the toughness of the interposing 
+
+102
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+material, or by obscuring where precisely the foe is. For example a 
+Evading Creatures
+
+guard standing behind a crenellated wall may have his lower body VADING REATURES 
+Creatures that lack thick natural armour to bull through attacks, or 
+
+shielded, whereas a thief hiding somewhere behind a curtain may 
+the intellect or skill to actively parry them, are oflenforced to evade in close 
+
+be hidden from direct attack. The precise value of cover depends on 
+combat in order lo defend themselves. 
+
+the thickness of its protection and the extent of its coverage. 
+1In these circumstances, most creatures lacking humanoidf orm, quad- 
+
+In the case of partial cover, any attack against a target which 
+rupeds or serpents_for example, have an inherent advantage over bipedal 
+
+lands on an obscured Hit Location will be blocked to the extent 
+characters; in that they rarely go prone when evading, due to their shape 
+
+of the cover’s inherent protection. Thus in the case of the guard 
+or multiple limbs. 
+
+covered by the crenellated wall, any attack which would normally 
+As a rule of thumb, whenever such a creature attempls lo evade an 
+
+hit his abdomen or legs would be stopped by the stone fortification. 
+attack, they only end up prone if they fail their Evade roll (the skill check, 
+
+The effects of cover can be partially negated either by use of the 
+not the opposed test). 
+
+Choose Location special effect to aim at visible parts of the target; 
+or striking through the cover if the weapon is capable of penetrating . 4 
+it. When using ranged weapons however, Choose Location normally 
+requires a critical success, which makes taking cover against missiles prone character from regaining their feet. Nothing prevents a prone 
+
+extremely worthwhile. character from attempting to evade subsequent attacks, with the 
+
+In situations where cover is total but the attacker knows his attack proviso that they suffer a ‘Fighting while prone’ situational penalty 
+
+will penetrate, he may strike blindly at the hidden target. In such as they continue to roll aside or scrabble backwards away from their 
+
+cases the attack roll is one grade harder, and Choose Location may attacker. 
+
+not be taken if a special effect is won. This assumes the cover is 
+FLlyYiInNgG COoMmBbAaTt 
+
+not so extensive as to permit the target to move freely behind it. 
+Fighting against flying creatures, and full scale aerial battles pro- 
+
+Thus, someone lurking behind a small bush could still be attacked, 
+vide a rather interesting dynamic to close combat, since most air- 
+
+even though the attacker might not be able to see his quarry, but if 
+borne creatures require constant movement to remain aloft. 
+
+he was behind a lengthy hedge his position could not be accurately 
+predicted. 
+
+ATtTtAaCcKkIinNgG GRrOoUuNnDd--BBAaSsEedD TAaRrGgEeTtSs 
+
+EvaADdIinNgG It can be difficult for ground-based characters to defeat airborne 
+ 
+
+foes. Of course in some encounters the flying creature will hover or 
+Protecting oneself from attacks such as volleys of ranged weap- 
+
+land on the combatant, allowing combat to proceed normally. In 
+ons, headlong charging beasts, and even destructive magical spells 
+
+others the flying creature may fly back and forth, sweeping down 
+can be exceptionally difficult, especially if the consequences will 
+
+to make attacks before continuing back out of range. In the latter 
+overwhelm or ignore a shield. In these situations often the best thing 
+
+situation it is recommended that each ‘strafing’ run is treated as 
+for a character to do is fling themselves to the side or dive behind 
+
+Charging through Contact, see Charging page 102. This can make 
+cover to escape. This is known as evading. 
+
+airborne creatures deadly opponents unless ground based defenders 
+Evasion attempts require an opposed roll of the attacker’s per- 
+
+have some sort of ranged weaponry or cover. 
+tinent skill versus the Evade skill of the defender. This could be 
+anything from the Drive roll of a charioteer to the spell casting roll 
+
+AEeRrIiAaLl COoMmBbAaTt ALlOoFfTt 
+of a magician. If the attacker wins then they inflict damage as per 
+
+Combat between aerial creatures or characters mounted on 
+normal. If the defender wins damage is completely avoided. What- 
+
+flying beasts should be handled slightly differently. Unlike ground 
+ever the result, the evasive gambit leaves the defender prone, usually 
+
+based fighting it often takes a significant period of time to jockey 
+requiring him to regain his footing on his following turn. 
+
+into a position where one airborne opponent can assault the other. 
+If the winner of the opposed roll achieves one or more levels of 
+
+Each brief engagement only allows one of them to attack before the 
+success over his opponent, they may select suitable Special Effects as 
+
+flying creatures travel apart, requiring them to manoeuvre again to 
+per normal combat. 
+
+see which gets the upper hand in the next pass. 
+Evading may be made more difficult or rendered impossible 
+
+Thus at the start of each round combatants must make an 
+depending on the circumstances: 
+
+opposed roll of their Fly skills (or Ride if a mount). The winner is 
+
+& The character is helpless or entangled the one who can attack that round. If facing multiple opponents use 
+
+& There is nowhere to evade to (balancing on a ledge whilst a group opposed roll, and all those who beat the lone participant 
+
+scaling a cliff, for example) 
+& A mounted character may only evade by flinging themselves 
+
+clear of the saddle AEeRrIiAaLl TAaCcTtIiCcSs 
+Airborne combat can be spiced up by introducing terrain and environ- 
+
+Evading is not normally performed in close combat due to its mentalf actors. Clouds can be usedf or ambushes or places to escape battle. 
+inherent disadvantages. However, a character facing a hand-to-hand Tall buzldings and narrow canyons can offer a dramatic setting in which to 
+attack against which he has no applicable defence due to the lack of set chases, with the participants playing a deadly game of chicken if they 
+a weapon (or an inferior sized one which won’t block the damage) Jail ther flying or riding rolls. An aerial battle could even involve support 
+may have no other choice. Jure from the ground, forcing combatants to hoard their Action Points to 
+
+In such cases evading provides only a temporary respite from evade deadly ballista bolts whilst trying to beat theirflying opponents. 
+a determined opponent who decides to follow up, preventing the 
+
+N 4 
+
+103
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+may attack it that round. Attacks are resolved in a similar manner Movement value) than the opponent, and the mount itself is 
+to charges, the recipient allowed to parry, evade or counterattack. not engaged in attacking. 
+
+In the case of particularly large creatures or those travelling at & A mounted warrior may, at the cost of an Action Point, sub- 
+high speed, the Games Master may wish to increase the manoeu- stitute either his own Combat Style or Ride skill instead of his 
+vring time between passes, for example perhaps 1d3 rounds for a mount’s, to defend it against attacks. 
+griffon or 1d6 rounds for a dragon. In these cases it is wise to limit & A mounted warrior may combine his SIZ with his mount’s for 
+mounted archers or spell casters to acting on each pass, since most the purposes of avoiding Knockback, provided he passes an 
+of the intervening time the rider will be thrown about in aerial acro- unopposed Ride roll. 
+batics or the enemy target will be out of range. & A mounted warrior may, when charging with a braced 
+
+weapon, substitute his own Damage Modifier for that of his 
+KNnOoCcKkBbAaCcKk mount. A weapon braced for a charging attack cannot be 
+
+An attack which imparts more damage than the SIZ of the recip- used to parry. If the weapon impales it must be left in the 
+ient will, by default, result in him being knocked back. The dam- body of the target, or else break or dismount the rider as the 
+age in this circumstance is before any reduction due to parrying or mount continues past. 
+armour. On receiving such a blow, the recipient must pass an easy 
+Acrobatics or standard Athletics roll to avoid falling prone. They are 
+
+MuurtltiippLlEe OPpPpOoNnEeNnTtSs 
+also thrust backwards one metre for each five points of damage (or 
+
+Facing multiple opponents in MYTHRAS is often exceptionally 
+fraction thereof) in excess of their SIZ. Proactively using the Brace 
+
+dangerous. Whilst a character suffers no specific penalties to his 
+combat action can reduce or even negate the effects of knockback. 
+
+combat skills, he can soon become swamped by his opponents and 
+Knockback differs from the Bash special effect in that Knock- 
+
+rapidly run out of Action Points with which to defend himself. Once 
+back is the automatic and accidental side effect of tremendously 
+
+all his actions have been expended the character is treated as having 
+powerful blows, whilst a Bash is a deliberate technique which relies 
+
+failed his parry roll against any subsequent attacks, which in addition 
+on timing and leverage. 
+
+to any damage inflicted also leaves him vulnerable to Special Effects. 
+
+LeEaAPpIinNgG ATtTtAaCcKkSs The best tactics to use against being outnumbered are: 
+
+There are some animals, monsters, and even people who leap 
+& Constrain the avenue of attack so that fewer opponents can 
+
+upon their victims in order to knock them prone. Leaping attacks 
+engage simultaneously 
+
+can be launched from a variety of situations, but most are triggered 
+& Tight as a formation to place disordered opponents at a 
+
+as part of an ambush or at the conclusion of a charge. A few crea- 
+disadvantage 
+
+tures have the ability to leap atop an opponent without the need for 
+& Outmanoeuvre around multiple opponents so that they inter- 
+
+a run-up or superior height. 
+fere with one another 
+
+A leaping attack is resolved with an opposed roll of the leap- 
+& Withdraw then flee the combat as quickly as possible 
+
+er’s Athletics skill versus the defender’s Brawn or Evade skill. If the 
+leaper wins then the defender is automatically knocked prone, with 
+the attacker astride them. If the attack fails, the defender has weath- OUuTtMmAaNnOoEeUuVvRrIinNGg 
+ered or sidestepped the impact. If the winner of the opposed roll A character facing multiple opponents can use movement to 
+
+achieves one or more levels of success over his opponent, they may limit the number which can attack him at any one moment in time. 
+
+select suitable Special Effects as per normal combat. This works by constantly shifting position, forcing some foes to 
+
+No damage is inflicted as part of the leap; however a sub- start running around the flanks of their companions to re-establish 
+
+sequently prone victim cannot recover his footing until either his reach or lines of attack, generally causing them to interfere with one 
+
+attacker leaves him, or he eventually wins a Special Effect permitting another. Outmanoeuvring requires that the character has room to 
+
+him to Arise. move about, and is not pinned in a confining area. It also assumes 
+
+If the target is a quadruped, then it may substitute Athletics for that the character is engaged with the entire group of foes, rather 
+
+Evade, and makes the attacker’s initial Athletics roll one difficulty than a specific individual. 
+
+grade harder. In addition, leaping attacks only work against oppo- An example of outmanoeuvring in action would be a group of 
+
+nents of up to twice the attacker’s SIZ. A target can make themselves guards trying to arrest a drunken barbarian in a tavern. The warrior 
+
+more difficult to knock down by proactive use of the Brace combat could manoeuvre around the tables, chairs, and roof supports to 
+
+action, provided they are aware of the impending leap attack. block the majority of his foes whilst he whittles them down one by 
+one. 
+
+MOoUuNnTtEeDd COoMmBbAaTt Outmanoeuvring requires that the character engages his oppo- 
+Unless learned as part of specifically mounted combat styles (see nents in a group opposed roll of Evade skills. Every participant, both 
+
+Combat Style Benefits page 88), the combat skills of a rider may the manoeuvring character and those foes who wish to corner him, 
+not exceed their Ride skill. The advantages of being mounted are must spend an Action Point. Then they each roll once, and those 
+considerable however: who fail to beat the manoeuvring character’s roll cannot attack him 
+
+for the remainder of that Combat Round, being blocked by their 
+& A mounted warrior rolls a 1D10+10 for the Hit Location of 
+
+allies or terrain features. 
+bipedal creatures, provided the target is lower than the rider. 
+
+If the manoeuvring character beats all of his opponents he has 
+& A mounted warrior can withdraw freely from engagement on 
+
+the choice of safely engaging a single foe for the rest of the round or 
+his turn provided his mount moves faster (i.e. has a higher 
+
+Withdrawing from the fight completely. 
+
+104
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+PAaSsSsIivVEe BLloOCcKkIinNgG or Insight versus Deceit for a betrayal. Difficulty modifiers should 
+
+Passive Blocking is the placement of weapons and shields in such be applied in situations where the target is hindered, such as being 
+
+a manner so that they effectively act as cover. Characters armed inebriated or dozing lightly. Conversely a bonus should be applied if 
+
+with a weapon may hold it in such a way that it covers a chosen the target is suspicious or forewarned. If the target wins the opposed 
+
+location (or locations when using a shield), but at the cost of being roll then the effects of surprise are negated. 
+
+unable to actively parry with it (see Ward Location page 93). Any 
+SwWEeEePp ATtTtAaCcKkSs 
+
+attack which hits those locations automatically receives the benefit 
+Sweep attacks occur when weapons or creatures of unusual size 
+
+of the weapon or shield, reducing damage as normal. The tech- 
+attack a closely clumped group of opponents — the scything tail of 
+
+nique is commonly used when a warrior wishes to guard a weak spot 
+a huge dragon for example — striking several foes simultaneously. A 
+
+or wounded location. 
+sweep attack is made by applying a single attack roll of the weapon 
+
+It may seem paradoxical to sacrifice the ability to parry, poten- 
+or creature to all targets in its path. Each defender must resolve the 
+
+tially opening up a passively blocking character to an unopposed 
+effects of the attack separately, and any special effects imposed on 
+
+attack. However there are many situations it is a valid tactic: for 
+the attacker are treated as having occurred concurrently. 
+
+example when used by inexperienced troops or those lacking full sets 
+Sweep attacks can also be used for other ‘area affect’ assaults, such 
+
+of armour. In addition there is nothing which prevents a two weap- 
+as the overhead smash of a giant’s tree trunk club or the unstoppable 
+
+ons or weapon and shield combatant from using his other weapon 
+charge of a giant triceratops. The games master decides how many 
+
+to actively parry. 
+foes are caught in the attack based upon the length or trajectory of 
+
+Since passive blocking works in the same way as cover, the 
+weapon, and his visualisation of the conflict. 
+
+Choose Location special effect cannot be used to bypass the block in 
+close combat, though opponents can still use the effect to strike other 
+
+UNnAaRrMmEeDd COoMmBbAaTt 
+unblocked areas. Assuming a shield, passive blocking against missiles 
+
+Unarmed combat is the default Combat Style available to any 
+becomes even better, since for ranged weapons Choose Location is 
+
+person or creature, which covers the skill of fighting using only the 
+a critical only. 
+
+limbs and natural armaments of their own body. Some beasts have 
+Crouching down behind a shield allows a character to double the 
+
+a variety of natural weapons, each with a different reach and size, 
+number of locations covered whilst passive blocking. 
+
+which can make larger creatures particularly dangerous — able to 
+
+PuLlLleEdD BLlows stand off’ at longer range, and still launch blows capable of smash- 
+ing through the stoutest shields. The unarmed combat techniques 
+
+Occasionally a character may wish to avoid maiming or killing 
+used by animals and monsters are examined in more detail in the 
+
+an opponent. This is achieved by ‘pulling’ a blow, limiting the force 
+Creatures chapter. 
+
+placed behind it or striking with a less lethal part of the weapon. A 
+Although unarmed combat seems superfluous for warriors who 
+
+pulled blow halves the damage inflicted on a successful hit. However, 
+utilise weapons, it still provides a number of advantages: 
+
+the intent to pull a blow must be stated before the attack is made, 
+since it is near impossible to withhold a fully committed strike once & Unarmed combat can be used interchangeably with any 
+it has been launched. other weapon style, provided the target is within reach of the 
+
+attacker’s natural weapons. 
+SUuRrPpRrIiSsEe 
+
+& Unarmed combat can be used offensively for either strik- 
+Surprise occurs when an unexpected attack is launched against 
+
+ing or grappling an opponent. It is important for the user to 
+opponents unaware of the attacker’s presence or intention. An 
+
+declare which he intends in advance, since the resolution of 
+ambush would be an example of the former, whilst treacherously 
+
+each is handled slightly differently. 
+turning on an unsuspecting ally during amiable conversation illus- 
+
+& Unarmed combat can be used defensively to parry a weapon 
+trates the latter. 
+
+attack. Damage is reduced as per normal, according to the 
+The effects of surprise on a target are potent: 
+
+comparative Sizes of the natural and wielded weapon. Even 
+
+& The target suffers a -10 penalty to initiative if no damage was stopped, the parry attempt might still pre- 
+
+& Until their Initiative arrives they are considered flat footed vent the defender from suffering one or more Special Effects. 
+
+and cannot defend themselves 
+Note that if an unarmed combatant can step within the reach of 
+
+& The first attack on the target, if’ successful, gains a bonus Spe- 
+an armed opponent, he will reduce the effective Size of his oppo- 
+
+cial Effect 
+nent’s weapon, making it quite possible to parry blows without suf- 
+
+& For the remainder of the round they may not perform any 
+fering injury. 
+
+offensive action 
+
+PAaRrRrYyIinNgG WEeAaPpOoNnSs WHhILilSsTt UNnAaRrMmEeDd 
+For example, an assassin who sneaks up on an oblwious guard, wins the ini- 
+
+As previously described a Parry is actually a combination of par- 
+tiative, and successfully strikes from behind would gain two special effects — one 
+
+rying, blocking, and footwork to deflect the force of a blow. It is not 
+Jor the attack’s success against the guard’s automatic failure; and a bonus onefor 
+
+simply interposing an object into the path of an attack to stop it 
+surprising um. If the assassin were using a dagger he could then choose Select 
+
+dead — for example using a forearm to block the sweep of a sword — 
+Locatwon: head, and Kill Silently, quietly stabbing the guard in the throat. 
+
+since such an action would likely result in a mangled arm. 
+As surprise can be so devastating, targets of such an attack should 
+
+Instead most unarmed and armed combat styles use more sub- 
+be permitted a chance to detect the impending conflict. For instance, 
+
+tle techniques to gain maximum deflection for the minimum risk. 
+an ambush might allow an opposed roll of Perception versus Stealth; 
+
+Examples include, but are not limited to: Pressing against the hand 
+
+105
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+or hilt of a weapon to change its line of attack, stepping very close to CLlIimMBbIinNgG 
+cut down angular momentum of swung weapons, deflecting thrusts A climbing character has all of his combat skills capped by the 
+by knocking aside the point or haft, or even grabbing a weapon on value of his Athletics skill. Bipedal characters are limited to fighting 
+the haft or blade near its grip. with a single limb, requiring the other three to remain clinging to the 
+
+Such methods rely on several points however; firstly that the par- vertiginous surface they are scaling. 
+rying creature is intelligent enough to understand and use said tech- 
+niques, and secondly that they are within unarmed range. The latter SwWIimMMmIinNGg 
+point is perhaps the most crucial, and demonstrates the dangers of A swimming character has all of his combat skills capped by the 
+facing an armed opponent with a longer reach. value of his Swim skill. Since water (and other fluids) impose signif- 
+
+icant drag, only thrusting weapons are effective whilst submerged, 
+STtRrIikKiInNgG and even those are reduced to half damage. Other weapons are 
+
+Using unarmed combat to throw simple damage-inflicting strikes slowed to the point of impotence. Unarmed combat attacks which 
+is resolved in the same way as normal weapon attacks. Some Special involve biting, strangulation or ramming are unaffected. 
+Effects are specifically reserved for unarmed combat, namely Flurry, 
+Grip, and Take Weapon. 
+
+Calculating the damage, Size and Reach of natural weapons is WEeAaPpOoNn REeAaCchH –— CLlOoSsIinNgG 
+
+defined on page 222 of the Creatures chapter. Human unarmed 
+aAnNDd OPpEeNnIinNGg RAaNnGgEe 
+
+attacks, for instance, have a size of Small, reach of Touch, and inflict 
+Weapon Reach, and its associated mechanics for Closing and 
+
+1d3 damage. 
+Opening Range are optional rules for those desiring more realistic 
+
+Some creature’s natural weapons and unarmed combat styles 
+combat. 
+
+may add other effects or impart inherent Special Effects on a suc- 
+In general terms when two combatants face one another armed 
+
+cessful strike. For example the gripping jaws of a crocodile or the 
+with weapons of greatly disproportionate reach, the wielder of the 
+
+poisoned stinger of a giant scorpion. 
+longer weapon can keep his opponent at bay, preventing him from 
+
+GRrAaPpPpLlI attacking. If however, the wielder of the shorter weapon can step 
+inNgG 
+
+Grappling attacks are resolved using an opposed roll of the attack- inside the effective reach of the longer, then the tables turn and the 
+
+er’s Unarmed skill versus the combat skill used by the defender. If combatant with the longer weapon will find himself unable to parry 
+
+the attacker wins then they establish the grapple, but if the defender with that weapon. 
+
+wins the grapple fails. As with Evade, if one of the combatants The following rules assume a Reach difference of two or more 
+
+achieves one or more levels of success over his opponent, they may steps between the longer and shorter weapon. Thus a dagger (Short) 
+
+select an equal number of Special Effects. against a falchion (Medium) would suffer no penalties in combat, 
+
+The effects of grappling depend on the location struck. A grap- whereas the same dagger against a great axe (Long) would. 
+
+pled limb is rendered inoperable whilst grappling the head or torso 
+FiIgGhHTtIinNgG AaTt TthHEe LoONnGgEeRr REeAaCchH 
+
+imposes a difficulty penalty of Hard against any skill the opponent 
+If fighting at the Reach of the longer weapon, then the user of 
+
+attempts. In addition, on his following turns the grappler may make 
+the shorter weapon cannot directly attack the wielder of the longer. 
+
+unarmed attacks to inflict damage (equal to his Damage Modi- 
+They are still considered to be engaged since the longer weapon can 
+
+fier) on the body part by crushing, twisting or strangulating it. The 
+still reach them. 
+
+defender may oppose with his own Unarmed or Brawn skill in order 
+In this situation the user of the shorter weapon can attack the 
+
+to reduce or block the damage. 
+longer weapon of his opponent, try to close the range between them, 
+
+A grapple continues until the victim manages to break free. 
+or hope to win an applicable Special Effect. If the longer weapon is 
+
+Escape attempts are performed on the victim’s turn using the Strug- 
+in fact the natural armament of a creature with superior reach, such 
+
+gle combat action. This requires an opposed roll of either Brawn or 
+as the tentacle of a colossal squid, the user of the shorter weapon 
+
+Unarmed against whichever of the two skills the grappler prefers. If 
+can directly attack the limb assaulting them. 
+
+the grappled victim wins, they manage to break free. Note that some 
+The intimidating threat of longer reach is an inherent advantage 
+
+attackers using Brawn may be so strong that no amount of brute 
+of two handed weapons, which offsets the disadvantage of not using 
+
+force or cunning technique can overcome their grip. 
+a shield. 
+
+Grappling requires that the limb or appendage is empty, and is 
+capable of hooking, sticking or gripping. 
+
+FiIgGhHTtIinNgG AaTt TthHEe ShHOoRrTtEeRr REeAaCchH 
+In the converse situation where the fighters are engaged at the 
+
+UNnUuSsUuAaLl CoMmBbAaTt COoNnDdIiTtIioONnSs Reach of the shorter weapon, the user of the longer weapon will 
+
+There are certain circumstances and environments which may find he cannot parry the attacks of the shorter. 
+
+prevent a character from fighting at his full ability. Several are spe- The user of the longer weapon can still attack with the haft or 
+
+cifically noted below, but other situations may occur which aren’t hilt of his now encroached weapon, but its efficacy is significantly 
+
+covered by the rules. In such cases the Games Master should apply reduced. In this circumstance the weapon’s Size is reduced as many 
+
+similar rules as appropriate to the fight. For example, a battle upon steps as the difference between the two weapons’ Reach, and only 
+
+a treacherously slippery ice floe may require that combat skills be inflicts 1d3+1 damage due to the necessity of striking with the haft, 
+
+capped by Acrobatics. pommel, guard from an awkwardly cramped position. 
+
+106
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+At this point the best option for the user of the longer weapon is 
+to reopen the range between them, draw a shorter backup weapon, RAaNnGgEedD COoMmBbAaTt 
+defend themselves with their Unarmed skill, or hope to win a useful Ranged combat incorporates all forms of weaponry which 
+Special Effect. In a last ditch situation the encroached fighter can require to be shot, thrown or slung to strike their target. The ranged 
+attempt to Evade instead. weapons a character can use are listed as part of their combat styles 
+
+- anything from throwing stones to firing a huge trebuchet. 
+CLlOoSsIinNgG RAaNnGgEe Ranged attacks are resolved in an identical way to close com- 
+A character that is being held at range by a longer weapon must bat. However, ranged weapons can normally only be parried with 
+
+close on his opponent before being able to attack him. Two methods shields; those without must rely on natural cover or use Evade to 
+are available to do this. dive out of the line of fire. Thus against lightly armoured foes, 
+
+ranged weapons can be formidable deterrents. 
+& Close Range Special Effect — automatically closes, but cannot 
+
+Each ranged weapon has a number of specific attributes which 
+be used unless a character has generated an opportunity for 
+
+determine its effectiveness. The ones which have a key bearing on 
+a Special Effect. 
+
+combat are as follows: 
+& Change Range Combat Action — costs an Action Point, and 
+
+is used on a character’s Turn. 
+FOoRrrcCEe 
+
+In the latter case of attempting to Change Range, the charac- The ranged weapon equivalent of Size. It measures the penetra- 
+
+ter’s opponent has two options, described below. In both cases if tive power of that weapon or its ammunition to determine whether 
+
+the opponent has no Action Points left — or chooses not to spend an the blow overcomes a (shield) parry. 
+
+Action Point — then the attempt to close is automatically successful. 
+DAaMmAaGgEe MOoDIdFifIiEeRr 
+
+& The combatants match Evade skills in an opposed test. If the This attribute shows whether or not the Damage Modifier of the 
+character initiating the Change Range action wins then he attacker can be used to boost the ranged weapon’s damage roll. In 
+can close the range to a desired distance. If the opponent general only bows and thrown weapons allow the user to apply their 
+wins then the existing range is maintained. Damage Bonus. 
+
+& However, if the opponent decides to attack the closing char- 
+acter instead, then he must make an opposed roll of his RAaNnGgEe 
+combat skill versus the closing character’s Evade skill. If the Three numbers separated by slashes, representing the maximum 
+
+opponent wins, he strikes the character; and any difference Close, Effective, and Long ranges of the weapon or its ammunition. 
+
+in Level of Success results in Special Effects as per normal Close range is the distance over which the Choose Location special 
+
+combat. Whether or not the blow lands, the closing character effect may be used, provided the target is stationary or unaware of 
+
+bridges the distance, and gains the advantage of having the the impending attack. Effective range has no significant modifiers. 
+
+shorter weapon. At long range the weapon can still inflict harm, but the amount of 
+damage is halved and Force is reduced by one step. 
+
+OPpEeNnIinNGg RAaNnGgEe REeLloOaAdD 
+Opening Range works in the same way as Closing Range — but The time taken to reload a weapon which fires ammunition. 
+
+obviously in reverse. The character can use Change Range to com- 
+pletely withdraw from engagement. See Withdrawing below. 
+
+SIitTuUaAtTiIoOnNaALl MOoDIdFifIiEeRrSs 
+
+WIiTtHhDdRrAaWwIinNGg The table on page 108 provides some situational modifiers spe- 
+
+Withdrawing from a fight means that the character extricates cific to ranged weapons. Where two or more situations are pertinent 
+
+himself from close combat weapon range. This can be done in a myr- to the character, use the most severe. 
+
+iad of ways, from physically pushing an opponent away, side-step- 
+ping a committed attack or unexpectedly taking several large steps RAaNnGgEedD COoMmBbAaTt COoNnSsIiDdEeRrAaTtIioOnNSs 
+backward. At this point they have not fled the battle entirely, but Whilst ranged weapons appear to be extraordinarily potent they 
+have briefly opened up enough space to have disengaged that oppo- do suffer a number of restrictions, and have special rules covering 
+nent, and consider new tactical options. their use. Specific notes concerning ranged attacks are as follows: 
+
+Withdrawing is automatic when using the Withdraw special 
+effect. Otherwise a character must attempt to break free by use of AIimMIinNgG 
+the Change Range or Outmanoeuvre combat actions, in which case By spending additional time aiming a ranged weapon, a char- 
+the opponent(s) may resist. acter can potentially increase his chance to hit. Aiming requires an 
+
+Once he has disengaged himself, the withdrawing character may entire Combat Round steadying the weapon, and waiting for the 
+on his next turn (for the cost of an Action Point): best opportunity to release, for example withholding a bowshot for 
+
+a momentary lull in the wind or until a target moves between two 
+& Reroll initiative 
+
+obstructions. By aiming, the character may reduce the difficulty of a 
+& Flee the battle entirely 
+
+Situational Modifier by one grade. Additional rounds spend aiming 
+« Seek out a new opponent to engage 
+
+grant no further advantage. 
+& Perform some other suitable act not covered here 
+
+107
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+RAaNnGgEeDd COoMmBbAaTt SIitTuUaAtTiIoOnNaALl MOoDIdFifIiEeRrSs Tor characters with a more destructive bent, statistics for siege 
+
+Situation Difficulty Grade engines are included in the Economics and Equipment chapter. 
+
+Light Wind* Hard 
+FIirRiInNgG iInNtToO Aa CRroOwWDd 
+
+Moderate Wind* Tormidable Firing into the swirling ebb and flow of a melee can be a risky 
+Strong Wind* Herculean business, even for the most proficient marksman. The unpredictable 
+
+Gale, Storm or Worse* Hopeless movement of crowds and engaged opponents can easily result in an 
+
+Target is Running Hard ally straying into the line of fire, during the time it takes for a ranged 
+weapon to travel the intervening distance to its intended target. 
+
+Target is Sprinting Tormidable 
+Thus there is always a risk of accidentally striking someone other 
+
+Target obscured by mist or is in partial 
+than the original target being aimed at. 
+
+darkness Hard 
+When firing at a specific target at the edge of a crowd or melee, 
+
+Target obscured by thick smoke, fog or is in ] 
+Tormidable the attack suffers a difficulty grade of at least Hard. If trying to fire 
+
+through a group to hit a target in its midst, or on the other side, the 
+Target is completely obscured Herculean 
+
+penalty should be raised to Formidable. 
+Blinded or loss of primary perceptive sense Hopeless 
+
+The result of the dice roll is very important. A marksman who 
+Target prone Tormidable passes his attack roll despite the difficulty penalty has aimed true, 
+Attacker is prone** Herculean and will hit his intended target. If however the marksman fails the 
+Attacker is on unstable ground Hard roll, but would have succeeded if not for the firing into a crowd 
+
+penalty, then an adjacent victim is struck instead. If more than one 
+*Assumes the thrown weapon or ammunition is vulnerable to crosswinds; and supersedes the normal 
+
+penalty imposed by winds on physical skills . target 1s in the line of fire, the Games Master should determine the 
+victim randomly. 
+
+**Penalty can be negated if using a crossbow from a prepared position. No matter who eventually becomes the target — intended or not 
+—if they are aware of the impending attack, they are free to Evade 
+
+DIiSstTaAnNCcEe PEeNnAaLlTtIiEeSs or Parry as normal. Any special effects won as part of the attack only 
+The difficulty of hitting a target increases rapidly with the dis- 
+
+apply to the original target, not any accidentally struck bystander. 
+tance which separates it from the marksman. Distance is considered 
+independent of a weapon’s Range, the latter being the performance FIirRiInNgG oONn tThHEe MOoVvEe 
+characteristics of the weapon over set distances. A character is still permitted to use ranged weapons even whilst 
+
+Distance penalties can be offset by the size of the target being mounted on an animal or vehicle. However in these circumstances 
+aimed at. Hitting a mammoth at fifty metres is far easier than hit- their combat skill is capped by the Ride or Drive skill of the person 
+ting a human at the same range. The table overleaf indicates the controlling the conveyance, which may or may not be the attacker 
+difficulty grade adjustment of hitting various sized objects over himself. For example an archer riding in a two man chariot would 
+incremental distances. These stack on top of other ranged combat have his attack skill capped by the Drive skill of his driver. 
+situational modifiers. Ranged attacks cannot usually be performed if the attacker him- 
+
+These values assume an active target in the open field. If shoot- self is moving at a gait faster than a walk, since their aim is con- 
+ing a static object at a known range, for example a straw butt during stantly thrown off by the physical movement. One exception to this 
+a competition, the Games Master may reduce the difficulty by a step are warriors trained in a Combat Style specialising in Skirmishing, 
+or two. see page 89. However in this case the attacker’s attack percentage 
+
+Whilst there are few creatures which achieve such gargantuan cannot exceed his Athletics skill. 
+scales, there are other objects which can reach sizes in the hundreds; 
+such as buildings, fortifications, and troop formations. On the battle- ImMPpAaLlIinNgG RAaNnGgEedD ATtTtAaCcKkSs 
+field the near impossibility of striking a single man is replaced by the Ranged weapon projectiles which result in an impale, such as 
+use of volley fire, saturating an area densely packed with men; in the an arrow or thrown javelin, clearly cannot be yanked free of the 
+hope that a small proportion of projectiles will strike home. wound on the next turn by the marksman who threw or fired the 
+
+weapon. However nothing stops a character in close combat with 
+
+DiistTaAnNCcEe PEeNnAaLlTtIiEeSs 
+
+Target SIZ 
+
+10 or less 21-40 81-150 151-300 
+
+1-20m 1 Step Harder No Effect 1 Step Easier 1 Step Easier 2 Steps Easier 2 Steps Easier 
+
+21-40m 1 Step Harder 1 Step Harder No Effect 1 Step Easier 1 Step Easier 2 Steps Easier 
+
+41-60m 2 Steps Harder 1 Step Harder 1 Step Harder No Effect 1 Step Easier 1 Step Easier 
+
+i 61-80m 2 Steps Harder 2 Steps Harder 1 Step Harder 1 Step Harder No Effect 1 Step Easier 
+
+2 81-100m 3 Steps Harder 2 Steps Harder 2 Steps Harder 1 Step Harder 1 Step Harder No Effect 
+
+101-120m 3 Steps Harder 3 Steps Harder 2 Steps Harder 2 Steps Harder 1 Step Harder 1 Step Harder 
+
+121-140m 4 Steps Harder 3 Steps Harder 3 Steps Harder 2 Steps Harder 2 Steps Harder 1 Step Harder 
+
+Each 20m Tollow table progression 
+
+108
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+Throwing weapons, for example javelins, necessitate the weapon 
+REeAaLlIiSsTtIicC RAaNnGgEe PEeNnAaLlTtIiEeSs be drawn or plucked up in preparation. This normally only requires 
+
+Trying to lat a man-sized target with a human powered mussile one turn to complete, as per the Ready Weapon action providing it 
+weapon is actually much harder than most people expect. A shot must take is within reach. If a second throwing weapon is held in preparation 
+inlo consideration physicalf actors such as cross winds, variances between in the off-hand, the caster can swap it over to his throwing hand as 
+weight, flexibility and air resistance of each piece of (ostensibly identical) a Iree Action. 
+ammunition, and the necessity to arch a shot or throw. Even humidity and 
+
+Projectile weapons, such as slings or bows must be loaded. The 
+heat can significantly affect the performance of weapons such as bows. number of turns it takes to load a ranged weapon is listed in its Load 
+
+Further complicating the matter are the difficulty of judging range column on the Ranged Weapons table, page 65. 
+accurately, and the diminiskiment in the percewed size of a target as range A character can reduce the time spent loading or readying by use 
+increases. And this is assuming a stationary object! Complexity us_further of the Rapid Reload special effect. 
+increased when attacking a moving target, because of the time it takes_for 
+the weapon to reach the destination; even more so if that target staris to 
+move erratically. 
+
+Taking all thesefactors into account, it soon becomes evident that there Hiit LoOCcAaTtIioONnSs 
+@5 a huge difference between how ranged weapons are portrayed in_fantasy Most successtul (weapon) attacks land on a specific hit location. 
+and the realities of the real world. In actual fact most bow and spear This can be determined randomly or in some circumstances be 
+hunters rely primarily on stealth to get very close, and are rarely able to selected by Special Effects such as Choose Location. To randomly 
+hat large prey in the wild at ranges over a_few tens of metres. Fortunately calculate which location is been hit, roll 1d20 and compare the 
+MrrHRras errs on the side of the heroc. number rolled with the relevant humanoid or creature Hit Location 
+
+table. 
+N 4 Animals and monsters usually have slightly different hit location 
+
+tables than humanoids to reflect their own unique physiology. These 
+the transfixed victim from subsequently attempting to grab the 
+
+are listed as part of each being’s description in the Creature chap- 
+impaling weapon to tear it free. 
+
+ter. The humanoid Hit Location table is repeated here for ease of 
+Note that the Size of an impaled weapon is different from the 
+
+reference. 
+Force it struck with. Ranged impaling weapons have a special col- 
+umn denoting their actual size when considering the hindrances 
+
+HuummAaaNnooOIidD HiiTt LoOCcAaTtIioONnSs 
+caused by the Impale special effect. 
+
+1d20 Hit Location 
+
+LoOAaDdIinNgG RAaNnGgEedD WEeAaPpOoNnSs 1-3 Right Leg 
+
+Before a ranged weapon can be used it must either be readied or 46 Left Leg 
+
+loaded. This can often take significant time, slowing down a ranged 79 Abdomen 
+
+combatant’s rate of fire. 10-12 Chest 
+
+13-15 Right Arm 
+
+16-18 Left Arm 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 19-20 Head 
+
+Seeing that Master Zamothis is in trouble, Anathaym abandons the 
+impaled halberd, and unwinds her sling from her forehead. At the start of Note than some attacks, especially magical ones or those pro- 
+
+the next round she casts a lead slingshot into the tight melee surrounding her duced by particular monsters (a dragon’s fiery breath for example) 
+
+desperately manoewvring mentor, aiming at a black coated centaur of prodi- may strike several Hit Locations simultaneously. Individual Hit 
+
+glous musculature. Locations may be armoured, either from worn protection or the 
+
+Her combat skill (Meerish Slinger style) is normally 67%. Since she does natural toughness of the creature’s outer surface. This is important 
+
+not wish to accidentally strike Lamothis the roll us considered Hard, reducing when considering Damage and Wound Levels below. 
+
+her skill to 45 %. 
+Anathaym passes the attack roll, and selects the Stun Location special DAaMmAaGgEe AanNDd WOoUuNnDd LEeVvEeLlSs 
+
+effect against the unsuspecting creature. Unluckily she rolls minimum damage, If an attack strikes successfully, it causes damage according to 
+and her shot glances off its hindquarters with no apparent effect. the damage rating for the weapon (see the statistical entries for close 
+
+Herf urst attack unnoticed, Anathaym reloads, and at the end of the round combat and ranged weapons in the Economics & Equipment chap- 
+casts again. This time she does not do so well, rolling 52. Thus not onlyf adls ter, pages 63 to 65). A shortsword, for instance, inflicts 1d6 damage. 
+lo strike the black centaur but since it us less than her normal skill (without the 
+Jfiring into a crowd penally), it means she has struck a bystander. The Games 
+Master states there are two other possible targets in immediate proximaty, a sec- 
+ond (chestnut coated) centaur; and Master Jamothis himself A duce is rolled 
+lo see whch of the two s struck, and to her horror Anathaym inadvertently 
+hits her oblivious mentor. Fortunately thus time the slingshot inflicts no special 
+effect, but still manages to draw a glare from the grizzled warrior when the 
+shot clangs off lus crested bronze helmet. 
+
+109
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+The rolled damage for the weapon or attack is modified by the 
+certain conditions in the specific following order: WOoOuUnNdDIinNgG OPpPpOoNnEeNnTtSs WwIitThH  
+
+aAnN EnNDdUuRrAaNnCcEe oOVvEeRr 100% 
+& Apply the Damage Modifier for the character making the When a serious or major wound s inflicted against an opponent that 
+
+attack possesses an Endurance over 100%, the opposed test should take into 
+& Modify the damage from any weapon enhancing (or reduc- account the penally applied by the higher skill in the contest. In the rare 
+
+ing) magic cases where Endurance s the hugher skill, it s recommended that the pen- 
+& 1If parried, reduce the damage appropriately as per the com- ally us imposed retroactively to attacker’s skill — potentially downgrading 
+
+parative weapon sizes the success level of the original attack roll. 
+& I the hit location is armoured, reduce damage by the Armour T s does not mean that the attacker missed his original attack, merely 
+
+Points value that the deadliness of the wound is reduced and it becomes easeer for the 
+
+If the damage inflicted by the attack is above zero, then the hit victim to win the opposed test. 
+
+location sustains that amount of damage, with the damage total - 4 
+being immediately removed from the location’s Hit Points. Note 
+how many Hit Points the location has remaining, and the wound ongoing penalty of one difficulty grade, until the injury is reduced 
+
+category that results. to a Minor Wound. 
+
+& Minor Wound: Hit Location still has positive Hit Points 
+Maajjor WOoUuNnDd 
+
+& Serious Wound: Hit Location is reduced to zero Hit Points 
+If a location is reduced to a negative score equal or greater than 
+
+or below 
+its starting Hit Points, the character receives a Major Wound. The 
+
+& Major Wound: Hit Location is reduced to a negative score 
+character is immediately incapacitated, unable to continue fighting. 
+
+equal or greater than its starting Hit Points 
+Alimb is considered to be severed, transfixed, shattered or ripped 
+
+Use the following rules if a location receives a Serious or Major off by a Major Wound. The character drops prone, physically inca- 
+wound. Note that wounds requiring Endurance checks test them in pacitated, and must immediately make an opposed test of Endur- 
+an opposed roll against the value of the original attack roll. This ance versus the successful attack roll of his enemy. Failure results in 
+reflects the ability of highly skilled warriors to make more deadly unconsciousness from the agony. If a severed, punctured or ripped- 
+strikes. Endurance rolls are not repeated unless the location is off location is not treated within a number of minutes equal to five 
+
+wounded again. times his Healing Rate, the character dies from blood loss and shock. 
+The victim of a Major Wound to the Abdomen, Chest or Head 
+
+MiiInNoOrR WOoUuNnDd drops unconscious, totally incapacitated and must immediately 
+make an opposed test of Endurance versus the successful attack 
+
+Minor wounds are cuts, scratches, bruises and sprains. They 
+roll of his enemy. Failure results in an instant and gratuitous death 
+
+hurt, may bleed, but are not significant enough to slow down or 
+(decapitated, chopped in half, impaled through the heart, torn apart, 
+
+hamper the victim. 
+and so forth). If he survives, and the location is not treated within a 
+number of Combat Rounds equal to twice his Healing Rate, he still 
+
+SEerRiIoOuUSs WOoUuNnDd dies from blood loss and shock. 
+If a location is reduced to zero Hit Points or below, the victim Since most Major Wounds require some form of surgery or 
+
+receives a Serious Wound. The location is permanently scarred, and major magic to heal, the sufferer will be very unlikely to recover 
+the victim cannot attack or start to cast spells (but can still parry or from a major wound in time to rejoin combat. Depending on the 
+evade) for the next 1d3 turns due to being stunned or distracted by available treatment the wounded location will be potentially maimed 
+the pain of the wound. (see Healing from Injury page 80). 
+A character suffering a Serious Wound to a limb must immedi- 
+
+ately make an opposed test of his Endurance versus the successful 
+HEeRrOoIiCc LAaSsTt ACcTtIioONnSs 
+
+attack roll of his enemy. Failure results in the limb being rendered 
+In special cases where key characters receive a Major Wound, 
+
+useless, until the location is restored to positive hit points. If a leg, 
+the Games Master might allow a heroic last action - such as spitting 
+
+the victim drops prone. If an arm, he drops whatever he is holding 
+out one last spell, attempting to cut down their slayer, crawling away 
+
+unless the object is strapped on (use common sense here). 
+to hide, or trying to tourniquet their own wound. They must have 
+
+A character suffering a Serious Wound to the Abdomen, Chest 
+working limbs applicable to the action, and burn a Luck Point. They 
+
+or Head must immediately make an opposed test of his Endur- 
+get a single opportunity to attempt their action, and then immedi- 
+
+ance versus the successful attack roll of his enemy. Failure results in 
+ately collapse into unconsciousness, and probable death. 
+
+unconsciousness for a number of minutes equal to the amount of 
+damage sustained in the attack causing the Serious Wound. First Aid 
+or Healing skills can be used to help an unconscious victim regain 
+consciousness, but he will not be able to rejoin any combat until he 
+has received further healing to the Seriously Wounded location. 
+
+At the Games Master’s discression, even if the character remains 
+
+functional, all tasks requiring use of that body location will suffer an 
+
+110
+
+
+
+MyyTtHhRrAaSs::  COoMmBbAaTt 
+
+— eager yet incompetent. In terms of conflict, members of a rabble 
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+
+Guving up on her sling, Anathaym recovers her shortsword and rushes use the following guidelines: 
+
+o ad Master Zamothis, who despite cutting down two of the formidable & Rabble have little or no armour 
+centaurs s becoming rapidly exhausted. Just as she arrives, the big black 
+
+& Rabble are too incompetent to be able to use Special Effects 
+centaur smashes through the last of her mentor’s shueld, and with s return & Rabble have Hit Points equal to one fifth (rounded up) of the 
+blow catches Zamothis full in the head. Despite the protection of his helmet CON+SIZ of an average member of that race 
+the aging warrior is knocked down, out of thefight with a Major Wound. & Once they receive any damage, they cease fighting 
+
+Anathaym screams with_fury and leaps astride the centaur’s back, taking & If the damage is less than their Hit Points they flee cursing or 
+it completely by surprise. On her next turn she stabs with her shortsword. The yelling in fear 
+gods are with her and she rolls a critical success. Since the centaur was unable & If the damage equals or surpasses their Hit Points, they 
+lo defend with its club, she gains two special effects and chooses Maximise 
+
+collapse clutching the wounded location, and weeping or 
+Damage and Impale, driving her blade deep into its back. Although this might screaming in agony 
+havef inished off a human, the centaur is somewhat tougher. On its own turn & If the damage is double their Hit Points, they dic in a spectac- 
+it rears, throwing her off: Anathaym_fails her Athletics roll and lands prone — ular and grotesque manner 
+unarmed and helpless before the enraged creature. & Once one third of their number are dead or wounded, the 
+
+As it raises ats great club to_finish her off; theforgotten Master Zamothis rest of the rabble break and take flight 
+spends a Luck Point to perform a Herow Last Action and rallies long enough 
+lo cast s knife at the centawr. 1tf lies true, striking the beast in the chest, near 
+to where the tip of Anathaym’s shortsword emerges. Thus us enough to give the UNnDdEeRrLlIinNGgSs 
+centaur a Serwous Wound, forcing it to make an opposed roll of its Endurance 
+
+Underlings are competent foes usually sent en-masse to harass 
+against the attack 1oll of the thrown knife. Jamothis wins with the higher roll, 
+
+Adventurers: thuggish bodyguards irregular troops in the opening 
+and. the centaur chuef collapses with a look of surprise. 
+
+stages of a battle, for example. Despite not being tracked as full char- 
+The remaining centaurs take this as an omen, and lacking the steadying 
+
+acters, underlings can prove deadly if they catch their targets unpre- 
+presence of their sorceren; turn tail andf lee. Anathaym crawls over to the now 
+
+pared. Similar to rabble, Underlings use the following guidelines: 
+unconscious body of her beloved mentor and performs First Aud on his cracked 
+skull, saving his life. Then with the help of the rescued youth, they carry the & Underlings wear moderate amounts of armour 
+old man back to Meeros. & Underlings are freely able to use Special Effects 
+
+& Underlings have Hit Points equal to one fifth of the CON+- 
+SIZ of an average member of that race 
+
+OPpTtIioONnAaLl RUuLlEeSs:: & Once they receive two injuries, they cease fighting and if’ pos- 
+sible, withdraw cursing or yelling in fear 
+
+RAaBbBbLlEe & UNnDdEeRrLlIinNGgSs & If the damage equals or surpasses their Hit Points, they auto- 
+matically fail the Endurance roll, suffering the effects of a 
+
+Only use these optional rules when the characters are_facing a ravening horde of Serious Wound in the location struck 
+
+inconsequential and expendable adversaries. Competent NPCs and major villains & If the damage is double their Hit Points, they die in a grue- 
+
+should be treated differently somely violent manner 
+& Once half their number are dead or wounded, the rest of the 
+
+underlings withdraw from the fight 
+A mainstay of some fantasy literature is the scene of heroes 
+
+scything down hordes of faceless opponents, be they enemy soldiers, 
+fanatical cultists or even ravening demi-humans. To portray such 
+battles in MYTHRAS can not only be time consuming enterprises, but 
+are also difficult to pull off satisfactorily considering the ever pres- 
+ent risk of becoming outnumbered or rolling a fumble at the wrong 
+time. Luck Points can only help so far. 
+A better way of modelling these types of encounter is to provide 
+
+weaker foes or simplify the book keeping required to keep track of 
+injuries. MYTHRAS offers alternate options to dealing with this issue, 
+thus speeding up combat considerably. 
+
+RAaBbBbLlEe 
+Rabble are foes who intimidate by their numbers but in actual 
+
+fact have little prowess or willingness to remain in combat once 
+blood is shed. They can take many forms from vicious beggars who 
+set upon drunken characters when they stumble home from the tav- 
+ern along dark alleyways; or the mindless adherents of a dark cult 
+
+111
+
+
+

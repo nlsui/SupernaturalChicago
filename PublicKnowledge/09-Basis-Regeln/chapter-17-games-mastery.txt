@@ -1,0 +1,1538 @@
+Mythras:  Games Mastery
+
+oy X 2 o % o F WKW I+ & SO << A o B B T = < <G| 
+
+Games 
+
+Mastery
+oy X 2 o % o F WKW MK K EX M T XN 
+
+his chapter provides a range of notes for Games Masters — Adapt, change, improvise, import. These are all useful and valid 
+I both those new to MYTHRAS and old hands. It offers tips and techniques for making your MYTHRAS. 
+
+T techniques for running enjoyable games along with certain 
+optional rules that Games Masters may wish to include in their cam- 
+paigns. It is by no means exhaustive: Games Masters are continu- 
+ally developing new ideas and techniques and many of these will be THhEe PEeTtEeRrSseEnN RUuLlEeSs 
+unique to your own style of play. 
+
+oOofF GooDd GAaMmIinNGg 
+Sandy Petersen, celebrated game designer, has created five easy 
+
+rules that are worthwhile for all Games Masters to bear in mind 
+
+THh1is i1s YoOUuRr GAaMmEe when running a gaming session. 
+
+The MYTHRAS rules are comprehensive and reasonably detailed. 1. Make Bonuses Worthwhile. If something is worth doing, it’s 
+
+They work together through certain underlying concepts that are worth doing on a grand scale. Bonuses (and penalties) to 
+
+replicated throughout the different areas of game mechanics: char- skills, whether offered through magic or in some other form, 
+
+acter creation, combat, magic and so on. However there will always should mean something. This is why modifiers to skills (see 
+
+be occasions where... the Skills chapter) are structured in the way they are. Mod- 
+ifiers range from influencing a skill’s chance by increasing 
+
+& A particular rule does not fit a certain, unique situation or it by half again (Easy skills) or reducing by a third, through 
+even an overall playing style to being guaranteed success or making something simply 
+
+& Games Masters and players devise something that works bet- impossible to accomplish. Higher magic, too, offers some 
+ter for them quite substantial ways to influence skills and characteristics, 
+
+& Rules found in a similar game system using similar mechanics whereas Folk Magic, simplest of all the magical systems, 
+are desired over those found in MYTHRAS tends not to offer skill boosts or modifiers. 
+
+Games Masters are encouraged to change, ignore and adopt 2. The Right lo Have Fun. MYTHRAS adventures should be fun 
+
+rules to fit the style and needs of the campaign and players. MyTH- from the minute the players gather at the table. Try not 
+
+RAS has always been extremely flexible in this regard, and this edi- to spend too long in dull preamble or book-keeping and 
+
+tion of the game is no different. If something does not work how you start the session with a bang. Take cues from movies and 
+
+think it should, change it. If you don’t like a particular rule, and feel television shows: good ones involve the characters (and the 
+
+it’s superfluous, drop it. If you find a rule in a sister d100 game that viewer) immediately. Everyone should be involved and feel 
+
+you really like, add it to your MYTHRAS game. The chances are that that they are involved. If things appear to be flagging, spice 
+
+you will not break anything found in MYTHRAS — or can easily adapt them up quickly using humour, excitement, tension or some 
+
+imported or house-created rules to work with the core mechanics. other device that hooks everyone back into the game. It is 
+
+You should make MYTHRAS your game. The rules are a pre-pre- worthwhile having a few such hooks pre-prepared for just 
+
+pared guideline but nothing should be considered as written in such an occasion. You might not need to use them, but if 
+
+stone. There is no right or wrong way to play any roleplaying game, you do, you’ll be glad you made the effort. 
+
+and you should adapt what you find in these pages to make your own 3. Show, Don’t Tell. Actions speak louder than words. If a non- 
+
+game sing the song you want sung. player character is clearly a villain, have him act villainously. 
+If a character is good, clean and wholesome, have them act 
+
+278
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+that way. If a situation is foreboding and sinister, pepper a good idea for the Games Master to take a personal copy of ecach 
+your description with signs (insects suddenly stop buzzing. A player’s sheet and hold it for both reference, and back-up. Every 
+wolf howls. Thunder rumbles. The air grows suddenly cold. good Games Master knows the capabilities of his characters, and 
+The characters break out in goose-bumps). You needn’t can use these to develop stories and scenarios that fit with what each 
+worry about the players agreeing with your value percep- character can do, and their backstory. 
+tions, even you feel they are based in reality: the main idea A supply of counters - coins, sweets, beads, buttons, bottle-tops, or 
+is to convey an impression, an atmosphere, and a demon- poker chips — are a useful way of keeping track of variable attributes 
+stration of what the characters experience. It all supports such as Action Points, Magic Points and Luck Points. Give each 
+the Right to Have Fun. player a supply of different colours or types of counter according 
+
+4. Three Strikes and You’re Out. If a player is making a decision to their character’s statistics and, when a point is spent on some- 
+that could make life very difficult for himself and others, thing (performing a Combat Action, casting a spell) have the player 
+try to give him at least three chances to make an informed put the appropriate counter into a discard pile. In this way players 
+decision and possibly escape his fate. Luck Points will help can easily see what resources they have available, and do not need 
+here, but there other techniques too. For example, a dragon to constantly amend their character sheet. The Games Master will 
+might be threatening a small settlement; the first signal is need a supply too, for tracking the actions of foes and monsters. 
+the villagers warning of the dragon’s lair. If this doesn’t Combat Reference Sheets and Tracker — we strongly recommend print- 
+deter the characters, perhaps the dragon can be seen in the ing a copy of the Special Effects for each player at the table. To 
+distance circling the mountain tops, casually incinerating begin with they will need to reference the different Special Effects 
+the local undergrowth. If that still doesn’t deter the charac- so they can understand what each does and how it works. This will 
+ters, then a direct encounter with the dragon — which is the encourage variety of Special Effect use, and saves wear and tear on 
+third and final chance — might be looming. However things rulebooks. In time, as the players become more familiar with how 
+turn out, the character has had ample opportunity to do Special Effects work, the sheets will be used less often, but making 
+something about the situation. If things end badly, at least them available from the start, as part of a Character Pack, is a real 
+the opportunities to avert disaster were presented. help for getting to grips with the game. You will also find a Combat 
+
+5. 1t Always the Player’s Fault. By this we mean that, if things do Tracker sheet, used for recording Initiative order, wounds, and so 
+go badly for a player, it should be a result of decisions made forth in the Reference section of MYTHRAS (or download from our 
+and actions taken, rather than being a fault in the game website). This is designed to help with book-keeping during combat 
+rules or their presentation by the Games Master. Players and is recommended for all Games Masters. 
+ought not to feel cheated by the game system or bad dice Minatures, and Figures — Whilst MYTHRAS is not necessarily 
+rolls. Players must feel that, if they had acted differently, designed specifically for miniatures play, there is no doubt that hav- 
+they would have fared better and perhaps emerged victori- ing some form of character representation for combats and battles 
+ous. Successful MYTHRAS sessions should not be Players ver- can help understand positioning, movement and engagement. There 
+sus the Game System, or Players versus the Games Master. are hundreds of thousands of figures available, from those designed 
+Responsibility for actions must be taken by the players, and for roleplaying games (typically 25-28mm) to those designed for war- 
+so part of the Games Master’s job is to foster such oppor- games (15-25mm). You can even find very cheap cardboard figures 
+tunities using the game system to assist and inform, rather that you can print, cut out, and then use ad infinitum. Choose fig- 
+than oppose and penalise. ures that approximate the look and feel of the setting, but otherwise 
+
+you are spoilt for choice. 
+Battlemats and Movement Grids — used with figures, battlemats are 
+
+usually pre-printed with either squares or hexagons, and used to reg- 
+
+PRrEePpaARrAaTtIioOnN aAnNDd ulate positioning and movement. The scale represented depends on 
+the size of the figures used. Typically, with 25-28mm figures a square 
+
+GAaMmEe AIiDdSs or hex will represent about one metre, but you can, of course, adjust 
+
+There are certain materials and game aids that you may find the scale to fit the figures. Some battlemats are covered in wipe-clean 
+
+help manage each MYTHRAS session. They are not essential but finishes that let you use dry erase markers to sketch out rooms, walls, 
+
+experience has found that they can make life easier. obstacles, and so on: a useful ad hoc mapping tool. 
+
+Scrap Paper — for making notes and especially during character Wipeboard and Dry Erase Markers — a small wipeboard, about the 
+
+creation. lor the latter, have players create their characters in rough dimensions of this book, can be easily bought from stationers along 
+
+first, and when happy, transfer the information to a character sheet. with dry erase markers. These tools are incredibly useful for record- 
+
+Pre-printed Character Sheets — you will find a sample MYTHRAS ing combat details, Initiative order, notes on wounds, or to do a 
+
+character sheet on pages 302 to 303. You are free to copy this for quick, temporary sketch-map rather than rely on reams of scrap 
+
+personal use (or download a copy from www.thedesignmechanism. paper. We recommend investing in a wipeboard and pens: its useful- 
+
+com). It holds all the essential information needed by each player, ness at the gaming table is unparalleled. Plus, some wipeboards are 
+
+and is structured to show the most useful play elements on the front magnetic too, and you can easily buy magnetic counters and sheets 
+
+page, with additional detail on the rear. In time players will find that can then be customized to make Action Point trackers, initia- 
+
+they outgrow their character sheets — or they become untidy, torn, tive trackers and so on, that attach easily to the wipeboard, further 
+
+spoiled, and so on. From time to time refresh the character sheets extending its usefulness. 
+
+but keep the old ones for reference in case they are needed. It is also 
+
+279
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+Games Master Screen — not an essential, but definitely useful. scenarios. When getting together to create characters as a group, 
+Screens should, on the Games Master’s side, have all the most rele- look to answer several questions: 
+vant tables and rules summaries used during play. The players’ side 
+
+& How do we all know each other? 
+can carry artwork or reference materials such as Special Effects so 
+
+& How do we feel about each other? 
+that all the players can easily see them. A simple screen can be made 
+
+& Does my character have a special relationship with any of the 
+with a few sheets — 3 to 4 — of Letter or A4 card taped together. 
+
+others (a brother, say)? If so, how? 
+More expensive vinyl screens, with clear pockets for inserts, can be 
+
+« Why do we want, or need, to work together? 
+bought commercially, and these allow for infinite customisation of 
+
+& Who else do we know? 
+both Games Master and player information, simply by changing 
+
+& How do we serve our communities? What do our communi- 
+the insert. The reference sheets found in the Reference section of 
+
+ties think of us? 
+MyTHRAS are designed to work with such screens, or can be copied 
+
+& Where do we want to go and what do we want to do? 
+and glued onto a home-made cardboard screen. 
+
+Books, References and Electronic Awds — only the Games Master really It is not necessary to address all of these questions immediately: 
+needs the rulebook but a couple of additional copies are always use- answers often develop through time and play. But finding some 
+ful in case players want to look something up. As an alternative, a answers at the character creation stage helps establish the group as 
+PDF version of MYTHRAS can be easily chopped into appropriate a team and immediately starts to make things seem real. If all the 
+pages or chunks (just print out what you need) that can then be used characters have some form of common background element, be it 
+in place of the rulebooks, and obviously save on wear and tear. If culture, career, family, clan, cult or something else, they have a genu- 
+you have PDF editing software you can compile your own Players’ ine reason for adventuring, and the Games Master does not need to 
+Book if needs be. And, of course, PDF displays very well on tablet rely on clichés such as meeting in a crowded drinking establishment. 
+devices that are becoming increasingly popular at the games table. 
+
+WHhAaTt SKkiiLlLls ARrEe NEeEeDdEeDd? 
+MyTHRAS’s skill system 1s incredibly flexible, allowing you to play 
+
+CRrEeAaTtIinNgG CHhAaRrAaCcTtEeRrSs just about any character concept you can conceive. Every skill has a 
+
+Character creation is best as a collaborative exercise — between use in the game. Sometimes though, it is useful to know which skills 
+
+the player and Games Master, but also amongst the players, which are most likely to have a direct impact on play or be required in 
+
+not only saves time but also offers other benefits. certain tense situations. This can help when assigning skill points at 
+
+Group character creation greatly helps in cementing the group either cultural, career or free skill assignment stages. 
+
+together, giving each character a reason for adventuring with the Athletics: Used in a variety of combat opposed rolls (resisting a 
+
+others. Players can discuss and agree on differing and complemen- Bash, for example) 
+
+tary character careers and backgrounds and, during the Culture Brawn: Good Brawn helps in removing impaled weapons — either 
+
+and Community part of character creation, establish relationships one you have impaled, or one that’s been impaled in you. 
+
+between their characters that go merely beyond ‘You all meet in a Combat Style: The higher your combat style, the better you fight. 
+
+tavern...’: For example: Remember that a combat style covers several weapons, and has cer- 
+tain traits that come into play in certain circumstances. As well as 
+
+& All the characters could come from the same cultural back- being used to hit and defend against opponents, combat style is also 
+ground, which makes logical sense. used in opposed rolls for damage and certain Special Effects. It can 
+
+& Characters can be family members, either close or extended, also be used non-lethally. Why not use your Combat Style as a roll 
+which creates bonds of blood and helps define beginning Pas- to intimidate opponents or as a way of identifying yourself to peers 
+sions, loyalties and family structures. and contemporaries? 
+
+& Characters can belong to the same, or affiliated, cults or Endurance: A decent Endurance score helps in resisting the effects 
+brotherhoods, again providing a reason for adventuring. of Major and Serious Wounds. It is also used to resist certain tar- 
+
+Tying the characters together during the character generation geted spells. 
+
+stage lends the group communal Luck Points, as discussed on page FEvade: Essential for diving out of the way of missile weapons, 
+
+81, representing their bonds and ties. charging monsters and certain targeted spells. It is also used for 
+
+A group exercise can be invaluable in establishing a backstory actively closing range or disengaging from a melee: it is a very useful 
+
+for the characters that the Games Master can then use in future skill. 
+Insight: Used for determining motivation, emotional state, plans 
+
+and plots... Insight is an extremely useful skill for reading other peo- 
+ple. In combat, use Insight to perhaps determine what an observed 
+opponent is likely to do if he generates a Special Effect, or if a seem- 
+ingly idle opponent is preparing a spell. 
+
+Passwons: In combat, passions can be used to augment a combat 
+style or other skill. If fighting for the clan’s honour, Loyalty to Clan is 
+a highly relevant augmentation to a Combat Style. The same is true 
+for non-combat situations. Things a character feels strongly about 
+constantly influence how certain other skills are used: Influence or 
+
+280
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+Deceit, for example. Know your Passions and consider how they can Masai warriors do not encumber themselves with heavy 
+be used in different situations. armour. Similarly, Greek hoplites, despite having very good 
+
+Wallpower: Extremely useful for resisting certain spells, but also for access to bronze, left their limbs free or lightly armoured, to 
+resisting Influence and Deceit attempts. Willpower is always a good maximize manoeuvrability, and optimise weight. In some 
+skill to develop. cultures, armour may even be viewed as a weakness. 
+
+Do not make the mistake of thinking that the above skills are the 3. Consider Game Impacts: heavy armour slows down the 
+only ones that should be concentrated on for development: far from wearer in combat. Even though a character might be able 
+it. MyTHRAS allows characters to develop both broad ranges of use- to afford a suit of full, articulated plate, it is cumbersome 
+ful skills, and specialized skills for use in specific situations that reflect to wear, hot, and restricts as much as it protects. The edge 
+professional training and personal growth. in combat is often won through speed rather than brute 
+
+When it comes to investing skill points in skills during charac- protection. And, traditionally, plate armour is reserved for 
+ter creation, and in choosing skills to benefit from Experience rolls, wars; not for daily use. Anyone wandering around a city 
+think about your character’s concept and career. Focusing on only dressed as though for a battle will be incongruous and 
+a handful of potentially useful skills will penalize the character in attract the wrong kinds of attention. Similarly, large, two- 
+other areas that may not be immediately evident. handed weapons certainly deal a great amount of damage, 
+
+In MyTHRAS, characters are not necessarily intended to be arche- but they limit certain options for defence. And, again, walk- 
+types, but fully rounded individuals that have a wider range of tal- ing through town with a great axe is a sure way to attract 
+ents than merely fighting, sneaking or casting spells. Social skills are trouble. In Rome, all personal weapons were banned in 
+as every bit as useful as combat ones — especially if you need to talk the city: thus fantasy realms can, and should, have similar 
+your way out of trouble. restrictions and taboos. 
+
+Developing a decent range of skills across a wide spectrum of 4. Consider What’s Reasonable: MYTHRAS does not go over- 
+areas improves your chances of succeeding in a multitude of situ- board on detailed rules for encumbrance but this does not 
+ations. Within careers especially you have many options for devel- mean that common sense should be ignored. It is simply 
+oping a character that is unique, and goes against traditional arche- impractical for a character to carry a kite shield, great axe, 
+types and tropes. How about a warrior-poet? A duplicitous clan warhammer, longsword, crossbow, kit-pack and armour. 
+adviser? A scrupulous, honest diplomat fighting against the corrupt Guide the players in these limits, and advise them what is 
+system? Even a lowly fisherman or farmer can, in time of need, logical and practical. There is no need for extremely detailed 
+become a hero of his people. rules regarding what can and cannot be carried — merely a 
+
+MyTHRAS characters are what you make of them, and the rules degree of common sense and practical consideration. 
+provide you with the tools to create some truly memorable and 
+unique characters that defy conventional moulds and stereotypes 
+(although you can build such characters if you want to). SocciiAaLl CLlAaSsSs 
+
+Although the default position is to roll randomly for social class, 
+
+EqQUuIipPmMEenNTt this should not be considered as being the sole method. There are 
+several reasons for choosing or assigning social class instead: 
+
+The Economics and Equipment chapter offers a reasonable 
+selection of items for characters to buy when beginning the game. & Group integration is easier if all characters are from the same 
+However there are a number of caveats for Games Masters when class. 
+players start to make equipment selections— and these apply also to & Financial disparities between characters are avoided. 
+defining Combat Styles too. 
+
+1. Consider the milieu: what is the general nature of the period This second point is worth some expansion. It is true that those 
+
+in which the campaign will be set? If in something roughly born into a wealthy or privileged background have access to more 
+
+analogous to the classical period (Ancient Greece, Rome, and better equipment, supporting resources and ready cash: but 
+
+Mesopotamia, and so on) equipment, armour and weapon such has it always been. That said, the income levels described in 
+
+choices should reflect that milieu. Just because MYTHRAS the Economics and Equipment chapter relate to the costs of main- 
+
+lists a piece of equipment does not mean it should be avail- taining an accustomed standard of living. Those born into a wealthy 
+
+able. Use your judgement and the milicu of the setting to class will need to spend a far greater proportion of anything they 
+
+guide reasonable choices. earn to maintain that standard of living than, say, Freemen. And, 
+
+2. Consider the cultural background: would barbarians really having monetary wealth available does not always guarantee that 
+
+have access to crossbows and heavy plate armour? Would a its owner has any natural right to it. Wealthier social classes are not 
+
+nomad, used to riding and fighting from horseback, encum- always debt-free — a bag of coins a nobleman has to hand may have 
+
+ber himself or his mount with a polearm? Would a city- been obtained from a moneylender with property used as collateral. 
+
+dweller be trained in using a sling when the militia uses What would happen if the debt was suddenly called in? 
+
+spears and bows? Weapon, armour and equipment choices There is, though, always a certain perception of inequality asso- 
+
+should reflect cultural heritage as much as the milieu. ciated with disparate levels of character wealth. For this reason, 
+
+Consider the environment too. Metal armour is generally and especially if starting wealth is seen as necessary to a campaign, 
+
+impractical in very hot and humid climates and is also Games Masters should assign the same social class to all charac- 
+
+difficult to manufacture, or expensive to obtain, if a soci- ters to maintain parity or limit wealthier classes from beginning 
+
+ety lacks the raw materials needed. There is a reason why the game with what might be perceived as an unfair advantage. In 
+
+281
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+reality, society has always suffered such inequalities, and it should moment, be fruitless and quickly divert their attention with a press- 
+be remembered that simply being able to afford lots of equipment, ing scenario elsewhere. 
+arms and armour does not equate with being able to use any of it Of course the availability of personal Luck Points makes the risk 
+effectively. of failing crucial investigation rolls less likely, providing the Games 
+
+On the other hand, one advantage of having someone move in Master encourages the use of them in non-combat situations. 
+advantageous social circles is access and influence in high places. A way around this is through the use of those Luck Points pro- 
+There may be times when having a noble class in the party can assist vided through forming Personal Connections, as described in the 
+in ways far more subtle than in simple monetary terms. The rich Culture and Community chapter. This group pool of Luck Points 
+tend to move in circles of power and influence; this means that a could be used by characters when involved in an investigative situa- 
+character from a wealthy or noble social class can, when it is needed, tion where it is essential to gather clues and information to progress. 
+draw on family and personal contacts that would otherwise be Instead of making skill rolls, such as Perception, Insight, Lore or 
+denied to characters of a more lowly station. This is important in all something else, the characters can opt to spend a group Luck Point 
+cultures, not just the civilised ones. to receive a vital piece of information in lieu of a skill roll. 
+
+Sitting at the chieftain’s table places one closer to her ear or the Spending points in this way depletes the pool which will not 
+ear of his advisers. High ranking nomads ride closer to the khan’s refresh until the next game session, but it does guarantee that char- 
+caravan; highly placed primitive peoples may have influence with acters can, through judicious use and communal efforts, avoid the 
+the tribal elders or high shaman. Rank brings influence, and influ- frustrations of bad dice rolls when searching for something they 
+ence can be far more precious than money. Having disparate social need. A Games Master could even restrict the use of the group’s 
+strata within an adventuring group should be viewed pragmatically Luck Points to non-combat situations only, which would further 
+rather than with jealousy. Money isn’t everything, and influence in encourage their use for investigation. 
+the right places can assist when money’s voice has fallen silent. Using Luck Points to automatically discover clues is a purely 
+
+optional feature and always at the Games Master’s discretion — but 
+they do provide a straightforward mechanism for conducting inves- 
+tigation and research without complete reliance on the vagaries of 
+
+InNvVEeSstTiIgGaAtTiIoOnNSs the dice; providing of course, that the investigation is not so complex 
+Some scenarios rely more on research, mystery, intrigue, and that it burns through every available Luck Point. 
+
+detective work than on the use of the weapons. The gathering of 
+clues to solve a puzzle or mystery i3 an essential element of such 
+adventures but one problem frequently encountered is the missing 
+of vital clues through failed skill rolls. Of course, Games Masters UssSiInNgG PAaSsSsIioOnNSs 
+are quite at liberty to make clues obvious or even hand them out Although Passions are offered as an optional rule in MYTHRAS, 
+through roleplaying to ensure the smooth flow of the investigation, Games Masters are recommended to consider using them as an 
+but this can take away some of the drama and excitement of uncov- active part of their games. 
+ering a clue or piece of information through the skill rolls of an Throughout all kinds of fiction, and especially in fantasy, pas- 
+investigative process. sion drives the plot. The desire to save the world from the evil dark 
+
+The most vital aspect of well designed scenarios is that they have lord; to pursue and gain power; to quest for glory and lost wisdom; 
+alternate means of reaching their conclusion. A scenario, especially to defend, find or avenge love. The variations are limitless and the 
+one centred upon investigation, should never come to a juddering Passions system is capable of handling them all. 
+halt if a crucial clue is not discovered. Even if a particular skill check Every individual is driven by some sort of passion. Passions both 
+is pivotal to the plot, a good Games Master should ensure that what- inform and cloud choices. The heart governs the head, and rational 
+ever the outcome, it pushes the storyline forwards. For example a thinking is replaced by that overwhelming compulsion a true passion 
+failed investigative roll could result in: brings. There is nothing we will not do to save our loved ones. Our 
+
+loyalty to leader or country drives us to selfless acts. Passions impel 
+& False information which leads characters to jump to the 
+
+us, and in MYTHRAS the Passions mechanics can help drive an entire 
+wrong conclusion 
+
+campaign. 
+& Finding only part of the information which will lead them off 
+
+Games Masters can use passions in a variety of ways, designing 
+on a roundabout side plot 
+
+entire scenarios around the feelings that a character holds for a par- 
+& An intuitive itching that they are missing something, which 
+
+ticular subject or antagonist. These can be very fulfilling for players, 
+resolves itself in a dream or flash of inspiration soon after 
+
+especially when they begin to vicariously experience the emotions 
+& The interruption of the investigation attempt, preventing the 
+
+gripping their characters. 
+characters from locating the clue till they return at a later time 
+
+The course of a campaign can hinge on a single passion. Con- 
+& Arrival of a scroll or informant soon after, to get the charac- 
+
+sider the Greek sagas and Shakespeare’s tragedies. In The Iliad, 
+ters back on line, but at the expense of worsening the situation 
+
+Troy is besieged because the love between Paris and Helen causes 
+
+The secret is to never stonewall the characters, but always keep them to act in a specific way, forcing Agamemnon to seek bloody 
+
+the story flowing. In some situations, such as a sandbox style cam- revenge. In Macbeth, Lady Macbeth’s ambition drives her weaker 
+
+paign, reaching an impasse on one plotline does not prevent charac- husband to commit regicide, plunging the kingdom into tyranny, 
+
+ters from continuing others in the meantime; but the Games Master paranoia, further bloodshed and, eventually, war. 
+
+should make it clear that pursuing their investigation will, for the Passions, then, can play a crucial part in a campaign at a per- 
+sonal level, or be at its heart and drive it, at a much higher level. 
+
+282
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA COoMmBbAaTt STtYyLlEeSs 
+Qver the course of her adventuring career; Anathaym has developed the 
+
+When preparing for character creation, Games Masters should 
+‘Hate Badoshi Warlords® passion. The Badoshi have continually threatened give some consideration to Combat Styles. To summarise what a 
+her homeland but now she has been chosen to lead a delegation sent to negotiate 
+
+style is: 
+a crucial truce with these merciless barbarians. 
+
+At the Badoshi fortress she s continually insulled, belittled, and chal- & The way a character has been trained to fight 
+lenged — a typical Badosh: ruse that she ought to resist. The Games Master & The weapons with which that character has been trained, 
+calls for Anathaym to roll against ‘Hate Badosh’ to see if;, finally, she can usually dictated by culture and career. 
+resist the constant snide attempls to demean her positon. If her rollfals then 
+
+MyTHRAS does not prescribe any limits on the number of weap- 
+she can control her overwhelming feelings to extract vengeance; if it succeeds, 
+
+ons a Combat Style can contain or cover. The primary reason for 
+her hatred will overcome her, whach is what the Badoshi want. 
+
+this is because such limits are always arbitrary, whereas a particular 
+Her roll does, indeed, succeed, and she challenges the Badoshi champion to 
+
+setting may have quite extensive training regimes. lor instance, a 
+single combat, and kills kim. The Badoste Warlords expel the delegation afier 
+
+Barbarian Hunter style may include weapons such as spear, sling, 
+slaughtering half of them. Anathaym barely escapes with her own life. Way; 
+
+bow, net and bolas whereas a Barbarian Warrior style may only 
+not peace, s assured. The delegation has failed as a result of Anathaym’s 
+
+include sword and shield. Of course, Games Masters can ensure 
+hatred. The campaign will now follow a very different course due to the use 
+
+that all Combat Styles in their campaign are balanced in the number 
+of this Passwn. 
+
+of weapons contained, but this is something that the Games Master 
+Anathaym’s inabilaty to allow her head to rule her heart results in a poten- 
+
+should establish as part of campaign preparation. 
+tially disastrous outcome. It involved a straight roll against her Passion. How- 
+
+There are, however, some recommendations we offer when 
+even; consider thefollowing alternative. . . 
+
+developing Combat Styles: 
+Instead of a straight roll versus ‘Hate Badoshi Warlords® the Games 
+
+Master rules that Anathaym should make an opposed roll of her hatred & Always consider the culture developing the style. Different 
+against her Loyalty to Meeros’. Her Loyalty roll wins the contest. Although societies during different eras follow many diverse trends and 
+Anathaym is filled with loathing for the treatment meted out to the delega- fashions. For example, with the introduction of gunpowder 
+tion, her Loyalty prevails, and she weathers the insulls. The Badoshi are weapons shields began to fall out of favour, leading to a range 
+secretly impressed by Anathaym’s conduct, and the peace negotiations continue of very different fighting styles that eschewed the shield as a 
+although so do the insults. However, war is averted, and Anathaym returns protective instrument. Whereas in feudal Japan shields were 
+lo her queen as a heroine: her head has ruled her heart, and many lives will 
+be saved as a resull. 
+
+Passions complicate choices, pose moral dilemmas and spur charac- 
+ters to acts of great heroism or flawed villainy. Naturally the Games 
+Master must exercise a certain caution if using Passions to drive core 
+behaviours, but, if used wisely and subtly, Passions can transform a 
+campaign from a series of set pieces into a truly epic saga of hero- 
+ism, treachery, victory and defeat. 
+
+Note that some players can find the use of passions in this man- 
+ner an imposition, regarding it as a loss of personal control over their 
+character; whilst others welcome the concept of using dice rolls to 
+escape the responsibility of making a difficult choice, or simply enjoy 
+the random vagaries of fate produced by rolling for such things. As 
+such Games Masters should carefully consider whether passions suit 
+their players, before introducing them in play. 
+
+COoMmBbAaTt 
+MyTHRAS combat can be deadly. A combination of good com- 
+
+bat skills, Special Effects and weaponry can fell even the toughest 
+opponent quickly. Here are some words of advice regarding combat 
+generally and more specific situations. 
+
+283
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+always very uncommon, even in the periods when archery ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+was considered the pre-eminent style of combat. Meeros_finally falls to the army of monstrous beasts, let into the city by 
+
+& Try to ensure that Combat Styles do not include overlapping treachery. The populacef lees to the fortified acropolis upon which the queen’s 
+weapons. If this is impossible, then a character should use the palace, and most important temples stand, but the gates fail to shut due to 
+style most fitting to the current circumstances. For example some_foul sorcery which has welded their hinges solid. Facing total slaughter, 
+a Barbarian Warrior trained in Sword, Spear and Bow may Anathaym stands in the gateway at the head of the remaining Scarlet Spears, 
+also be trained in the Shield Wall Combat Style which focuses and invokes every magic at her command, determined to cut down as many 
+on Sword, Spear and Shield. If the warrior finds himself in a monsters as she can before her soul travels to Myceras. 
+shield wall situation then the Shield Wall Combat Style per- Up the ramp approaches a mass of centaurs, satyrs, and Panthotaurs, 
+centage would be used for measuring his Sword and Spear led by their leader;, a massive minotaur bedecked in armowr, and wielding a 
+capability — because the shield wall imposes a very different great axe. Io hus side stands the traitor Xenos, who grinsf iercely as he sees his 
+fighting style. Similarly fighting from horseback requires hatedf oe preparing herself for her death. The minotaur king, and Anathaym 
+very different weapon techniques to foot combat: a Cavalry recognuse one another’s status, and gesture to their fellows that this will be a 
+combat style might contain Sword, overlapping with another single combat between heroes. 
+style, and this would be used whenever a character engages in Both protagonists exchange many mighty blows back, andf orth before the 
+combat when mounted. manotaur king suffers outrageous masfortune, hus gold painted hoof slipping on 
+
+& Styles can include melee and ranged weapons. A thief, for a pebble, causing ham to drop his axe, andf all prone beneath the ready, glowing 
+instance, trained in the Shadow Walkers style (dagger, shorts- tip of Anathaym’s spear. Instead of plunging home her weapon into the near 
+word and garrotte, for instance), can reasonably be assumed helpless minotaws; she honourably salutes herformidable opponent, and takes 
+to be able to throw his dagger as well as use it in hand to several steps backwards to allow ham to rise. The bull king recognises this act 
+hand combat. Again though, culture and practice will deter- of merey, recovers his huge axe, and bellows that in exchangef or his life he will 
+mine if; and when, a weapon can also be used in ranged cir- allow Meeros to stand, then orders his army to depart. 
+cumstances. Some styles will almost certainly focus only on T he wrathful Xenos protests ths act, demanding the minotaur hack down 
+ranged weaponry whilst others will focus completely on hand the presumptuous bitch, which the minotaur king blithely ignores. Finally, 
+to hand combat. consumed by hatred, the pampered noble draws his own sword, and rushes 
+
+& Discuss the different options with the players during character Jeroctously at Anathaym, screaming angrily with each strike. .. 
+creation, and establish requirements according to each play- 
+er’s character concept, culture and profession. Allow for flex- 
+ibility and creativity, and point out weapon specific Special DeeAaTthH Is NoTt ThHEe 
+Effects appropriate to their nature: this will help encourage 
+creative use of Special Effects during combat scenes, leading ONnLlYy OPpTtIioOnN 
+to more interesting fights. Victory need not, and should not, be dependent on killing every 
+
+single opponent. An intelligent foe, beaten and helpless, is far more 
+likely to surrender or call for mercy than fight to the absolute and 
+
+You KNnooww,, THhiis IsnN'’tT bitter end. Captured opponents can be ransomed, questioned or 
+even released in an honourable way, leading to perhaps a future alli- 
+
+NEeCcEeSSssAaRYr.y.…. ance or a similar acts of mercy if the characters find themselves on 
+It should be obvious when superior numbers, displays of skill, the losing side. Injured opponents may simply try to flee. Just about 
+
+good arms and armour will make a fight very one sided. Characters every creature, sapient or not, seeks to avoid death and injury. 
+should always, before secking to initiate combat, ask themselves if it MyTHRAS provides many tools for bringing a fight to a victori- 
+is worthwhile; necessary; inevitable, or most important of all, if it is ous conclusion without wholesale slaughter. Characters should be 
+survivable! encouraged to think about those options that can win a fight con- 
+
+Fighting should always be a last resort with alternative means clusively without necessarily drenching themselves in blood to do so. 
+— negotiation, trickery, or even retreating — being taken into consid- Special Effects such as Trip, Disarm, Press Advantage and Compel 
+eration beforechand. Indeed, this can even form a phase of a poten- Surrender can all bring a fight to a satisfactory conclusion without 
+tial combat, handled in Combat Rounds, but using social skills to death being a forgone conclusion. 
+adjudicate a potential outcome. For example, Insight can be used 
+to judge whether an opponent has the stomach for a fight, despite 
+
+KiiLllLinngG HAass COoNnSsEeQqUuEeNnCcEeSs 
+obvious bravado. Influence and Passions could be used to negotiate 
+
+Whilst combat has always had pride of place in many roleplaying 
+a peaceful outcome before weapons are drawn. 
+
+games, especially MYTHRAS, it should be remembered that mindless 
+Honourable and reasonable opponents will seek alternatives to 
+
+violence and death are frowned upon by most cultures, for the basic 
+fighting and not lose face in doing so. Creatures, if outnumbered or 
+
+reason that it undermines society. Whilst killing is permitted in cer- 
+cornered, will flee rather than risk life and limb. Consider what can 
+
+tain circumstances, in times of war or in self defence perhaps, there 
+be done to reduce the risk of injury and death before rushing in to 
+
+are usually conventions to observe. For instance not even on the bat- 
+deal damage. An opponent may have unknown magical reserves or 
+
+tlefield is it always expected or even permitted to kill surrendered or 
+skills that make even what seems like the most obviously one-sided 
+
+helpless foes. 
+fight something different entirely. 
+
+Characters should scale any violent reaction proportionately to 
+the event which triggered it, suited to the culture they are in. For 
+
+284
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+example, a thief who attempts to rob characters in a back alley at outclassed by their opponents. Such encounters should pose a con- 
+knifepoint rarely deserves to be slaughtered, since folks would con- siderable chance that they will be badly injured. 
+sider frightening off the criminal, or at most giving him a beating, a Games Masters need to be aware of these limitations in MYTH- 
+more than sufficient retort. Of course, if that thief was also a mur- Ras and structure their games accordingly. If combat becomes the 
+derer who killed his victims then a more violent response would be focus of the campaign, occurring so frequently that there is little 
+in order. time to heal naturally or recover magical resources between encoun- 
+
+As a rule opponents in a fight are rarely willing to continue to ters, the characters will either be unable to complete their quests or 
+the death unless driven by some overwhelming passion — be that be slain from the accumulation of crippling injuries. 
+religious fanaticism, protection of a loved one, or seeking to sate Players, in particular, need to understand that when bloodied 
+a need for vengeance. Generally, rather than death, foes will seek and bruised from one violent encounter, another in quick succession 
+quarter, beg for mercy or attempt to flee. Killing at this point can is not the best way of making progress: hiding, fleeing or talking 
+bring serious repercussions. their way out of trouble may prove to be far more beneficial. 
+
+Of course mishaps occur when weapons are being swung, but 
+unnecessary butchery soon brings a double-edged reputation. On 
+
+AccTtionN PoiiNnTts ARrEe NOoTt 
+one hand the characters will become known as men not to be trifled 
+with, but conversely they will alienate themselves from those they ThHEe BEe ALlLl AanNDd EnNdD ALlLl 
+ostensibly protect. Action Points certainly bestow advantage. Being able to do more 
+
+Repetitive killing can draw unwelcome attention from local rul- in a combat round can make all the difference. However, characters 
+ers whom rarely appreciate those who take matters of law or pun- that may feel penalized by only having 2 Action Points, rather than 
+ishment into their own hands. Killing the wrong person can bring 3, (or 3 Action Point characters facing an creature with 4) still have 
+retribution from a powerful patron or perhaps start a vendetta with many options available to help level the odds: 
+a slain victim’s family; cult or brotherhood. A society usually has Speed Helps: Striking first, through a higher Initiative, offers a 
+strict rules about death, even as part of an honourable duel or self significant advantage. Lightly armoured characters can exploit this 
+defence. It may be something as simple as paying wergild to com- opportunity when facing slower, heavily armoured ones. 
+pensate the family of the slain or might result in exile to avoid ongo- Numbers Matter: Outnumbering a foe can quickly resolve a fight 
+ing disruption within the clan or settlement. because the foe cannot hope to use its own Action Points to effec- 
+
+Games Masters are encouraged to consider what happens in our tively deal with two opponents who have 2 Action Points each. Con- 
+own world to those who practice gratuitous violence upon members versely creatures that attack in packs use their weight of numbers 
+of their own society. On the other hand it can be completely differ- to overwhelm their opponents, so numerical advantage should be 
+ent to pursue the same degree of slaughter against an enemy culture, exploited when possible. 
+race or species. Manoeuvring: A character who is outnumbered can make excellent 
+
+use of the Outmanoeuvre Combat Action to keep multiple foes at 
+
+PAaCcciInNgG COoMmBbAaTt ENnCcOoUuNnTtEeRrSs bay, buying time for help to come or simply remaining unengaged 
+
+Unlike some roleplaying games, healing magic is not ubiquitous, (and possibly fleeing). 
+
+meaning that injured characters are not going to be able to fall back Use of Weapons: Long weapons, such as spears, can hold an oppo- 
+
+on a plethora of spells, potions and scrolls to regain lost hit points if nent at a safe distance limiting what can be done even with a supe- 
+
+they lurch from one combat to another. Natural healing can be slow rior number of Action Points. And long weapons can be used to 
+
+and if the characters are in an isolated location, far away from places injure— and whittle down — an opponent without him getting close 
+
+offering rest and sanctuary, healing will take longer, and characters enough to attack. A long weapon impaled in a human-sized creature 
+
+be placed at greater risk. will severely hamper its skills and movement, leading to a massive 
+
+It is therefore imperative for Games Masters to carefully pace disadvantage regardless of its Action Points. Remember: a weapon 
+
+violent encounters: too many and characters will soon die. Similarly, is a tool, and tools have multiple uses beyond the obvious. 
+
+players will need to pace their activities according to any lingering Use of Special Effects: A common misconception is that special 
+
+wounds or injuries. If every character in a party is injured and there effects such as Choose Location and Maximise Damage are the 
+
+is no easy access to healing, magical or natural, a fight will be the last most advantageous. They are definitely effective, but when faced 
+
+thing they need (unless they are all truly suicidal). with an opponent that has more Action Points those special effects 
+
+Of course not all scenarios need not involve combat at all, instead that deny Action Points, or force them to be used for activities other 
+
+relying on social interaction, good roleplaying and use of wits to suc- than attack or defence, are often better choices. An overextended 
+
+ceed. However, those adventurers that do involve physical conflict foe cannot attack on his next turn. A disarmed foe has to spend an 
+
+should limit themselves to several minor encounters, and one major. Action Point to draw another weapon. Bash can force an opponent 
+
+Minor engagements are those where characters have signifi- out of engagement, making him expend an Action Point simply to 
+
+cantly greater skills and perhaps armour than their opponents. Rab- regain it. 
+
+ble and Underlings (see page 111) are often good fodder for these Never Ignore Defence: Another misconception is that, if an attack 
+
+sorts of encounters, as are lone creatures whom the characters can against you fails, it makes little sense to spend an Action Point in 
+
+gang up on. defending — it could be more useful for an attack. However, a suc- 
+
+Major engagements should be used as the climax of a scenario, cessful defence roll against an unsuccessful attack generates a Special 
+
+being battles where the characters are evenly matched or slightly Effect, and any opportunity to gain an advantage (especially if you 
+have fewer Action Points) should not be ignored. All the defensive 
+
+285
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+Special Effects have their uses, and some can easily dictate the out- of skills, here are some suggestions for also introducing challenges 
+come of a fight. A Blind opponent suffers a significant disadvan- that are not so one-sided as to diminish players’ enjoyment. 
+tage for 1d3 turns; Opening Range can afford the defender valuable Superior, but not overwhelming, numbers can help: take the par- 
+breathing space. Try not to overlook the use of defensive opportu- ty’s size, and increase the number of opponents by two individuals. 
+nities even when straight logic might dictate reserving Action Points Use packs of creatures, using pack tactics. Pack hunters, such as 
+for an attack. wolves, rarely stalk alone. Size a pack as above, but have the pack 
+
+Shields are Invaluable: 'Two handed weapons definitely do more work differently to sapient opponents: surrounding, harrying, wear- 
+damage and wielding a pair of swords looks impressive, but there ing down, and then sending multiple numbers against the most help- 
+is no substitute for a shield when it comes to pure defensive expedi- less seeming member. The party will be forced into measures that 
+ence. Shields block the damage of large weapons and creatures very consolidate their numbers for safety and aim to drive the pack away. 
+effectively, and are the only way to defend against ranged attacks. Exotic arms and armour. Have that raiding group of goblins attack 
+But don’t underestimate their usefulness in other areas: Passive with nets and tridents rather than swords and shields, giving the 
+Blocking keeps multiple locations defended, and a shield, when used opponents different Special Effect options that might be unfamiliar 
+to Bash, is more effective than other blunt-force weapons. to the characters, such as Entangle. 
+
+The best approach is a combination of all the above techniques Make use of ambushes and ranged attacks: ranged attacks can be diffi- 
+in different circumstances. For one thing, combat becomes more cult to counter, and doubly so if the enemy has taken advantage of 
+interesting and can yield some interesting results. Good and clever excellent cover. The characters will be forced to find ways of closing 
+use of techniques and tools can truly level the battlefield when it whilst defending themselves, or be forced to use their own ranged 
+comes to Action Point disparity, and the MYTHRAS combat system attacks, to counter even a modestly-skilled opponent. If characters 
+has been carefully designed to take into account the myriad combat are surprised by an ambush, they will be forced to spend a round 
+options available and the fact that opponents are not always evenly defending before they can counter attack, again making modestly 
+matched. skilled opponents a hazard and challenge in the earliest stages of a 
+
+fight. 
+Consider use of magic. Sapient creatures are just as capable of using 
+
+GRrAaDdIinNGg OPpPpOoNnEeNnTtSs 
+magic as the characters. Equipping a set of foes with spells such 
+
+“How should I grade opponents so that fights are balanced?” 
+as Bladesharp and Demoralise can compensate for perceived lack 
+
+This is a frequently asked question, especially by Games Masters 
+of skill and force different tactics. A shaman, controlling several 
+
+coming to MYTHRAS from roleplaying games that have structures in 
+fetishes, can prove to be a match for any player-character spell caster 
+
+place, such as experience and challenge levels, designed to maintain 
+or well-armed fighters. Remember that sapient creatures have access 
+
+party/opponent parity. 
+to similar resources as characters: use them wisely, and this will help 
+
+The easiest way is to match opponent and character numbers, 
+grade the challenges characters face. 
+
+with the opponent’s skills in roughly the same range (+/- 10%) as 
+Have creatures fight according to their nature. 'The Creatures chapter 
+
+the characters’ skills. However, this can lead to boring and repetitive 
+gives more detail about how creatures tend to involve themselves 
+
+combats — especially if neither the characters nor their opponents 
+in combat: read and use these guidelines which will help in making 
+
+use Special Effects to their full advantage. Combats are usually at 
+fights with non-sapient creatures far more interesting and challeng- 
+
+their best when opponents are challenging and not necessarily bal- 
+ing for the characters. 
+
+anced. So, in addition to giving opponents a certain parity in terms 
+Use of local conditions and the environment. Adventurers are usually 
+
+the strangers in a locale. This lends the incumbent species or oppo- 
+nents a distinct advantage in using terrain, staging surprise attacks, 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA driving the characters into bottlenecks, and so forth. Many species 
+The battle between Xenos, and Anathaym is epu, fuelled by years of are nocturnal or have excellent night-sight, making their attacks for 
+
+building hatred. At furst the warrioress, despite her injuries, has the advan- more likely to occur during the hours of darkness, when characters 
+lage; but Xenos uses his Hate Anathaym passion to boost hus Combat Style, should suffer from penalties due to the absence of light. Couple this 
+granting him the greater skill, forcing her on the defence. Several blows later, with unfamiliar terrain, and even a simple fight may become very 
+strengthened by lus brutal, unrestrained rage he culs through her spear shaft, challenging. 
+and Anathaym is_forced to draw her shortsword. Never forget fatigue. Sustained effort equals fatigue. If characters 
+
+Gloatingly Xenos describes what he’ll do to her sister once he has dealt have been travelling through difficult country with heavy loads, then 
+with Anathaym, and the conceited queen who refused his marriage proposal. they may well be suffering from fatigue. Clever predators will keep 
+T has incenses Anathaym so greatly that she uses her own Hate Xenos passion watch for many hours to ensure a potential opponent is worn down 
+to augment her combat prowess. Then with consummate skill, she cuts off hus whilst it is still fresh and able. Use the fatigue rules to simulate the 
+sword hand at the wrist. Xenos screams in agony, and drops to lus knees in toll on both characters and opponents. In this way, monsters that 
+Jront of thefurous warrion. are seemingly very, very tough can be pitched against fresh-as-daisy 
+
+Thas time there is no mercy in her heart. Heedless of the strident com- characters if the monster is tired or tiring. 
+mands gwen her by the queen, and before anyone can interfere, she decapitates Ultimately ‘balanced’ encounters are less about relative combat 
+Xenos — claiming the vengeance she has long sought. She has litle time to skills, hit points, armour and weapons, and more about tactics and 
+savour her victory. All too soon she is disarmed by her Scarlet Spear compa- 
+triots, and escorted to_face judgement by the senate for killing the one man she 
+was_forbidden from harming 
+
+286
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+use of the environment. Games Masters should never forget two help determine the outcome. Indeed, such mechanics can greatly 
+things when developing encounter challenges for characters: speed up play and keep the action flowing. 
+
+The task system, described on page 65, used for crafting and 
+& Characters have Luck Points — these can be life-savers. 
+
+manufacturing goods, can be tailored to help resolve social conflict 
+& Characters are on the path to be being heroes— and should 
+
+situations. The system is straight-forward: 
+have the opportunity to act in this way. Stupidity and lack of 
+planning should not be rewarded. « Instead of a Craft or similar roll, characters use their social 
+
+skills: Commerce, Customs, Deceit, Insight, Influence, Ora- 
+In MyTHRAS even relatively low-skilled opponents can still fell a 
+
+tory, Passions and Willpower, as appropriate. 
+mighty warrior with a 120% Combat Style if they are cunning and 
+
+& The Games Master frames the social conflict setting: ‘Per- 
+selective in their tactics. Likewise a character with a mere 40% in 
+
+suade the senate to go to war’ for instance; ‘Defend your per- 
+bow and arrow can still attempt to bring down the fire-breathing 
+
+sonal honour’; ‘Cut a braggart down to size using cunning 
+dragon. Experience with the combat mechanics will help shape chal- 
+
+wit.” Next he decides how long achieving the objective is likely 
+lenging encounters that include seemingly unbalanced opponents. 
+
+to take. This could be a few seconds of verbal sparring; a few 
+minutes of impassioned rhetoric; or many hours of detailed 
+
+NOoNn--PPLlAaYyEeRr CHhAaRrAaCcTtEeRr and tense negotiations. 
+& The aim of the characters (or the opponent) is to score 100% 
+
+STtAaTtIiSsTtIicC BLloOCcKkSs or more over the course of the conflict. Each participant may 
+Although the Creatures chapter provides the same range of 
+
+characteristics and attributes as for adventurers, Games Masters 
+only rarely need this level of detail. And, in most circumstances, an ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+average of a species is perfectly fine without the need to roll a com- Anathaym faces her queen’s wrath for killing Xenos. The ruler had 
+pletely bespoke example. expressly wanted the traitor alive, not only to gather information concerning 
+
+When running an encounter likely to result in combat, the fol- how the city fell so quickly, but also to weaken the political power of certain 
+lowing information is most crucial: members of the Senate. Worse still, Musogynistes, the father of Xenos, has 
+
+charged Anathaym with breaking the ancient law forbidding the slaying of 
+& Action Points, Initiative Bonus, Armour Point, Hit Points, 
+
+a member of the sacrosanct_founding families. With her grip on the throne 
+Movement Rate, Magic Points 
+
+weakened by the devastating sack on Meeros, the queen has hitle option but to 
+& Combat Style (with weapon values), Athletics, Brawn, Endur- 
+
+let the trial continue. 
+ance, Evade, Perception, Stealth and Willpower. 
+
+The Games Master decides the trial takes place over the course of several 
+& Important Traits. Unless a creature has a particular skill 
+
+days, with each roll representing one day of game-time. As a guilty member 
+useful in combat or other encounter situations, then a more 
+
+of the conspiracy Maisogynustes uses his Deceit skill o musrepresent evidence 
+detailed skill list is superfluous. If a skill is unlisted and Games 
+
+against the warrioress, twisting well known tales of her years actwely perse- 
+Masters need to assign a value in a hurry, give the opponent 
+
+cuting lis son. To counter his honey-tonguedf abrications, Anathaym uses her 
+or creature either 30%, 60% or 90% depending on whether 
+
+Influence skill in an attempt to show that she has always faithfully served 
+it can be expected to be poor, competent or good at the 
+
+the ciy. 
+required skill. For example, a group of characters encounter 
+
+Day One: Anathaym’s Influence roll is a success, whilst Maisogynistes’ 
+a troupe of centaurs and end up negotiating with them rather 
+
+(stall overwhelmed by his son’s loss) fails. She scores 25% towards her goal 
+than fighting; the Games Master has not listed Influence in 
+
+of 100. 
+the required statistics, but it can be assumed that at least one 
+
+Day Two: This time Misogynistes scores a critical success whilst Ana- 
+of the centaurs has Influence 60%, representing a reasonable 
+
+thaym only succeeds. Both parties now have a score of 50%, and the trial is 
+level of negotiation skill. 
+
+neck, and neck, fuelling much impassioned debate in the taverns that evening. 
+Day Three: Only Anathaym succeeds, as Misogymstes fauls to arrive at 
+
+the senate house that day (automatic failure). Her stoic defence against the 
+senate’s questions allows her to draw ahead with 75%. 
+
+SocciiaALl COoNnFfLlIiCcTt Day Four: Anathaym s stunned lo silence when Musogynistes turns up, 
+Social Conflict is the application of verbal and sociological tech- claiming that it was Anathaym herself who opened the city gates, and staged 
+
+niques to force a change in thinking, behaviour or social standing. the battle with the minotaur king The forged scroll he presents as conclusive 
+It can take many forms and need not be direct, but may ultimately proof of has son’s innocence, which details the looting of the city, bears the 
+result in injury to reputation, personal honour, codes of conduct, wax impression of Anathaym’s own _famalial seal ring. Misogynistes wins a 
+and so on. Various techniques are utilised which include trading critical whalst Anathaym fails entirely. 
+insults, spreading rumours, uncovering scandals, personal argument, With has 100%, the senate finds the Champion of Meeros guilty of 
+open debate, betrayal of secrets, and anything else one side or the Treason, the murder of Xenos, and attempted Regicide. She is sentenced to be 
+other come up with. stoned to death immediately, before the senate house. 
+
+The key recommendation for Games Masters is to roleplay, as Howeven, as the senators rise the sacred statue of Myceras groans with 
+far as possible, social conflict situations. However there are many cyclopean displeasure, and topples as an earthquake strikes the ciby... 
+players who feel uncomfortable of immersing themselves to this 
+degree and prefer a mechanical method, more akin to combat, to And so Anathaym’s Saga concludes. For now... 
+
+287
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+roll against the relevant social skill, and accumulate the result course place captured characters at some disadvantage, but will not 
+for that particular period of sparring: unduly injure them. 
+Critical: 50% The point at which Games Masters need to be careful is when 
+Success: 25% placing traps intended to maim or kill in his scenario. Such devices 
+Failure : 0% are not always intended to be easily bypassed or avoided. After all, 
+Fumble: —25% it would be crass stupidity for the tomb of a powerful king to have 
+
+& The first side to reach 100% or more wins the conflict, with traps which can be circumvented, since there is no reason for anyone 
+any excess above 100 reflecting a greater degree of outcome. to enter the sepulchre once the dead ruler is interred. A palace trea- 
+If the contest ends in stalemate, with two or more participants sury on the other hand, may need to be opened on a regular basis 
+ending with the same 100%-+ score, then the Games Master and thus requires some secretive method of safe entry. 
+has the option of permitting the contest to end in an unre- A properly designed death-trap should be — once triggered — 
+solved standoff; or the leading contestants can make a straight utterly lethal otherwise it is not performing its function correctly. 
+opposed roll between them, the victor of the roll winning the This however may be of little consolation to players whose charac- 
+contest. ters have just been crushed to bloody pulp or lie at the bottom of a 
+
+& The outcome may not be clear-cut, depending on the pit transfixed by stakes. When using such traps to guard important 
+intended result, and will depend on whether the method of locations and treasures, the Games Master should provide plenty of 
+invoking social conflict is direct or indirect. warning that ‘no man has ever returned from entering’ the infamous 
+
+place. Clues can be placed in ancient scrolls describing its legend, 
+This system can be applied to just about any form of social inter- 
+
+carved across the entry as dire curses or even passed down by word 
+action — not just conflict; attempting to seduce someone, for instance. 
+
+of mouth by storytellers and burglars. 
+The abstracted timeframe allows for actions that might take weeks 
+
+No matter how deadly the trap, there should always be some 
+to be condensed into a few minutes of dice rolls, hopefully supported 
+
+method of escaping its effect, even if this is merely diving back the 
+by some roleplaying to help add flavour, and not reduce something 
+
+way they came. This is not the same as circumventing the trap, 
+of fundamental importance to a purely mechanistic exercise. 
+
+merely avoiding the worst of what occurs when it is set off. Yet 
+Characters can change the skill used from one round to the next, 
+
+because of the binary nature of resistance rolls in MYTHRAS, inju- 
+as long as the skill is appropriate to the direction of the interac- 
+
+ry-inflicting traps should be used sparingly as characters will even- 
+tion. For instance, a character could start a debate with Influence 
+
+tually fail their roll; although Luck Points can add considerably to 
+in the first round, change to Oratory in the next, and then back 
+
+survivability. 
+to Influence in the third. Games Masters can force such a change 
+
+Since most traps are but a single use, characters should some- 
+depending on how the social conflict needs to play out, and how the 
+
+times encounter traps which have already been sprung — often with 
+outcome has been framed. In this example, the first round might 
+
+the remains of a previous victim still caught upon them. This is 
+simulate persuading a senator to table a motion before the senate. 
+
+more relevant to traps built in long forgotten or abandoned places, 
+In the second round the character is called upon to give a speech 
+
+rather that those still frequented by living folks. In fact nothing pre- 
+laying out his reasons; and in the third, the character must return to 
+
+vents a scenario being designed around a necropolis of previously 
+persuasion to swing the crucial vote in his favour. 
+
+sprung traps with no active ones left, simply to unnerve the charac- 
+ters. Conversely tomb maintenance could be the duty of a nearby 
+cult or brotherhood, to ensure that the secrets of such places remain 
+
+UssIinNgG TRrAaPpSs unsullied by acts of desecration. 
+Due to the considerable investment of time (and sometimes 
+
+Traps are a traditional element of tomb raiding or the protection 
+money) required to construct traps, especially larger scaled devices, 
+
+of famous treasures. Although their prevalence in Sword & Sorcery 
+belies their actual rarity in historical record, this should not prevent it should be reasonably rare to encounter multiple incidences of 
+
+the Games Master from using them as an important element of their them. Building a sprawling death-trap dungeon for example would 
+
+scenarios. Some degree of thought should be given to the occur- require years of effort and a modest fortune to pay the workers, but 
+to what purpose? There would be little chance of suppressing the 
+
+rence, purpose and deadliness of traps however. 
+The most commonplace traps are merely warning devices, used fact that the dungeon existed and rumours concerning its precise 
+
+to alert guardians of whatever has been trapped. Scattering dried secrets might escape, unless of course all of its labourers were slain. 
+
+leaves around a campsite or balancing a chair against the door of Depending on its ultimate intention, this might not be an issue. 
+The constructor of a death-trap dungeon might wish for people 
+
+a rented room in a tavern, are traps designed to reveal the presence 
+to hear of its infamy, drawing them to an annual festival where 
+
+of stalkers or thieves. These are good challenges to place against 
+adventurers compete to survive the dungeon for the promise of a 
+
+characters since the only outcome is the revelation of their presence, 
+leaving them free to negotiate or flee as the circumstances denote. priceless reward. Equally the dungeon may guard the entrance to a 
+
+royal necropolis, and its fame spread far and wide by display of dead 
+Ensnaring traps are more often used by hunters to capture prey, 
+
+thieves outside its entry — freely advertised and unguarded — to ensure 
+usually for the purpose of gathering food. Yet pits, snares and drop- 
+
+few ever try once the reputation of its deadliness is established. 
+ping portcullises can just as easily be used against characters. They 
+are also good to use against characters, especially when the noise 
+of their triggering attracts those that set them, preventing sapient 
+victims from freeing themselves or being freed by others. This will of 
+
+288
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+consideration is language. If different races have trouble com- 
+CRrEeAaTtUuRrEeSs AaSs PLlAaYyEerR municating, this can also lead to tensions and difficulties. 
+
+& TIs the creature suitable? Some of the creatures in MyTHRAS 
+CHhAaRrAaCcTtEeRrSs are intended to be non-player characters: contacts, arch-vil- 
+A great deal of fun can be had with non-human characters, and lains, boss-monsters, and so on. A Gorgon, for example, 
+
+one of the beauties of MYTHRAS is that just about any race can be would never make a suitable player character simply due to 
+used in this way. Players will, no doubt, flip through the Creatures its nature and powers. This, again, comes back to the adage 
+chapter and petition the Games Master to play an Ogre, Minotaur, that just because a creature can be played as a character, it 
+or even a Gorgon or Dragon. What is a beleaguered Games Master does not mean that it should — or was even intended to be. 
+to do? 
+
+Just because a creature can be played as a character does not 
+CuuULltTuURrEe,, CAaRrEeEeRrSs aAnNDd DEeVvEeLloOPpmMEeNnTt 
+
+mean that it should. The Games Master is always the final arbiter and 
+Where a non-human race is acceptable, the Creatures chapter 
+
+even uncontroversial choices, such as dwarves and elves, may not be 
+offers some guidance on developing a species with an appropriate 
+
+in keeping with the flavour of a campaign. The Games Master must 
+culture, career, and so forth. Where such guidance does not exist, 
+
+base his decision on the following considerations: 
+the character creation rules are flexible enough to be applied to just 
+
+& How well does a particular race fit with the nature and themes about any race without special rules or requirements. Choose a cul- 
+of the campaign? Any creature but humans would be out of tural background that reflects the creature’s type, a profession that 
+
+place in an historical setting for instance. Whereas a high fan- fits with its description and culture, and then continue the character 
+
+tasy campaign could be assumed to have one or more elder creation process as for humans. Where a species has character devel- 
+races (a common high fantasy theme). opment notes included, use these in preference to the human char- 
+
+& TIs the creature sapient? Sapience denotes free will, informed acter creation system; you may also find that these notes fit several 
+
+decision-making and the capacity to act in a rational, judg- other species and they need not be considered unique or restricted. 
+
+mental way rather than one based on instinct. Sapient char- 
+acters are far casier to relate to and therefore play, than those 
+which are merely sentient. Of course, some sentient creatures 
+may have been raised to sapience through magic or other MAaGgIiCc 
+
+What types of magic are used and how common they are, are 
+means, and therefore be applicable for play, but generally true 
+sapience is the key. specific to the campaign. A magically rich campaign could have all 
+
+& What is the creature’s level of power when compared with five of the magical disciplines whereas a low-magic campaign might 
+
+the rest of the characters? As a rule of thumb, Games Mas- have only one, reflecting a single, dominant power in the universe. 
+
+ters should deter players from choosing creatures that are Games Masters must carefully consider how prevalent magic will be 
+
+clearly much more powerful than the other characters. The in the world before allowing players to develop magic-using charac- 
+
+casiest way to measure power levels are to compare attri- ters. Not all of the magical disciplines need to be used, and indeed, 
+
+butes. Creatures with substantially more Action Points, sig- some uniquely interesting combinations can be created by mixing 
+
+nificantly higher Damage Modifiers, high Hit Points and nat- and matching them. 
+
+ural armour, will have a large advantage over more modest With five separate magic systems Games Masters have a great 
+
+character types. This can prove to be difficult when it comes deal of choice when it comes to deciding what types and levels of 
+
+to balancing encounters for the whole party and it may also magic should be present in the campaign. Some points for all Games 
+Masters to consider: 
+
+cause resentment amongst other players — especially if, in 
+combat situations, the creature character clearly hogs the & What is magic’s presence? Is it extremely rare and in 
+limelight. the hands of only a few, fabled practitioners, or is it more 
+
+& How will the creature fit in with other races? Both Games common-place? 
+Masters and players need to consider questions of prejudice, & Ts magic a specialised art, relegated to members of only a few 
+social acceptance, and general logistics of mixing races in careers that dedicate their lives to its pursuit? Or is it possible 
+the same group. A group may find it is barred or banished for all careers to learn magic in some form, irrespective of 
+from many areas if it contains a troll or chaos hybrid in its how rare it is? 
+number; worse, it may attract attacks from those who seek to & How is magic viewed by most societies? If magic is relatively 
+stigmatise and punish difference. A group with a giant as a rare then the chances are that most people will view it with 
+member will likely strike terror from many kilometres away awe, respect and, perhaps, suspicion and fear. If it is more 
+and, even if they do not, find that the giant character simply common then magic may be something that, whilst remark- 
+cannot enter a city’s walls due to its size, thereby causing the able in its own way, is an accepted part of daily life. 
+player to sit-out much of the fun. Another consideration is 
+that of tolerance within the group. Different races have radi- Which of the magic systems will be represented in your 
+
+cally different views regarding morality, and these might be so campaign? 
+
+disparate as to lead to intra-party conflict and strife. A further Folk Magic — magic may be restricted to very simple, local effects 
+that are understood primarily by hedge wizards, witches, wise men 
+and women, and so on. Much is based on folk-lore and a deep 
+understanding of the natural world, coupled with certain powers 
+
+289
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+that may be inherited through a bloodline or awoken through expo- some form of ruling class, which will, eventually, seek to con- 
+sure to such knowledge. solidate and protect its position. How does this influence the 
+
+Anmimism — the spirits are vital entities to the world and com- lower social strata? Is magic used to control the populace or 
+munion with them a natural part of life. Whilst animists are often oppress them? Do certain forms of magic corrupt spiritually 
+viewed as primitive, there are many civilised and sophisticated soci- and morally? Have other magical paths been forgotten but 
+eties practicing animism, such as the Shinto religion of Japan. could be awoken in some way? 
+
+Mpysticism — ascetics seek to enlighten themselves through a per- 
+sonal understanding of reality and control over their bodies’ unre- 
+alised potential. Mysticism is prevalent in many cultured societies 
+that have their basis in reason, rationality and deep philosophical CuulLltTs AanNDd 
+understanding. Mysticism is not necessarily a religious path though, 
+and may be found in many secular societies. BRroOTthHEerRhHoOOoDdSs iInN 
+
+Sorcery — sorcery implies that mortals have mastered the arcane 
+laws of the universe and bend them to their will. The gods may not tThHEe CAaMmPpAaIigGnN 
+exist, may be absentee landlords, or their worship has diminished to The Cults chapter provides an extensive range of bare-bones cults 
+the point that they cease to be relevant. Sorcerers, especially the very for Games Masters to develop, depending, of course, on whether or 
+powerful ones, may be looking to fill this gap, and assume a godhead not cults form an important part of the campaign. Although cults 
+role themselves. This is a typical trope of most Sword and Sorcery. have always been an integral part of MYTHRAS, there is no need to 
+
+Theism — this implies that the gods exist, and are prepared to make them the focus of attention or indeed, even include them at 
+allow their powers to be channelled and used by mortals in return all. There are some excellent reasons for their inclusion: history and 
+for worship. This is typical of many ancient myths and religions, par- fantasy include many cult examples, and some ancient societies were 
+ticularly those of the ancient world such as India and Mesoamerica. defined by them. But some settings may use cults very differently: 
+
+Whatever combination of styles you choose for your campaign— 
+and there is no need to have all five present, unless you desire a truly & Cults may be rare or difficult to join, being restricted to 
+
+magic-rich campaign — study the magic systems carefully: certain cultures, social classes, or careers. Only a small elite 
+might be entitled to progress through the cult ranks. 
+
+& Understand how they work and what powers they grant to & Some fantasy genres — Swords and Sorcery in particular — 
+their practitioners. Reading a spell on its own is not enough: depict the universe as a cold, uncaring place where the gods 
+the mechanics for each magic system can enhance an individ- are largely absent, and cults are reserved for a tiny minority 
+ual spell’s effect considerably. who are bent on achieving power at all costs. In such cases 
+
+& Do different cultures practice different magical traditions? cults are the province of powerful non-player characters (typ- 
+Experiment with different themes. Perhaps the barbarians of ically malevolent sorcerers), and form the focus of characters’ 
+the steppes are masters of sorcery whilst the civilised cultures opposition. 
+cleave to spirit worship. Maybe only the superstitious primi- & Worship of gods simply has little or no overt organization. 
+tive tribes believe in the gods whilst the nomads - arch-sur- Worship is personal and although temples and clerical classes 
+vivalists — have developed many mystical traditions to aid in exist, there 13 no established hierarchy of progression outside 
+their daily life. of a purely clerical career — which may be highly restrictive in 
+
+& Choose what spells will be made available. Games Masters terms of adventuring. 
+should not feel compelled to make every spell listed for a magic & In worlds or settings where magic is rare or absent, cults 
+type available. Some will be unknown, rare, or extremely dif- are purely a social mechanism rather than one that offers 
+ficult to learn. Some will not be appropriate to the flavour of benefits for its initiates: cults therefore provide background 
+the campaign. Build your own spell lists. Doing so will help colour rather than an integral game mechanic for magical 
+manage players’ expectations when choosing magic, and give development. 
+the Games Master control over magic that could be overly 
+powerful in a campaign’s early stages. You can always expand So, give some thought to the place and role of cults in the cam- 
+
+your list later. Indeed, magical research can be a very good paign. Many settings— and some published specifically for MyTH- 
+
+driver for certain scenarios. RAS — will use them extensively, whilst others may include them to a 
+
+& Decide what magic will be available to characters at char- much lesser degree. Brotherhoods, on the other hand, are likely to 
+
+acter creation. Do characters need to join a cult to learn be far more common: people, being social animals, naturally form 
+
+higher magic? Can they choose magic-using careers from brotherhoods and societies for mutual support, advancement and 
+
+the very start, and develop cult membership (or some other protection. Brotherhoods can effectively replace cults in some set- 
+
+form of magical education) as a part of character creation? tings, or happily co-exist with them. 
+
+Should they have any magic at all? Might gaining access to it, If cults are to be used, they require a little work. Cults can be as 
+
+through adventuring and experience, be the route to magical detailed or as nebulous as one desires; but to get the very most from 
+
+power? Many fantasy stories use this premise very success- 
+fully as a way of showing individual journeys of discovery 
+and realisation. 
+
+& Consider what consequences a magical type will have on the 
+world. Magic is a path to power, and all paths to power lead to 
+
+290
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+a cult, the following framework elements can be used as the basis for 
+HiistToORrYy AanNDd COoNnTtEeXxTt 
+
+developing a fully-realised cult. 
+What is the history behind the cult? What role does it play in 
+
+& Concept society? Much depends on the cult’s size, but small cults can be very 
+& Object of Veneration powerful in a local area, and large ones weak when their influence is 
+& History and Context spread across distances. 
+& Myths 
+
+& Who founded the cult, or how did it come into being? 
+& Magic and Powers 
+& Obligations and Deficits & When was it founded — recently or long ago? 
+
+& How has it maintained its position — has it changed over time? 
+& Membership and Ranks 
+
+& Does the cult have enemies? What other cults is it affiliated 
+« Training 
+
+with? 
+When developing a cult, approach each element in order, allow- & Ts the cult part of a pantheon? How does it contribute to the 
+
+ing ideas to build, based on the decisions made for the preceding overall myths of that pantheon? 
+element. Although the following steps are phased specifically for cult & Does the cult worship differently, or believe different things to 
+organisations, the same elements can be applied for the creation of similar cults? If so, is it considered heretical? 
+Brotherhoods too. & What social services does the cult offer to its lay members? Is 
+
+it a beneficent cult or inherently selfish? Does it care a jot for 
+the welfare of others? 
+
+COoNnCcEePpTt 
+& What is the cult’s future? Are new members being attracted 
+
+What is the basis of the cult? Is it a formal religion covering an 
+or is its influence on the wane? Are new beliefs eroding old 
+
+empire, a nation, a community or a small body of people? Is it, 
+ones from within? 
+
+perhaps, outside of an over-arching religion due to a difference of 
+belief, although agreeing with it on most aspects of orthodoxy? Is The history and context should be a narrative that addresses 
+the god living or dead? Is the god represented by a prophet or ideal some, or all, of the above questions. Again, it need not be too com- 
+that forms the basis of the belief? Is the cult focused on worshipping plex or detailed, growing instead through game play and continued 
+a particular aspect of a god’s nature? Is the focus of the cult a char- Games Master development. 
+ismatic individual who might become a god? Or is it a personality 
+of such heroic, charismatic stature that veneration is the only way to 
+
+MyyYtThHSs 
+show the appropriate love and respect? 
+
+Many cults have myths. A myth is a story or set of stories that 
+The concept need not be detailed, but it needs to have a sub- 
+
+describe and exemplify what the cult stands for and how it behaves. 
+stantive hook for the rest of the framework. It might be as simple as 
+
+Myths are, typically, timeless and concern the deeds of gods or the 
+a sentence, or a more detailed paragraph or so that clearly outlines 
+
+object of veneration. They may be considered unassailable truths, 
+the concept. Do not feel compelled to go into too much conceptual 
+
+or stories that provide a meaning or parable, but are known to be a 
+detail. Concepts change over time, so if the concept is relatively sim- 
+
+work of fiction. The important fact is that a myth explains, teaches 
+ple and straightforward, it is easier for characters to understand and 
+
+and promotes the ethics, values and behaviours of the cult. 
+depth will come through active gameplay. 
+
+Myths can be as simple or elaborate as the Games Master wishes 
+them to be. Many myths concern the eternal questions of: 
+
+OBbJjEeCcTt oOFf VEeNnEeRrAaTtIioOnN 
+Ciults are usually formed to venerate someone or something. The & How was the world made? 
+
+object of veneration for the cult — its heart and focus — should be & How did people come into being? 
+
+defined. There are many different kinds of objects for veneration & How does the venerated being handle certain challenges and 
+
+but the most common are: problems? 
+& How were enemies defeated? 
+
+& A single god or goddess — such as Zeus, Odin or Gurghul & How will the world follow its course and how might it end? 
+the Avenging God of Foetid Mists. Or a group of gods and & What does the object of veneration do for me? 
+goddesses — a pantheon. 
+
+& An aspect of a god or goddess’s nature — one particular form Itis usually the case that no one knows who created the myth and 
+
+of behaviour that adherents find sacred. how it came into being; a myth simply is — whether written down or 
+
+& Someone who embodies both the nature of mortals and gods communicated through word of mouth. Myths are typically unques- 
+
+— a demigod. tioned (although the myths of other cults, especially where they 
+
+& A holy prophet or messenger. conflict with a cult’s own myths, may certainly be challenged, even 
+
+& A creature or monster of singular power A charismatic indi- violently), even when it is known that much is fabrication, because 
+
+vidual, either living or dead, who inspires love and devotion the power of the lesson is inherent in the myth’s structure. It is easier 
+
+— a Personality or Hero cult to reinforce behaviour if one tells a story to show that behaviour 
+
+& A philosophy of existence leading to some form of unearthly in action, rather than simply listing a set of rules and restrictions. 
+
+reward — Buddhism, for instance. Children are particularly receptive to the power of myth, and cults 
+
+& An object or relic of power or significance. ensure that myths form a part of a child’s education so that patterns 
+of behaviour and belief can be established early-on. 
+
+291
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+Myths become ingrained into the psyche and enforce certain Initiation involves a ritual of some form. The precise nature can 
+patterns of behaviour. Stronger myths are more successful at this. be defined as part of the cult framework, and can take any of a 
+Tor every myth created, decide what forms of behaviour it seeks to number of forms: some examples are: 
+exemplify. These should be simple, clear statements such as... 
+
+& Initiation ritual involving much pomp or ceremony, such as a 
+& Lying is wrong communion rite, baptism or other, symbolic acceptance into 
+& Bravery is necessary the cult’s ways 
+& Tricksters cannot be trusted & Trial or ordeal 
+& Hospitality to enemies and friends is essential & Vigil, fasting or abstinence 
+& Hard work provides the best rewards & Swearing of a binding oath 
+
+& Making a sacrifice 
+
+MAaGgIiCc Performing the initiation ritual can either be a focus of a role- 
+playing session, or, for simplicity, abstracted to a roll against a par- 
+
+What magic can a cult offer to its members? This is dependent 
+ticular skill (such as Endurance, Willpower, or a Passion). Once the 
+
+on a number of things: 
+Initiation rite is complete, and if the initiate meets any prerequisites 
+
+& Whether or not the cult reveres a god, personality or ideal — for membership, then he is considered a Dedicated Member. 
+the latter two cannot offer Theist Magic, but may be able to 
+offer Animism, Mysticism, Sorcery or Folk Magic. 
+
+TRrAaIinNIinNgG 
+& If the cult offers Magic to its membership. Some cults don’t 
+
+Clults may teach skills as part of the rewards offered to their 
+provide any magic at all, or limit it to those of higher cult 
+
+active members, and look for certain skills when recruiting mem- 
+rank than the common members. 
+
+bers. The kinds of skills offered reflect two things: the cult’s nature 
+
+The sample cults in the Cults and Brotherhoods chapter give and purpose (pious, peaceful cults will focus on lore and commu- 
+
+ample examples of the ranges of spells and types of magic available, nication skills; martial cults will offer weapon skills); and the kinds 
+
+but Games Masters can be creative. Theist cults might also offer of qualities the focus of veneration exemplifies. Therefore, as part 
+
+sorcery as part of their nature; or sorcery orders might also worship of the cult framework process, give some thought to the following 
+
+a particular god who offered sorcerous knowledge as a gift. questions when choosing cult skills: 
+
+& What skills does the object of veneration display and promote? 
+
+OBbLlIigGAaTtIioOnNSs AanNDd DEeFfIiCcIiTtSs & What skills are used in the myths fundamental to the cult? 
+Obligations and Deficits are another framework method for & What skills are important to the cult in achieving its aims? 
+
+enforcing certain kinds of behaviour. Essentially, cult members & What skills might members naturally bring to the cult, given 
+are rewarded for acting in the right ways and penalised for acting the culture and campaign background? 
+against the behavioural norms of the cult. These things can take dif- 
+
+Cults tend to offer training in order to enforce certain kinds of 
+ferent forms and it is up to the Games Master to decide which (and 
+
+behaviour, but also to make sure that the cult is equipped with what 
+they can be mixed and matched) are most appropriate to the cam- 
+
+it needs to achieve its goals and ensure its survival. Training happens 
+paign and thus available as part of the Cult Framework. The Cults 
+
+in several ways: 
+chapter offers several different ways of creating obligations and defi- 
+cits through the use of taboos, geases and superstitions. These are & Through dedicated training academies, supported by the cult 
+regular tropes in myth and fantasy, and often used as the basis for & Through the indenturing of lower ranks to higher ones 
+adventure and stories. & Through mentoring and required study 
+
+& Natural transfers of knowledge through religious ceremonies, 
+
+MEeMmBbEeRrSsHhIiPp AanNDd RAaNnKkSs festivals and services 
+
+This cult framework element is of substantial importance to & Through the teaching of myths and beliefs. 
+
+both cults and characters. It defines how people join the cult and Consider which ways are available through the cult. There is no 
+what stages are open to them through cult progression. Becoming a 
+
+need to formalise each and every academy, rite, mentor, and so on; 
+member of a cult can be as simple as proclaiming worship of a god, 
+
+simply a consideration of which methods of teaching suit the cult 
+following of personality or ideal, or undergoing some form of initi- 
+
+the best. 
+ation rite. For most, this is enough for their personal requirements, 
+and they will progress no further in the cult and have no desire to 
+do so. RouNnDdIinNGg OuuTt tThHEe Cullt 
+
+However, the more steadfast and devout — those who want to Having worked through this framework, you should have a good 
+
+make a real commitment to the focus of their veneration — must idea of a cult’s focus, function, history, myths, magic and structure. It 
+
+go somewhat beyond the Common Membership requirements and is now time to apply some finishing touches that can be used during 
+
+become Dedicated Members. These dedicate themselves to the gameplay. None of these finishing elements are crucial, but they 
+
+inner workings of the cult and place themselves on a track for pro- offer completeness. 
+
+gression, allowing the cult to become the focus for their activities. 
+& Roll 1d4+1 — this s the number of Holy Days the cult observes 
+
+during the year. Atleast one day will mark the founding of the 
+
+292
+
+
+
+MyyTtHhRrAaSs::  GAaMmEeSs MAaSsTtEeRrYy 
+
+cult, and one will mark another major point of importance, 
+reflecting a key myth or deed (such as the martyrdom of a 
+prophet or hero). Decide where in your game calendar these 
+Holy Days will appear and their importance to members 
+of different ranks. The founding day and additional day of 
+importance will be marked by all cult members; other days 
+may be marked by only one rank and hold lesser significance. 
+What are the ceremonies for the cult? How is worship con- 
+ducted? Are ceremonies formal and highly ritualised, or are 
+they loosely structured and simple in approach? Do different 
+Holy Days require different ceremonies? Be as vague or as 
+detailed as you wish, but assemble some notes on what cer- 
+emonies usually require, using myths, history and other ele- 
+ments of the cult framework to determine what they consist 
+of. 
+Where is the cult’s home? This might be obvious, if the cult 
+is local to a small community, but large cults generally have 
+a base of focus, where the major temple, church or shrine is 
+located. Agree this with the Games Master. 
+What happens to those who stray from the cult’s path, betray 
+its ideals or attempt to leave the cult? Are magical punish- 
+ments enforced? Are apostates condemned to death? Is there 
+no sanction at all? Consider the cult’s nature, and outline the 
+punishments, if any, for going against the cult’s ideals. Some 
+cults use the threat of punishment as a propaganda tool to 
+enforce behaviour but may never carry out the threat; others 
+will do so rigorously and publicly. 
+
+293
+
+
+

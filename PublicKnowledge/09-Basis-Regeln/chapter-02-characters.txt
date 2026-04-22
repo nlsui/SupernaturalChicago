@@ -1,0 +1,681 @@
+Mythras:  Characters
+
+oy X 2 o % o F WKW M &K K F A | IS L = < <G| 
+
+Characters
+
+oy X 2 o % o F WKW MK K EX M T XN 
+
+his chapter outlines the initial steps for Character Creation. 
+CHhAaRrAaCcTtEeRr COoNnCcEePpTt 
+
+The following chapters provide additional detail, but the 
+T A good place to start is to have some idea of what sort of charac- 
+
+essentials are found here. 
+ter you want to play; a hardened warrior for example, or a cunning 
+
+Every player in MYTHRAS controls a character. A character is the 
+thief. Your character concept does not need to be elaborate at this 
+
+player’s alter-ego, his role in the game, and is usually very different, 
+stage; simply an idea that will help guide certain choices such as 
+
+physically and mentally, to the player. MYTHRAS characters can be 
+race and profession. A few character ideas are listed to provoke your 
+
+from a variety of races — although humans are probably the most 
+imagination. 
+
+common, and certainly the best choice for beginning players — and 
+every race is defined in the same way. &' Fierce barbarian hunter 
+
+The basic character is defined by a series of different elements « Young, naive wizard 
+that describe the character’s capabilities. These elements are: &K Bad-tempered gemstone miner 
+
+&K Chivalrous, yet disgraced champion 
+& Characteristics: such as Strength or Charisma 
+
+& Suspicious, spiril-worshipping shaman 
+& Attributes: things like Height or Movement 
+
+& Overly-curious explorer-scholar 
+& Standard Skills: expertise in fundamental abilities which 
+
+&K Unscrupulous mercenary 
+everyone shares 
+
+Most of these elements are described in terms of numbers, and 
+some are dependent on or calculated by others. What each element NoNn-HUuMmAaNn SPpEeCcIiEeSs 
+means, and how they are determined, is described in the following Humans are the easiest characters to play and are probably the 
+sections. most common race found in most MYTHRAS campaigns, but one need 
+
+not be confined to just humans. It is possible to play just about any 
+sapient species because all creatures, regardless of type, are defined 
+in the same way. The Creatures chapter offers a number of alterna- 
+
+DEesiIgGnNiInNgG A tives along with detailed character creation options for non-human 
+
+CHhAaRrAaCcTtEeRr species. However, if this is your first MYTHRAS character, stick with 
+the rules for humans given in this chapter before branching out into 
+
+Characters are usually recorded on a character sheet, which is 
+something more exotic. 
+
+a handy way of organizing all the information about the charac- 
+ter. A blank character sheet is included on pages 302-303, but it 
+is recommended that you first design your character using scratch 
+paper, and then transfer the information to a character sheet once CHhAaRrAaCTcEtReIrSisTtIiCcSs 
+you have gone through each step of the character creation process. Every sapient creature, be it human, elder race, or monster, is 
+Work through each element one step at a time before proceeding to defined by seven characteristics. Each characteristic tells you some- 
+the next. Use a pencil and have an eraser handy; certain numbers thing about your character; how strong or fast he or she is; how 
+such as skill values will change several times during the character clever or healthy. Characteristics are at the core of every MYTHRAS 
+creation process. 
+
+Iv] 
+
+
+
+MyyTtHhRrAaSs::  CHhAaRrAaCcTtEeRrSs 
+
+character;, and form the basis for most of the other elements such as ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+Attributes and Skills. The seven characteristics are: The cover of this book shows a_female warrior, Anathaym, battling for 
+
+& Strength (STR) her life against a creature intent on killing her. ‘T hroughout MyTHRAS we’ll 
+be using Anathaym as an example of a character and, through her;, showing 
+
+« Constitution (CON) 
+& Size (SIZ) how the MYTHRAS rules work. Her saga begins here, with character creation. 
+
+& Dexterity (DEX) Emma, the player is creating her furst MYTHRAS character and has already 
+decided that she will call her Anathaym. Emma’s Games Master;, Steve, has 
+
+& Intelligence (INT) 
+& Power (POW) lold all the players that hus MrTHRAS campaign will be set in a fantasy world 
+
+& Charisma (CHA) based heavily on ancient Greece, so Emma and her fellow players, Dave, 
+Colin, ando, know a little about the world their characters will inhabit, and 
+
+Before calculating the characteristics, the following section how to picture 1. 
+explains what each represents. Anathaym’s world centres on a city-state called Meeros. The rules exam- 
+
+ples make mention of Meeros frequently, its inhabitants and general culture 
+StTrReEnNgGtThH (SSTTR)) (which @s late Bronze Age). Meeros’s enemaes are the barbarians known as 
+
+STR represents physical strength: how much one can lift, how the Badoste Warlords. 
+hard one can hit, and so on. Characters with a high STR As well as Anathaym several other example characters are used: Kara 
+are likely to be more heavily muscled whilst those with a - Anathaym’s sister and a priestess; Zamotlas - Anathaym’s combat tutor; 
+low STR are somewhat on the scrawny side. STR is a Xenos - A Meerish warrior and Anathaym’s hated rival; Kratos - A sorcerer 
+component of the Damage Modifier (see page 9). If bent on destroying Meeros; Mju - a wandering mystic of the plateau desert 
+a character is reduced to zero STR he lacks the abil- nomads. 
+ity to move or lift objects, becoming bedridden until Meeros is used simply as a backdrop for the rules examples; the world 
+STR improves somehow (through natural healing or @5 not developed beyond these illustrations, and it does not form a MryTHRAS 
+magic, for example). default setting. Games Masters can, of course, use Meeros in their own games 
+
+developing it as they need if they so desire. 
+CoonnssTtiitutioonN (CCOON)) 
+CON is measure of health and hardiness. 
+
+Dexterity (DEX)
+Those with a high CON are physically tough, exteriTY D ) 
+
+Agility, balance, and reflexes are measured by DEX. Char- 
+and likely to be more resistant to disease or 
+
+acters with high DEX are fast, nimble, and graceful of move- 
+poison. Those with a low CON are less resil- 
+
+ment. Those with a low DEX tend to be lumbering and 
+ient, and may be prone to sickness and tire 
+quickly. CON is a component in deter- clumsy. DEX is an important aspect of Action Points (see 
+
+mining Hit Points (see page 10), and page 8), and Initiative Bonus (see page 10). If a character 
+is reduced to zero DEX they suffer functional paralysis, 
+
+Healing Rate (see page 9). If CON falls 
+unable to move until the situation is rectified. 
+
+to zero for any reason the character 
+dies. 
+
+InNtTeElLlLiIgGeEnNcCEe (IINNT)) 
+INT is measurement of cognitive ability. It indicates 
+
+Size (SI1Z) 
+the capacity for a character to think both logically and 
+
+SIZ measures mass and helps indicate 
+height and weight. The larger the SIZ the creatively. Those with a lower IN'T' score are not neces- 
+
+heavier or bigger the creature is likely to sarily stupid, but they are likely to be constrained in how 
+creatively they can employ their wits. Creatures with an 
+
+be. Most creatures” SIZ has a higher min- 
+INT of 7 or below are considered sentient, retaining ani- 
+
+imum value than other characteristics, 
+mal level instinct, and able to react to stimuli. Individu- 
+
+representing the smallest example of an 
+als with an IN'T" of 8 or higher are deemed fully sapi- 
+
+adult of that race; which in the case 
+ent. INT is a factor in calculating Action Points (see 
+
+of humans is 8. SIZ is used to help 
+figure Hit Points (see page 10), as page 8), and Initiative Bonus (see page 10). If INT is 
+
+larger, heavier creatures tend to f; reduced to zero the character becomes completely 
+mindless. 
+
+have greater endurance against 
+damage. SIZ can also be used 
+
+Poweer (PPOOW)) 
+to determine a character’s Dam- 
+
+Power is a measurement of a character’s soul, 
+age Modifier, since mass helps to 
+
+spirit, inner drive, and capacity for magic. It 
+increase the force of a blow. SIZ 
+
+encompasses a number of different things and 
+provides rough limits to Height 
+
+is a relatively abstract measurement, but is also 
+and Weight, depending on the 
+
+one of the most important. POW is the charac- 
+character’s body frame (see page 9). 
+
+teristic that marks a character out to the gods 
+If SIZ drops below the species min- 
+
+or other supernatural powers, and is an 
+imum they are considered to have 
+
+indication of divine or magical poten- 
+wasted away to the point they are 
+
+tial, as well as being an indication of 
+bedridden. 
+
+
+
+MyyTtHhRrAaSs::  CHhAaRrAaCcTtEeRrSs 
+
+the force of their personal determination. POW governs a charac- 
+PooiiNnnTts Buiildp 
+
+ter’s Magic Points (see page 10), and Luck Points (see page 10). If a 
+Instead of rolling dice to determine characteristics, players build 
+
+character’s POW ever drops to zero they lose all independent will. 
+their character from a preset pool of 80 points. Certain rules apply 
+
+CHhAaRrIisSmMaA (CCHA)) to the points build option: 
+
+Charisma measures personality, and is independent of physical 
+« 1 point in a characteristic costs 1 Point from the Points Build 
+
+appearance. Someone with a high CHA for example, might be ugly 
+pool 
+
+or plain to look at, but blessed with a charm and wit that more than 
+& Characteristics cannot be lwer than the minimum value or 
+
+compensates for not being handsome. Likewise a low CHA might 
+greater than maximum value of that characteristic 
+
+indicate someone who is radiantly beautiful but utterly shallow or 
+& All Characteristic Points must be used in the design process. 
+
+simply meek. A good CHA is often useful for those who wish to 
+Points cannot be held over or used for anything else. 
+
+be leaders or centres of their local community. Diehard loners and 
+submissive followers tend towards the other extreme. CHA affects 
+a character’s Experience Modifier (see page 9). If CHA is ever falls 
+to zero, the character can no longer socially interact with others, 
+becoming so painfully shy or antisocial they are ignored or even ATtTtRrIibBUuTtEeSs 
+driven away. Each character also has a set of attributes. These are particular 
+
+capabilities derived from the characteristics, or determined by them 
+that are used to govern certain factors of game play. The attributes 
+are: 
+
+CAaLlCcUuLlAaTtIinNgG 
+& Action Points 
+
+CHhAaRrAaCTcEtReIrSisTtIiCcSs & Damage Modifier 
+
+Fach characteristic has a numerical value to determine how & Experience Modifier 
+
+potent it is. Characteristic values can be calculated in one of several « Healing Rate 
+
+ways; either by random dice rolls or by allocating a predetermined & Height and Weight 
+number of points. Which method to be used is governed by the « Hit Points 
+Games Master. & Tnitiative Bonus 
+
+Games Masters are free to modify rolling techniques or values to & Luck Points 
+
+suit their own campaigns. For instance if the Games Master wished & Magic Points 
+
+randomly rolled player characters to be more heroic, or at least & Movement Rate 
+
+free from handicap, he could permit the re-roll of an unusually low 
+result; or allow the player to take up to three points from one char- ACcTtIioOnN POoIiNnTtSs 
+acteristic, and assign them to another providing the new scores do How often a character can act in a combat round (see the Com- 
+not exceed the normal characteristic range; or even permit one of bat chapter) is determined by Action Points. How they are used is 
+the dice used to roll each characteristic to be substituted for its full discussed in more detail on page 91, but to determine a character’s 
+value. Likewise if using point allocation, a character can simply be base number of Action Points take the sum of INT and DEX, and 
+assigned a larger pool of characteristic points. consult the chart below: 
+
+By default, the options listed below are suggested. 
+AccTtIioOnN POoIiNnTtSs 
+
+Diice RoollLl,, InN ORrDdEeRr INT+ DEX Action Points 
+
+Roll the indicated dice for STR, CON, SIZ, DEX, INT, POW 12 or Less 1 
+
+and CHA taking each rolled score as it comes. Since the results of 13-24 2 
+
+these rolls can be somewhat random, it is often better to decide on 25-36 3 
+
+a character concept after the dice are rolled. Otherwise the final Tor every additional 12 points +1 
+
+characteristics may preclude a preconceived role. 
+The dice used depends on the creature or race chosen. For 
+
+humans roll 3d6 for STR, CON, DEX, POW and CHA; then The Reasons Why... 
+2d6+6 for SIZ and INT. Other species use the dice listed against 
+their entry in the Creatures chapter. & INT: Clever characters can more easily exploit openings, and opportuni- 
+
+ties that lend them an edge in combat 
+
+Diice RooLlLl,, AssssIigGnN & DEX: Agile characters react more quickly and can therefore act more 
+often during combat 
+
+As above, except that the player may exchange values between 
+characteristics with the same dice range. For example when rolling 
+up a human, the player could swap values between the STR, CON, DAaMmAaGgEe MOoDIdFifIiEeRr 
+DEX, POW and CHA characteristics which share a 3d6 range, or The bonus amount of damage a character inflicts when they 
+
+between the SIZ and INT characteristics with their 2d6+6 range — physically strike or apply force. It is generally used in combat sit- 
+
+but never switch over rolls from one group to the other. uations, but can also be utilised when attempting to break objects. 
+
+
+
+MyyTtHhRrAaSs::  CHhAaRrAaCcTtEeRrSs 
+
+The damage modifier is an extra die roll which is either added to, The Reasons Why... 
+or subtracted from, the damage inflicted by the weapon or tool. If a 
+
+& CHA: charismatic characters possess greaterforce of personality and the 
+negative damage modifier takes a weapon’s damage to zero or below 
+
+ability to encourage co-operationfrom friends, comrades, and peers 
+then no damage at all has been inflicted. 
+
+Add together STR and SIZ, and consult the Damage Modifier 
+HEeAaLlIinNgG RAaTtEe 
+
+table: 
+After receiving injuries, a character needs to recuperate. Healing 
+
+DAaMmAaGgEe MOoDIdFifIiEerR Rate determines how quickly they naturally recover from wounds. 
+Depending on the severity of the injury (see page 80), the Healing 
+
+STR + SIZ Damage Modifier 
+Rate denotes how many Hit Points are recovered per day, week or 
+
+5or Less —1d8 
+month. 
+
+6-10 -1d6 
+
+11-15 —1d4 HEeAaLlIinNgG RAaTtEe 
+
+16-20 ~-1d2 
+CON Healing Rate 
+
+21-25 +0 6 or Less 1 
+
+26-30 +1d2 7-12 2 
+31-35 +1d4 13-18 3 
+36-40 +1d6 Each 6 points +1 
+41-45 +1d8 
+
+46-50 +1d10 
+
+51-60 +1d12 HEeIigGhHTt AanNDd WEeIigGHhTt 
+A character’s height and weight depend on two things: SIZ, and 
+
+61-70 +2d6 
+the character’s body frame. Three body frames are provided; lithe 
+
+71-80 +1d8+1d6 
+(slender, athletic, underweight), medium, and heavy (broad shoul- 
+
+81-90 +2d8 
+dered, barrel-chested, overweight). Players are free to pick their 
+
+91-100 +1d10+1d8 
+preferred frame depending on how they envisage the character. If 
+
+101-110 +2d10 non-humans are being created, race may limit the choice of body 
+111-120 +2d10+1d2 frame. 
+121-130 +2d10+1d4 
+
+HEeIigGhHTt aAnNDd WEeIiGgHhTt 
+Each 10 points Continue Progression 
+
+N /A Height (cm) Lithe (Kg) Medium (Kg) Heavy (Kg) 
+
+1 1-45 1-5 1-7 1-9 
+
+The Reasons Why... 2 46-80 6-10 8-14 10-18 
+
+3 81-105 11-15 15-21 19-27 
+& STR: stronger characlers can apply more bruteforce 
+
+4 106-120 16-20 22-28 28-36 
+&K SIZ: greater size usually indicates greater mass or leverage 
+
+5 121-130 21-25 29-35 37-45 
+
+EXxPpEeRrIieEnNcCEe MOoDIdFifIiEeRr 6 131-140 26-30 36-42 46-54 
+
+Over the course of play characters improve their skills and capa- 7 141-150 31-35 43-49 55-63 
+bilities. This is achieved through the use of Experience Rolls which 8 151-155 36-40 50-56 64-72 
+are explained in more detail on page 71. 
+
+9 156-160 41-45 57-63 73-81 
+A character’s CHA score may adjust the number of Experience 
+
+10 161-165 46-50 64-70 82-90 
+Rolls the character has, reflecting the relationship he has with his 
+
+11 166-170 51-55 71-77 91-99 
+peers, and his reputation in his community. If CHA is high peo- 
+ple are willing to put themselves out to help train or support the 12 171-175 56-60 78-84 100-108 
+
+character whilst they undergo tuition. Conversely, if CHA is partic- 13 176-180 61-65 85-91 109-117 
+
+ularly low, there may be some difficulty improving one’s capabilities 14 181-185 66-70 92-98 118-126 
+
+without the assistance of others; finding someone to spar against for 15 186-190 71-75 99-105 127-135 
+
+example. 16 191-195 76-80 106-112 136-144 
+
+17 196-200 81-85 113-119 145-153 
+
+18 201-205 86-90 120-126 154-162 
+EXxPpEeRrIieEnNCcEe MOoDIdFifIiEeRr 
+
+19 206-210 91-95 127-133 163-171 
+CHA Exp. Modifier 
+
+20 211-215 96-100 134-140 172-180 
+6 or Less -1 
+
+21 216-220 101-105 141-147 181-189 
+7-12 0 
+
+Each point +5 cm +5 Kg +7 Kg +9 Kg 
+13-18 +1 
+
+Each 6 points +1 
+
+
+
+MyyTtHhRrAaSs::  CHhAaRrAaCcTtEeRrSs 
+
+Hiit PoiiNnTts PEeRr LoOCcAaTtIioOnN                                                         CONN++SSIIZ 
+Location 1-5 6-10 11-15 16-20 21-25 26-30 31-35 36-40 +5 pts 
+Leg 1 2 3 4 5 6 7 8 +1 
+Abdomen 2 3 4 5 6 7 8 9 +1 
+Chest 3 4 5 6 7 8 9 10 +1 
+Each Arm 1 1 2 3 4 5 6 7 +1 
+Head 1 2 3 4 5 6 7 8 +1 
+
+To calculate height and weight, which is measured in centimetres Luck POoIiNnTtSs 
+and kilos, cross reference SIZ with the body frame selected. The Luck Points represent that strange force differentiating adven- 
+result is a range of values that your character’s height and weight turing heroes from everyday folk. Call it fate, karma or simple good 
+falls into. You should choose the actual value from within this range. fortune. Luck Points can be used to: 
+
+The Height and Weight table can, of course, be used to deter- 
+mine the physical properties of anything, but is primarily designed & Re-roll the dice, if they are unfavourable 
+
+to reflect humanoids. Other creatures however can have more & Mitigate physical damage or other unfortunate circumstances 
+
+extreme body frames beyond those given here. See the Creatures & Gain an edge at a vital moment in combat 
+
+chapter, page 224. 
+Exactly how they are used, and when, is described on page 81. 
+
+HiiTt POoIiNnTtSs 
+Once a Luck Point is spent, the pool decreases; when one is out 
+
+Hit Points represent how much injury an area of the body can 
+of Luck Points, no more are available — unless the Games Master 
+
+withstand before it becomes useless, possibly resulting in incapacita- 
+makes an impromptu award — until the next game session when they 
+
+tion, and ultimately the character’s death. The body of every crea- 
+replenish to their normal value. 
+
+ture is divided into separate locations — humans for example have 
+seven; the head, chest, abdomen, arms, and legs — each location with 
+
+Luck PoiiNnTts 
+its own hit points. 
+
+POW Luck Points 
+Some creatures, such as monsters or different classes of animal, 
+
+6 or Less 1 
+by their very nature often have radically different body structures, 
+yet each location they possess still has Hit Points. When a location’s 7-12 2 
+
+hit points are reduced to a certain level through damage of any 13-18 3 
+
+kind, then the character suffers certain consequences that reflect the Each 6 points +1 
+
+severity of the injury. For further information concerning wounds 
+The Reasons Why... 
+
+see page 80. 
+& POW: power is a measure of luck and divine favour; a gift of 
+
+To calculate the Hit Points of each location, add CON and SIZ 
+fate, or the ability to cheat it 
+
+together and cross-reference on the Hit Points table. 
+
+The Reasons Why... 
+MaAaggGic PoIiNnTts 
+
+& CON: healthy, resilient individuals can withstand more punishment than Mystical abilities and spells cast in MYTHRAS usually rely on 
+
+Sraler ones Magic Points. Since the availability of magic may be limited by a 
+
+&K SIZ: greater bulk helps absorb damage, and reduce the significance of campaign setting or to specific magical professions, some characters 
+
+an tmjury will find this Attribute superfluous. 
+Tor those who can utilise such powers, a character’s Magic Points 
+
+are equal to their POW. These points are used to cast spells, the cost 
+InNIitTiIaAtTIivVeE BOoNnUuSs of which is dependent on the type of magic used. When the caster 
+
+The moment at which someone reacts in combat is governed 
+runs out of Magic Points he has exhausted his ability to cast any 
+
+by initiative. Initiative Bonus acts as a modifier to initiative rolls; 
+spells until they are replenished. 
+
+the higher the bonus, the faster one responds in a combat situation, 
+determining when you can act. FFurther factors — armour for exam- The Reasons Why... 
+ple — modify it. The Combat chapter goes into more detail on how 
+
+& POW: Power is a measure of both willpower — used to command the 
+Initiative works (see page 90). 
+
+magical fabric — and the psychic strength the character channels from 
+Initiative Bonus is the average of the DEX and INT 
+
+their environment 
+characteristics. 
+
+The Reasons Why... MOoVvEeMmEeNnTt RAaTtEe 
+Movement is not calculated from Characteristics but is a default 
+
+K INT: clever fighters can predict attacks and anticipate their opponent’s value which differs between species. The base Movement Rate for 
+strategies humans is 6 metres, although certain skills can improve this. The 
+
+& DEX: faster characters react and respond more quickly than slower ones section on Movement, on page 69 offers more detail. 
+
+10
+
+
+
+MyyTtHhRrAaSs::  CHhAaRrAaCcTtEeRrSs 
+
+TANDARD KILLS ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+Standard Skills Emma prepares to create Anathaym, a human adventuress. The cam- 
+
+By default, every Adventurer has a range of Standard skills paign uses the assigned dice 10ll method, so characteristic rolls are madef urst, 
+allowing him to perform a variety of actions with varying degrees of and then allocated to the characteristics as the players wish. Emma rolls the 
+expertise. These skills are detailed more fully in the Skills chapter, Jollowing on 3d6: 11, 7, 15, 9, and 16. Since humans calculate therr SIZ 
+but cover a range of everyday activities and local knowledge which and INT using different dice, she then rolls 2d6+6 twice, and gans a 10 
+anyone can use without specialised training. At this point of charac- and 14. After some thought Emma assigns them thus: STR 11, CON 13, 
+ter creation, players will only need to know the base values of each SIZ 10, DEX 16, INT 14, POW7, CHA 9 
+Standard skill. For a human, Anathaym s of average strength, andf airly hardy. She is 
+
+The basic score of each Standard skill is determined by the sum small, reasonably smart, yet ts somewhat unlucky. On the other hand she has 
+of two characteristics or a multiple of a single characteristic. The excellent reflexes. Last but by no means least, her charisma s a little below 
+value represents the character’s innate competence in a given area, average, probably indicating she is slightly shy. 
+in effect their raw talent before any formative training received as Characteristics assigned, Emma now figures Anathaym’s attributes. 
+part of his culture and profession. 
+
+The Standard Skills Table shows how the basic values are cal- Action Points: with INT and DEX totaling 30, Anathaym has 3 
+culated, along with a brief description of what the skill is and does. Action Points. She can think and act quickly in perilous situations. 
+The score represents the percentage chance of success for a skill; so, Damage Bonus: Anathaym’s STR 11 and SIS 10 give a lotal of 
+an Athletics score of 25 is expressed as 25%. How skill percentages 21, which means she has no Damage Bonus. Although Anathaym has a small 
+work, and more detailed skill descriptions are provided in the Skills plysique, her strength partially counteracts her stature, preventing any loss of 
+chapter. power when attempting to damage something 
+
+Note that the basic percentages for some skills will be modified Experience Modifier: Anathaym’s CHA 9 resulls in no Experience 
+by both culture and profession, so these starting values will change Modifier. Anathaym s somewhat unassuming, finding it a little difficult to 
+as character creation progresses. makef riends and accept others into her trust. 
+
+Healing Rate: Anathaym’s CON 13 results in a Healing Rate of 3. 
+StTaAnNdDAaRrdD SKkIiLlLlSs 
+
+Wihilst unexceptional in terms of size and strength, Anathaym healsfrom her 
+Skill Basic Percentage wounds quickly. 
+Athletics STR+DEX Height & Weight: Emma has decided that she would like Anathaym 
+
+Boating STR+CON lo be slender. So she cross references Anathaym’s SIS on the Lithe column_for 
+her Weight. At SI 10 she s between 161 and 165 centimetres tall— Emma 
+
+Brawn STR+SIZ 
+seltles on 165 — and she weighs between 46 and 50 kilos. Emma decides 
+
+Conceal DEX+POW 
+that Anathaym is at the lower end of the scale, and opts for 47kg Emma 
+
+Clustoms INTx2 
+reasons that Anathaym s willowy to the point of looking ascetically thin— an 
+
+Dance DEX+CHA 
+appearance which leads many to underestimate her. 
+
+Deceit INT+CHA Hit Points: CON 13 and SIZ 10 means Anathaym’s Hit Points will 
+Drive DEX+POW be average, her hardiness compensating for her small, slight frame. Adding 
+Endurance CON x2 CON and SIZ gwes a result of 25 which denotes that she has 5 Hit Points 
+Evade DEX x2 in her Head and Legs, 7 in her Chest, 6 in her abdomen, and 4 in her Arms. 
+
+First Aid INT+DEX Anathaym is tougher than she looks. 
+
+Influence CHA x2 Initiative Bonus: With INT 14 and DEX 16, Anathaym has a 
+Initiatwe Bonus of 15. She ofien actsf irst in combat, seizing the initiative. 
+
+Insight INT+POW 
+Luck Points: Anathaym has a POW of 7 which grants her 2 Luck 
+
+Locale INT x2 
+Points. Thus, twice a game session, she can call upon these Luck Points to aid 
+
+Native Tongue INT+CHA 
+her in a variety of different ways. 
+
+Perception INT+POW POW 7 gives Anathaym only 7 Magic Points. She wsn’t particularly 
+
+Ride DEX+POW concerned; she’s smart and agile, and those traits are more important to her. 
+
+Sing CHA+POW 
+
+Stealth DEX+INT Anathaym’s Standard Skills work out as follows: 
+Athletics 27 %, Boating 24%, Brawn 21%, Customs 28%, Dance 
+
+Swim STR+CON 
+25%, Deceit 23%, Drive 23%, Endurance 26%, Evade 32%, Fist Aid 
+
+Unarmed STR+DEX 
+30%, Influence 18%, Insight 21%, Locale 28%, Native Tongue 25%, 
+
+Willpower POW x2 
+Perception 21 %, Ride 25%, Sing 16%, Sleight 25%, Stealth 30 %, Swim 
+24%, Unarmed 27 %, Willpower 14%. 
+
+Clearly at this stage her weakest Standard Skill ts Willpower, reflecting 
+her shyness and lack of self-confidence; whereas her best s Evade indicating 
+Anathaym’s natural grace and coordination. These raw talents will bef urther 
+improved by her cultural upbringing and chosen profession as described in the 
+Jollowing two chapters. 
+
+11
+
+
+
+MyyTtHhRrAaSs::  CHhAaRrAaCcTtEeRrSs 
+
+COoMmBbAaTt STtYyLlEeSs 
+A Combat Style is the skill relating to fighting and the use of 
+
+weapons. It is a diverse skill with many specialisations related to 
+the culture or profession which teaches it. Most fighting traditions 
+encompass training in multiple weapons, along with the techniques 
+required to use them all effectively, whether singly or in combi- 
+nation. In addition they often assume a situational element, such 
+as fighting as close order infantry or whilst mounted. Therefore a 
+Combat Style is an umbrella skill that melds together many related 
+aspects of fighting under a single ability, removing the need to pur- 
+chase multiple sub skills. 
+
+All Combat Styles have a Basw Percentage equal to STR+DEX. 
+Since most people can pick up a weapon and instinctively either 
+
+swing, throw or fire it, Combat Styles are considered Standard Skills. 
+Yet due to their potentially diverse nature, they are categorised and 
+defined separately, under names suitable to the genre of the game 
+setting. 
+
+For example, a campaign centred on professional gladiators, where set-piece 
+bouts between conflicting weapon techniques is important, a character might learn 
+the Combat Style (Retiarius) or Combat Style (Murmallo); whereas a travelling 
+merchant campaign mightf eature wandering tribesmen with Combat Style (Horse 
+Nomad) instead. The precise weapons covered by a particular style are normally 
+defined by the Games Master (forfurther details see Combat page 88). 
+
+Characters learn Combat Styles as part of their culture and pro- 
+fession, as described in the following two chapters. 
+
+12
+
+
+

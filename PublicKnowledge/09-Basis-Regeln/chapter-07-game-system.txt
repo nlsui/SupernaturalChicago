@@ -1,0 +1,1977 @@
+Mythras:  Game System
+
+. — 
+o X s oM Kk oo >z 
+
+Yy m KW S I& KB 3 B« i T X W 
+
+Game System
+
+pa— — 
+o X s oM Kk oo j< 
+
+Yy m KW S I K KB 3 B« v T X W 
+
+any different things can occur during a MYTHRAS game. 
+Some are resolved through skill use or one of the major ACcIidD 
+
+M game mechanics such as combat or magic; others Acids come from many different sources and are used extensively 
+require their own rules for adjudication. This chapter provides rules in alchemical research. The most important factor with any acid is 
+and guidance for a variety of different scenarios that Games Masters its concentration, rather than its type. All acids are therefore classi- 
+and players will encounter whilst playing the game. fied as either Weak, Strong or Concentrated. MYTHRAS assumes that 
+
+The listis not exhaustive but should represent most common situ- contact with the acid is significant or sustained, rather than just a 
+ations. If Games Masters find there are other situations that require droplet or two. 
+some form of game-system adjudication, and that these situations A splash or spray of acid lasts only for a few Combat Rounds 
+seem to occur frequently, then they are encouraged to develop their before it loses potency. Immersion in a considerable volume of 
+own rules to cover these special circumstances, using those given in acid inflicts the damage every round until the victim or location is 
+this chapter as a basis for replication or development. removed and treated. 
+
+For generic acids it is assumed that armour protects against the 
+Briefly this chapter includes rules for: effects of acid but does not stop it, its Armour Points being reduced 
+
+by the acid’s damage until it reaches zero hit points, at which point 
+& Acid 
+
+the damage is then transferred to the hit location it protected. 
+& Action, Time, and Movement 
+
+Armour reduced to zero Armour Points is considered useless as the 
+« Ageing 
+
+acid burns through bindings, straps and joints. 
+« Asphyxiation, Drowning, and Suffocation 
+
+Although the Acid table assumes the action of acid on living 
+4« Blood Loss 
+
+flesh, not all acids affect non-organic substances equally. Some can 
+& Character Improvement 
+
+cat rapidly through metal, whilst others barely mark it. If desired it 
+4« Disease and Poison 
+
+is entirely permissible to have strange acids which affect only metal 
+& Encumbrance 
+
+or other specific materials instead of flesh. 
+& Falling 
+« Fatigue AcciidD TAaBbLlEe 
+« Fires 
+
+Acid Type Damage Duration 
+« Healing from Injury 
+
+Weak 1d2 1 Combat Round 
+<« Inanimate Objects 
+
+Strong 1d4 1d2 Combat Rounds 
+& Luck Points 
+
+Concentrated 1d6 1d3 Combat Rounds 
+&« Passions 
+
+& Survival 
+X M 
+
+« Visibility 
+« Weather 
+
+63
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+STtRrAaTtEeGgIicC TIimMEe TRrAaVvEeLl TAaBbLlEe 
+ACcTtIiOoNn,, TIimMEe aAnNDd Distance Covered (kilometres) per 
+
+Travel Example Day (10-12 hours) 
+
+MOoVvEeMmEeNnTt 
+Walking 30 per Day 
+
+How quickly time passes in MYTHRAS depends on circumstances. 
+Horseback at casual speed 60 per Day 
+
+Activities in roleplaying games rarely elapse in real time unless char- 
+Wagon at casual speed 15 per Day 
+
+acters are conversing with each other or with non-player charac- 
+ters. For the most part, timescales for different forms of activity are Open Sea, favourable conditions 150-300 (in a 24 hour period) 
+
+inflated or condensed depending on what is being done. Open Sea, unfavourable 0-60 (in a 24 hour period) 
+
+The key timescales and what actions and motion can be accom- conditions 
+
+plished within them, are as follows: Combat Rounds, Local Time Coast or River, favourable 30-60 per Day 
+
+and Strategic Time. conditions 
+
+Coast or River, unfavourable 0-30 per Day 
+
+CommMB conditions 
+bAaTt ROoUuNnDdSs 
+
+A Combat Round, dealt with more fully in the Combat chapter, 
+represents five seconds of real time. Combat Rounds are used to 
+
+increase the distance covered, along with dealing with any hazards 
+measure short, frenetic bursts of activity that take seconds to com- 
+
+that might need to be resolved in Combat Rounds or Local Time. 
+plete. They can be useful for measuring very detailed activities that 
+require a blow-by-blow resolution. For example, a chase between 
+hunter and prey can be measured in Combat Rounds, represent- MOoVvEeMmEeNnTt 
+ing the twists and turns that happen very quickly during any tense Movement is broken down into three ‘gaits’ which are Walking, 
+pursuit. Running and Sprinting 
+
+Walking is the average speed a member of a particular spe- 
+
+LocAaLl TIimMEe cies ambles along at when in no particular hurry. This is normally 
+referred to as a creature’s base Movement Rate. 
+
+Local Time represents a few minutes to a few hours, and is used 
+Running is a trot or jog, at a speed which can be maintained 
+
+to measure activities that do not require the detailed attention of a 
+over long periods. Basically, anything faster than a walk. Maximum 
+
+Combat Round, but require a specific concentration of effort with a 
+running speed is triple Movement Rate, which may vary according 
+
+definite end result. Picking a lock might take five minutes, and this is 
+to the bonus granted by Athletics skill. 
+
+a measure of Local Time. Observing the patrols made by teams of 
+Sprinting is flat out movement at top speed, which can only 
+
+guards around a castle’s walls might require several hours, but is still 
+be maintained for brief periods. Peak sprinting speed is five times 
+
+a measure of Local Time. Manage Local Time in the following way: 
+Movement Rate, which again may be increased according to what- 
+
+1. The character states his intention (Local Time starts) 
+ever bonus is granted from Athletics skill. 
+
+2. The Games Master decides how long this takes to 
+The Comparative Movement table summarises the typical walk- 
+
+accomplish 
+ing distances covered by creatures of differing base movement rates, 
+
+3. Any appropriate skill rolls are made and the results noted 
+for a variety of time periods. Tactical movement during combat is 
+
+4. The Games Master communicates the results, and the time 
+explained in more detail on page 101 (Engagement). 
+
+taken in step 2 passes (Local Time ends) 
+
+Local Time may then continue, move into Combat Rounds or 
+become Strategic Time SCcEeNnEeSs 
+
+Scenes are an abstract time measurement based on definable events or 
+wnteractions. They can lastfor Combat Rounds, Local or Strategic Time, 
+
+STtRrAaTtEeGgIicC TIimMEe 
+and duration is based on activities being engaged in by one or more charac- 
+
+Strategic Time is measured in days, months or even years. Use 
+ters. Some spells, for instance, lastfor a Scene, which means that duration 
+
+Strategic Time for those occasions where it is not necessary to know 
+us variable but based on that Scene’s need. For example, if a Folk Magic 
+
+the detail, simply the outcome — “You ride for ten days and reach the 
+spell, such as Bladesharp, is cast successfully, it will last for one active 
+
+city by dawn on the eleventh day.’ ‘After a whole day of watching the 
+scene. This will be either as short as the duration of an entire combat, or 
+
+guard patrols you now understand their movements and patterns.’ 
+as long as a Local Tume event where Bladesharp might be required. Scenes 
+
+‘It takes a week to craft the sword.” 
+always have actwe player participation. For instance an evening spent in a 
+
+Strategic Time is mostly concerned with how far characters 
+lavern gaining information is a Scene, because it requares the characters to 
+
+travel depending on the mode of transport used. The Strategic 
+participate. However a long-dustance trip by sea, where the Games Master 
+
+Time Travel Table offers examples for various conditions. The travel 
+stipulates that several days pass without incident, is not a Scene. 
+
+times assume a travelling day of around 10 to 12 hours with regular 
+The Games Master always determines when a Scene starts and ends. 
+
+stops for rest, water and food. 
+For the most part it will be obvious and important only where magical 
+
+If characters need to increase the distances given in the Strategic effects need to be measured. 
+Time Travel Table, then they can effectively add half again to the 
+distance travelled in the Strategic Time period but gain an enduring N\ 4 
+level of Fatigue as a result. Naturally an appropriate skill roll (Drive, 
+Ride, Athletics, and so on) also needs to be made to successfully 
+
+69
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+COoMmPpAaRrAaTtIiVvEe MOoVvEeMmEeNnTt TAaBbLlEe 
+
+Time Period Movement 4m Movement bm Movement 8m Movement 10m Movement 12m Movement 14m 
+
+Combat Round 4m 6m 10m 12m 14m 
+
+Minute 48m 72m 120m 144m 168m 
+
+Hour 2.9km 4.3km 5.8km 7.2km 8.6km 10.1km 
+
+MOoVvIiNnGg InN ARrMmOoUuRr attempts to swim in his armour (Swim speed of 6+4, divided 
+
+Worn armour acts against character Movement Rates, and cer- by two, then subtract 6 equals -1). 
+
+tain kinds of actions such as swimming or climbing. The armour’s & Climbing rough surface (branching trees, ladders, scaffolds, 
+
+Initiative Penalty is applied to Movement of different kinds in the and so on): Half the Armour Penalty (rounded up) is sub- 
+
+following ways: tracted from the base Movement Rate. If the result is zero or 
+less, they are too burdened by their armour to climb. Thus, 
+
+& Walking: Armour does not interfere with walking movement, our hero in his Hoplite Plate armour can still scale easily 
+although it can increase the Fatigue level (see page 78) climbable objects, as his Climbing movement is 6 — 3 = 3. 
+
+& Running or Sprinting: Subtract the Armour Penalty from the & Climbing a steep surface (pitched roofs, steep hills, and so on): 
+running and sprinting speed. The result is how fast the char- The Armour Penalty is subtracted from the base Movement 
+acter can move during chases or when charging. For example, Rate. If the result is zero or less, they are too burdened by 
+a character wearing a full panoply of Hoplite Plate armour their armour to climb. Thus, our hero in his Hoplite Plate 
+would reduce both gaits by 6m. cannot climb as his Climbing movementis 6 —6 = 0. 
+
+& Swimming: Take the character’s swimming speed (see the & Climbing a sheer surface (walls, cliff faces, etc): Double the 
+Swim skill page 43) divide by two (rounding up), and sub- Armour Penalty is subtracted from the base Movement Rate. 
+tract the Armour Penalty. If the result is zero, the character As with climbing a rough surface, if the result is zero or less, 
+cannot move, and barely keeps himself afloat. If the result is the character cannot climb. 
+negative, then the character sinks. For example, even if our & Jumping: Reduce the distance in metres the character can 
+character was a top class swimmer (84%), wearing full Hop- jump (see the Athletics skill, page 38) by half the Armour 
+lite Plate with its -6 penalty, would still cause him to sink if he Penalty (rounded up). For standing jumps this impairment is 
+
+halved. 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+Anathaym, like all humans, has a base Movement Rate of 6. In addition 
+
+she is a proficient athlete with an Athletics skill of 52%. From these her 
+maximum movement rates are calculated as: 
+
+Walking 6m — base Movement Rate of a human. 
+
+Running 2 1m — Base Movement Rate plus one for her Athletics skill, mul- 
+tiplied by three. 
+
+Sprinting 40m — Base Movement Rate plus two for her Athletics skall, mul- 
+tiplied by fuve. 
+
+AGgEeIinNgG 
+All characters age, and with age come certain consequences. The 
+
+signs of ageing start at Early Middle Age (40 years for humans — 
+other species might age at greater or lesser rates). As a character 
+passes into a new Ageing Band he must make both an Endurance 
+roll and a Willpower roll at the grades noted. If a roll is failed then 
+he experiences Ageing Effects as shown in the Ageing Effects table. 
+
+Each characteristic affected by ageing reduces by 1d3 points. 
+These points can be recovered or at least partially counteracted 
+through characteristic improvement, representing efforts made 
+to keep themselves trim and alert as they grow older. If any 
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+characteristic is reduced to zero from ageing, the character dies due Depending on the method of asphyxiation, the Games Master 
+to his terminal frailty. may wish to prevent full recovery, imposing an enduring level of 
+
+What specific debilitating effects arise as part of the ageing pro- Fatigue to represent damage to the lungs caused by smoke or water 
+cess are up to the Games Master to define. lor instance, reducing inhalation. 
+STR, CON or DEX represents general wear and tear on the body, 
+with creaking joints, and a gradual loss of mobility. Reducing INT 
+indicates that age is starting to play tricks on the mind and memory, 
+whilst reducing CHA indicates the character is getting craggier, and BLloodD Losss 
+more short-tempered perhaps, as they get older. Blood loss due to external and internal wounds, usually sustained 
+
+in combat, can wear a character down very quickly. Its effects are 
+measured by the accumulation of Fatigue levels, in a manner similar 
+
+AGgEe BAaNnDds 
+to asphyxiation since blood is needed to oxygenate the body’s mus- 
+
+Age Band gr:;igzance and Willpower Roll 
+cles and vital organs. Significant blood loss is suffered in the follow- 
+ing circumstances: 
+
+Early Middle Age (40-49 for humans) Easy 
+Middle Age (50-59 for humans) Standard & The Bleed Special Effect (see page 96) 
+
+Late Middle Age (60-69 for humans) Hard & Injury resulting in a Major Wound (see page 110) 
+
+Old Age (70-79 for humans) Formidable & Diseases and Poisons that result in Bleeding (see page 75) 
+
+Advanced Old Age (80-89 for humans) Herculean Unrestrained blood loss typically results in death unless some 
+Dotage (90+ for humans) Hopeless form of medical attention or healing magic can be applied to con- 
+
+trol the bleeding. 
+Unlike asphyxiation, the effects of serious blood loss on Fatigue 
+
+are enduring. A character recovers Fatigue lost to bleeding at a rate 
+of one level per day, starting the day after his exsanguinations cease. 
+
+AGgEeIinNGg EFfFfEeCcTtSs TAaBbLlEe 
+1d6 Physical Ageing (Failed = Mental Ageing (Failed 
+
+Endurance) Willpower) CHhAaRrAaCcTtEeRr 
+1-2 STR INT 
+
+34 CON POW ImMpPrRoOvVeEmMEenNTt 
+56 DEX CHA Every MYTHRAS character has the opportunity to improve with 
+
+time. Improvement can be undertaken in several areas: 
+
+& Increasing existing skills 
+& Increasing characteristics 
+
+ASsPpHhYyXxIiAaTtIiOoNn,, & Increasing passions 
+& Learning new skills 
+
+DRrOoWwNnIiNnGg AanNDd & Learning new magical abilities and spells 
+
+SuUFfFfoOCcAaTtIioOnN 
+Characters can hold their breath for a number of seconds equal EXxPpEeRrIieEnNcCEe ROoLlLlSs 
+
+to their Endurance skill. However the character must be prepared The mechanism for most character improvement is the Experi- 
+
+(filling the lungs with as much air as possible); if not, then the period ence Roll. Games Masters dispense Experience Rolls at an appropri- 
+
+is halved if the character was in a passive situation, or reduced to ate juncture in the campaign: at the end of every successful scenario 
+
+one fifth if the character was engaged in strenuous activity. or storyline; or after perhaps two or three sessions of play if the 
+
+Once the period of held breath is over, characters must make an story is a long one which will take time to complete. The frequency 
+
+Endurance roll: is at the Games Master’s discretion. A high frequency of Experience 
+Rolls will lead to the characters developing at a faster rate. 
+
+& 1If the roll is a critical success, no further deterioration occurs. There is no right or wrong time to give Experience Rolls, but 
+& If the roll is successful, the character accrues an extra level natural breaks in the story may suggest suitable times. The Games 
+
+of Fatigue. Master is, however, always the decision maker here. Whilst players 
+& If the roll fails, the character sustains 1d2 extra levels of cannot demand Experience Rolls, they have a right to expect them 
+
+Fatigue that round. at certain times — as their characters will not be able to develop with- 
+& If the roll is fumbled, the character sustaing 1d3 extra levels out them. 
+
+of Fatigue that round. 
+How MAaNnYy?? 
+
+Without aid, death from asphyxiation is usually swift. If the 
+The number of Experience Rolls given in any one sitting should 
+
+asphyxiation ends before the character dies, they recover Fatigue be between two and four, but it can be lower or higher depending 
+levels lost to suffocation relatively quickly; regaining one level per 
+minute. 
+
+71
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+on how long it has been since the last set of rolls, and how well the a character undergoes following a disastrous failure. Multiple 
+characters performed or have been played. fumbles of the same skill do not stack. 
+
+It is recommended that all characters be given the same num- 
+Games Masters can, if they wish, increase the dice step if they 
+
+ber of Experience Rolls, which helps maintain fairness and parity 
+want to have skill progression move at a faster rate without giving 
+
+in character progression — although even with the same number of 
+Experience Rolls on a frequent basis: so, instead of increasing by 
+
+rolls characters may progress at different rates, as the mechanics for 
+1d4+1 skills increase by 1d6+1. If adjusting the default dice roll in 
+
+Experience Rolls illustrate. 
+this way, Games Masters should set the expectation at the start of 
+
+The only exception to this guideline is where a character gains 
+the campaign and not veer from it. 
+
+an additional roll (or suffers a reduction in rolls) for their Experi- 
+ence Modifier as described on page 9. This modifier should only be 
+permitted in situations where the character can put their influence InNcCrREeaASsIinNgG CHhAaRrAaCTcEtReIrSisTtIiCcSs 
+to good use or suffer its consequences, such as returning home at A creature’s rolled characteristics are regarded as its peak nat- 
+the conclusion of a scenario. Thus it is not intended that the bonus ural development, a combination of its birth and environment as 
+should be applied at the end of each and every session, especially it was growing. Thus just as some horses are bigger, stronger and 
+when the characters are isolated or exploring off in the wilderness. tougher than others, humans and other sapient species can grow up 
+
+Experience Rolls do not need to be used there and then. They to exhibit fairly diverse physical and mental characteristics. 
+can be reserved for future use at the player’s discretion. The main Characteristics can, like skills, be improved through Experience 
+reasons for reserving use of a roll are: Rolls, which represent training regimes. However, such increases are 
+
+artificial boosts which normally atrophy after the training exercises 
+& To increase Characteristics 
+
+cease, characteristics dropping back to their natural levels whether 
+& To buy new Professional Skills 
+
+the workouts were daily calisthenics sessions to increase CON or 
+& To put towards developing a new magical Tradition (explained 
+
+memory tests to enhance INT. 
+in the Introduction to Magic chapter). 
+
+To achieve and maintain characteristic increases requires that a 
+character reduce his regular allotment of Experience Rolls by one or 
+more points. This represents the continual and intensive effort spent 
+
+InNcCrREeaASsIinNgG EXxIisStTiInNgG SKkIiLlLlSs 
+to push his body beyond its normal capability. 
+
+Any skill on the character sheet, Standard or Professional, can be 
+Each Experience Roll sacrificed in this manner boosts the trained 
+
+increased by spending one Experience Roll. 
+characteristic by one tenth of its rolled species maximum. Thus a 
+
+& The player rolls 1d100 and compares it to the skill being human who engaged in regular weightlifting to build up his STR 
+
+increased. The character’s INT is added to the roll. could, at the cost of reducing his normal allotment of Experience 
+
+& If the number rolled is equal to or greater than the skill being Rolls by one, gain +2 points to his Strength. A minotaur on the other 
+
+improved it increases by 1d4+1%. hand would gain +3 points to Strength as his species maximum is 
+
+& If the number rolled is less than the skill selected, the skill still 24. 
+
+increases but only by 1%. When a characteristic increases, all attributes and skills derived 
+
+& If a character fumbled any skill during the course of the from it increase too (if the characteristic increase is enough to create 
+
+preceding session(s) — i.c., between the last set of Experience an attribute change). Thus, increasing STR by one point will also 
+
+Rolls and the present one — the fumbled skill gains a free increase each skill that uses it as a component by one point too. In 
+
+increase of 1%. It is a truism that we learn more from our addition Damage Modifier may also increase if the new STR value 
+
+mistakes than our successes, and this represents the reflection moves the character into the next Damage Modifier band. 
+No matter how much training is undertaken, no characteristic 
+
+can exceed its species maximum — which is simply the highest pos- 
+FRrEeEeLlyY ImMpPrRoOVvIinNgG SKkIiLlLlSs 
+
+Normally players have full discretion over which skills to improve, sible result from the characteristic roll. Once the character decides 
+
+no matler thewr location or circumstances. Sometimes, however; it may be to cease his exercise regime, his trained characteristic drops by one 
+
+unrealistic for a character to practice Lockpicking when he is currently on improvement step the next time he receives Experience Rolls, and 
+
+a ship, and has done nothing butf ight sea monsters for the last few game again the following time, the atrophying continuing until the charac- 
+
+sessions. teristic has returned to its natural value. 
+
+In such cases it 1s reasonable for the Games Masters to request that SIZ is the exception to the above rules. It cannot be increased 
+
+characters only attempt to improve skills which they have recently used, or through mundane means. 
+
+Jor which the situation exists to practice them. For example, if the ship- 
+bound character arrives at a civilised port it is quate likely he can find a InNcCrREeaASsIinNgG PAaSsSsIioOnNSs 
+local thieves’ guald or locksmath with whom he can practice. As described under Passions on page 82, the value of a passion 
+
+Some caution s required that the Games Master is not too restrictive, may be increased with Experience Rolls in exactly the same way as 
+as this can lead to a bias in a subset of those skills which are most oflen a skill. If supported by play, the Games Master might even allow a 
+used in his campaign, leading to disproportionate character development. passion to be reduced by the use of an Experience Roll. 
+Instead, if a character wishes to improve unusual skills, the Games Mas- Tor example, constant spurning from an unrequited love might 
+ter should use thus to create a roleplaying opportunity or an eventual subplot eventually wear down the passion of even the most ardent lover, 
+\ Jfor hus campaign. r especially one who wishes to pursue a relationship without the ghosts 
+
+of the past haunting them. 
+
+72
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+TRrAaIinNIinNgG ImMpPrRoOvVeEmMEenNTt TAaBbLlEe 
+PEerRmMAaNnEeNnTt CHhAaRrAaCTcEtReIrSisTtIicC ImMpPrRoOvVeEmMEenNTt 
+
+Degree of Difference Skill Improves By 
+Some players may bemoan the significant and continual costs of 
+
+characteristic improvement. In these cases the Games Master can ignore 21-30% 1d2 
+
+a certain level of realism, and instead focus on_fun, allowing permanent 31-40% 1d3 
+
+characteristic boosts for a one-off Experience Roll cost. 41-50% 1d4 
+
+This method must be treated with a degree of caution howeven; since 51-60% 1d6 
+
+not all Games Masters reward players with the samef requency or number 61-70% 1d6+1 
+
+of Experience Rolls; thus the default costs may be too cheap or expensive. 71-80% 1d6+2 
+
+Additionally games where characteristic improvement 1s too prevalent can 
+81-90% 1d6+3 
+
+quickly lead to many characters with identical attributes, each tweaked to 
+91-100% 1d6+4 
+
+lake advantage of natural break points within the system. 
+Each 10% +1 
+
+Thef ollowing method utilises the current and minimum characteristic 
+values so that it scales for all creatures. Although it sometimes throws up 
+an oddity between characteristics rolled on different dice, this should be TRrAaIinNEeRrSs 
+considered a feature of that particular species. Since most creatures are A trainer is someone who works with the character, helping them 
+generated using no more than three or four dice, this method remains both to practice a particular skill hoping, through coaching and mento- 
+simple and comparatively fai: ring, to improve the character’s skill. Characters can act as trainers 
+
+Cost to increase a characteristic by one point = 1+creature’s current for other characters but it is usual to seek out someone who, through 
+characteristic value, minus the species minimum,_for that characteristic years of specialised study and greater experience, has more benefits 
+
+Thus a human with DEX 12 would need to invest 10 Experience and insight to offer. 
+Rolls (15— 3) to raise DEX to 13. A trainer must have at least 20% more than the character in 
+
+the skill being trained, and the degree of improvement rests on the 
+N - difference: 
+
+TEeaACcHhEeRrSs 
+LeEaArRnNIinNgG NEewW SKkIiLlLlSs A teacher is a professional trainer who possesses the Teach skill, 
+
+Some characters may wish to study new Professional skills which using it to improve the quality of his tuition. They utilise the same 
+
+they never had the chance to learn from their culture or career. Training Chart above, but modify the amount increased according 
+
+Before they can start investing Experience Rolls they must first find to the result of a Teach roll: 
+
+a source of knowledge from which to learn. This could be as pro- 
+& Critical Success: Skill improvement increases by two Training 
+
+saic as a professional tutor such those provided by cults or brother- 
+steps 
+
+hoods. Alternately it might be a more exotic source of education, an 
+& Success: Skill improvement increases by one Training step 
+
+ancient and crumbling training scroll or an ancestor spirit bound to 
+& Failure: No effect on improvement 
+
+the community’s sacred stone tiki. 
+& Fumble: Skill improvement decreases by one Training step, 
+
+Once a source of education is found, the character must spend 
+which may result in the character gaining no improvement 
+
+an entire month of study and practice to garner a basic grounding in 
+through the training 
+
+that skill. This costs 3 Experience Rolls plus whatever in-game costs 
+are required to pay the teacher (if one exists), and purchase (or rent) 
+whatever equipment and tools may be needed. LimiiTts tToO TRrAaIinNIinNgG 
+
+Training comes with some limitations: 
+
+TRrAaIinNIinNgG & Only one skill at a time can be trained. 
+Skills can be improved without expending Experience Rolls, & A trained skill must be next improved using an Experience 
+
+through help of a mentor; either a trainer or a teacher. Roll; it cannot benefit from the training procedure again until 
+Characters must spend one full week in training to benefit from it has been increased in this way. 
+
+a training increase. At the end of the training period the skill being & Trainers can only tutor a single student at a time, whereas 
+trained improves by the die roll indicated on the Training Chart, teachers may educate multiple students at once. As a guide, 
+with any modifiers due to the Teaching skill. divide the trainer’s Teaching skill by 10 to determine how 
+
+How much a mentor charges for his services depends very much many students that teacher is prepared to train at one time. 
+on the nature of the campaign and the setting. They might accept 
+manual labour or favours in return for training, or insist on hard 
+
+Cuurlrts aAnNDd BRrOoTthHEerRhHoOOoDdSs 
+coin. In the case of abstract promises the Games Master must set the 
+
+Cults and guilds may offer training at a reduced cost, or free 
+terms and the character should meet them, or else face some form 
+
+of charge, to their members. The training costs outlined earlier are 
+of consequence if they are not met. 
+
+therefore considered a standard guide; cult or brotherhood mem- 
+In terms of hard coin, a week’s training costs 1 Silver Piece for 
+
+bers may be offered a reduced rate, but this may be dependent on 
+every 5% the mentor has in the skill he is training. If he also knows 
+
+rank and standing within the organization. The Games Master may 
+how to teach, this amount increases by 1 silver piece for each 10% he 
+
+need to set these limits. 
+has in the Teach skill. So, a mentor with 70% in Lore (History) could 
+charge 14 SP; or 19 SP if he also had Teach 50%. 
+
+73
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+Tired of having sand kicked in herface by Xenos during combat training, 
+
+Anathaym decides that she needs to be as strong as her hated rival, so that she 
+can properly humiliate him the next time they face off in the sparring circle. 
+With her STR 11, SIZ 10, and no Damage Modifier she is at a significant 
+disadvantage, especially when wrestling 
+
+Thus Anathaym throws herself body and soul into a punishing training 
+schedule, her player deciding that she’ll use all three of Anathaym’s regularly 
+assigned Experience Rolls to increase her STR. She boosts her characteristic 
+by +6 but at the expense of consuming all herf ree time (preventing any other 
+skall improvements to be made). The Games Master also rules that it takes six 
+weeks of campaign time_for her to achweve this new strength. 
+
+When Anathaym next turns up at the combat school, Xenos inevitably 
+makes some_foul comment concerning her new ‘manliness’ which she seizes 
+upon to challenge hum. The arrogant noble insultingly looks her muscular 
+Plysique up and down (STR 17), then offers to arm-wrestle with her. How- 
+eve, although her Damage Modifier s now in partty with Xenos® (+1d2) she 
+stll loses the match, her rival being slightly more experienced in applying his 
+Brawn in these tests of machismo. 
+
+Anathaym rages at her humiliating defeat, but master Samothis approaches 
+has student and sardonically suggests that if she spent time actually practicing 
+her combat skills instead of turning herself into an ox, she might actually 
+simply punch out her opponent the next time. Anathaym hears the wisdom in 
+has words and ceases her weightlifling, planning to invest some of her future 
+Experience Rolls in becoming more skilful in unarmed combat. 
+
+Following the advice of amotlus, Anathaym seeks out her mentor to be 
+schooled in the art of unarmed combat. In her single-mindedness to become 
+an expert of the Meerish Infantry combat style, her Unarmed skill has lan- 
+guished at a mere 37 %. Master Zamothus on the other hand is an expert with 
+85%, and a Teach skill of 79%. 
+
+Afier ten days of intensive training Anathaym benefits greatly from her 
+Diisease AanNDd POo1isSoOnN mentor’s wisdom. The difference in skill between them is 48% which on the 
+
+Some of the most feared things which can affect characters are Training Chart table normally results in a 1d4 bonus. However, Zamothis 
+the myriad diseases and poisons which infest the dark and grim also critically succeeds his Teach roll, increasing the table result by two steps. 
+places of the world. There’s nothing quite as unsettling than a plague T s boosts the improvement roll to 1d6+1, andf rom this Anathaym gains 
+which strikes the character’s home city, especially when they are still 5%, raising her Unarmed skill to 42% - well worth every bruuse. 
+within its gates. Likewise finding a venomous serpent in the bed or 
+being attacked by giant scorpions can be moments of high drama. 
+
+Diseases and poisons are near infinite in their varieties but, for 
+Resustance: How the disease or poison is resisted — either Endur- 
+
+game purposes, arc handled in the same way. 
+ance or Willpower, but may have more exotic resistance require- 
+ments. Resistance can be rolled at the time of exposure, or deferred 
+
+DiisseeaasseeE AanNDd POoii1ssoOnN TRrAaIiTtSs until the Onset Time to conceal the fact the character might have 
+All diseases and poisons manifest a number of traits important been infected or poisoned. 
+
+to their effects. Onset Time: Many diseases and poisons do not take immediate 
+Application: 'The method of how the disease or poison is intro- effect. The delay is called the Onset Time, and this can be a matter 
+
+duced into the victim. of seconds, minutes, hours, or even longer. Poisons or diseases pos- 
+sessing multiple effects may have different onset times for each one 
+
+& Ingestion - Effects take place through either eating or drinking. 
+as described under Conditions. 
+
+& Inhaled — Effects take place through breathing or snorting, 
+Duration: How long a disease or poison’s Conditions last. 
+
+& Contact — Effects take place through absorption through the 
+Conditions: Every toxin has one or more Conditions. These have 
+
+skin. 
+specific effects as described in the Conditions table, below, and if a 
+
+& Injected — Effects take place when the substance is injected 
+victim fails to resist he suffers all the Conditions described. 
+
+into the body through piercing. 
+Antidote/Cure: If the toxin can be treated it will be noted here. 
+
+Potency: The virulence of the disease or poison. This value is set Otherwise all non-magical diseases and poisons can be alleviated 
+
+against an appropriate resisting skill (usually Endurance or Will- by specific healing magic, such as the Cure Malady spell. Success- 
+
+power) in an opposed roll. If character wins the roll they shrug off ful treatment prevents any further conditions from occurring, yet in 
+
+its effects. If however they lose the roll, then they suffer all of the some circumstances may leave the victim suffering enduring effects 
+
+disease or poison Conditions, each at the appropriate time. that have already been inflicted. 
+
+74
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+Diisease aAnNDd PoiisonN COoNnDdIiTtIioONnSs 
+
+Condition Effects 
+
+Victim is hindered by intense pain. Whether in a location or the entire body, any skill roll involving use of the affected area must also be less or equal to 
+
+Agony the character’s Willpower, otherwise the attempt fails, and they moan or scream in pain. 
+
+Victim suffers asphyxiation — he collapses incapacitated, unable to breathe. The rules for Asphyxiation, found on page 71, are used. Asphyxiation may 
+
+Asphyxiation be asthmatic in nature meaning the victim only suffers shortness of breath, or complete respiratory failure resulting in death. In the later case a victim 
+
+can be kept alive by winning an opposed test of the First Aid skill against the Potency of the diease or poison. 
+
+Bleeding Victim suffers from either internal bleeding or surface haemorrhaging which leads to the effects described in the Blood Loss section on page 71. 
+
+Blindness Victim becomes blind. 
+
+Confusion Victim cannot use any knowledge, communication or magic skill. 
+
+Clontagious Victim can transfer the poison or disease by touch. 
+
+Deafness Victim loses his hearing, 
+
+Death Victim collapses incapacitated, and dies after a number of rounds equal to his CON characteristic. 
+
+Dumbness Victim’s vocal chords are paralysed, preventing verbal communication. 
+
+Exhaustion Victim gains an extra level of Fatigue, on top of any they are currently suffering from. 
+
+Fever Victim’s body temperature fluctuates wildly — from hot to cold — and muscles ache. All skills suffer a difficulty grade of Hard. 
+
+Victim experiences delusions and cannot differentiate between real and imaginary experiences. His skill and abilities are unaffected but his ability to 
+
+Hallucinations relate to the real world is seriously impaired. Under its effects the sufferer tends to experience visions related to his strongest Passions, and any skeletons 
+
+kept in the cupboard, often leading to irrational acts. 
+
+Maiming Victim suffers a permanent loss of 1 Hit Point in the location(s) affected, due to necrosis of the injured tissue. 
+
+P Victim is driven to follow some compulsion; such as avoiding water, paranoia, self mutilation, and so forth. The mania induced by the disease or poison 
+
+- will be noted in its description. 
+
+Victim cannot eat, and must roll against his Endurance every time he performs a stressful physical action to avoid being physically sick. Vomiting lasts 
+
+Nausea for 1d3 rounds during which he cannot act. Long durations of Nausea may cause starvation. 
+
+P Victim is unable physically to move. The affected area, if a location, cannot be used for the duration. If it affects the whole body, the character cannot 
+
+e move at all. 
+
+Savni Victim has their Magic Points (either the Attribute or current number) reduced. Apply the Potency of the disease or poison on the Spirit Damage table 
+
+ppms (page 131) to calculate the dice roll used. Lost Magic Points do not recover until the duration ends. 
+
+Unconscious Victim loses consciousness for a period specified in the description. When consciousness is regained the victim suffers a level of Fatigue. 
+
+Application: Injected 
+SaAmMPpLlEe DIiSsEeAaSsEeSs 
+
+Potency: 80 
+These are samples of various diseases encountered during 
+
+Resistance: Endurance 
+MyTHRAS play, to be used as they stand or as a template for Games 
+
+Onset time: 1d6+6 days 
+Master designed infections. 
+
+Duration: 1 week + 1d3 days 
+
+PYyrRoOHhOoXxIiaA Conditions: Disease manifests with the start of Hallucinations. Afler one 
+week they also start to sufferfrom Mania (Fire). If the victim somehow survives 
+
+A rather strange disease, pyrohoxia is carried by feral animals 
+lo the conclusion of the disease, they then suffer Death. 
+
+such as rodents, and transferred by a successful bite. The infection 
+Antidote/Cure: Can be cured by the Healing skill up until the onset of 
+
+gradually spreads to the brain, where it begins to twist the percep- 
+Mania, at which point the disease must be treated magically. 
+
+tions and aggression of the victim. No obvious signs exist of pyro- 
+hoxia infection, although the behaviour of the creature which bit 
+
+RedD Pox 
+them may offer clues. Within several weeks of the bite the victim 
+
+Red pox is a nasty disease spread by skin contact with a person 
+starts to suffer increasingly painful headaches, and the eyes turn 
+
+already infected, or with something they have touched. The chance 
+bloodshot. At this point the hallucinations begin, strengthening over 
+
+of catching the disease from an object remains for 1d3 days after 
+the course of a week into violent waking nightmares. 
+
+contact, making it quite difficult to contain the disease once an out- 
+The victim then passes into the terminal stage of the disease, 
+
+break occurs. 
+which induces constant shivering accompanied with a mania to get 
+
+Victims initially suffer a minor rash, but within a day come down 
+warm by whatever means possible. Eventually this climaxes with a 
+
+with a serious fever which usually renders them bedridden for the 
+suicidal desire to jump into fires, lava or even set themselves alight; 
+
+entire duration. During this time the rash evolves into gruesomely 
+usually resulting in a paroxysm of violent destruction as they burn 
+
+itchy pustules which burst open at the slightest movement, weeping 
+to death. Even if restrained from self-immolation, the victim dies 
+
+small trickles of blood — especially from the armpits and groin. This 
+from brain swelling. 
+
+stage can last up to a week or more, potentially proving fatal. 
+
+75
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+Application: Contact Likewise, each day of Necrosis suffered before successful treatment inflicts per- 
+Potency: 50 manent damage. 
+Resistance: Endurance 
+Onset time: 1d6+6 hours Lotus Duusst 
+Duration: 1d6+35 days Lotus dust is the natural pollen produced by the blossom of the 
+
+Conditions: Once the disease manifests the victim becomes Contagious. 1 day rare and deadly ebony lotus flower, which grows in the depths of 
+
+later they begin to suffer Fever and Bleeding. Each day the pustules weep blood remote jungles. It takes the form of a fine yellowish powder with a 
+
+the victim loses one level of Fatigue, which does not recover until the duration of sweet, cloying scent; although to smell it is death since the pollen in 
+
+the disease has completed. its natural state is lethal when inhaled or tasted, causing the heart of 
+
+Antidote/Cure: Can be cured by the Healing skill. the victim to burst. Whether from fear or ecstasy is unknown, for few 
+beings ever survive long enough to tell. 
+
+SouLl LeechH Despite its dangers many sorcerers breathe the fumes of burning 
+Dreaded by priests, shamans and sorcerers alike, soul leech drains lotus dust, which instead of bringing near instant death, infuses the 
+
+their magical vitality, reducing them to powerless prestidigitators. mind of the imbiber with fantastical visions of other worlds. It is 
+Although the disease starts with an innocuous enough cough com- said that they learn dark secrets from the euphoric dreams, though 
+bined with a degree of lassitude, it soon becomes apparent that their few have the strength of will to extract themselves from such visions. 
+paranormal strength is ebbing when spells tire them more easily. Application: Inhaled 
+
+The only extraneous sign of this weakening is that the victim’s Potency: 90 
+own web of subcutaneous veins begins to glow a faint purple when Resustance: Willpower 
+examined in pitch darkness, a by-product of the disease consuming Onset time: 1d3 rounds 
+their Magic Points. Magicians suffering this malady often try to bluff Duration: Instantaneous in its natural state, 2d6 hours if smoked 
+through their lack of power hoping that the disease will end before Conditions: Death if natural pollen. Paralysis and Hallucinations if 
+arival can take advantage. smoked. At the end of a narcotic dream, the smoker must make another resistance 
+
+Application: Inhaled 10ll otherwise subside into an endless coma, still trapped within his lucid visions. 
+Potency: 65 Antidote/Cure: Can be treated by an infusion of the rare Golden Lotus which 
+Resistance: Endurance brings complete recovery, otherwise magic must be used. 
+Onset time: 1d6 days 
+Duration: 1d3+3 weeks SLleEeEpPiInNgG DRrAaUuGgHhTt 
+Conditions: Sapping Each week the victim reduces his Magic Points attribute Sleeping draughts are often used to capture or rob characters, 
+
+by 1d6 points. Since these do not recover until the disease ends, a magician can who unwittingly imbibe the tasteless concoction hidden in a mug of 
+
+eventually be reduced to a level of uiter powerlessness. Afler the disease concludes, ale or glass of wine. By the time the character awakens, they are usu- 
+
+the Magic Points attribute recovers at a rate of 1 point per day. ally weak and nauseous — if not from the after-effects of the sleeping 
+
+Antidote/Cure: Can be cured by the Healing skill if rare, mystical ingredi- draught, then due to the alcoholic hangover which accompanied it. 
+
+ents (the precise nature of which depends on the setting) are used. Application: Ingested 
+Potency: 60 
+Resustance: Willpower 
+
+SaAmMPpLlEe POoIisSoONnSs 
+Onset time: 1d6+4 minutes 
+
+CooBbRraA VEenNoOmM 
+Perhaps the quintessential venomous snake, a cobra’s venom has 
+
+several effects depending on its application. If injected via bite, the 
+venom will inflict a burning pain shortly followed by respiratory dif- 
+ficulty which can lead to death. Even surviving a cobra bite comes 
+at a horrible cost, the bitten area suffering permanent necrotic dam- 
+age. If the venom is spat at the eyes instead of respiratory paralysis 
+the venom can often inflict permanent blindness. 
+
+Application: Contact (eyes) or Injected 
+Potency: 75 
+Resistance: Endurance 
+Onset time: Instant if spat in eyes, 1d6+4 minutes if bitten 
+Duration: 1d3+35 days 
+Conditions: If spat into the eyes both Agony and Blindness are instant, last- 
+
+ing the entire duration. Butten victims also begin with Agony but can struggle 
+along until 1d6+06 hours afler the bite when Asphyxiation strikes, usually result- 
+ing in death, unless Furst Aid us successfully applied to keep the victim breathing. 
+Survivors will then suffer Necrosis, losing 1 Hit Pownt per day from the location 
+bitten, until the venom s somehow purged or it naturally ends. 
+
+Antidote/Cure: Can be ameliorated with the Healing skill. However blind- 
+ness, if not treated before the end of the venom’s duration becomes permanent. Envenomed blades: a favourite of every assassin 
+
+76
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+Duration: 1d6+3 hours ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+Conditions: Unconsciousness. Victim falls into a deep sleep, and cannot be Anathaym owns a partial suit of bronze Hoplite Plate. This comprises 
+
+woken until the duration ends. a crested helm, a cuirass and two bracers. The panoply covers five of her 
+Antidote/Cure: Can be counteracted by the Healing skill, and use of a strong body locations, and has an Armour Penalty of -4 which counts both against 
+
+stimulant. her Initiative, and her running and sprinting speeds due to the hindrance the 
+strapped preces have on her body movement. 
+
+Additionally the armour has a total ENC of 20 simply due to the weight 
+
+EnNCcuUMmBbRrAaNnCcEe of the heavy bronze. If she carried the armour on her back, whilst also bear- 
+ing her spear;, shorisword and hoplite shield, Anathaym would have a total 
+
+Encumbrance represents both the mass and bulk of an item. The 
+Encumbrance of 20+2+1+5=26 which s more than twice her STR of 
+
+greater the encumbrance value the more difficult it is to carry it. 
+11, rendering her Burdened. 
+
+Correlating ENC with SIZ can be a challenge: light but bulky 
+However, if she wears her armour instead, the ENC of the panoply s 
+
+items often impose just as much of a burden as small but heavy ones. 
+halved, reducing her total Encumbrance to 10+2+1+5 =16, leaving her a 
+
+As a rule of thumb 3 ENC is equivalent to 1 SIZ, but, depending on 
+little extra capacity to carry extra equipment, and not be hindered by her load. 
+
+the item, Games Masters may want to adjust the ratio down to 2:1 
+or even l:1. A head-sized lump of lead, for instance, is far heavier 
+than a similar sized lump of rock. Conversely a large sack loosely The amount armour counts towards Encumbrance Capacity 
+
+filled with goose-down might have a ratio of 5:1. As always, com- depends on whether it is worn or carried. 
+
+mon sense should prevail in such circumstances. 
+& When worn, only half the total ENC of the armour is 
+
+Items that have a zero ENC value are, on their own, inconse- 
+counted towards Encumbrance 
+
+quential; however consider that 20 zero ENC items equal 1 ENC. 
+& When carried, the full ENC value of the armour is counted 
+
+towards Encumbrance 
+EnNCcuUMmBbRrAaNnCcEe CAaPpAaCcIiTtYy 
+
+Characters can carry a total ENC equal to their STR x2 with 
+relative ease. Everyday clothing does not contribute to this capacity, NoNn HUuMmAaNn EnNCcuUMmBbRrAaNnCcEe 
+but armour does — see the notes on Armour ENC below. Whilst the encumbrance rules work fine for human scaled charac- 
+
+If the total ENC borne exceeds STR x2 then the character is ters, they can begin to break down for creatures of larger or smaller 
+considered to be Burdened. This has the following effects: dimensions. The best way to avoid scaling issues is to assume that 
+
+arms and equipment for each species scale in proportion with their 
+& Skills using STR or DEX as part of their base (including 
+
+user’s size. Thus a great axe used by a minotaur would be slightly 
+combat skills) become one grade harder 
+
+larger than one used by a (human) royal guard, as would its armour. 
+& Base Movement Rate drops by 2 metres, and the character 
+
+To calculate the encumbrance of proportionally sized equip- 
+can no longer sprint 
+
+ment, add together all the ENC values of everything carried by the 
+& Carrying the load counts as Medium activity for Fatigue 
+
+creature, then multiply the final result by the ratio of the average SIZ 
+purposes 
+
+of a member of that race divided by the average SIZ of a human. 
+
+If the borne ENC exceeds STR x3 then the character is consid- 
+
+ered to be Overloaded. The effects are thus: Final Encumbrance = Total ENC x (Average SIZ of species/13) 
+
+& Skills using STR or DEX as part of their base (including 
+combat skills) become two grades harder 
+
+& Base Movement Rate drops to half normal, and the character ALlTtEeRrNnAaTtIiVvEe EnNCcuUMmBbRrAaNnCcEe RUuLlEeSs 
+cannot move faster than a walk Keeping detailed track of encumbrance adds considerable effort to maintaining 
+
+& Carrying the load counts as Strenuous activity for Fatigue character sheets, especially when items are picked up or looted, and as a consequence 
+
+purposes many groups simply hand-wave encumbrance as being an unnecessary hassle in general 
+
+play. For those who still wish to keep a rough track of encumbrance but want something 
+
+Characters cannot carry a total ENC more than their STR x4, less maths intensive, consider the following alternative, which does not track items car- 
+
+cither the mass or unwieldy bulk of the objects proving to be too ried in strict terms of their ENC value. 
+much to bear for more than a short distance. 
+
+& All characters can carry a number of Items equal to half their STR without 
+
+being encumbered. Over STR/2 and up to STR, they are considered Bur- 
+
+ARrmMOoUuRr ENC dened. Over STR to STRx1.5 they are Qverloaded. 
+
+When considering its encumbering nature, armour has a num- One Item is equivalent to anything that can be comfortably carried in one hand. 
+
+ber of different effects: it not only hinders Initiative (see Armour Things that are two-handed or are strapped to an arm (a shield, say) count as 
+
+Penalty), and slows gaits faster than a walk (see Moving in Armour two ltems. Note that the SIS of the creature will influence what is considered 
+
+page 70), but also burdens its bearer with its bulky weight. one or two items. For a giant, a greatsword could comfortably be counted as one 
+
+item, whereas for human-sized creatures it would clearly be two. 
+
+Worn armour of any kind does not contribute towards ENC. If carried, then 
+
+it counts as its equivalent Armour Penalty value. 
+
+~ 
+
+77
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+Continuing with the minotaur example, we find its proportional equal to the Damage Taken column of the Falling Distance 
+size ratio is 1.7 (22/13). Thus a minotaur wearing full Hoplite pan- including any reductions for objects of smaller size. 
+oply and wielding its great axe would have a total encumbrance of 
+27 (28 halved plus 2 for the great axe, and the total multiplied by 
+
+FaALlLliInNgG fFrRoOmM Aa 
+1.7) Still well within the unburdened limit of STRx2 which for an 
+average minotaur is 34. MOoVvIiNnGg VEeHhIiCcLlEe 
+
+Although this sum may require a few seconds to work out, it Damage sustained from a fall from a moving vehicle, such as 
+simplifies the entire process to a single calculation, and avoids time a chariot, depends on the vehicle’s speed and the distance fallen. 
+consuming book keeping. Assume that the speed, in metres per Combat Round, is equal to 
+
+half the height shown on the Falling Distance table. A chariot mov- 
+ing at 20m per Combat Round would inflict 2d6 damage to two 
+
+FaALlLliInNgG random locations if a character should fall from it. 
+
+The amount of damage suffered in a fall depends on the distance 
+of the drop. Armour points do not reduce falling damage. 
+
+FaAtTiIgGuUEe 
+FaALlLliInNgG DiiSstTaAnNCcEe TAaBbLlEe 
+
+Fatigue measures tiredness and its incremental effects. It is an 
+Distance Fallen Damage Taken important aspect in MYTHRAS as it is used to track many different 
+Im orless No damage. things from strenuous activity to the debilitating effects of disease 
+2m to Sm 1d6 points of damage to a random location. or magic. 
+6m to 10m 2d6 points of damage to two random locations. 
+
+Ilmto 15m 3d6 points of damage to three random locations. PHhYySsIicCaALl EFffFoORrTt 
+16m to 20m 4d6 points of damage to four random locations. The primary way of accruing Fatigue is by engaging in some 
+Each +5m +1d6 damage. form of physical activity. The more arduous the exercise or work, 
+
+the more quickly it tires the character. There are three classes of 
+effort: Light, Medium and Strenuous. The length of time a char- 
+
+& Damage is rolled separately for eack location; it is not spread 
+acter can engage in an activity without becoming fatigued is deter- 
+
+among them. 
+mined by his CON, as detailed under each category. Once this time 
+
+& Creatures of smaller size suffer less from a fall. Those of SIZ 
+has elapsed characters must make an appropriate skill roll — either 
+
+8 to 9 treat the distance fallen as one metre less. A creature 
+Athletics, Brawn or Endurance — to resist gaining a level of Fatigue. 
+
+of SIZ 6 to 7 treats the distance fallen as three metres less. A 
+Unless the recipient of some form of magic that naturally extends 
+
+creature of SIZ 4 to 5 treats the distance fallen as five metres 
+wakefulness, all characters need sleep. A character can remain 
+
+less. A creature of SIZ 2 to 3 treats the distance fallen as eight 
+awake for a number of hours equal to twice CON before needing to 
+
+metres less. A creature of SIZ 1 or less treats the distance 
+make an Endurance roll. If successful, the character can continue to 
+
+fallen as ten metres less. 
+function normally for a number of hours equal to half CON before 
+
+Creatures of larger size suffer more from a fall. For every 10 
+needing to make a further Endurance roll, although this roll will be 
+
+points above SIZ 20 the creature adds +1d6 to the damage. 
+one grade harder than the last. Each failed roll accrues one level of 
+
+Thus a SIZ 35 creature which drops from a height of 2m 
+fatigue. 
+
+would take 3d6 damage to a random location. 
+& Acrobatics can be used to mitigate falling damage — a success- 
+
+ful roll allows the character to treat the fall as if it were two EFfFfeCcTtSs oOFf FaAtTiIgGuUEe 
+metres shorter than it actually is. In addition, as long as the Every failed roll accrues a level of Fatigue. Each level of Fatigue 
+roll is successful and the character does not suffer a Serious carries penalties for skill use, movement, Initiative and Action Points. 
+or Major wound due to the fall, the character lands relatively Asphyxiation, Blood Loss, and some types of magic also contribute 
+safely and is not prone. to Fatigue accrual. 
+Characters falling onto soft surfaces may treat the distance For most characters, activities of any kind become near impos- 
+they fall as halved for the purposes of damage. This is always sible when the level of Incapacitated is reached. At this stage the 
+at the Games Master’s discretion. character is still conscious but incapable of anything but the most 
+Characters falling onto damaging surfaces (such as a pit of desperate of activities. 
+spikes) will suffer the effects of the surface to all locations that Beyond Incapacitated, characters cannot act at all. The Fatigue 
+are damaged in the fall. levels — Semi-Conscious, Comatose and Dead — are generally 
+
+reserved for measuring the most extreme effects of suffocation, dis- 
+case, blood loss, starvation, exposure, and so forth. 
+
+FaALlLliInNgG OBbJjEeCcTtSs It is perfectly possible to accrue Fatigue from several sources, 
+
+A falling object imparts an amount of damage based on its SIZ potentially making some situations more dangerous. 
+
+and the distance of the fall. An object imparts 1d6 damage for every For example, a thief climbs the flanks of an extinct volcano to reach a 
+
+6 points of SIZ (or fraction thereof), plus an amount of damage long-forgotten temple, in which fantastically precious jewels are reputed to be 
+hidden. By the time he crests the crater rim his Fatigue level has reached Tured. 
+Spurred on by sighting the ruins upon an island at the centre of the flooded 
+
+78
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+FaATtiIgGuUEe LEeVvEeLlSs 
+
+Skill Grade Initiative Action Points Recovery Period 
+
+Fresh No Penalties 
+
+Winded Hard No Penalty No Penalty No Penalty 15 minutes 
+
+Tired Hard -1 metre No Penalty No Penalty 3 hours 
+
+Wearied Formidable -2 metres -2 No Penalty 6 hours 
+
+Exhausted Formidable Halved -4 -1 12 hours 
+
+Debilitated Herculean Halved -6 -2 18 hours 
+
+Incapacitated Herculean Immobile -8 -3 24 hours 
+
+Semi-Conscious Hopeless No Activities Possible No Activities Possible No Activities Possible 36 hours 
+
+Comatose No Activities Possible No Activities Possible No Activities Possible No Activities Possible 48 hours 
+
+Dead Dead Never 
+
+PHhYySsIicCaALl EFffFoORrTt TAaBbLlEe types of activity contribute towards Fatigue. But common sense 
+should apply. A character dressed in full plate armour, in a tropical 
+
+How 
+
+Effort Long? Example Skill Roll jungle, on a hot summer’s day, could not spend three hours hack- 
+ing his way through the foliage without suffering fatigue in some 
+
+Very Easy grade roll vs 
+way. Similarly carrying heavy loads, trekking uphill, foot chases, long 
+
+Activity that places either Athletics, Brawn 
+swims or digging out an ancient necropolis are all going to take their 
+
+. no strain on the or Endurance according 
+i CON in . 
+
+Light b body. All reasonable  to the task (Athletics for toll on a character, potentially tiring him at a crucial moment. 
+ours 
+
+activities at a steady exercise; Brawn for heavy 
+
+pace. lifting; Endurance for 
+
+general activities). 
+FIirREeSs 
+
+i Manual labour; 
+i CON in i i As above, but at Easy Fires are always a source of danger when used as a weapon or 
+
+Medium . sustained physical 
+minutes i grade. rage out of control. They damage both people and objects; how 
+
+exercise. 
+much is dependent on the intensity of the source. The Fire Inten- 
+
+. Standard grade roll vs 
+CON in i i i sity table below gives five different intensities for heat damage, with 
+
+Combat; struggling either Athletics, Brawn 
+seconds . . some examples. 
+
+against the elements;  or Endurance according 
+(rounded up . L . The damage inflicted per round is given in the Damage column. 
+
+Strenuous physical activity in to the task (Athletics for 
+to the next . Being relatively small, Intensity 1 and 2 sources apply their damage 
+
+extremely adverse exercise; Brawn for heavy 
+Combat i e to a single Hit Location, usually that touching the source. Intensity 
+
+circumstances. lifting; Endurance for 
+Round) 
+
+Combat). 3 and 4 sources are larger, applying damage to nearest 1d4+1 Hit 
+Locations, indicating the degree of radiant heat. Intensity 5 sources 
+affect all Hit Locations simultaneously. 
+
+Fire clearly has the ability to ignite flammable materials. If not 
+
+caldera, the thieff oolishly undertakes the swim before resting; in the process losing extinguished immediately such materials combust within a number 
+
+several more levels of Fatiguefromf ailed Swim rolls. When the scaly guardian of of rounds as indicated by the fire’s Intensity. Once ignited, flamma- 
+
+the sacred temple pulls him under the surface, the fatigue accrualfrom drowning ble materials burn until physically extinguished. Damage is applied 
+
+startsfrom has current level of Exhausted, and he swiftly dies, lacking the energy directly to the Hit Points of the material, ignoring Armour Points 
+
+to put up much of a fight. and to any flesh beneath. If left uncontrolled it spreads to a number 
+of Hit Locations, per round, equal to its Intensity. 
+
+REeCcOoVvEeRrIinNgG fFrRoOmM FaATtiIgGuUEe 
+Characters recover from Fatigue depending on their Healing FIirReE InNTtEeNnSsIitTyY TAaBbLlEe 
+
+Rate. The amount of complete rest needed to recover from each Intensity Examples Time to Ignite Damage 
+level of accrued Fatigue is equal to the Recovery Period divided by 
+
+1 Candle 1d4 1d2 
+the character’s Healing Rate. 
+
+2 Torch 1d3 1d4 
+Note that the table represents fatigue recovery for physical exer- 
+
+3 Campfire 1d2 1d6 
+tion. Fatigue recovery can be much faster when recovering from 
+asphyxiation or slower if recuperating from blood loss. Room filling 
+
+4 . 1d2 2d6 
+conflagration 
+
+5 Volcanic lava Instant 3d6 
+MAaNnAaGgIiNnGg FaAtTiIgGuUEe 
+
+Managing Fatigue, and its effects makes for additional book-keep- 
+ing. To simplify things, Games Masters can decide that only certain 
+
+79
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+PEerRmMAaNnEeNnTt InNjJuUrRyY TAaBbLlEe 
+HEeAaLlIinNgG fFrRoOmM InNjJuUrRyY 
+
+1d3 Hit Point Reduction Maiming Result 
+Natural healing from wounds and injuries is based on the charac- 
+
+If a limb, this represents the maiming 
+ter’s Healing Rate. The Healing Rate dictates how many Hit Points 
+
+of a hand or foot. If the head, the 
+are recovered in a location depending on the injury’s nature: Character permanently . 
+
+i . character loses one of his sensory 
+1 loses one third of the Hit 
+
+& Minor Wounds: Days L. . organs, eye, ear, nose or tongue 
+Points in that location . . . 
+
+& Serious Wounds: Weeks Anywhere else it denotes a disfiguring 
+
+scar. 
+& Major Wounds: Months 
+
+o q A limb is maimed from the elbow or 
+aracter permanen 
+
+Thus a character with a Healing Rate of 3 who suffers damage 1D Y knee down. The head loses two sensory 
+loses two thirds of the Hit . 
+
+taking him to —3 in a Hit Location, a Serious Wound, will heal nat- . i organs. Torso exhibits a gruesomely 
+Points in that location i 
+
+urally at a rate of 3 Hit Points per week until his wound goes above horrible scar. 
+
+zero, and then heal 3 Hit Points per day until fully recovered. Limbs are maimed from the shoulder 
+
+There are certain restrictions on natural healing: or hip down. The head either loses 
+
+L. three sensory organs, half the face or 
+& The healing character cannot engage in strenuous activity: Location is reduced to a L 
+
+3 . A the entire jaw. Chest or abdomen shows 
+otherwise the Healing Rate is reduced by 1d3. Thus, a char- single Hit Point . . 
+
+such a horrific scar or deformation 
+acter recovering from even a Minor Wound could find his nobody seeing the healed wound can 
+progress halted if he decides to engage any physical tasks that comprehend how the victim survived. 
+might exacerbate his injuries. 
+
+& Natural healing will not begin to heal a Major Wound until 
+that location has been treated with a successful Healing roll 
+(see page 46). Non-dismembering Major Wounds which are struck there means the attack actually misses! Characters vindictive 
+not treated within a number of days equal to one twentieth of enough to target such a maimed limb using Choose Location must 
+the Healing skill become maimed, permanently reducing the roll a 1d3 to see if they actually hit the remaining parts. 
+Hit Points of the location. 
+
+Guidance on how to stage combat to take into account these 
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+
+lengthy healing times is provided in the Games Mastery chapter (see Afier months of practice Anathaym finally succeeds in defeating Xenos in 
+Pacing Combat Encounters page 285). the practice circle, humiliating the proud noble by tripping him, and_forcing 
+
+has surrender at spear point in_front of his freends. She spends that evening 
+
+MAaGgIiCcAaLl HEeAaLlIinNgG Joolishly drinking wine in celebration. When she eventually leaves the tavern, 
+
+Some magic can heal the wounds suffered by a victim. Yet there the warriwress s too drunk to notice the sinuster cloaked figures who follow, 
+
+are specific restrictions as to what level of wound can be treated by and drag her into a dark alleyway. 
+
+each spell. For example the Common Magic spell Heal cures only Wihilst two of her assaullers pin her down, the third draws a club which 
+
+Minor Wounds, whereas the Sorcery spell of Regeneration can heal he smashes down onto her spear hand, twice, pulping every bone in the append- 
+
+both Minor and Serious Wounds. There are few magics which can age. Then, the men pick her up, laughing cruelly, and Anathaym recognises the 
+
+reverse the traumatic injuries of a Major Wound. superctlious voice of her rwval as she passes out. When she finally awakens 
+
+No matter how petty the healing spell or miracle, its application she discovers herself abandoned in the dry hills many leagues from Meeros. 
+
+is always enough to stabilise any type of wound, preventing bleeding Sufferingfrom the pain and delirium of the Major Wound, 1t takes four 
+
+and immediate death even if it doesn’t actually cure the underlying days to stumble back to Meeros, but shef inally reaches the city’s modest Shrine 
+
+injury. Note that this only applies to gross physical trauma, not to of Healing, located in the poor quarter. The serving acolyte explains that 
+
+conditions brought about by suffocation, poison, and the like. the wound s beyond her powers to heal magically, and too much time has 
+already passed to avoid it being maimed. However, she successfully performs 
+her Healing roll, ensuring that the hand does not become infected and can start 
+
+PEerRmMAaNnEeNnTt InNJjuURrIiEeSs 
+lo recover; albeit with slightly twistedf ingers andf rozen knuckles. 
+
+Some Major Wounds, and certain poisons or diseases inflict 
+Anathaym has hitle chowe but to heal naturally. With her right arm at 
+
+maiming injuries; for example horribly crushed and severed limbs, 
+-6 1t would normally take a month at her Healing Rate of 3 to recover to 
+
+or the necrotic effects of venoms. The result of this damage perma- 
+the point at which the Major Wound s reduced to just a Serious one. The 
+
+nently reduces the Hit Points on that location, forever weakening it. 
+mavming injury however; has permanently reduced her limb by two Hit Points. 
+
+Alocation maimed in this way uses the diminished Hit Point value to 
+T'us new level means the Serious Wound threshold of that arm is now -1 Hit 
+
+calculate its new Serious and Major Wound thresholds. 
+Pownt, so 1t takes two months to recover — at which point another visit to the 
+
+Tor permanent injuries caused by accident or battle, roll 1d3 and 
+acolyte magically cures the remaining damage. 
+
+consult the following table to see the extent of the maiming: 
+Her right hand crippled to the point of near uselessness, Anathaym is 
+
+In those cases where the maiming involved the loss of a limb, 
+drwen by her hatredfor Xenos, and begins to learn how to use her spear left 
+
+reduce the d20 numbers for that Hit Location by an appropriate 
+handed... 
+
+amount. For example the Right Arm of a humanoid is normally 
+struck on a roll of 13-15 on a d20. If however the arm was sev- 
+ered at the elbow then locations 13-14 no longer exist, and being 
+
+o 
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+InNaAnNIimMAaTtEe OBbJjEeCcTtSs ARrMmOoUuRr aAnNDd HIiTt POoIiNnTtSs 
+InNaAnNIimMAaTtEe OBbJjEeCcTtSs Object Armour Points Hit Points 
+
+All inanimate objects possess Armour Points and Hit Points 
+Boulder 10 40 
+
+which are used to determine resistance to damage and destruction. 
+Castle gate 8 120 
+
+Armour Points reduce damage before Hit Points are affected. Once 
+Castle wall (2m section) 10 250 
+
+an object’s Hit Points have been reduced to zero, it is useless. 
+Usually inanimate objects offer no resistance to damage, save for Chain/shackle 8 8 
+
+their Armour Points. However in the case of items that can restrict Club 4 4 
+
+or offer a significant resistance to breakage attempts (such as a Dagger 6 4 
+
+barred door, or ropes used to restrain hands and feet), the character Hut wall (2m section) 3 15 
+
+must succeed with either a Brawn, Unarmed or weapon attack roll, Iron door 12 75 
+
+as appropriate, to inflict damage. A successful roll deals damage to Rope 6 3 
+the item as per the weapon type; a failed roll has simply failed to 
+
+War sword 6 10 
+apply enough force or damage to the item to deteriorate its condi- 
+
+Wooden chair 2 6 
+tion. Refer to the description of the Brawn skill to determine what 
+
+Wooden door (normal) 4 25 
+damage it inflicts. 
+
+The Inanimate Objects table gives some example objects, along Wooden door (reinforced) 6 30 
+
+with their Armour Points and Hit Points. Wooden fence (2m section) 4 5 
+
+UssIinNgG WEeAaPpOoNnSs AGgAaIiNnSsTt CHhEeAaTt FaATtEe 
+Characters can use a Luck Point to re-roll any dice roll that 
+
+InNaAnNIimMAaTtEe OBbJjEeCcTtSs affects them. This can be a skill roll, damage roll or anything else 
+Using a weapon against an inanimate object with Armour Points that has some effect. Characters can even force an opponent to 
+
+equal to or greater than those of the weapon deals damage to both re-roll an attack or damage roll made against them. 
+the object and the weapon. For instance, using an axe on an anvil 
+may damage the anvil, but the axe itself will be destroyed long DEeSsPpEeRrAaTtEe EFffFoORrTt 
+before the anvil is. The Games Master should exercise discretion If a character has exhausted his Action Points during a fight and 
+on which weapons or tools can affect which objects. A chisel, for needs to find that last burst of desperate energy to perhaps avoid 
+example, is explicitly designed to carve wood or stone whilst a sword, a messy demise, he may spend a Luck Point to gain an additional 
+although sharp, is not. The chisel would therefore not take damage Action Point. 
+from something it is attempting to carve whereas a sword most likely 
+would. MIiTtIigGAaTtEe DAaMmAaGgEe 
+
+A character who suffers a Major Wound may spend a Luck Point 
+to downgrade the injury to a Serious Wound. This reduces the dam- 
+age taken to one Hit Point less than what would be required to inflict 
+
+Luck POoIiNnTtSs a Major Wound. 
+Luck Points help differentiate heroes from the rank and file. They 
+
+represent a character’s ability to potentially turn failure into success, 
+Group Luck Points
+
+and even cheat death, roupP OINTS 
+The Personal Connections boxed text on page 22 describes how, 
+
+Every character starts with a number of Luck Points as described 
+when characters form personal connections during character cre- 
+
+in the Attributes section of the Basic Character Creation chapter. 
+ation, the group as a whole gains a pool of Luck Points distinct from 
+
+Luck Points can be used during play and, at the beginning of the 
+those available personally. This pool of Group Luck Points is avail- 
+
+next session, replenish to their usual value. 
+able to all members of the team to use in precisely the same way as 
+
+For example, Emma and her friends meet every Friday for their weekly 
+personal Luck Points but only when the character wanting to draw 
+
+MrTHRAS game. One Friday might Emma, playing Anathaym, is gwen cause to 
+upon the pool needs to do so to aid one of his fellows. 
+
+use all her character’s Luck Points for a variety of reasons. Out of Luck Points, 
+The Games Master should keep track of the Group Luck Points 
+
+Anathaym manages to survwe with no catastrophic consequences till the end of 
+pool (or the players can do this, nominating one of their number to 
+
+the game session. However, when the players reconvene on the following Friday, 
+keep track). Group Luck Points refresh in the same way as personal 
+
+Anathaym’s Luck Points will have replenished back to their normal value. 
+Luck Points: that is, the pool is fully restored at the beginning of the 
+
+Luck Points only increase if the POW characteristic increases, or 
+next game session. However if Games Masters feel that the Group 
+
+some form of magic provides a temporary increase in some fashion. 
+Luck Points pool is offering too much of an advantage, or even being 
+abused, it can be made to replenish at an appropriate point in the 
+
+UssIinNgG Luck POoIiNnTtSs story — at the end of an adventure for example, or after a reasonable 
+Luck points can be used in a variety of ways. Only one Luck period of down-time. 
+
+Point can be used in support of a particular action. Each of the 
+following options costs a single Luck Point. 
+
+81
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+For instance, a character with “ITrust Chieftain’ might, if his 
+PAaSsSsIioOnNSs chieftain acts treacherously, either reduce his Passion or turn into 
+
+Introduced during the character creation chapters, a Passion ‘Distrust Chieftain’ at the same percentage. The Games Master 
+is any deeply held commitment that has the capacity to influence needs to determine if a Passion reduces or reverses. If it reduces 
+events during play. Although they can be used as stand-alone abili- then it does so according to the strength of the source of the change. 
+ties (to call them skills is to do them a disservice), passions are further The Deepening and Waning table shows by how much the Pas- 
+expanded below to explain in more detail how they work, and how sion changes. 
+they can influence MYTHRAS characters and campaigns. 
+
+In summary, Passions can be used thus: DEeEePpEeNnIinNgG AanNDd WAaNnIiNnGg 
+
+& To augment another skill, reflecting the depth of one’s feeling Change +/- 
+
+and how it drives action. Weak 1d10 
+
+When used in this regard the Passion adds 20 % of ts value to a skill Moderate 1d10+5 
+
+being used, as long as the augmentation s thematically and dramatically Strong 1d10+10 
+
+important. 
+& As an ability in its own right to drive choices, desires, and Further advice for Games Masters on using Passions to drive a 
+
+emotional actions and responses. scenario or campaign is provided in the Games Mastery Chapter. 
+When used in this way a standard roll is made against a Passiwn to 
+
+determine how strongly the character thinks andf eels about something If 
+a roll s a success then the character acts in-line with what the Passion 
+would dictate. If the roll fails then the character can act freely without SUuRrVvIivVaALl 
+Jeeling constrained by the Passion’s drives. Characters may find themselves in hostile environments: deserts, 
+
+& To oppose other Passions — even those held by the same char- arctic landscapes, mountains, rain-lashed moorlands, and so on. In 
+
+acter. This is typically used where two Passions would con- such environments characters may find themselves battling the ele- 
+
+flict. For instance a personal love might dictate a course of ments, and the three big killers: exposure, starvation, and thirst. 
+
+action that would be contrary to an oath or loyalty. Here use Each danger has a specific onset time before a critical point is 
+
+an opposed roll between the two Passions with the more suc- reached, after which debilitation occurs at a steady rate: 
+
+cessful determining how the character acts. 
+& Exposure occurs when the body is insufficiently protected 
+
+As a general measure of depth of commitment, belief, and 
+against a hostile environment. Assuming suitable clothing it 
+
+loyalty to a cause. The higher the Passion’s value, the more 
+usually starts to take effect after CON hours. The subsequent 
+
+committed the character is. Characters with similar Passions 
+Exposure Rate can range from daily to mere minutes depend- 
+
+can compare and contrast their ratings to determine who 
+ing on the weather conditions. See Temperature, page 84. 
+
+exhibits the deeper commitment. 
+Starvation takes place after an extended period without food. 
+
+To resist some form of psychological manipulation or magical 
+Critical levels of starvation begin after a number of days 
+
+domination. In certain cases where a character is being forced 
+equal to half CON. After this the Starvation Rate is daily. 
+
+into performing an act contrary to his Passions, he may use 
+Dehydration begins after CON x4 hours; although in arid or 
+
+substitute his Passion for the usual Willpower in the opposed 
+hot environments this might be CON x3 or even CON x2. 
+
+roll. 
+The ensuing Dehydration Rate depends on the ambient arid- 
+
+During character creation characters establish up to three start- ity or humidity of the environment. See Precipitation page 
+
+ing Passions; however new Passions can be developed at any point 84. 
+
+during a MYTHRAS game session if the circumstances warrant it. 
+Once any of the above conditions take hold characters start to 
+
+One might instantly develop ‘Hate X’ where someone else does 
+accrue Fatigue levels. An Endurance roll is required at onset, which 
+
+something that would strongly invoke hatred to arise. A lord or chief 
+is then repeated every time the Exposure, Starvation or Dehydration 
+
+calling for an oath would immediately establish a Passion of ‘Loyalty 
+Rate cycles. If the roll is failed then a level of Fatigued is accrued. 
+
+to X’ as soon as that oath is taken or sworn — something explored 
+Care should be taken to apply any skill penalties suffered for 
+
+further in the Cults and Brotherhoods chapter. 
+the current level of Fatigue. Eventually their increasing debilitation 
+
+Passions developed during play in this way cost no Experience 
+steadily wears down the character’s capabilities until Incapacitation 
+
+Rolls, and are established there and then. Of course, characters can 
+is reached. Thereafter, without help death will swiftly follow. 
+
+also choose to establish a Passion during improvement, at the cost of 
+an Experience roll to gain a Passion at its base value: see the chart 
+on page 23 of the Culture and Community chapter. 
+
+TrRaApPSs 
+DEeEePpEeNnIinNgG AanNDd WAaNnIiNnGg Traps are ubiquitous devices used by every culture from the dig- 
+
+Passions can increase during a game independently of Experi- ging of pitfalls to capture animals to death-traps guarding tombs for 
+
+ence Rolls, based on the strength of whatever occurred to trigger all eternity. These devices are built for a range of purposes, each 
+
+the increase. Also Passions can, and do, wane. A strongly held belief specifically tailored to raising an alarm, capturing interlopers, or 
+
+can be shaken by many things leading to that Passion being either maiming and killing thieves outright. 
+
+reduced or, in more extreme circumstances, reversed completely. 
+
+82
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+Constructing traps requires that the builder knows either the 
+Mechanisms or Engineering skill. Small traps such as bear traps or BUuIiLldDIinNgG TRrAaPpSs 
+trapped locks require Mechanisms, whereas large scale construc- Use the Task rules (page 60 onwards) as the basis for building 
+
+tions like spiked pits or rolling boulders need Engineering. traps, with the task round measured in hourly increments depending on 
+
+Beyond hiring the constructing craftsman, traps often have very the sophistication of the device. If Enhancements are achieved, boost the 
+
+expensive component or manual labour costs. As a general guideline trap's Difficulty by +5% for each Enhancement gained. 
+
+alarms cost the skill of the creator in copper pieces, ensnaring traps 
+the same in silver, and death-traps require payment in gold. 
+
+All traps have a Difficulty rating which represents how difficult it devices is limited by the skill of its creator. Force is noted for those 
+
+is to perceive, disarm or avoid. This value is treated as its skill when traps which fire projectiles which can be parried. 
+
+resisted in an opposed roll. 
+DeeAaTthH TRrAaPp DAaMmAaGgEe LimMIiTtSs 
+
+Despite the many entertaining tales told by storytellers, traps — 
+especially those intended to kill — rarely have a method of cleverly Maker’s Skill Damage SizelForce 
+
+avoiding or reversing their effects once set in motion. Without magic 1-10% 1d2 Small 
+
+or good fortune, those caught in a death-trap usually succumb to 11-20% 1d4 Small 
+its highly efficient purpose. In short, they are not intended to be 
+
+21-30% 1d6 Medium 
+survivable. Unless the trap has some cunning design or is some sort 
+
+31-40% 1d8 Medium 
+of enduring magical enchantment, once it has been sprung it must 
+
+41-50% 1d10 Large 
+be manually reset. 
+
+51-60% 2d6 Large 
+
+61-70% 1d8+1d6 Huge 
+TrRaApP TRrAaIiTtSs 
+
+71-80% 2d8 Huge 
+Traps are described using the following traits. 
+
+81-90% 1d10+1d8 Enormous 
+
+PUuRrPpOoSsEe 91-100% 2d10 Enormous 
+
+The purpose of the trap. 
+
+& Alarm — Trap sends a silent or audible signal that it has been SaAmMPpLlEe TRrAaPpSs 
+triggered. These are example traps which Games Masters can use as tem- 
+
+& Ensnaring — Trap is designed to capture anyone who triggers plates to create their own devious devices. 
+
+or enters it. 
+CRrUuSsHhIinNgG ROoOoFf 
+
+& Maiming — Trap is intended to critically injure whoever trig- 
+This trap often takes the form of a small room or short length of 
+
+gers it. 
+corridor. The trap has a lure of some sort, usually something of an 
+
+& Death — Trap is intended to kill those who activate its lethal 
+artistic or valuable nature which attracts the victim to enter. Most 
+
+devices. 
+crushing roof traps are dead ends with only one entry, perhaps with 
+a false door on the other side; although rarely they are utilised as 
+
+TRrIigGgGEerR additional security to prevent illicit access to a real doorway. 
+The way the trap is set off. When triggered the entry portal slams closed with a metal port- 
+
+cullis which locks into place. The roof then gradually lowers, its 
+DiirfrficuLlty support pillars sinking into the floor as their supporting sand flows 
+
+The challenge rating of the trap, which is equal to the value of away; or if the ceiling is suspended from some sort of ratchet device, 
+the Mechanisms or Engineering skill which created it. For instance a the chains play out. 
+scything blade trap built into the base of a treasure chest by a crafts- Due to the difficulty of carving entire roofs from a single piece of 
+man with Mechanisms 70% grants the trap a Difficulty of 70%. rock, most ceilings are actually made of plastered wood, weighted 
+The trap would thereafter use this value in opposed rolls to see if the on top with large rocks to provide extra mass. Unless the creator 
+blade can be spotted, evaded or disarmed. deliberately incorporated a secret trapdoor in the ceiling to pro- 
+
+vide an emergency escape route, victims typically suffer a long, slow 
+REeSsIisStTaAnNCcEe 
+
+demise as the weight of the roof crushes them to death. 
+How the trap is resisted — typically using Brawn, Evade or par- 
+
+Purpose: Death 
+rying with a Combat Style which uses a shield. Resistance is rolled 
+
+Trigger: Moving the lure object 
+when the trap is triggered. 
+
+Difficulty: 80% 
+
+ErfFfecCTt Resistance: Evade to dive clear of the room before the entry slams shut. If 
+several characters are trapped within the chamber; they may attempt to support 
+
+What happens when the trap is sprung, and the victim(s) fail to 
+the roof with Brawn whilst a companion attempts to open the door or find 
+
+resist. Usually this results in the alerting of antagonists if an alarm or 
+something with whick to wedge or support the roof In this circumstance add 
+
+the capture of victims if designed to ensnare. Maiming and death- 
+the SIS and STR of every resisting character to calculate their combined 
+
+traps obviously injure the victim, although some death-traps utilise 
+Damage Modifier;, and use this value with the highest Brawn skill of the 
+
+other means than direct damage to inflict harm, such as drowning or 
+party aganst the trap’s Damage Modifier of 2d8. 
+
+poison. To restrict overly deadly traps, the damage inflicted by these 
+
+83
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+Effect: Once the ceiling lowers far enough, victims become pinned to thef loor, ViissiiBbIiLlIitTyY TAaBbLlEe 
+and receive 2d8 damage per round to a random Hit Location (armour does 
+not protect), eventually crushing every bone in their body. Moonless 
+
+Conditions  Daylight Twilight  Moonlight . 
+Night 
+
+PIitTfFaALlLl Clear 500 300 50 25 
+
+A pitfall is an archetypal trap used by every culture. It can take 
+Overcast 400 250 50 25 
+
+the form a simple dug pit, covered by branches and leaves or reach 
+Moderate 
+
+the sophistication of stone walled sumps beneath hinged false floors 150 100 25 15 
+Fog 
+
+which are counterbalanced to swing back up into place after a victim 
+Dense Fog 50 30 15 10 
+
+drops in. 
+Wind-driven 
+
+Pitfalls need not be particularly deep. If designed for capture, a 35 25 10 5 
+snow 
+
+simple amphora or lobster pot shape will prevent escape by climb- 
+Sand/dust 
+
+ing, as will walls which are chiselled smooth or made from crumbling 20 15 10 5) 
+storm 
+
+material which gives way under a character’s weight. 
+Pits which are instead intended to kill usually line the floor with 
+
+dozens of stakes, closely packed so that a falling character will inev- 
+larger objects increase the range by one multiple for every 10 points 
+
+itably become impaled. Other options could include filling the bot- 
+of SIZ over 20. So a SIZ 22 minotaur can be seen at double the 
+
+tom with a weak acid, water deep enough to drown in, or starving 
+distance, whereas a SIZ 37 cyclops could be spotted at triple the 
+
+rats. 
+
+Purpose: Ensnaring or Death distance. 
+
+Trigger: Walking across thefalse surface covering the pit The same values can also be used for the primary senses of other 
+creatures, such as an acute sense of smell or hearing. However in 
+
+Difficulty: 60% 
+these cases it an alternate modifier should be applied rather than 
+
+Resistance: Eaither Evade to jump clear or a Hard Athletics roll to catch the 
+SIZ. 
+
+edge as they drop. 
+Effect: The drop into the pit inflicts 2d6 damage to a random Hit Location, 
+armour does not protect. Secondary effects are left to the Games Master’s 
+imagination. WEeAaTtHhEeRr 
+
+SpPeEaArR TRrAaPp Weather conditions can have a significant effect on the local envi- 
+ronment. The main aspects of weather are precipitation, tempera- 
+
+Spear traps are complex devices requiring hidden niches or a 
+ture, and wind. These are detailed for the purposes of modelling 
+
+separate chamber in which their mechanical launchers must be set. 
+weather magic, reduction of character skills, and calculating the 
+
+Their primary mode of operating is to drive a spear through a wall 
+effects of weather on Survival. No tables are provided to generate 
+
+or floor, powered by a counterweighted lever or compressed spring. 
+random weather conditions, which are very much setting dependent. 
+
+The manner of their placement can be quite inventive. Instead 
+of the traditional spear hidden behind plaster or bas-reliefs, some 
+versions have the spear in plain sight, held in the raised hand of an PRrEeCcIiPpIitTaAtTiIoOnN 
+innocuous looking statue for instance, whose arm might pivot down Precipitation relates to the amount of moisture which falls out of 
+to stab a victim from above. the sky. Depending on the temperature it can range between rain, 
+
+Purpose: Maiming sleet and snow, with hail falling during storms. The base chance of 
+Trigger: Stepping on a pressure plate or moving an object it raining is equal to the relative humidity. The amount of rain per 
+Diffwculty: 75% hour and duration of the fall can be calculated by looking up the 
+Resistance: Either Evade to dive aside or a Hard parry roll if wielding a relevant entry on the Precipitation table. 
+shaeld. Normally precipitation has little effect on characters save to slow 
+Effect: The spear inflicts 2d8 damage to a random Hit Location, but can be down travel if excessive rain causes flooding, or snow begins to drift, 
+(partially) parried by a shield if its size us sufficient to counteract the spear’s obscuring or blocking paths. Rain also makes characters wet, which 
+size of Huge. If the trap gains one or more levels of success over the victim it may increase their chance of suffering exposure if the ambient con- 
+can apply Special Effects, such as Impale. ditions are windy or cold. 
+
+TEemMPpEeRrAaTtuURrEe 
+VIiSsIiBbIiLlIitTyY Temperate can vary dramatically due to climate, season, and 
+
+The table opposite gives rough distances in metres for the visi- elevation, depending on the campaign world and where scenarios 
+
+bility of man-sized objects, according to the ambient weather and are set. The following table provides a guideline for the effects of 
+
+quality of light. Whilst intended to represent human sight other spe- extreme temperature on characters. 
+
+cies may have more acute vision; the eyesight of an Iqari for instance Wearing suitable local clothing permits a character a grace 
+
+(see page 252) might triple these distances. period of their CON in hours before exposure sets in. After this 
+
+The SIZ of what someone is trying to observe also affects its point they need to seek shelter or start to suffer Fatigue loss (see 
+
+visibility, as will other factors such as obscuring undergrowth, back- Survival page 49). Wet characters shift the Exposure Rate one step 
+
+ground terrain, and possible camouflage. Assume targets with SIZ cooler. Light or moderate gale force winds also shift Exposure Rate 
+
+10 or below halve the range at which they can be spotted, and that by one step cooler, whilst strong gales and storms shift it two steps. 
+
+84
+
+
+
+MyyTtHhRrAaSs::  GAaMmEe SyYsStTeEmM 
+
+WIiNnDd TAaBbLlEe TEemMPpEeRrAaTtUuRrEe TAaBbLlEe 
+
+Movement 
+Wind STR Sample Skill Grade Temp oC Climate EI:;Zi;{e Exposure Rate 
+
+Rate 
+
+Calm Day/Light Below -20 Glacial Yes Minutes 
+0-15 Standard Normal 
+
+Breeze -19 —-10 Treezing Yes 15 Minutes 
+
+16-30 Moderate Breeze Standard Normal 9-0 Cold Yes Hourly 
+
+31-45 Strong Breeze Standard Two Thirds 1-10 Chill Yes Daily 
+
+46-60 Light Gale Hard Two Thirds 11-20 Cool No None 
+
+61-75 Moderate Gale Hard Half 21-30 Warm No None 
+
+76-90 Strong Gale Formidable Half 31-40 Hot Yes Hourly 
+
+91+ Storm/Hurricane Formidable One Third 
+
+PRrEeCcIiPpIitTaAtTiIoOnN TAaBbLlEe 
+
+R[;il:_z::w Typical Cloud Cover Amount per Hour Duration Dehydration Rate 
+
+0-12 None None None Hourly 
+
+13-25 Scant cloud Very light (0-1mm) 1d10 minutes 2 Hours 
+
+26-37 Scattered cloud Light (1-2.5mm) 1d6 x10 minutes 3 Hours 
+
+38-50 Heavy cloud Moderate (2.5-10mm) 1d2 hours 4 Hours 
+
+51-62 Slightly Overcast Heavy (11-25mm) 1d3 hours 4 Hours 
+
+63-75 Moderately Overcast Very Heavy (26-50mm) 1d6 hours 3 Hours 
+
+76-87 Completely Overcast Monsoon (51-80mm) 1d8 hours 2 Hours 
+
+88-100 Storm Clouds Deluge (81+mm) 1d12 hours Hourly 
+
+WIiNnDd 
+Wind, especially very strong winds, can have an adverse effect on 
+
+activity. A wind’s Strength (STR) is expressed in kilometres per hour 
+of velocity. Its effect on physical skills — those involving STR or DEX 
+—1is detailed in the Skill Grade column; effects on Movement Rate 
+in the Movement Rate column (for example, a Light Gale of STR 
+50 reduces human walking speed to two thirds or 4 metres; whilst a 
+STR 95 Storm reduces it to 2 metres). 
+
+80
+
+
+

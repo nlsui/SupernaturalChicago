@@ -1,0 +1,873 @@
+Mythras:  Careers
+
+— 
+= i X o2 M oK &oWOx i S (LK SO QR < A o IRV | = < gl 
+
+Careers
+
+pa— — 
+= i X o2 M oK &oWOx j< 
+
+Yy m KW S " &K K F R 
+=] | IR o W 
+
+his chapter develops the character’s skills through a profes- &K Select up to three skills from the Professional Skills available to that 
+sion, possible cult membership, the allocation of Bonus Skill career. 
+
+T Points, and some starting equipment, and determining what & Distribute 100 points amongst the career’s listed Standard Skills and 
+magic the character might (or might not) possess. whatever Professional Skills were chosen, increasing each skill by 1% for 
+
+every point spent on improving it. Not all of the available skills need to be 
+improved, but no individual skill can recete more than 15%. 
+
+CAaRrEeEeRrSs Newly chosen Combat Styles and Professional Skills start off at 
+
+Every MYTHRAS character starts the game having been trained in their base characteristic value. Choosing a Style or Professional Skill 
+
+a career. The occupation he chooses may not necessarily be the one previously gained via cultural background simply allows the char- 
+
+he continues to follow as he begins his adventuring life, but it is the acter to further apply some of their career skill points at this stage. 
+
+career he embarked on as part of the transition to adulthood, and it Some of these skills such as Craft, Language or Lore offer choice of 
+
+further defines his skill development. a specialisation. In these cases the speciality selected should be one 
+
+The careers available to a character are dependent on their which suits the character’s culture. 
+
+cultural background; in some cultures the range of available occu- 
+pations is quite narrow because the needs of the community are ExAaMmPpLlEe CAaRrEeEeRrSs bByY CUuLlTtuURrAaLl BAacCkKgGrRoOuUnNDd 
+
+simple; or social traditions will push young adults along a certain 
+Civilised Barbarian Nomad Primitive 
+
+path. In others, the list is more diverse, reflecting a more complex 
+Agent Beast Handler Beast Handler Beast Handler 
+
+community with wider needs that have diversified over the centuries. 
+Alchemist Crafter Crafter Crafter 
+
+Players are nominally free to choose which career they wish their Beast Handler Entertainer Fisher Fisher 
+
+character to learn, provided the Games Master deems it suitable. Courtesan Farmer Herder Hunter 
+
+The following table gives some guidance as to the common types Courtier Fisher Hunter Physician 
+
+of vocation available to each cultural type. It is not definitive and Crafter Herder Merchant Sailor 
+
+Entertainer Hunter Official Scholar 
+may differ significantly in more exotic game settings. For example a 
+
+Farmer Merchant Physician Scout 
+campaign based in a land where magicians are slain at birth could 
+
+Fisher Miner Priest Shaman 
+prohibit the selection of magic using professions. Herder Mystic Sailor Thief 
+
+Similar to cultural backgrounds, each career offers the chance Hunter Official Scholar Warrior 
+
+to improve a range of Standard and Professional Skills commonly Merchant Physician Scout 
+
+utilised by that occupation. Some grant access to Magical Skills or Miner Priest Shaman 
+
+extra Combat Styles. Unlike cultural backgrounds, characters need Mystic Sailor Thief 
+
+Official Scholar Warrior 
+not invest their points in every available skill, but may tailor which 
+
+Physician Scout 
+ones are taken as those fitting for their specific role or culture. 
+
+Priest Shaman 
+Characters develop their career skills in the following way: Sailor Thief 
+
+Scholar Warrior 
+
+Scout 
+
+Shaman 
+
+Sorcerer 
+
+Thief 
+
+Warrior 
+
+28
+
+Iv] 
+
+
+
+MyyTtHhRrAaSs::  CAaRrEeEeRrSs 
+
+AGgEeNnTt ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+Coming from a civilised city-state Anathaym has a wide selection of 
+
+Agitator, Assassin, Detective, Informer, Spy... 
+careers she could potentially follow. Indulged by her father she requests train- 
+
+The work of an agent is to report upon, and operate covertly 
+ing as a soldier;, the career he himself followed before retiring to a lfe of 
+
+against those his employer wishes to keep an eye on. They watch, 
+politics. Believing lus daughter will soon tire of the gruelling discipline, her 
+
+discover, and act secretively. Anyone might be an agent — servants, 
+Jather tolerantly agrees to apprentice her under the twition of weapon-master 
+
+beggars, noblemen, even children. Likewise those that employ 
+Lamotus, a_famous warrior: 
+
+agents might be anybody from a jilted lover or struggling merchant 
+To her father’s growing alarm, Anathaym flourishes under the guidance 
+
+to the ruler of a nation. Agents mostly deal with passing of informa- 
+of the aging master. From the Warrior career she selects the_following three 
+
+tion or minor acts of sabotage, although a few sometimes perform 
+professional skills: Lore — Mulitary History 28% (IN'T x2), Lore — Strategy 
+
+assassination if the cause, or payment, is right. 
+and Tactics 28% (INT x2), and Survwal 20% (CON+POW). 
+
+SKkIiLlLlSs She then spends her 100 points, dividing it amongst the available career 
+sklls thusly: Athletics +10, Endurance +10, Evade +10, Lore — Military 
+
+& Standard Skills: Conceal, Deceit, Evade, Insight, Perception, History +10, Lore — Strategy and Tactics +10, Survwal +10, Unarmed 
+Stealth; Combat Style (Concealable Weapons Style) +10, Combat Style (Meerish Slinger) +15, Combat Style (Meerish Infan- 
+
+& Professional Skills: Culture (any), Disguise, Language (any), iry) +15 
+Sleight, Streetwise, Survival, Track Her new Meerish Infantry combat style covers training in speay; hoplite 
+
+shueld and javelin — something her tutor feels she’ll need to be proficient in if 
+she wishes to join the ranks of the Meeros Scarlet Spears, the regiment her 
+
+ALlCcHhEeMmIiSsTt Jather once commanded. 
+Apothecary, Herbalist, Poisoner, Perfumer... Afier applying her career modifiers Anathaym’s skills are now: Athlet- 
+Alchemists concern themselves with creating, or trading in, a s 37%, Boating 24%, Brawn 21%, Conceal 23%, Customs 68%, 
+
+wide range of chemical and herbal substances which are used by the Dance 25%, Deceit 28%, Driwve 28%, Endurance 36%, Evade 42%, 
+local community. These concoctions can vary in purpose — soaps, First Awd 30%, Influence 28%, Insigh3t1 %, Locale 33 %, Native Tongue 
+polishes, dyes, disinfectants, acids, oils, unguents, perfumes, narcot- 63 %, Perception 21 %, Ride 23 %, Sing 16%, Stealth 30 %o, Swim 24 %, 
+ics, medicines, poisons — the list is almost endless. The larger the Unarmed 27 %, Willpower 24 %o; Courtesy 38%, Lore (Geography) 38%, 
+society they reside in, the more likely that the alchemist will special- Lore — Military Hustory 58%, Lore — Strategy and Tactics 38 %, Streetwise 
+ise in making or selling one specific type of compound. 31%, and Survwal 30%; Combat Style (Meerish Slinger) 52 %o, Combat 
+
+Style (Meerish Infantry) 42 %. 
+SKkIiLlLlSs 
+
+& Standard Skills: Customs, Endurance, First Aid, Insight, 
+Locale, Perception, Willpower COoUuRrTtEeSsaAnN 
+
+& Professional Skills: Commerce, Craft (Alchemy), Healing, Concubine, Escort, Harem-girl, Houri, Paramour... 
+
+Language (any), Literacy, Lore (Specific Alchemical Special- Professional companions, courtesans make their living through 
+
+ity!), Streetwise providing company, conversation, dance, singing, and sometimes 
+other services to those who can afford it. The attitude towards cour- 
+tesans can vary dramatically according to their culture, some are 
+
+BeeEaAstT HAaNnDdLlEeRr little more than tavern girls only there to draw in customers, whilst 
+
+Animal Breeder, Beast Tamer, Menagerie Keeper-... others are revered by the high ranking wealthy. The most famous 
+
+Beast handlers make their living by capturing, trading, breeding, and skilled courtesans may literally have princes begging at their 
+
+caring for, or domesticating creatures for a variety of different roles feet. Courtesans can be both male and female. 
+
+in the community. Examples include horse-whisperers, falconers, 
+SKkIiLlLlSs 
+
+hound masters, snake wranglers, and the like. Some raise ostensibly 
+wild animals for domesticated use, whilst others tend the beasts on & Standard Skills: Customs, Dance, Deceit, Influence, Insight, 
+display in private menageries. A few even take captured beasts and Perception, Sing 
+turn them into guardians, battlefield weapons, or competitors for pit & Professional Skills: Art (any), Courtesy, Culture (any), Gam- 
+fights and gladiatorial events. bling, Language (any), Musicianship, Seduction 
+
+SKkIiLlLlSs 
+
+« Standard Skills: Drive, Endurance, First Aid, Influence, COoUuRrTtIiEerR 
+Locale, Ride, Willpower Advisor, Conspirator, Delegate, Diplomat, Sycophant... 
+
+& Professional Skills: Commerce, Craft (Animal Husbandry), Traditionally members of the gentility or nobility, courtiers are 
+
+Healing (Specific Species), Lore (Specific Species), Survival, those summoned into the service of a ruler or government to act as 
+
+Teach (Specific Species), Track an adviser, a companion, an aide or simply as a lackey. Chosen for 
+their ability to be persuasive, insightful or discreet, they are often 
+the power-brokers behind domestic and foreign policy. Some court- 
+iers are in fact ambassadorial representatives from another, foreign 
+nation. Courtiers see and hear much about the affairs of state, and 
+
+1 Such as Acids, Narcotics, Poisons, etc. 
+
+29
+
+
+
+MyyTtHhRrAaSs::  CAaRrEeEeRrSs 
+
+concerts or provide background music. Poets recite great works of 
+CAaRrEeEeRrSs AanNDd SoccCIiaALl CLlAaSsSs literature, and lyric poetry, whereas singers perform choral works, 
+
+MrrHRras does not impose any immediate restrictions on what careers often as choirs. Story-tellers recount apocryphal tales, and so on. 
+are available to what social class but it s something players and Games Entertainers sometimes learn several complimentary arts to increase 
+Masters may wish to consider. Some social classes will look down on their repertoire and create unique acts. For instance, a bard might 
+members who practice certain vocations, risking censure or perhaps even combine the arts of music, singing and poetry. 
+expulsion_from their rank. One culture maightforbid nobles becoming mer- 
+chants due to the risk of financial corruption, whilst another may restrict SKkIiLlLlSs 
+the practice to only those who are part of the nobility, creating an enclave 
+of merchant princes. « Standard Skills: Athletics, Brawn, Dance, Deceit, Influence, 
+
+Games Masters should decide tf a career is denied to a particular Insight, Sing 
+
+soctal class, but some interesting roleplaying possibilities can present them- & Professional Skills: Acrobatics, Acting, Oratory, Musician- 
+
+selves if a character decides to ignore social norms, and enter a vocation ship, Seduction, Sleight, Streetwise 
+
+usually treated with disdain. How will that character be viewed: pioneer 
+or social pariak? What are the consequences? How will the profession 
+accept lum? These are all golden opportunities for roleplaying and plot FaArRmMEeRr 
+
+Nd evelopment. 
+Gardener, Estate Ouwner, Forager, Harvester, 
+
+Ploughman... 
+Farmers cultivate the land, raising or harvesting crops, but they 
+
+may learn a great deal about politics and scandal in high places. are often generalists in a range of skills necessary for foraging or 
+
+Whatever their political standing, the machinations of courtiers can maintaining their chattels. Usually their produce is food and other 
+
+save or undermine a nation. useful flora, such as medicinal herbs or plants which produce fibres 
+for clothing. Not all agriculturalists necessarily tend a farm or plan- 
+
+SKkIiLlLlSs tation. Some wander through wild regions harvesting the naturally 
+occurring vegetation, whilst others are employed to supervise formal 
+
+& Standard Skills: Customs, Dance, Deceit, Influence, Insight, gardens for rich patrons. Likewise not all farmers are necessarily 
+Locale, Perception yokels tied to a small pasture, orchard or vineyard. Many cultures 
+
+& Professional Skills: Art (any), Bureaucracy, Courtesy, Culture may place high status on owners of large estates who manage the 
+(any), Language (any), Lore (any), Oratory running of their property. 
+
+SKkIiLlLlSs 
+CRrAaFfTtEerR 
+
+Artificer, Artisan... « Standard Skills: Athletics, Brawn, Drive, Endurance, Locale, 
+
+Skilled artisans, professional craftsmen cover a huge range of Perception, Ride 
+
+trades: from basket making through to weaving. Most craftsmen spe- & Professional Skills: Commerce, Craft (any), Lore (Agricul- 
+
+cialise in one particular area, but it is not uncommon to find those ture), Lore (Animal Husbandry), Navigation, Survival, Track 
+
+skilled in a second field related to their primary craft. Some crafters 
+have associated experience in buying materials and selling their own 
+wares, depending on their scale of their business. Primitive crafters FIisShHeErR 
+may simply be individuals who produce objects for their family or Beach Comber, Net Tender, Pearl Diver, Whaler... 
+
+tribe. Civilised crafters on the other hand might be part of a fam- Fishermen work the waters, braving the elements and dangers 
+
+ily enterprise or members of an official guild. Some crafts may be to bring back its bounty. Mostly they trawl for edible food, any- 
+
+unavailable or illogical for particular cultures, such as a smith for thing from shellfish to whales. A few seek commodities other than 
+
+primitives. food however, particularly valuable items like rare shells, pearls or 
+even medicinal types of water plants. The social rank of fishermen 
+
+SKkIiLlLlSs depends on the value of what they recover; a primitive island based 
+culture for example, might grant high status to those who bring back 
+
+& Standard Skills: Brawn, Drive, Influence, Insight, Locale, Per- the greatest amount or most dangerous produce. Fishermen do not 
+ception, Willpower necessarily need boats, and neither are they tied to the sea. Many 
+
+& Professional Skills: Art (any), Commerce, Craft (Primary), live beside lakes or along rivers, using nets, baskets, and weirs to trap 
+Craft (Secondary), Engineering, Mechanisms, Streetwise their catch. 
+
+SKkIiLlLlSs 
+ENnTtEeRrTtAaIinNEerR 
+
+Acrobat, Bard, Dancer, Player, Poet... & Standard Skills: Athletics, Boating, Endurance, Locale, Per- 
+
+Professional entertainers, have a range of skills in which they ception, Stealth, Swim 
+
+can specialise. Acrobats perform feats of balance, gymnastics, and & Professional Skills: Commerce, Craft (Any), Lore (Primary 
+
+hand-eye co-ordination. Actors present plays or ribald pantomimes. Catch?), Lore (Secondary Catch?), Navigation, Seamanship, 
+
+Dancers entertain with diverse dances ranging from the erotic to Survival 
+
+ceremonial. Musicians use their instruments to perform private 2 These represent different techniques off ishing, such as whaling, lobster potting, trawling, and so 
+
+on. 
+
+30
+
+
+
+MyyTtHhRrAaSs::  CAaRrEeEeRrSs 
+
+HEeRrDdEeRr SKkIiLlLlSs 
+
+Breeder, Herdsman, Sacred Goose Tender, Wrangler... & Standard Skills: Boating, Drive, Deceit, Insight, Influence, 
+Herders are those who raise and tend flocks of creatures, not Locale, Ride 
+
+necessarily domesticated animals; anything from goats to migrating & Professional Skills: Commerce, Courtesy, Culture (any), Lan- 
+mammoths. Most herdsmen spend days or even weeks out on the guage (any), Navigation, Seamanship, Streetwise 
+plains or hills, ensuring their beasts have sufficient food and water, 
+whilst also watching for predators. A herder does not necessarily 
+raise his own livestock; some hire themselves out to escort herds MIiNnEeRr 
+over large distances to far off markets or use their skills to purchase Prospector, Quarryman, Sapper, Well Digger... 
+stock for less discerning customers. It can be a solitary profession, Miners are those who excavate the ground, for a number of rea- 
+but herdsmen generally know the land, the seasons, and the habits sons. Some dig for ore and precious metals, a few seek out special 
+of their animals. types of stone for building or statuary, whilst others dig to create 
+
+catacombs or sewers, or to penctrate the defences of towns. What- 
+SKkIiLlLlSs 
+
+ever the purpose, miners are prepared to go deep into the ground, 
+
+& Standard Skills: Endurance, First Aid, Insight, Locale, Per- risking life and limb. As a result, miners tend to be both physically 
+
+ception, Ride; Combat Style (Specific Herding or Cultural and mentally strong; used to working in hot, cramped conditions for 
+
+Style) hours on end. 
+
+& Professional Skills: Commerce, Craft (Animal Husbandry), 
+Healing (Specific Species), Navigation, Musicianship, Sur- SKkIiLlLlSs 
+
+vival, Track « Standard Skills: Athletics, Brawn, Endurance, Locale, Per- 
+ception, Sing, Willpower 
+
+& Professional Skills: Commerce, Craft (Mining), Engineering, 
+HUuNnTtEeRr Lore (Minerals), Mechanisms, Navigation (Underground), 
+
+Forester, Poacher, Scavenger, Stalker, Trapper... Survival 
+Responsible for finding, tracking, and killing creatures, the 
+
+hunter, like the herder, is knowledgeable about the land and the 
+behaviour of animals. A hunter may hunt in a variety of ways: sim- MyyssTtIiCc 
+ple stalking, trap laying or driving creatures into pens. The purpose Guru, Hermit, llluminate, Master... 
+of the hunt depends on the culture of the hunter. Most seek out Mystics are those who seek mastery of the world by the attain- 
+prey for the simple purpose of gathering food, but some hunters ment of perfection, spiritual insight or by becoming inured to physi- 
+specialise in the extermination of deadly predators or the culling cal discomfort. Depending on the culture from which they originate, 
+of animals for valuable body parts: furs, horns or teeth for instance. mystics may be found as anything from reclusive mountaintop her- 
+Hunters often learn a supplemental craft for preserving or skinning mits to respected teachers of martial or artistic schools. The path 
+the creatures they kill. of their development is always via mastery of self, and most are 
+
+sagacious as an result of their studies. 
+SKkIiLlLlSs 
+
+« Standard Skills: Athletics, Endurance, Locale, Perception, SKkIiLlLlSs 
+
+Ride, Stealth; Combat Style (Specific Hunting or Cultural « Standard Skills: Athletics, Endurance, Evade, Insight, Percep- 
+Style) tion, Willpower; Combat Style (Cultural Style) 
+
+& Professional Skills: Commerce, Craft (Hunting Related), Lore & Professional Skills: Art (any), Folk Magic, Literacy, Lore (any), 
+(Regional or Specific Species), Mechanisms, Navigation, Sur- Meditation, Musicianship, Mysticism 
+vival, Track 
+
+OFfFfIiCcIiaALl 
+MEeRrCcHhAaNnTt Minister, Overseer, Steward, Tax Collector... 
+
+Broker, Hawker, Money Lender, Smuggler, Trader... Officials are those appointed or elected to an office, charged with 
+Merchants come in many forms: the street vendor, small shop- performing certain administrative duties and granted a degree of 
+
+keeper, wily caravanserai, intrepid merchant-venturer, and many authority to ensure their commands are followed. Examples include 
+more. Although their methods or merchandise are different, all have slave managers of large estates, guild masters, bureaucratic scribes, 
+one thing in common: to trade commodities (be it goods, food, live- legal advocates or tax collectors. Depending on the size and com- 
+stock, people, property or even money) for the highest profit. Mer- plexity of the organisation or government, most officials control a 
+chants know a bargain, and how to drive a good one; and not all body of men to help perform their duties. 
+trade in legal merchandise. Due to their dealings as middle men, 
+many merchants pick up some knowledge of foreign cultures and 
+languages. 
+
+31
+
+
+
+MyyTtHhRrAaSs::  CAaRrEeEeRrSs 
+
+SKkIiLlLlSs SKkIiLlLlSs 
+
+« Standard Skills: Customs, Deceit, Influence, Insight, Locale, & Standard Skills: Athletics, Boating, Brawn, Endurance, 
+Perception, Willpower Locale, Swim; Combat Style (Specific Shipboard or Cultural 
+
+& Professional Skills: Burcaucracy, Commerce, Courtesy, Lan- Style) 
+guage (any), Literacy, Lore (any), Oratory & Professional Skills: Craft (Specific Shiphoard Speciality?), 
+
+Cuulture (any), Language (any), Lore (any), Navigate, Seaman- 
+ship, Survival 
+
+PHhYySsIicCIiaAnN 
+Doctor, Healer, Medicine Man, Torturer, Vivisectionist... 
+Physicians have detailed knowledge of how the body works, ScChHOoLlAaRr 
+
+although they do not necessarily use that learning to heal. Some Annalist, Librarian, Philosopher, Skald, Scribe... 
+instead offer their skills to extract information by coercion, or fur- The keepers and seckers of knowledge and learning, scholars 
+ther the depth of their education by questionable practices. A phy- and scribes are people who are fascinated by knowledge and the 
+sician can take many guises, some examples being the medicine powers contained within it. Scholars are not necessarily confined 
+man of a tribe with his totems and fetishes; a local hermit or wise to dusty libraries or suffocating scriptoriums; they may be active 
+woman with their knowledge of herbs and poultices; or a court phy- explorers and archivists, intent on advancing their learning or col- 
+sician who can cure fevers and agues with complex chemical reme- lections of tomes. Neither are they dependent on literacy to learn; 
+dies. Depending on the sophistication of the culture, many doctors some scholars memorise and hand down their knowledge orally. 
+embellish their treatments with ceremonial theatrics, bogus medica- Some scholars are specialists in particular areas of knowledge, such 
+tions, and manipulative psychology. as a lawspeaker who is employed to memorise and quote legal codes 
+
+during law cases. 
+SKkIiLlLlSs 
+
+SKkIiLlLlSs 
+« Standard Skills: Dance, First Aid, Influence, Insight, Locale, 
+
+Sing, Willpower « Standard Skills; Customs, Influence, Insight, Locale, Native 
+& Professional Skills: Commerce, Craft (Specific Physiological Tongue, Perception, Willpower 
+
+Speciality®), Healing, Language (any), Literacy, Lore (Specific & Professional Skills: Culture (any), Language (any), Literacy, 
+Alchemical Speciality?), Streetwise Lore (Primary), Lore (Secondary), Oratory, Teach 
+
+PRrIiEeSstT Scouurt 
+Arbiter, Cultist, Druid, Mendicant, Prophet... Bounty Hunter, Explorer, Pioneer, Ranger, Wayfarer... 
+Priests can take a variety of different roles in society; an official Scouts are those who thrive beyond the reach of their native 
+
+leading worship of the gods, an illuminated seer leading followers civilisation. They may be pioneers seeking out new territory or 
+on an exodus to find their god, an administrator in a theocracy, and rangers employed by the military to keep an eye on the borders. 
+so on. Priests do not necessarily need to be religious or even believe Some are employed to seek out natural commodities which they sell 
+in the faith they serve, whilst others might be granted miracles from to merchants of more settled lands, whilst others are hired to hunt 
+their deity to reward suitable propitiation. down fugitives. A few are scholarly explorers, high ranked men seek- 
+
+ing to document new cultures or simply folks cursed with chronic 
+SKkIiLlLlSs wanderlust. Hardened by their life, scouts often live from what the 
+
+land provides, understanding the plants, animals and seasons of the 
+& Standard Skills: Customs, Dance, Deceit, Influence, Insight, 
+
+wilderness they inhabit. 
+Locale, Willpower 
+
+& Professional Skills: Bureaucracy, Devotion (Pantheon, Cult or 
+SKkIiLlLlSs 
+
+God), Exhort, Folk Magic, Literacy, Lore (any), Oratory 
+& Standard Skills: Athletics, Endurance, First Aid, Perception, 
+
+Stealth, Swim; Combat Style (Specific Hunting or Cultural 
+SaAIilLoOrR Style) 
+
+Captain, Galley Slave, Marine, Pirate, Raft man... & Professional Skills: Culture (any), Healing, Language (any), 
+Sailors and boatmen have a myriad of roles upon the lakes, riv- Lore (any), Navigation, Survival, Track 
+
+ers, and seas, from the simple crew of a trading ship to hardened 
+convict rowers. Those sailors employed as professional raiders or 
+marines are often given shipboard combat training. Wise to the ways ShHaAmMAaNn 
+of the waves, but superstitious with it, sailors are used to long dan- Animist, Diabolist, Exorcist, Madman, Witch Doctor... 
+gerous travels, and the hardships that go with it. The medicine-man, the witch-doctor, the wise-woman: all can 
+
+commune with the spirits and the ancestors; understanding the 
+
+3 Prosthetics, Scrimshaw, Torture, Vivisection, etc. secrets of the spirit plane which lies over, under, and around the 
+
+4 Such as Herbs, Medicines, Poisons etc. 5 Carpentry, Sail Making, Rope Making, etc. 
+
+32
+
+
+
+MyYyTtHhRrAaSs::  CAaRrEeEeRrSs 
+
+world we live in. The shaman has great insight and power, or so they 
+would have you believe. Not all have magical powers, some merely CRrEeAaTtIinNgG Aa CustToOmM CAaRrEeEeRr 
+follow the rituals and traditions handed down to them. Others are Players can create custom careers subject to the following guidelines: 
+
+outright charlatans using trickery to fool the gullible members of & Agree the career with your Games Master. Your concept of 
+their community. Despite the primitive associations, many civilised Death Knight Assassin’ might not fit with the themes and 
+cultures also believe in the powers of the spirit world, propitiating style of the MrTHRAS game. 
+dead ancestors for instance. & Standard Skills: Choose up to sewen Standard Skills and 
+
+seven Professwnal Skills for the professwon, reflecting s 
+SKkIiLlLlSs 
+
+nature. Remember that magical abilities are considered Pro- 
+
+« Standard Skills: Customs, Dance, Deceit, Influence, Insight, Jesswonal Skills. 
+Locale, Willpower &K Also remember that Combat Styles are treated as Standard 
+
+& Professional Skills: Binding (Ciult, Totem or Tradition), Folk Skalls. Try to avoid granting Combat Styles except to those 
+
+Magic, Healing, Lore (any), Oratory, Sleight, Trance careers where physical conflict us a regular occurrence orfun- 
+damental to surviwal. 
+
+N P 
+SoORrCcEeRrEerR 
+
+Enchantress, Magi, Warlock, Witch, Wizard... 
+The dedicated practitioners of sorcery who seek to control the WAaRrRrIioORr 
+
+world around them through spells, incantations and rituals that are Bodyguard, Champion, Mercenary, Pit Fighter, Soldier... 
+
+not necessarily tied to any gods or spirits, but directly alter the fab- Professional soldiers are the warrior class of a community; this is 
+
+ric of reality. A sorcerer is often fascinated by all aspects of magic, the career of the fighting man. Most of their time is spent patrolling, 
+
+driven to master its subtleties, and discover lost incantations. Some guarding and training — focusing on the use of weapons, close-quar- 
+
+gain their power from a lifetime of studying dusty tomes, whereas ter tactics, and the study of enemy styles to make the most of any 
+
+others might offer sacrifices to learn from the diabolic entities of for- future opportunities. The warrior may or may not follow a partic- 
+
+bidden realms. A few are deceivers with no supernatural powers at ular martial code, and similarly he might focus on finesse or simple 
+
+all, using legerdemain and prestidigitation to fool others into paying brute-force. 
+
+them respect. 
+SKkIiLlLlSs 
+
+SKkIiLlLlSs & Standard Skills: Athletics, Brawn, Endurance, Evade, 
+
+& Standard Skills: Customs, Deceit, Influence, Insight, Locale, Unarmed; Combat Style (Cultural Style®), Combat Style 
+
+Perception, Willpower (Speciality Style’) 
+
+& Professional Skills: Folk Magic, Invocation (Cult, School or & Professional Skills: Ciraft (any), Engineering, Gambling, Lore 
+
+Grimoire), Language (any), Literacy, Lore (any), Shaping, (Military History), Lore (Strategy and Tactics), Oratory, 
+
+Sleight Survival 
+
+THhIiEeFf 
+Burglar, Conman, Fence, Mugger, Tomb Robber... AGgEe 
+Thieves are those who delight in stealing, or are forced to steal How old is your character? An Adventurer may start as young 
+
+from others to support themselves. They range from petty criminals or old as the player desires, subject to the agreement of the Games 
+who mug or pickpocket folk on the streets, to gang leaders and gold- Master. It is recommended that beginning characters start as youths 
+en-tongued swindlers. Whilst thieves thrive in urban environments or young adults, but much depends on the setting, and whether 
+they also exist in less civilised cultures too, operating as outlawed the game will be but a short one-off adventure or a long running 
+brigands, and raiders of neighbouring tribes. Some thieves specialise campaign. 
+in tomb robbing, stealing the grave goods of the dead. A few inde- A table is provided, breaking age into Age Categories. Note that 
+pendently wealthy cutpurses and burglars are simply bored individ- this table can be used for non-human characters by simply substi- 
+uals who thieve for adventurous excitement. tuting the actual number of years for longer or shorter lived races. 
+
+A character’s age has a direct effect on their skill competence; as 
+SKkIiLlLlSs older characters naturally have more life experience than younger 
+
+compatriots. 
+« Standard Skills: Athletics, Deceit, Evade, Insight, Perception, 
+
+Stealth; Combat Style (Concealable Weapons Style) 
+& Professional Skills: Acting, Commerce, Disguise, Lockpicking, 
+
+Mechanisms, Sleight, Streetwise 
+6 This is the warrior’s default starting g cultural style. 
+
+7 Speciality styles are those catering to particular troop types, martal school or career (see Combat 
+
+Styles on page 86 in the Combat chapter). 
+
+33
+
+
+
+MyyTtHhRrAaSs::  CAaRrEeEeRrSs 
+
+To determine how old a character is, a player may either choose 
+an age within the Age Category permitted, or simply roll the value STtaARrTtIinNgG EqQUuIipPmMEenNTt 
+randomly. Every character begins with some starting money and starting 
+
+equipment, determined by their culture and social class. In addition 
+they may augment their belongings by buying additional items (or 
+
+AGgEe TAaBbLlEe upgrading ones they already have) from the Equipment section of 
+this book. 
+
+Bonus Maximum 
+Age . . Background The table on page 35 gives some examples of personal posses- 
+
+Age Skill Skill 
+Category . Event Rolls 
+
+Points Increase sions available to a character of that social class. These are merely 
+guidelines, and are open to change according to the campaign or 
+
+Young 1d6+10 100 +10 0 
+setting. 
+
+Adult 2d6+15 150 2FilH 1 
+
+Middle Aged 3d6+25 200 +20 2 
+ANnAaTtHhAaYyMm'’Ss SaAgGaA 
+
+Senior* 4d6+40 250 +25 3 
+As a member of the aristocracy Anathaym begins the game with the 
+
+Oo1d* 5d6+60 300 +30 4 
+Jollowing: 
+
+Four sets of good quality clothing: a court dress, day, and evening wear 
+and a_formal gown. Mostly though, she opts for a simple, but well-made, 
+
+AGgEe TAaBbLlEe NOoTtEeSs tunic akin to the kind worn by Meerish soldiers. 
+Bonus Skill Points determines how many additional skill points the Four weapons, chosen_from her father’s armoury: a shorisword, dagger; 
+
+character has to spend on developing hus skills — see thefollowing section. spear; and shield. Her sling she makes herself from a length of strong leather: 
+
+Maximum Skill Increase limils how many of the Bonus Poinls can A st of Meerish Hoplite armour - again chosen from her father’s 
+armoury. Although the protective value is determined by 1d3+3 roll, the 
+
+be applied to any one particular skill. 
+Games Master declares that Anathaym s given a mixture of leather and 
+
+Background Event Rolls are used for characters starting at different 
+bronze with appropriate Armour Point values. 
+
+ages, requiring the player to potentially roll additional times on the Background She also has a horse, chosenfrom thefamily stables. Anathaym’s mount is 
+Event Table in the Culture and Commumnily chapter. a chestnut gelding named Arrow, for lis speed and sharp temper. 
+
+*Ageing: If a character is Senwr or older he is subject to Ageing; see the 
+
+rules for Ageing on page 70. 
+
+CLloOTtHhIinNgG 
+Finery and decorations are dependent on the culture and its 
+
+BoNnuss SxkiilLlL POoIiNnTtSs climate. The higher the class the more exclusive the fabric used 
+
+At this stage every character gains an additional pool of ‘free’ in its manufacture. An example would be rough spun wool for the 
+
+skill points based on age, which can be distributed amongst his exist- poor, followed by linens, brocades, and silks as social class or wealth 
+
+ing skills. These are provided so that the character can be rounded increases. In a land full of silk worms and no sheep, these relative 
+
+out, and given particular interests or areas of expertise. The default values may be reversed. Decorations are also culturally dependent. 
+
+for adult characters is a pool of 150 points, with a limit of assigning Teathers may be the height of décor for a primitive tribe, whilst 
+
+no more than 15 points per skill. If characters are younger or older, embroidery using gold threads may be de riguer for a barbarian 
+
+then the number of Skill Points and restrictions will differ, as previ- king. Example decorations are fabrics of bright or rare colours, 
+
+ously indicated on the Age Table. the attachment of precious substances, pelts or fur trims, detailed 
+
+The number of Bonus Skill Points does not necessarily need to embroidery and pattern woven fabrics. 
+
+be tied to age. If the characters are to be seasoned veterans, cultural 
+WEeAaPpOoNnSs 
+
+heroes or even the sons of gods, the Games Master is free to grant 
+Not everyone in a society is expected to be armed; in fact some 
+
+additional points or modify the maximum number which can be 
+cultures expressly forbid weapons to those of a particular class or 
+
+applied to a specific skill. 
+caste. The most common weapons are usually simple and inexpen- 
+
+Bonus Skill Points are used in the following way: 
+sive; spears and axes for example which can be mass produced or 
+
+& Allow the character the option of choosing one final new improvised. Only the higher classes tend to have ‘prestige’ weap- 
+
+Combat Style or Professional Skill, reflecting a personal ons such as swords which require significant amounts of time to 
+
+hobby or interest. manufacture. 
+
+& Distribute points amongst whatever skills the character cur- 
+rently has; increasing each skill by 1% for every point spent ARrmMOoUuRr 
+on improving it. No individual skill can receive more points Perhaps even more restricted than weaponry, few members of 
+
+than indicated by their Age Category. the lower classes possess armour, and what they own is usually hand 
+
+Save for the optional hobby skill, no points may be assigned to crafted from fabrics or leather by their own family. Culture and 
+
+those Combat Styles or Professional Skills not learned as part environment plays a big part in who is expected to own armour, 
+
+of their Culture or Career. for example it would be rare to see common folk of a city storing 
+armour at home, whereas it might be ubiquitous amongst a tribe of 
+horse nomads. Metallic armours tend to be restricted to the wealthy 
+
+34
+
+
+
+MyyTtHhRrAaSs::  CAaRrEeEeRrSs 
+
+BAacCkKgGrRoOuUnNdD EQqUuIipPmMEenNTt TAaBbLlEe 
+
+Clothing Transport 
+
+Roll 1d6-3. If the result is greater than 
+One well used weapon of a 
+
+One set of ragged, probably dirty zero the outworn armour is worth that 
+Exile provenance suitable to the None 
+
+clothes .. many AP, and covers 1d3 locations. 
+character’s origin 
+
+Otherwise no armour is owned 
+
+One or two sets of clothes of a 
+
+Slave quality suitable for the position and ~ None None None 
+
+type of work performed by the slave 
+
+Roll 1d3. This represents the Armour 
+Two sets of common, undecorated ~ 1d2 simple weapons suited to the 
+
+Points for the armour the character Own back, Raft, Handcart or 
+Freeman clothes suitable to the freeman’s culture. Axes, clubs, knives, spears, 
+
+has. Armour is available to cover 1d6 Beast of Burden 
+occupation slings, and the like 
+
+locations 
+
+. 1d3+1 weapons of higher status, 
+1d6+1 sets of clothing, made of . 
+
+) . and/or quality. Swords, maces, Tull set of protection worth 1d2+2 Hired or Slave Porter, Boat, 
+Gentry good quality fabrics and a modest . 
+
+) shields, bows, great weapons, and Armour Points Wagon or Riding Mount 
+level of decoration 
+
+50 on 
+
+1d6+3 sets of clothing, made of . . 
+. . . . 1d3+3 weapons of expensive quality, Tull set of protection worth 1d2+3 Palanquin, Ship, Chariot or 
+
+Aristocracy expensive fabrics and sporting lots . . 
+. decorated with precious substances Armour Points Several Fine Mounts 
+
+of decoration 
+
+Expensive Palanquin with 
+1d6+6 sets of clothing, made of 1d3+6 weapons of exquisite 
+
+Tull set of protection worth 1d2+4 matched Bearers, Warship, 
+Ruling rare, priceless materials and as craftsmanship, each of which are 
+
+Armour Points Exquisite Carriage or Several 
+opulent as good taste allows priceless due to heredity or materials 
+
+Magnificent Mounts 
+
+or those of noble class, and are often passed down as heirlooms. 
+FoLlk MAaGgIiCc 
+
+However, culture and setting might restrict the type of armour avail- 
+Usually only learned by petty magicians or common folk in lands 
+
+able to upper classes; for example the sons of a primitive tribal chief- 
+where magic is ubiquitous, folk magic has minor effects upon the 
+
+tain might not have access to iron mail hauberks, but could conceiv- 
+world, outshone in comparison to the higher arts, but can be potent 
+
+ably possess a type of hoplite plate carved from the bones or scales 
+for all that. Folk magic originates from, and is connected to, the nat- 
+
+of monsters instead. 
+ural world, and the emotions of those within it. The ability to use 
+
+TRrAaNnSsPpoORrTt folk magic is controlled by the skill of the same name. 
+
+Choose a vessel or mount suited to the culture or environment 
+the character comes from. Examples are given based upon the pri- ANnIiMmIisSmM 
+mary mode of travel: foot, vessel, wheeled or mount. Some inter- Animists derive their magic from the summoning and control of 
+pretation or leeway may be required, for instance a freeman from spirits and other supernatural creatures. These beings of the oth- 
+a nomadic society might be expected to at least own a mount, or erworld are negotiated with or enslaved at the animist’s determi- 
+perhaps it is something loaned to him by the patron or patriarch of nation, forming agreements with allied spirits or binding the less 
+his family. willing into fetishes for later use. In exchange the animist must follow 
+
+strict taboos or fulfil binding contracts. Animism relies on the skills 
+of Trance and Binding. 
+
+MAaGgIiCc 
+MyTHRAS offers several different types of magic. Whether char- MYySsTtIicCiIsSmM 
+
+acters begin play with access to these arts depends on their cultural Mystics draw their magic from the knowledge of self mastery 
+
+background, starting career, and the accessibility of magic in the and understanding. Their insight into the inner self allows them to 
+
+setting. More information on the kinds of magic available, how they achieve incredible acts of mental and physical excellence, making 
+
+differ, how they work and the spells or abilities they begin with is them difficult to defeat in direct confrontation. Whilst their magic 
+
+given later in the respective magic chapters. For now, it is necessary does not extend beyond themselves, they themselves become a tool 
+
+only to know what sort of magic, if any, a character has learned, to manipulate the world about them. Mysticism uses the skill of the 
+
+rather than a detailed knowledge of how it works. same name in addition to Meditation. 
+
+35
+
+
+
+MyyTtHhRrAaSs::  CAaRrEeEeRrSs 
+
+SoORrCcEeRrYy CHhAaRrAaCcTtEeRr CRrEeAaTtIioOnN COoMmPpLlEeTtEe 
+Sorcerers express their magical abilities by twisting the laws of Waorking through the fust three chaplers should now 
+
+the world using the invocation of powerful spells. Whilst sorcery is have leftyou with a well-rounded, competent character with 
+exceptionally flexible, it can often be unbound or dismissed by the an established culture, career; communaty and back-story. 
+strength of other magics. Yet their independence from supernatural You have everythingyou need to begin play. 
+beings means sorcerers never need to rely on anyone but themselves. Hopefully the character creation process will have also 
+Sorcery uses the skills of Invocation and Shaping. set you thinking about your character's lfe, history and 
+
+aspirations. What does he want from life? Why s she 
+
+THhEeIisSmM adventuring? What are the things driving this character to 
+ 
+
+rusk life and Limb? 
+Theists are those who are rewarded with power from the gods in 
+
+These are not questions that need to be answered imme- 
+exchange for loyalty and service. Their miracles are potent as 
+
+diately. Many answers will suggest themselves through 
+they merely channel their gods’ own divine power, and can 
+
+play, and one of the joys of MYTHRAS s discovering more 
+be utterly devastating. Yet maintaining the bond requires 
+
+aboutyour character as he or she develops in experience and 
+continual dedication and constant sacrifices to ensure the 
+
+maturity. 
+deity remains appeased, or at least aware of their worship- 
+per. Theism requires the skills of Devotion and Exhort. n 4 
+
+Curlt MEeMmBEbeRrSsHhIiPp 
+An optional stage for character development is cult 
+
+or brotherhood membership. Many cultures of all types 
+initiate their young adults into a cult or other form of 
+social organisation as a rite of passage. If the character 
+joins a cult it is likely one that either reflects the faith 
+and beliefs of their family or their choice of career. 
+Cuults and Brotherhoods offer access to training, and 
+perhaps magic as well as providing a social, cultural, 
+and professional network that characters will 
+find useful. 
+
+Cults and Brotherhoods are covered 
+at length in their own chapter beginning 
+on page 192. If Games Masters allow cult 
+membership at this stage of character cre- 
+ation it is suggested that no character should 
+have a rank higher than Common Member. 
+
+A hoplite from Meeros. He carres the 
+traditional shortspear; scimitar, and sheeld of 
+the 6th cohort. The crest on hus helm marks 
+him as a sergeant, and the stylised symbol 
+on his shield as an imitiate of the warrior 
+cult of Myceras. 
+
+36
+
+
+
