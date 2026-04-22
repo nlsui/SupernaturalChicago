@@ -1,6 +1,6 @@
 # [Name der Kreatur]
 
-> Gegenstück in: `PublicKnowledge/07-Freund-und-Feind/Kreaturen/[Name].md`
+> Gegenstück in: `Spieler-Wissen/07-Freund-und-Feind/Kreaturen/[Name].md`
 > Entdeckt in Sitzung: [Nr.]
 
 ## Erscheinung

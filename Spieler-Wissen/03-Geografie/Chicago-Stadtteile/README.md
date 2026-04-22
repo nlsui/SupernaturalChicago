@@ -1,4 +1,4 @@
-# 10-Chicago Stadtteile
+# Chicago Stadtteile
 
 Chicago ist eine Stadt der Viertel – 77 offizielle und unzählige inoffizielle Territorien, die durch Geschichte, Magie und Blut ausgeschnitzt wurden. Jedes Viertel hat seinen eigenen Charakter, seine eigenen Geheimnisse und seine eigenen Schatten. Von den glänzenden Türmen des Loop bis zu den heimgesuchten Projekten von Cabrini-Green, von den Akademiehallen in Hyde Park bis zu den Arbeiterklassestraßen von Pilsen – in Chicagos Vierteln passieren Geschichten.
 

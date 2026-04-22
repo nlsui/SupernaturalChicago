@@ -1,6 +1,6 @@
 # [Thema]
 
-> Gegenstück in: `PublicKnowledge/08-Übernatürliches-Wissen/[Name].md`
+> Gegenstück in: `Spieler-Wissen/08-Übernatürliches-Wissen/[Name].md`
 > Entdeckt in Sitzung: [Nr.]
 
 ## Was wissen die Spieler?

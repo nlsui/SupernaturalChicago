@@ -1,6 +1,6 @@
 # [Name der Fraktion]
 
-> Gegenstück in: `PublicKnowledge/07-Freund-und-Feind/Fraktionen/[Name].md`
+> Gegenstück in: `Spieler-Wissen/07-Freund-und-Feind/Fraktionen/[Name].md`
 > Entdeckt in Sitzung: [Nr.]
 
 ## Was ist das?

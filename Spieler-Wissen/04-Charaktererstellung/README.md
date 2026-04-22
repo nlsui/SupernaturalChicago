@@ -1,4 +1,4 @@
-# 05-Charaktererschaffung
+# 04-Charaktererstellung
 
 Einen Charakter für die Dresden Files zu erschaffen ist dein Einstieg in Chicagos übernatürliche Unterwelt. Ob du ein Seher auf Straßenniveau bist, der gerade seine Gabe entdeckt, oder ein mächtiger Zauberer mit jahrzehntelanger Erfahrung – die Reise deines Charakters beginnt hier.
 

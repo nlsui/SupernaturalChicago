@@ -1,6 +1,6 @@
 # [Name des NSC]
 
-> Gegenstück in: `PublicKnowledge/07-Freund-und-Feind/Nicht-Spiele-Charaktere/[Name].md`
+> Gegenstück in: `Spieler-Wissen/07-Freund-und-Feind/Nicht-Spiele-Charaktere/[Name].md`
 > Entdeckt in Sitzung: [Nr.]
 
 ## Erscheinung

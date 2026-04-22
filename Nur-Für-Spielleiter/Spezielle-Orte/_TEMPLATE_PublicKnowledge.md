@@ -1,6 +1,6 @@
 # [Name des Ortes]
 
-> Gegenstück in: `PublicKnowledge/03-Geografie/Spezielle-Orte/[Name].md`
+> Gegenstück in: `Spieler-Wissen/03-Geografie/Spezielle-Orte/[Name].md`
 > Entdeckt in Sitzung: [Nr.]
 
 ## Lage
