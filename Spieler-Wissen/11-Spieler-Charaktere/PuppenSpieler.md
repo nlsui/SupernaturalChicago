@@ -1,9 +1,10 @@
-# Charakter – Nach den Vampirkriegen
+# Jimmy Proton – Nach den Vampirkriegen
 
 ## Grundinformationen
 
 | Eigenschaft | Wert |
 |-------------|------|
+| Name | Jimmy Proton |
 | Spezies | Mensch |
 | Beruf | Mechaniker |
 | Alter | 26 |
@@ -17,7 +18,7 @@
 
 ### Basisfertigkeiten
 
-Der Charakter ist besonders gut in:
+Jimmy ist besonders gut in:
 
 - **Wahrnehmung** – nimmt seine Umgebung sehr aufmerksam wahr
 - **Willenskraft** – mental belastbar und schwer zu brechen
@@ -56,11 +57,16 @@ Der Charakter ist besonders gut in:
 
 ## Hintergrund
 
-> *Work in Progress*
+Jimmys Familie betrieb einst einen Spielzeugherstellerbetrieb, verlor diesen jedoch an die **Familie Ravensburg**. Die Ravensburgs sind seitdem Rivalen.
+
+### Leidenschaften
+
+- **Liebt:** Kunst
+- **Hasst:** Kapitalismus
 
 ### Bekannte Personen
 
 | Name | Beziehung |
 |------|-----------|
 | Magischer Meister | Freund |
-| Spielwarenhersteller #1 | Feind |
+| Familie Ravensburg | Rivalen |
